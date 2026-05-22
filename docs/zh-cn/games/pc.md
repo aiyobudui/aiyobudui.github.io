@@ -71,6 +71,14 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《地狱黑杰克（Black Jacket）》v0.1.0.222 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c3a6a10ffebe
+
+#### 《失落余烬：重燃版（LOST EMBER Rekindled Edition）》v1.11.1.22169 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/63f8f006f768
+
 #### 《符文之骰（Rune Dice）》v1.0.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d519cf76b003
