@@ -42,6 +42,12 @@
 
 ## 已完结的
 
+#### 《安多 星球大战外传》（2022-2025）1-2季全 4K+1080P 中字（第一季有国语配音）
+
+夸克：https://pan.quark.cn/s/424f05799b45
+
+迅雷：https://pan.xunlei.com/s/VOtEbDYkZJoJwE1Bx1a0Nx3xA1?pwd=wr9t#
+
 #### 《继承之战》（2018-2023）1-4季全 蓝光1080P 内封中字
 
 夸克：https://pan.quark.cn/s/0c5f5c9cf193

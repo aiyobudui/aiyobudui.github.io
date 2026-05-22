@@ -93,27 +93,27 @@
 
 夸克：https://pan.quark.cn/s/33f2a6c7843f
 
-#### 《海参大作战（NAMAKORIUM）支持者版》v1.0.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a3fe442e261c
-
-迅雷：https://pan.xunlei.com/s/VOszf4nC8ssFNYgHqt7uBQeDA1?pwd=hu8d#
-
-#### 《真探3 （Case Cracker 3）》Build 23230846 中文版
-#### 《真探2 （Case Cracker 2）》Build.14462404 中文版
-#### 《真探 （Case Cracker）》v1.1.1 中文版
-
-夸克：https://pan.quark.cn/s/55be4234011a
-
 ---
 
 ## 最近更新
+
+#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.5.107738 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《极乐迪斯科 - 最终剪辑版（Disco Elysium - The Final Cut）》Build.23241660 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d029a2082f79
 
 #### 《深海迷航2：异星水域（Subnautica 2）》v0.10.1-113933 中文 联机版
 #### 《深海迷航（Subnautica）终极收藏版》v82304 中文版
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
 
 夸克：https://pan.quark.cn/s/68a01dbea110
+
+#### 《地铁模拟2（SubwaySim 2）》v2840 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/77479313af08
 
 #### 《突袭5（Sudden Strike 5）豪华版》v1.03.28630 全DLC 中文 联机版
 
@@ -144,42 +144,6 @@
 #### 《圣杯誓约（Sworn）》v1.2.0.0.1220 中文 联机版
 
 夸克：https://pan.quark.cn/s/e4be77dbb052
-
-#### 《星空（Starfield）高级版》v1.16.242.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5758eeac553a
-
-迅雷：https://pan.xunlei.com/s/VNy6HXv_Pqnb2KGS1cQqAoxYA1?pwd=ujx3#
-
-#### 《漫威宇宙入侵（MARVEL Cosmic Invasion）》v1.0.0.13170 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/2ffb58818955
-
-迅雷：https://pan.xunlei.com/s/VOt2_CEV8HtRvAxRWQUhQBLoA1?pwd=kczx#
-
-#### 《小小书店（Tiny Bookshop）》v1.1.6 中文版（模拟经营）
-
-夸克：https://pan.quark.cn/s/2c157e143ecc
-
-#### 《兔子与钢铁（Rabbit and Steel）》v2.0.2.7 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/3520ffa6be87
-
-#### 《阿喀琉斯：幸存者（Achilles Survivor）》v1.5.14085 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/576d87afdf01
-
-#### 《魔鸡马奇克2（Machick 2）》v1.1.8 中文版
-
-夸克：https://pan.quark.cn/s/aa6ebc0e322f
-
-#### 《铁骑少女（Cavalry Girls）》v2.6.2801 全DLC 中文版（FPS射击游戏）
-
-夸克：https://pan.quark.cn/s/00d69b1cfd42
-
-#### 《金田一耕助系列 本阵杀人事件（Kindaichi Mystery Series The Honjin Murders）》Build.18989803 中文版
-
-夸克：https://pan.quark.cn/s/750572f0934b
 
 ---
 
@@ -357,6 +321,54 @@
 ---
 
 ## 已有游戏
+
+#### 《海参大作战（NAMAKORIUM）支持者版》v1.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a3fe442e261c
+
+迅雷：https://pan.xunlei.com/s/VOszf4nC8ssFNYgHqt7uBQeDA1?pwd=hu8d#
+
+#### 《真探3 （Case Cracker 3）》Build 23230846 中文版
+#### 《真探2 （Case Cracker 2）》Build.14462404 中文版
+#### 《真探 （Case Cracker）》v1.1.1 中文版
+
+夸克：https://pan.quark.cn/s/55be4234011a
+
+#### 《星空（Starfield）高级版》v1.16.242.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5758eeac553a
+
+迅雷：https://pan.xunlei.com/s/VNy6HXv_Pqnb2KGS1cQqAoxYA1?pwd=ujx3#
+
+#### 《漫威宇宙入侵（MARVEL Cosmic Invasion）》v1.0.0.13170 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2ffb58818955
+
+迅雷：https://pan.xunlei.com/s/VOt2_CEV8HtRvAxRWQUhQBLoA1?pwd=kczx#
+
+#### 《小小书店（Tiny Bookshop）》v1.1.6 中文版（模拟经营）
+
+夸克：https://pan.quark.cn/s/2c157e143ecc
+
+#### 《兔子与钢铁（Rabbit and Steel）》v2.0.2.7 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/3520ffa6be87
+
+#### 《阿喀琉斯：幸存者（Achilles Survivor）》v1.5.14085 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/576d87afdf01
+
+#### 《魔鸡马奇克2（Machick 2）》v1.1.8 中文版
+
+夸克：https://pan.quark.cn/s/aa6ebc0e322f
+
+#### 《铁骑少女（Cavalry Girls）》v2.6.2801 全DLC 中文版（FPS射击游戏）
+
+夸克：https://pan.quark.cn/s/00d69b1cfd42
+
+#### 《金田一耕助系列 本阵杀人事件（Kindaichi Mystery Series The Honjin Murders）》Build.18989803 中文版
+
+夸克：https://pan.quark.cn/s/750572f0934b
 
 #### 《满是猫的大楼2（A Building Full of Cats 2）》v2026.5.13 中文版（绘本找猫小游戏）
 
@@ -1273,10 +1285,6 @@
 
 夸克：https://pan.quark.cn/s/e94f2405371f
 
-#### 《极乐迪斯科 - 最终剪辑版（Disco Elysium - The Final Cut）》v2026.4.15 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d029a2082f79
-
 #### 《林中小女巫（Little Witch in the Woods）》v6.1.6.0 中文版
 
 夸克：https://pan.quark.cn/s/88dfa7a0455d
@@ -2133,10 +2141,6 @@
 #### 《饿狼传说 群狼之城（FATAL FURY City of the Wolves）》v1.8.0 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/8edad4bbd88e
-
-#### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/2ce76d085b7c
 
 #### 《零世代（Generation Zero）》v2921874 全DLC 中文 联机版
 
@@ -5860,10 +5864,6 @@
 #### 《Nova Lands》v1.1.18 中文版 （诺娃之岛 新星群岛）
 
 夸克：https://pan.quark.cn/s/3d629a462cee
-
-#### 《地铁模拟2（SubwaySim 2）》v2350 中文版
-
-夸克：https://pan.quark.cn/s/77479313af08
 
 #### 《死于后室异常（Dead by Backrooms Anomaly）》v2025.8.10 中文版
 

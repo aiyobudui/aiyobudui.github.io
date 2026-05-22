@@ -223,9 +223,9 @@
 
 阿里：<https://www.alipan.com/s/4K5vWy1Kn1R>
 
-#### 《蝙蝠侠黑暗骑士 三部曲》蓝光 4K HDR 中英配音 特效中英字幕
+#### 《蝙蝠侠黑暗骑士 三部曲 诺兰导演》（2005-2012）蓝光 4K HDR 中英配音 特效中英字幕（蝙蝠侠系列9部）
 
-夸克：<https://pan.quark.cn/s/4a0b8420ae24>
+夸克：<https://pan.quark.cn/s/8802c654b8e3>
 
 迅雷：<https://pan.xunlei.com/s/VNxw6AsbPp1MiVwtEv1GZ8P5A1?pwd=ykw8#>
 
@@ -946,3 +946,9 @@
 迅雷：<https://pan.xunlei.com/s/VNqutDAE3yLKwLkgu7W0QvA_A1?pwd=g578#>
 
 百度：<https://pan.baidu.com/s/1rlgpECxRCu_KQ_rWU-VMxA?pwd=0000>
+
+#### 《追龙》（2017-2023）1-3部合集 1080P 国粤语配音
+
+夸克：https://pan.quark.cn/s/a1bb67bb72bf
+
+迅雷：https://pan.xunlei.com/s/VOtEeHrtOW_pyV8nIZx8Zay9A1?pwd=u24b#
