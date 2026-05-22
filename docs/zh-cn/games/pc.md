@@ -71,6 +71,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《夜勤人2：无尽宝库（Moonlighter 2 The Endless Vault）》v0.19.26.12 中文版
+
+夸克：https://pan.quark.cn/s/956877640a56
+
 #### 《核心元素（ELEX）》v1.0.2981.0 中文版
 #### 《核心元素2（ELEX 2）》v1.05c 中文版
 

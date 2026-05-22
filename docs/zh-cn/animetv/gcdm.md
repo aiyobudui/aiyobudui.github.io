@@ -147,7 +147,7 @@
 
 迅雷：https://pan.xunlei.com/s/VOsIIrKKJj-8EUh4KI3Ih8HWA1?pwd=cs4v#
 
-#### 《永生》（2022-2026）4K 第5季 更新中..（附1-4季）
+#### 《永生》（2022-2026）4K 第6季 更新中..（附1-5季）
 
 夸克：https://pan.quark.cn/s/5001f1390a28
 

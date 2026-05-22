@@ -18,6 +18,14 @@
 
 ---
 
+#### 《湄公河行动》（2016）4K
+
+夸克：https://pan.quark.cn/s/ff673feb68b8
+
+#### 《红海行动》（2018）蓝光1080P 未删减版
+
+夸克：https://pan.quark.cn/s/d561f5f87b15
+
 #### 《大法官金斯伯格 RBG》（2018）蓝光1080P 内封中字（9.5分 传记）
 
 夸克：https://pan.quark.cn/s/c9ee9b10f4ab
