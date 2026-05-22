@@ -71,6 +71,32 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《咖啡心语 东京（Coffee Talk Tokyo）》v1.0.3 中文版
+#### 《咖啡心语第二集：洛神花与蝴蝶（Coffee Talk Episode 2 Hibiscus & Butterfly）》v1.22 中文版
+#### 《咖啡心语（Coffee Talk）》v1.61 中文版
+
+夸克：https://pan.quark.cn/s/a52a54605e54
+
+#### 《电玩大亨：肉鸽模拟器（GameStonk Simulator）豪华版》v1.0.295 中文版
+
+夸克：https://pan.quark.cn/s/5159881d57fb
+
+#### 《圣符国度：数字第五版（Talisman Digital 5th Edition）》BUILD.86596 中文版
+
+夸克：https://pan.quark.cn/s/227084804ac3
+
+#### 《诗篇2（Psalm 2）》v1.0 中文版（心理恐怖游戏）
+
+夸克：https://pan.quark.cn/s/0c049fc7fa3a
+
+#### 《自然守护者（The Guardian of Nature）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/aad877668ccf
+
+#### 《月之深渊（Luna Abyss）》Build.1292 中文版
+
+夸克：https://pan.quark.cn/s/f6bcfe0afd8e
+
 #### 《夜勤人2：无尽宝库（Moonlighter 2 The Endless Vault）》v0.19.26.12 中文版
 
 夸克：https://pan.quark.cn/s/956877640a56
@@ -117,6 +143,10 @@
 #### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.5.107738 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《阿兹特克：最后的太阳（Aztecs The Last Sun）支持者版》v2026.5.22 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/35e5a936e15a
 
 #### 《极乐迪斯科 - 最终剪辑版（Disco Elysium - The Final Cut）》Build.23241660 全DLC 中文版
 
@@ -4719,10 +4749,6 @@
 #### 《死亡日：狂杀末路（Deadly Days Roadtrip）》v0.14.7 中文版
 
 夸克：https://pan.quark.cn/s/8c416e2735d2
-
-#### 《阿兹特克：最后的太阳（Aztecs The Last Sun）支持者版》v2025.9.24 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/35e5a936e15a
 
 #### 《工匠秘境（Crafter's Hollow）》v2025.9.24 中文版
 
@@ -12384,10 +12410,6 @@
 #### 《逃生 系列合集（Outlast）》2部 最新 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/44cf713ec036
-
-#### 《咖啡心语 系列合集（Coffee Talk）》2部 最新 中文版
-
-夸克：https://pan.quark.cn/s/a52a54605e54
 
 #### 《霸王：地狱重生 + 霸王2 系列合集（Overlord）》2部 最新 汉化版
 

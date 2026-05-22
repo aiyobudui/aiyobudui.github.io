@@ -14,7 +14,7 @@
   手机端打开链接保存获取**1T容量**：https://pan.quark.cn/s/78b837bcdd7f
 
 ?> **禁用"虚拟化安全组件"会对"电脑安全"造成哪些影响**
-[*👉点击链接进入安全提示文档👈*](https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY?opennew=1&p=vWsLTEndG7nIs6PXVeDyKT&client_hint=0)  
+[*👉点击进入文档查看👈*](https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY?opennew=1&p=vWsLTEndG7nIs6PXVeDyKT&client_hint=0)  
 可 ”一键禁用“ 和 ”一键还原“ 虚拟化的设置，认真阅读游戏中的说明  
 
 ?>**为什么要虚拟化？**  
@@ -23,6 +23,14 @@
 ---
 
 ## 已有游戏
+
+#### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.21891774 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/64f0b5deb517
+
+#### 《第一狂战士：卡赞（The First Berserker Khazan）豪华版》Build.22579715 中文版
+
+夸克：https://pan.quark.cn/s/bba1c6a244ac
 
 #### 《双点博物馆（Two Point Museum）豪华版》v8.0.216267 全DLC 中文版
 
