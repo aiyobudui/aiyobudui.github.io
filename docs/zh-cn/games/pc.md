@@ -71,6 +71,11 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《核心元素（ELEX）》v1.0.2981.0 中文版
+#### 《核心元素2（ELEX 2）》v1.05c 中文版
+
+夸克：https://pan.quark.cn/s/bb1f79be4d6a
+
 #### 《地狱黑杰克（Black Jacket）》v0.1.0.222 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/c3a6a10ffebe
