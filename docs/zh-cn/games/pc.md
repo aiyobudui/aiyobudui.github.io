@@ -71,6 +71,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《符文之骰（Rune Dice）》v1.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d519cf76b003
+
 #### 《Bylina》v2026.5.19 中文版
 
 夸克：https://pan.quark.cn/s/9bea13975877
