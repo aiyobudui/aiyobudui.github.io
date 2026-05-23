@@ -17,6 +17,12 @@
 
 ## 正在更新中的...
 
+#### 《良陈美锦》（2026）4K 40集全
+
+夸克：https://pan.quark.cn/s/7c1aac1b032d
+
+迅雷：https://pan.xunlei.com/s/VOtHtUwxaa2HnGIwxRpXKowTA1?pwd=b3qk#
+
 #### 《低智商犯罪》（2026）4K 24集全
 
 夸克：https://pan.quark.cn/s/bfef4535eb35

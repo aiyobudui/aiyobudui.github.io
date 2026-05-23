@@ -50,6 +50,14 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《乐高蝙蝠侠：黑暗骑士之遗（LEGO Batman Legacy of the Dark Knight）豪华版》Build.23222834 全DLC 中文版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/a2aefb92edd7
+
+#### 《四海兄弟：故乡（Mafia The Old Country）豪华版》Build.20951841 全DLC 中文版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/8d5f644b18f5
+
 #### 《极限竞速：地平线6（Forza Horizon 6）》v360.259 全DLC 中文 联机版
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 
@@ -57,11 +65,11 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
-#### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版（非虚拟化版本）
+#### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/020b7323c7a6
 
-#### 《黑神话：悟空（Black Myth Wukong）豪华版》v1.0.21.23831 中文版（非虚拟化版本）
+#### 《黑神话：悟空（Black Myth Wukong）豪华版》v1.0.21.23831 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/9aa9720dd675
 
@@ -70,6 +78,14 @@
 夸克：https://pan.quark.cn/s/245d4d2967f0
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
+
+#### 《迷失之刃（Stray Blade）》Build.12682948 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ef86f36d5628
+
+#### 《终极时代（Ultra Age）》Build.10247356 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/950f26ac74e6
 
 #### 《咖啡心语 东京（Coffee Talk Tokyo）》v1.0.3 中文版
 #### 《咖啡心语第二集：洛神花与蝴蝶（Coffee Talk Episode 2 Hibiscus & Butterfly）》v1.22 中文版
