@@ -24,6 +24,10 @@
 
 ## 已有游戏
 
+#### 《凯蒂猫岛屿冒险（hello kitty island adventure）》v2.13.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/fe31badceec2
+
 #### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.21891774 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/64f0b5deb517

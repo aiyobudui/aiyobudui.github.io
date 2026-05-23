@@ -50,7 +50,7 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
-#### 《乐高蝙蝠侠：黑暗骑士之遗（LEGO Batman Legacy of the Dark Knight）豪华版》Build.23222834 全DLC 中文版（非虚拟化）
+#### 《乐高蝙蝠侠：黑暗骑士之遗（LEGO Batman Legacy of the Dark Knight）豪华版》v2026.5.23 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/a2aefb92edd7
 
@@ -156,6 +156,12 @@
 
 ## 最近更新
 
+#### 《深海迷航2：异星水域（Subnautica 2）》v0.10.1-114707 中文 联机版
+#### 《深海迷航（Subnautica）终极收藏版》v82304 中文版
+#### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
+
+夸克：https://pan.quark.cn/s/68a01dbea110
+
 #### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.5.107738 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/2ce76d085b7c
@@ -167,12 +173,6 @@
 #### 《极乐迪斯科 - 最终剪辑版（Disco Elysium - The Final Cut）》Build.23241660 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d029a2082f79
-
-#### 《深海迷航2：异星水域（Subnautica 2）》v0.10.1-113933 中文 联机版
-#### 《深海迷航（Subnautica）终极收藏版》v82304 中文版
-#### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
-
-夸克：https://pan.quark.cn/s/68a01dbea110
 
 #### 《地铁模拟2（SubwaySim 2）》v2840 全DLC 中文版
 
