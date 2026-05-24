@@ -79,78 +79,46 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
-#### 《迷失之刃（Stray Blade）》Build.12682948 全DLC 中文版
+#### 《迷雾计划（Project Mist）》v0.1.K_2984 中文 联机版（恐怖游戏）
 
-夸克：https://pan.quark.cn/s/ef86f36d5628
+夸克：https://pan.quark.cn/s/720836545507
 
-#### 《终极时代（Ultra Age）》Build.10247356 全DLC 中文版
+#### 《拉斯维加斯模拟器（The House Always Wins）豪华版》v1.0 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/950f26ac74e6
+夸克：https://pan.quark.cn/s/26d23e8db0a0
 
-#### 《咖啡心语 东京（Coffee Talk Tokyo）》v1.0.3 中文版
-#### 《咖啡心语第二集：洛神花与蝴蝶（Coffee Talk Episode 2 Hibiscus & Butterfly）》v1.22 中文版
-#### 《咖啡心语（Coffee Talk）》v1.61 中文版
+#### 《安尼姆的无尽旅途（Dongwu Odyssey）》v2026.5.23 中文版
 
-夸克：https://pan.quark.cn/s/a52a54605e54
+夸克：https://pan.quark.cn/s/4f78fd634721
 
-#### 《电玩大亨：肉鸽模拟器（GameStonk Simulator）豪华版》v1.0.295 中文版
+迅雷：https://pan.xunlei.com/s/VOtOn-EgjtaudN70tet4L191A1?pwd=gqp8#
 
-夸克：https://pan.quark.cn/s/5159881d57fb
+#### 《腾兽：蜂拥之群（Temtem Swarm）》v1.0.9 中文版
 
-#### 《圣符国度：数字第五版（Talisman Digital 5th Edition）》BUILD.86596 中文版
+夸克：https://pan.quark.cn/s/30c449c5d12b
 
-夸克：https://pan.quark.cn/s/227084804ac3
+迅雷：https://pan.xunlei.com/s/VOtOjhajigBVra7bQlA81ei3A1?pwd=3ymk#
 
-#### 《诗篇2（Psalm 2）》v1.0 中文版（心理恐怖游戏）
+#### 《翻转世界（Overthrown）》v2026.3.26 中文 联机版
 
-夸克：https://pan.quark.cn/s/0c049fc7fa3a
+夸克：https://pan.quark.cn/s/4e69d9526279
 
-#### 《自然守护者（The Guardian of Nature）》v1.2.0 中文版
+#### 《淘淘旧货铺（Thrifty Business）》v1.0.3259 中文版
 
-夸克：https://pan.quark.cn/s/aad877668ccf
+夸克：https://pan.quark.cn/s/e3ac71553246
 
-#### 《月之深渊（Luna Abyss）》Build.1292 中文版
+迅雷：https://pan.xunlei.com/s/VOtOeIF3YIJsvBE2QXMp2h2fA1?pwd=x8y4#
 
-夸克：https://pan.quark.cn/s/f6bcfe0afd8e
+#### 《零售地狱（Retail Hell）》v1.1.8 中文版
 
-#### 《夜勤人2：无尽宝库（Moonlighter 2 The Endless Vault）》v0.19.26.12 中文版
+夸克：https://pan.quark.cn/s/0e5b3795fcf1
 
-夸克：https://pan.quark.cn/s/956877640a56
+迅雷：https://pan.xunlei.com/s/VOtOcK0r4Wy9WJv6bWn23G8WA1?pwd=g4rt#
 
-#### 《核心元素（ELEX）》v1.0.2981.0 中文版
-#### 《核心元素2（ELEX 2）》v1.05c 中文版
+#### 《一起玩农场（Farm Together）》v2022.8.23 全DLC 中文 联机版
+#### 《一起玩农场2（Farm Together 2）》v270 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/bb1f79be4d6a
-
-#### 《地狱黑杰克（Black Jacket）》v0.1.0.222 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c3a6a10ffebe
-
-#### 《失落余烬：重燃版（LOST EMBER Rekindled Edition）》v1.11.1.22169 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/63f8f006f768
-
-#### 《符文之骰（Rune Dice）》v1.0.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d519cf76b003
-
-#### 《Bylina》v2026.5.19 中文版
-
-夸克：https://pan.quark.cn/s/9bea13975877
-
-#### 《男神模拟器（Mr Right Simulator）》Build.23269762 中文版（真人互动影游）
-
-夸克：https://pan.quark.cn/s/450ef65b1140
-
-#### 《毁灭全人类（Destroy All Humans）》v1.0.2550 全DLC 中文版
-#### 《毁灭全人类2：重新探测（Destroy All Humans 2 Reprobed）》v1.0.713 中文 联机版（可同屏游玩）
-#### 《毁灭全人类：克隆人（Destroy All Humans Clone Carnage）》v1.0.11341 中文 联机版（只能分屏或联机）
-
-夸克：https://pan.quark.cn/s/8a389cc89740
-
-#### 《代号三国：龙起（The Three Kingdoms Rebirth）》Build.22973501 中文版（真人互动影游）
-
-夸克：https://pan.quark.cn/s/33f2a6c7843f
+夸克：https://pan.quark.cn/s/2f8ffe329c9b
 
 ---
 
@@ -161,6 +129,20 @@
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
 
 夸克：https://pan.quark.cn/s/68a01dbea110
+
+#### 《钢铁巨像 机甲觉醒（Gigantes Ex Machina）》v0.2 中文版
+
+夸克：https://pan.quark.cn/s/31dc994a760c
+
+#### 《指环王：夏尔传说（Tales of the Shire A The Lord of The Rings Game）》v1.0.2.1 中文版（种田钓鱼做饭）
+
+夸克：https://pan.quark.cn/s/791504d6fd8b
+
+#### 《工业巨头（Captain of Industry）支持者版》v0.8.4b 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/243d699415ff
+
+迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
 
 #### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.5.107738 全DLC 中文 联机版（新增DLC）
 
@@ -384,6 +366,71 @@
 ---
 
 ## 已有游戏
+
+#### 《迷失之刃（Stray Blade）》Build.12682948 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ef86f36d5628
+
+#### 《终极时代（Ultra Age）》Build.10247356 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/950f26ac74e6
+
+#### 《咖啡心语 东京（Coffee Talk Tokyo）》v1.0.3 中文版
+#### 《咖啡心语第二集：洛神花与蝴蝶（Coffee Talk Episode 2 Hibiscus & Butterfly）》v1.22 中文版
+#### 《咖啡心语（Coffee Talk）》v1.61 中文版
+
+夸克：https://pan.quark.cn/s/a52a54605e54
+
+#### 《电玩大亨：肉鸽模拟器（GameStonk Simulator）豪华版》v1.0.295 中文版
+
+夸克：https://pan.quark.cn/s/5159881d57fb
+
+#### 《圣符国度：数字第五版（Talisman Digital 5th Edition）》BUILD.86596 中文版
+
+夸克：https://pan.quark.cn/s/227084804ac3
+
+#### 《诗篇2（Psalm 2）》v1.0 中文版（心理恐怖游戏）
+
+夸克：https://pan.quark.cn/s/0c049fc7fa3a
+
+#### 《自然守护者（The Guardian of Nature）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/aad877668ccf
+
+#### 《月之深渊（Luna Abyss）》Build.1292 中文版
+
+夸克：https://pan.quark.cn/s/f6bcfe0afd8e
+
+#### 《夜勤人2：无尽宝库（Moonlighter 2 The Endless Vault）》v0.19.26.12 中文版
+
+夸克：https://pan.quark.cn/s/956877640a56
+
+#### 《核心元素（ELEX）》v1.0.2981.0 中文版
+#### 《核心元素2（ELEX 2）》v1.05c 中文版
+
+夸克：https://pan.quark.cn/s/bb1f79be4d6a
+
+#### 《地狱黑杰克（Black Jacket）》v0.1.0.222 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c3a6a10ffebe
+
+#### 《失落余烬：重燃版（LOST EMBER Rekindled Edition）》v1.11.1.22169 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/63f8f006f768
+
+#### 《符文之骰（Rune Dice）》v1.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d519cf76b003
+
+#### 《Bylina》v2026.5.19 中文版
+
+夸克：https://pan.quark.cn/s/9bea13975877
+
+#### 《毁灭全人类（Destroy All Humans）》v1.0.2550 全DLC 中文版
+#### 《毁灭全人类2：重新探测（Destroy All Humans 2 Reprobed）》v1.0.713 中文 联机版（可同屏游玩）
+#### 《毁灭全人类：克隆人（Destroy All Humans Clone Carnage）》v1.0.11341 中文 联机版（只能分屏或联机）
+
+夸克：https://pan.quark.cn/s/8a389cc89740
 
 #### 《海参大作战（NAMAKORIUM）支持者版》v1.0.0 全DLC 中文版
 
@@ -2305,12 +2352,6 @@
 
 迅雷：https://pan.xunlei.com/s/VO2PzE-FDmJg-0GgQhQUAGzxA1?pwd=bys5#
 
-#### 《工业巨头（Captain of Industry）支持者版》v0.7.9a 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/243d699415ff
-
-迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
-
 #### 《德军总部：旧血脉（Wolfenstein The Old Blood）》v1.0 汉化版
 #### 《德军总部：新秩序（Wolfenstein The New Order）》v1.0.0.2 hotfix 全DLC 中文版
 #### 《德军总部：新血脉（Wolfenstein Youngblood）豪华版》Build.11991189 全DLC 中文版
@@ -2607,10 +2648,6 @@
 #### 《Worldwide Rush》v1.2.8 中文版（全球范围的客运和管理模拟游戏）
 
 夸克：https://pan.quark.cn/s/2b1b93d16875
-
-#### 《一起玩农场2（Farm Together 2）》v270 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/2f8ffe329c9b
 
 #### 《英灵神殿（Valheim）》v0.221.10  中文 联机版
 
@@ -5856,10 +5893,6 @@
 
 夸克：https://pan.quark.cn/s/c2e398fe7afa
 
-#### 《钢铁巨像 机甲觉醒（Gigantes Ex Machina）》v0.1 中文版
-
-夸克：https://pan.quark.cn/s/31dc994a760c
-
 #### 《迷途猫的奇妙旅行（Whisker Wanderlust The Wondrous Journey）》v2025.8.13 中文版
 
 夸克：https://pan.quark.cn/s/6f1f375d6a3d
@@ -6097,10 +6130,6 @@
 #### 《影子工厂（Impostor Factory）》Build.13170346 中文版
 
 夸克：https://pan.quark.cn/s/df49aa73052c
-
-#### 《指环王：夏尔传说（Tales of the Shire A The Lord of The Rings Game）》v2025.7.30 中文版（种田钓鱼做饭）
-
-夸克：https://pan.quark.cn/s/791504d6fd8b
 
 #### 《埃里克斯霍姆：被偷走的梦（Eriksholm The Stolen Dream）》v1.3 中文版
 
@@ -12138,6 +12167,14 @@
 ---
 ## 互动影游
 > 靠前的是新添加的
+
+#### 《男神模拟器（Mr Right Simulator）》Build.23269762 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/450ef65b1140
+
+#### 《代号三国：龙起（The Three Kingdoms Rebirth）》Build.22973501 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/33f2a6c7843f
 
 #### 《心之岛（Island of Hearts）》Build.22634882 中文版（真人互动影游）
 

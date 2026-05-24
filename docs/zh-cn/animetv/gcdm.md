@@ -65,6 +65,10 @@
 
 ## 周三
 
+#### 《全职法师》 （2016-2026）4K 第7季更新中..（附1-6季+特别篇+漫画）
+
+夸克：https://pan.quark.cn/s/a511122bd652
+
 #### 《紫川》（2021-2025）4K 周三 更新中..
 
 夸克：https://pan.quark.cn/s/7915edbcba01
@@ -72,12 +76,6 @@
 ---
 
 ## 周四
-
-#### 《剑来》（2024-2026）4K 1-2季全  附：电子书+有声书
-
-夸克：https://pan.quark.cn/s/429f96ee0a0f
-
-迅雷：https://pan.xunlei.com/s/VO4LkndfUJ5GLndTbtPAHy7SA1?pwd=rh7r#
 
 #### 《神印王座》（2024）4K 周四 更新中..
 
@@ -181,6 +179,18 @@
 
 ## 暂时完结
 
+#### 《星辰变》（2018-2025）4K 1-7季全
+
+夸克：https://pan.quark.cn/s/6723d755291a
+
+迅雷：https://pan.xunlei.com/s/VNnmA01B3ia4pn2Zv4UbCHDnA1?pwd=hkma#
+
+#### 《剑来》（2024-2026）4K 1-2季全（附：电子书+有声书）
+
+夸克：https://pan.quark.cn/s/429f96ee0a0f
+
+迅雷：https://pan.xunlei.com/s/VO4LkndfUJ5GLndTbtPAHy7SA1?pwd=rh7r#
+
 #### 《凌天独尊》（2025）4K 60集全
 
 夸克：https://pan.quark.cn/s/57432651d755
@@ -274,12 +284,6 @@
 #### 《灵笼》（2019-2025）4K 1-2季全（附原声带）
 
 夸克：https://pan.quark.cn/s/6a0d5b3cafad
-
-#### 《星辰变》（2018-2025）4K 1-6季全
-
-夸克：https://pan.quark.cn/s/6723d755291a
-
-迅雷：https://pan.xunlei.com/s/VNnmA01B3ia4pn2Zv4UbCHDnA1?pwd=hkma#
 
 #### 《那年那兔那些事》1-7季全+番外
 

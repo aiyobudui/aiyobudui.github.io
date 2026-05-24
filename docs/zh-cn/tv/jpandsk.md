@@ -230,7 +230,13 @@
 
 迅雷：https://pan.xunlei.com/s/VO4PKMRIEoyDmkY1BRPsaRRgA1?pwd=f2z2#
 
-#### 《机智医生生活》（2020-2021）4K 1-2季全 韩语中字
+#### 《机智牢房生活》（2017）1080P 中字 16季全
+
+夸克：https://pan.quark.cn/s/b915f96e6f61
+
+迅雷：https://pan.xunlei.com/s/VOtOa9ihGRzg3h-gUUcSEk0zA1?pwd=2u9n#
+
+#### 《机智医生生活》（2020-2021）4K 中字  1-2季全
 
 夸克：https://pan.quark.cn/s/89b1ff62d544
 
@@ -640,7 +646,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNvLptJJChviLdHkOVP2OVKyA1?pwd=qtfh#
 
-#### 校对女孩河野悦子（2016）1080P 全10集 日语中字
+#### 《校对女孩河野悦子》（2016）1080P 中字 10集全
 
 夸克：https://pan.quark.cn/s/c28a4dc54b7a
 
