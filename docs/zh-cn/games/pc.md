@@ -79,6 +79,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《铸造厂（FOUNDRY）》v0.6.0.26518 中文 联机版
+
+夸克：https://pan.quark.cn/s/c5704a2be3f8
+
 #### 《小眷灵 (Tinykin)》v1.1.0 中文版
 
 夸克：https://pan.quark.cn/s/3165d2bd27cc
