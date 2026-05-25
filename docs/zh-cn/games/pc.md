@@ -79,6 +79,18 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《平行人生（Paralives）》v0.1.1.19867 中文版
+
+夸克：https://pan.quark.cn/s/16795f17858e
+
+#### 《屠夫（Butcherman）》v2025.5.26 中文版（心理恐怖游戏）
+
+夸克：https://pan.quark.cn/s/367ea722f612
+
+#### 《虚妄之盒（Cubic Cosmos）》v1.0.3 中文版（肉鸽卡牌）
+
+夸克：https://pan.quark.cn/s/977986fef094
+
 #### 《铸造厂（FOUNDRY）》v0.6.0.26518 中文 联机版
 
 夸克：https://pan.quark.cn/s/c5704a2be3f8
