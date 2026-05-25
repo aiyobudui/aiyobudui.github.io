@@ -79,6 +79,38 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《小眷灵 (Tinykin)》v1.1.0 中文版
+
+夸克：https://pan.quark.cn/s/3165d2bd27cc
+
+#### 《教室（The Classrooms）》v0.8.4.724 中文版（生存恐怖游戏）
+
+夸克：https://pan.quark.cn/s/cfa9493b8afa
+
+#### 《Dark Light Survivor》v1.1.05192117 中文版（肉鸽生存）
+
+夸克：https://pan.quark.cn/s/0e32fd71020d
+
+#### 《英灵殿之子（Sons of Valhalla）》v1.0.29 中文版
+
+夸克：https://pan.quark.cn/s/0a1247fd01a2
+
+#### 《星火燎原（SPARK IGNITES）》v0.3.0.3 中文版
+
+夸克：https://pan.quark.cn/s/06ff61051155
+
+#### 《Better than Dead》v0.195 中文版（香港街巷残酷FPS）
+
+夸克：https://pan.quark.cn/s/f20915f2b389
+
+#### 《Gamble With Your Friends》v1.0.11 汉化 联机版（与朋友一起赌博）
+
+夸克：https://pan.quark.cn/s/4d80fc1f0ee1
+
+#### 《深岩银河：异动核心（Deep Rock Galactic Rogue Core）支持者版》v0.4.143145.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/3ef7d395e397
+
 #### 《迷雾计划（Project Mist）》v0.1.K_2984 中文 联机版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/720836545507
@@ -130,6 +162,26 @@
 
 夸克：https://pan.quark.cn/s/68a01dbea110
 
+#### 《喵喵的结合（Mewgenics）》v1.1.21039 汉化版
+
+夸克：https://pan.quark.cn/s/9754a267780a
+
+迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
+
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.106.0 中文 联机版（附第1部+安卓版）
+
+夸克：https://pan.quark.cn/s/4a575dc211fc
+
+迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
+
+#### 《风中行者（Windblown）》v0.9.4.1 中文 联机版
+
+夸克：https://pan.quark.cn/s/d0bc0bde2671
+
+#### 《灰烬之国（Cinderia）》v0.6.7b 中文版
+
+夸克：https://pan.quark.cn/s/42b5d468a537
+
 #### 《钢铁巨像 机甲觉醒（Gigantes Ex Machina）》v0.2 中文版
 
 夸克：https://pan.quark.cn/s/31dc994a760c
@@ -143,6 +195,12 @@
 夸克：https://pan.quark.cn/s/243d699415ff
 
 迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
+
+#### 《中国式网游（Chinese Online Game）》V1.4.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5f4f5c6d82b4
+
+迅雷：https://pan.xunlei.com/s/VO2Ib0UQY5q7IyM8GfZJZdciA1?pwd=8ynb#
 
 #### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.5.107738 全DLC 中文 联机版（新增DLC）
 
@@ -745,12 +803,6 @@
 夸克：https://pan.quark.cn/s/c42507f81cff
 
 迅雷：https://pan.xunlei.com/s/VNw04l4vfz6guXqO8J148A1-A1?pwd=h5v6#
-
-#### 《杀戮尖塔2（Slay the Spire 2）》v0.105.0b 中文 联机版（附第1部+安卓版）
-
-夸克：https://pan.quark.cn/s/4a575dc211fc
-
-迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
 #### 《最后纪元（Last Epoch）豪华版》v1.4.6 中文版
 
@@ -1469,10 +1521,6 @@
 
 夸克：https://pan.quark.cn/s/3b6d91696349
 
-#### 《灰烬之国（Cinderia）》v0.6.4 中文版
-
-夸克：https://pan.quark.cn/s/42b5d468a537
-
 #### 《格里米斯工匠（The Artisan of Glimmith）》v2026.4.5 中文版
 
 夸克：https://pan.quark.cn/s/652c377a01c3
@@ -1744,12 +1792,6 @@
 #### 《犯罪现场清洁工（Crime Scene Cleaner）》v4.0.0c 中文版
 
 夸克：https://pan.quark.cn/s/54fab26752d3
-
-#### 《喵喵的结合（Mewgenics）》v1.0.20932 汉化版
-
-夸克：https://pan.quark.cn/s/9754a267780a
-
-迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
 
 #### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》v0.70.1中文版
 
@@ -3660,10 +3702,6 @@
 #### 《我的小柯基（My Little Puppy）》v1.0.2517 中文版（关于死亡来世的温情故事游戏）
 
 夸克：https://pan.quark.cn/s/ae859e640ad1
-
-#### 《风中行者（Windblown）》v0.7.1.9 中文 联机版
-
-夸克：https://pan.quark.cn/s/d0bc0bde2671
 
 #### 《最远的边陲（Farthest Frontier）》v1.0.4 中文版
 
@@ -9059,12 +9097,6 @@
 #### 《穹顶守护者（Dome Keeper）》v4.2.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/099ef5e23e49
-
-#### 《中国式网游（Chinese Online Game）》V1.26 全DLC 豪华中文版 新增彩票系统DLC
-
-夸克：https://pan.quark.cn/s/5f4f5c6d82b4
-
-迅雷：https://pan.xunlei.com/s/VO2Ib0UQY5q7IyM8GfZJZdciA1?pwd=8ynb#
 
 #### 《抓抓地牢（Dungeon Clawler）》v0.6.2 中文版
 

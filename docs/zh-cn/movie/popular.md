@@ -21,6 +21,12 @@
 
 **靠前的是最新添加的**
 
+#### 《呼啸山庄》（2026）4K 中英字幕
+
+夸克：https://pan.quark.cn/s/b904475320e1
+
+迅雷：https://pan.xunlei.com/s/VOtT4KbO_BbEDxiKkRBbBRHqA1?pwd=w5i5#
+
 #### 《地球特派员》（2026）4K HDR 国英台音配 中字（动画电影）
 
 夸克：https://pan.quark.cn/s/949c35e265b3

@@ -64,7 +64,7 @@
 
 夸克：https://pan.quark.cn/s/e259cd42aebf
 
-#### 《女神异闻录3 Reload（Persona 3 Reload）豪华版》v1.11 全DLC 中文版（P3R）
+#### 《女神异闻录3 Reload（Persona 3 Reload）豪华版》v1.11 全DLC 中文版（女神异闻录3重制版 P3R）
 
 夸克：https://pan.quark.cn/s/e07e7b793ab8
 
