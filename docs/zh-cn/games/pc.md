@@ -172,6 +172,10 @@
 
 ## 最近更新
 
+#### 《人渣（SCUM）豪华版》v1.3.0.0.117753 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/e1be35435129
+
 #### 《深海迷航2：异星水域（Subnautica 2）》v0.10.1-114707 中文 联机版
 #### 《深海迷航（Subnautica）终极收藏版》v82304 中文版
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
@@ -2621,10 +2625,6 @@
 #### 《移形换位（Shift Happens）》v1.2 中文 联机版
 
 夸克：https://pan.quark.cn/s/31b2ef0bb7aa
-
-#### 《人渣（SCUM）豪华版》v1.2.0.6.104952 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/e1be35435129
 
 #### 《丧尸围城 豪华复刻版（Dead Rising Deluxe Remaster）》v1.3.0.0 全DLC 中文版
 #### 《丧尸围城2 绝密档案 （Dead Rising 2 Off the Record）》v623585 全DLC 汉化版
