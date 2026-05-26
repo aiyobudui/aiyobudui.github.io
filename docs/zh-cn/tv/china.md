@@ -17,6 +17,12 @@
 
 ## 正在更新中的...
 
+#### 《主角》（2026）4K 48集 更新..
+
+夸克：https://pan.quark.cn/s/994b934efd52
+
+迅雷：https://pan.xunlei.com/s/VOtYARECecm2i7yFAnw9SNe8A1?pwd=texp#
+
 #### 《良陈美锦》（2026）4K 40集全
 
 夸克：https://pan.quark.cn/s/7c1aac1b032d
