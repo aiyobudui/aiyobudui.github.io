@@ -79,6 +79,38 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《罗马拓荒录（Romestead）》v0.25.1.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/035afe8e9933
+
+#### 《Serpent's Gaze》v1.0.14927 中文 联机版（组队魂系肉鸽 蛇之凝视）
+
+夸克：https://pan.quark.cn/s/e071e01f179d
+
+#### 《Project Hunt 猎人的收藏版》v2026.5.25 全DLC 中文版（狩猎计划）
+
+夸克：https://pan.quark.cn/s/127d72f8d8ce
+
+#### 《Life Below》v1.0.0w 全DLC 中文版（水下生命 水下世界）
+
+夸克：https://pan.quark.cn/s/652f5719dfbb
+
+#### 《元素重铸（Elemental Reforged）》v1.1 CL61448 全DLC 中文版（策略游戏）
+
+夸克：https://pan.quark.cn/s/7fdc402bbca7
+
+#### 《随机鼠（Randomice）》v5.1.7.2 中文版
+
+夸克：https://pan.quark.cn/s/e69536c5571d
+
+#### 《遥远行星：建造师（Astrobuilder）》v2026.5.26 中文版
+
+夸克：https://pan.quark.cn/s/8b5444cc74b0
+
+#### 《Deep Corp》v2026.5.26 中文版
+
+夸克：https://pan.quark.cn/s/bab2b5ee80e3
+
 #### 《平行人生（Paralives）》v0.1.1.19867 中文版
 
 夸克：https://pan.quark.cn/s/16795f17858e
@@ -181,6 +213,10 @@
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
 
 夸克：https://pan.quark.cn/s/68a01dbea110
+
+#### 《自在城镇（Town To City）》v1.0-10230 中文版
+
+夸克：https://pan.quark.cn/s/f7a7740b9c92
 
 #### 《喵喵的结合（Mewgenics）》v1.1.21039 汉化版
 
@@ -4162,10 +4198,6 @@
 #### 《武装突袭 重铸者（Arma Reforger）豪华版》v1.4.0.55 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/1dca1aede3e0
-
-#### 《自在城镇（Town To City）》v0.1.4 中文版
-
-夸克：https://pan.quark.cn/s/f7a7740b9c92
 
 #### 《狭间骑士（Knights in Tight Spaces）典藏版》v1.2.19667 全DLC 中文版
 

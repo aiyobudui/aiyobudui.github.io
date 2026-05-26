@@ -17,12 +17,6 @@
 
 ## 正在更新中的...
 
-#### 《仙剑奇侠传叁 动画版》（2026）4K 26集 更新中..（仙剑奇侠传3 仙剑奇侠传三）
-
-夸克：https://pan.quark.cn/s/b6794c5ea3e6
-
-迅雷：https://pan.xunlei.com/s/VOtZmnum8ylOW1_esVtHFESQA1?pwd=hx3f#
-
 #### 《主角》（2026）4K 48集 更新中..
 
 夸克：https://pan.quark.cn/s/994b934efd52
