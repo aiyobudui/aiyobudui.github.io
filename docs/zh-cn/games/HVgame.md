@@ -24,6 +24,10 @@
 
 ## 已有游戏
 
+#### 《007初露锋芒（007 First Light）》Build.23388781 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5d2d74be4eca
+
 #### 《街头霸王6 年度1-2 战士版（Street Fighter 6）》v2.0201.000 全DLC 中文版（街霸6）
 
 夸克：https://pan.quark.cn/s/91c3e87c9ded

@@ -79,6 +79,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《歧路旅人0（OCTOPATH TRAVELER 0）》v1.0.7.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2efdda311702
+
 #### 《罗马拓荒录（Romestead）》v0.25.1.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/035afe8e9933
