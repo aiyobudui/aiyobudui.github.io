@@ -51,8 +51,17 @@
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
 #### 《乐高蝙蝠侠：黑暗骑士之遗（LEGO Batman Legacy of the Dark Knight）豪华版》v2026.5.23 全DLC 中文版（非虚拟化）
+#### 《乐高星球大战：天行者传奇（LEGO Star Wars The Skywalker Saga）豪华版》Build.11152800 全DLC 中文版
+#### 《乐高漫威超级英雄2（LEGO Marvel Super Heroes 2）》v1.0.0.20065 全DLC 中文版
+#### 《乐高漫威超级英雄（LEGO Marvel Super Heroes）》v1.0.0.48513 全DLC 汉化中文版
+#### 《乐高哈利波特合集（LEGO Harry Potter Collection）重制版》Build.15890240 全DLC 中文版
+#### 《乐高派对（LEGO Party）》v1.4.3 全DLC 中文版
+#### 《乐高航海家（LEGO Voyagers）》v2025.9.15 中文版（可本地双人游玩）
+#### 《乐高世界（LEGO Worlds）》v2019.11.23中文 联机版
+#### 《乐高旋风忍者大电影》Build.78560 中文版
+#### 《乐高 地平线大冒险（LEGO Horizon Adventures）》v1.3.0.0 豪华中文版
 
-夸克：https://pan.quark.cn/s/a2aefb92edd7
+夸克：https://pan.quark.cn/s/3951186af176
 
 #### 《四海兄弟：故乡（Mafia The Old Country）豪华版》Build.20951841 全DLC 中文版（非虚拟化）
 
@@ -79,9 +88,21 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
-#### 《歧路旅人0（OCTOPATH TRAVELER 0）》v1.0.7.0 全DLC 中文版
+#### 《歧路旅人0（OCTOPATH TRAVELER 0）》v1.0.7.0 全DLC 中文版（PC版）
 
 夸克：https://pan.quark.cn/s/2efdda311702
+
+#### 《芳草地（Yerba Buena）》v2026.5.27 中文版
+
+夸克：https://pan.quark.cn/s/c59fa95a40eb
+
+#### 《流明物语：特雷的回忆（LumenTale Memories of Trey）》v1.0.0.0.1281 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2ef2b84f25f2
+
+#### 《矮人吞山（Dwarf Eat Mountain）》v1.0.0.9a 中文版
+
+夸克：https://pan.quark.cn/s/f9f28bb0a2f6
 
 #### 《罗马拓荒录（Romestead）》v0.25.1.0 中文 联机版
 
@@ -135,75 +156,6 @@
 
 夸克：https://pan.quark.cn/s/3165d2bd27cc
 
-#### 《教室（The Classrooms）》v0.8.4.724 中文版（生存恐怖游戏）
-
-夸克：https://pan.quark.cn/s/cfa9493b8afa
-
-#### 《Dark Light Survivor》v1.1.05192117 中文版（肉鸽生存）
-
-夸克：https://pan.quark.cn/s/0e32fd71020d
-
-#### 《英灵殿之子（Sons of Valhalla）》v1.0.29 中文版
-
-夸克：https://pan.quark.cn/s/0a1247fd01a2
-
-#### 《星火燎原（SPARK IGNITES）》v0.3.0.3 中文版
-
-夸克：https://pan.quark.cn/s/06ff61051155
-
-#### 《Better than Dead》v0.195 中文版（香港街巷残酷FPS）
-
-夸克：https://pan.quark.cn/s/f20915f2b389
-
-#### 《Gamble With Your Friends》v1.0.11 汉化 联机版（与朋友一起赌博）
-
-夸克：https://pan.quark.cn/s/4d80fc1f0ee1
-
-#### 《深岩银河：异动核心（Deep Rock Galactic Rogue Core）支持者版》v0.4.143145.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/3ef7d395e397
-
-#### 《迷雾计划（Project Mist）》v0.1.K_2984 中文 联机版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/720836545507
-
-#### 《拉斯维加斯模拟器（The House Always Wins）豪华版》v1.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/26d23e8db0a0
-
-#### 《安尼姆的无尽旅途（Dongwu Odyssey）》v2026.5.23 中文版
-
-夸克：https://pan.quark.cn/s/4f78fd634721
-
-迅雷：https://pan.xunlei.com/s/VOtOn-EgjtaudN70tet4L191A1?pwd=gqp8#
-
-#### 《腾兽：蜂拥之群（Temtem Swarm）》v1.0.9 中文版
-
-夸克：https://pan.quark.cn/s/30c449c5d12b
-
-迅雷：https://pan.xunlei.com/s/VOtOjhajigBVra7bQlA81ei3A1?pwd=3ymk#
-
-#### 《翻转世界（Overthrown）》v2026.3.26 中文 联机版
-
-夸克：https://pan.quark.cn/s/4e69d9526279
-
-#### 《淘淘旧货铺（Thrifty Business）》v1.0.3259 中文版
-
-夸克：https://pan.quark.cn/s/e3ac71553246
-
-迅雷：https://pan.xunlei.com/s/VOtOeIF3YIJsvBE2QXMp2h2fA1?pwd=x8y4#
-
-#### 《零售地狱（Retail Hell）》v1.1.8 中文版
-
-夸克：https://pan.quark.cn/s/0e5b3795fcf1
-
-迅雷：https://pan.xunlei.com/s/VOtOcK0r4Wy9WJv6bWn23G8WA1?pwd=g4rt#
-
-#### 《一起玩农场（Farm Together）》v2022.8.23 全DLC 中文 联机版
-#### 《一起玩农场2（Farm Together 2）》v270 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/2f8ffe329c9b
-
 ---
 
 ## 最近更新
@@ -217,6 +169,10 @@
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
 
 夸克：https://pan.quark.cn/s/68a01dbea110
+
+#### 《九球轮盘赌（Nine-Ball Roulette）》v1.1.5 中文 联机版
+
+夸克：https://pan.quark.cn/s/e4a3fe0257c4
 
 #### 《自在城镇（Town To City）》v1.0-10230 中文版
 
@@ -250,63 +206,11 @@
 
 夸克：https://pan.quark.cn/s/791504d6fd8b
 
-#### 《工业巨头（Captain of Industry）支持者版》v0.8.4b 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/243d699415ff
-
-迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
-
 #### 《中国式网游（Chinese Online Game）》V1.4.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5f4f5c6d82b4
 
 迅雷：https://pan.xunlei.com/s/VO2Ib0UQY5q7IyM8GfZJZdciA1?pwd=8ynb#
-
-#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.5.107738 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/2ce76d085b7c
-
-#### 《阿兹特克：最后的太阳（Aztecs The Last Sun）支持者版》v2026.5.22 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/35e5a936e15a
-
-#### 《极乐迪斯科 - 最终剪辑版（Disco Elysium - The Final Cut）》Build.23241660 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d029a2082f79
-
-#### 《地铁模拟2（SubwaySim 2）》v2840 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/77479313af08
-
-#### 《突袭5（Sudden Strike 5）豪华版》v1.03.28630 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/075d317d2cc0
-
-#### 《欧陆风云5（Europa Universalis V）高级版》v1.2.4 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/4cb951396b5f
-
-#### 《Trench Tales》v2026.5.20 英文版（战壕传说）哥特风二战射击
-
-夸克：https://pan.quark.cn/s/f07ff67ce6b0
-
-#### 《风马传奇（The Legend of Khiimori）》v0.8.4 中文版（古蒙古开放世界、养马、送信）
-
-夸克：https://pan.quark.cn/s/68a5c2635a39
-
-#### 《美国卡车模拟（American Truck Simulator）高级版》v1.59.2.0s 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/b7c28d5b7861
-
-迅雷：https://pan.xunlei.com/s/VNytlxE8Cdcop3newiJvbDroA1?pwd=rzhu#
-
-#### 《孤山独影（cairn）》v1.1.393s 全DLC 中文版（生存攀岩游戏）
-
-夸克：https://pan.quark.cn/s/d565f18acf15
-
-#### 《圣杯誓约（Sworn）》v1.2.0.0.1220 中文 联机版
-
-夸克：https://pan.quark.cn/s/e4be77dbb052
 
 ---
 
@@ -484,6 +388,127 @@
 ---
 
 ## 已有游戏
+
+#### 《工业巨头（Captain of Industry）支持者版》v0.8.4b 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/243d699415ff
+
+迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
+
+#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.5.107738 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《阿兹特克：最后的太阳（Aztecs The Last Sun）支持者版》v2026.5.22 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/35e5a936e15a
+
+#### 《极乐迪斯科 - 最终剪辑版（Disco Elysium - The Final Cut）》Build.23241660 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d029a2082f79
+
+#### 《地铁模拟2（SubwaySim 2）》v2840 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/77479313af08
+
+#### 《突袭5（Sudden Strike 5）豪华版》v1.03.28630 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/075d317d2cc0
+
+#### 《欧陆风云5（Europa Universalis V）高级版》v1.2.4 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4cb951396b5f
+
+#### 《Trench Tales》v2026.5.20 英文版（战壕传说）哥特风二战射击
+
+夸克：https://pan.quark.cn/s/f07ff67ce6b0
+
+#### 《风马传奇（The Legend of Khiimori）》v0.8.4 中文版（古蒙古开放世界、养马、送信）
+
+夸克：https://pan.quark.cn/s/68a5c2635a39
+
+#### 《美国卡车模拟（American Truck Simulator）高级版》v1.59.2.0s 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b7c28d5b7861
+
+迅雷：https://pan.xunlei.com/s/VNytlxE8Cdcop3newiJvbDroA1?pwd=rzhu#
+
+#### 《孤山独影（cairn）》v1.1.393s 全DLC 中文版（生存攀岩游戏）
+
+夸克：https://pan.quark.cn/s/d565f18acf15
+
+#### 《圣杯誓约（Sworn）》v1.2.0.0.1220 中文 联机版
+
+夸克：https://pan.quark.cn/s/e4be77dbb052
+
+#### 《教室（The Classrooms）》v0.8.4.724 中文版（生存恐怖游戏）
+
+夸克：https://pan.quark.cn/s/cfa9493b8afa
+
+#### 《Dark Light Survivor》v1.1.05192117 中文版（肉鸽生存）
+
+夸克：https://pan.quark.cn/s/0e32fd71020d
+
+#### 《英灵殿之子（Sons of Valhalla）》v1.0.29 中文版
+
+夸克：https://pan.quark.cn/s/0a1247fd01a2
+
+#### 《星火燎原（SPARK IGNITES）》v0.3.0.3 中文版
+
+夸克：https://pan.quark.cn/s/06ff61051155
+
+#### 《Better than Dead》v0.195 中文版（香港街巷残酷FPS）
+
+夸克：https://pan.quark.cn/s/f20915f2b389
+
+#### 《Gamble With Your Friends》v1.0.11 汉化 联机版（与朋友一起赌博）
+
+夸克：https://pan.quark.cn/s/4d80fc1f0ee1
+
+#### 《深岩银河：异动核心（Deep Rock Galactic Rogue Core）支持者版》v0.4.143145.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/3ef7d395e397
+
+#### 《迷雾计划（Project Mist）》v0.1.K_2984 中文 联机版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/720836545507
+
+#### 《拉斯维加斯模拟器（The House Always Wins）豪华版》v1.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/26d23e8db0a0
+
+#### 《安尼姆的无尽旅途（Dongwu Odyssey）》v2026.5.23 中文版
+
+夸克：https://pan.quark.cn/s/4f78fd634721
+
+迅雷：https://pan.xunlei.com/s/VOtOn-EgjtaudN70tet4L191A1?pwd=gqp8#
+
+#### 《腾兽：蜂拥之群（Temtem Swarm）》v1.0.9 中文版
+
+夸克：https://pan.quark.cn/s/30c449c5d12b
+
+迅雷：https://pan.xunlei.com/s/VOtOjhajigBVra7bQlA81ei3A1?pwd=3ymk#
+
+#### 《翻转世界（Overthrown）》v2026.3.26 中文 联机版
+
+夸克：https://pan.quark.cn/s/4e69d9526279
+
+#### 《淘淘旧货铺（Thrifty Business）》v1.0.3259 中文版
+
+夸克：https://pan.quark.cn/s/e3ac71553246
+
+迅雷：https://pan.xunlei.com/s/VOtOeIF3YIJsvBE2QXMp2h2fA1?pwd=x8y4#
+
+#### 《零售地狱（Retail Hell）》v1.1.8 中文版
+
+夸克：https://pan.quark.cn/s/0e5b3795fcf1
+
+迅雷：https://pan.xunlei.com/s/VOtOcK0r4Wy9WJv6bWn23G8WA1?pwd=g4rt#
+
+#### 《一起玩农场（Farm Together）》v2022.8.23 全DLC 中文 联机版
+#### 《一起玩农场2（Farm Together 2）》v270 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/2f8ffe329c9b
 
 #### 《迷失之刃（Stray Blade）》Build.12682948 全DLC 中文版
 
@@ -1647,10 +1672,6 @@
 夸克：https://pan.quark.cn/s/9c1147b7ac79
 
 迅雷：https://pan.xunlei.com/s/VNudY1SUMO36N9TX9pNUGRgXA1?pwd=28c7#
-
-#### 《乐高派对（LEGO Party）》v1.4.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4121807d67f4
 
 #### 《终落之城（All Will Fall）》v1.0.9f1 中文版
 
@@ -5117,10 +5138,6 @@
 
 夸克：https://pan.quark.cn/s/342bc5125d38
 
-#### 《乐高航海家（LEGO Voyagers）》v2025.9.15 中文版（可本地双人游玩）
-
-夸克：https://pan.quark.cn/s/35147a6d8e50
-
 #### 《TDS Tower Defense Strategy》v2025.5.26 中文版（策略塔防）
 
 夸克：https://pan.quark.cn/s/20b0797d8def
@@ -7830,10 +7847,6 @@
 
 夸克：https://pan.quark.cn/s/fa783e1b98b5
 
-#### 《乐高世界（LEGO Worlds）》v2019.11.23中文 联机版
-
-夸克：https://pan.quark.cn/s/e46d0a6f613b
-
 #### 《White Knuckle》v0.42d 中文汉化版（白指关节？跑酷游戏）
 
 夸克：https://pan.quark.cn/s/747daacee0b8
@@ -8028,10 +8041,6 @@
 
 夸克：https://pan.quark.cn/s/99a2e47fc7bb
 
-#### 《乐高旋风忍者大电影》Build.78560 中文版
-
-夸克：https://pan.quark.cn/s/49584d412ca0
-
 #### 《红弦俱乐部（The Red Strings Club）》v20180122 中文版
 
 夸克：https://pan.quark.cn/s/f4a161677a03
@@ -8173,10 +8182,6 @@
 #### 《丧尸卡牌（ZombieCards）》v2025.3.22 中文版
 
 夸克：https://pan.quark.cn/s/65c90891f420
-
-#### 《九球轮盘赌（Nine-Ball Roulette）》v0.7.21 中文 联机版
-
-夸克：https://pan.quark.cn/s/e4a3fe0257c4
 
 #### 《摩托GP 24（MotoGP24）》v20250227 全DLC 中文版
 
@@ -9230,10 +9235,6 @@
 
 夸克：https://pan.quark.cn/s/b42f03f19926
 
-#### 《乐高 地平线大冒险（LEGO Horizon Adventures）》v1.3.0.0 豪华中文版
-
-夸克：https://pan.quark.cn/s/82ec4a73833e
-
 #### 《师父（SIFU）》v1.28.6.720 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/b0c0c562009d
@@ -9879,14 +9880,6 @@
 #### 《蓝精灵：梦境冒险 (The Smurfs：Dreams)）》v0.0.17 2DLC 中文版
 
 夸克：https://pan.quark.cn/s/21ef2f0dbd30
-
-#### 《乐高漫威超级英雄2（LEGO Marvel Super Heroes 2）》v1.0.0.20065 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/f9401cff649c
-
-#### 《乐高漫威超级英雄（LEGO Marvel Super Heroes）》v1.0.0.48513 全DLC 汉化中文版
-
-夸克：https://pan.quark.cn/s/3951186af176
 
 #### 《小小大车间（Little Big Workshop）》v2.0.14042 全DLC 中文版
 

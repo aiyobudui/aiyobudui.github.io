@@ -24,14 +24,6 @@
 
 ## 正在更新中的..
 
-#### 《黑袍纠察队》（2019-2026）4K HDR 1-5季全+劣迹
-
-夸克：https://pan.quark.cn/s/59cd609144bf
-
-迅雷：https://pan.xunlei.com/s/VNlUWpDtVO9u4b8BblSnaltZA1?pwd=xkq9#
-
-阿里：<https://www.aliyundrive.com/s/yYcpkVP3aYw>
-
 #### 《亢奋》（2019-2022）1080P 第三季 更新中..（附1-2季全+特别篇）
 
 夸克：https://pan.quark.cn/s/4522695a8c08
@@ -41,6 +33,18 @@
 ---
 
 ## 已完结的
+
+#### 《暗影蜘蛛侠》（2026）1080P 中字 黑白+彩色版
+
+夸克：https://pan.quark.cn/s/47624d9d36e2
+
+#### 《黑袍纠察队》（2019-2026）4K HDR 1-5季全+劣迹
+
+夸克：https://pan.quark.cn/s/59cd609144bf
+
+迅雷：https://pan.xunlei.com/s/VNlUWpDtVO9u4b8BblSnaltZA1?pwd=xkq9#
+
+阿里：<https://www.aliyundrive.com/s/yYcpkVP3aYw>
 
 #### 《反派 Heels》（2021-2023）1080P 中字 1-2季全（又名 卑鄙小人）
 
