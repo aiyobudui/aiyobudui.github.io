@@ -28,6 +28,14 @@
 
 夸克：https://pan.quark.cn/s/5d2d74be4eca
 
+#### 《无主之地4（Borderlands 4）超级豪华版》v1.5.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ed1b0b512903
+
+#### 《龙之信条2（Dragon's Dogma 2）豪华版》v3.002.000 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d262b60662fd
+
 #### 《街头霸王6 年度1-2 战士版（Street Fighter 6）》v2.0201.000 全DLC 中文版（街霸6）
 
 夸克：https://pan.quark.cn/s/91c3e87c9ded

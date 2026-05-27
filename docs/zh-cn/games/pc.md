@@ -170,6 +170,10 @@
 
 夸克：https://pan.quark.cn/s/68a01dbea110
 
+#### 《帕格尼物语（Pioneers of Pagonia）》v1.3.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5f6e98ee44a0
+
 #### 《九球轮盘赌（Nine-Ball Roulette）》v1.1.5 中文 联机版
 
 夸克：https://pan.quark.cn/s/e4a3fe0257c4
@@ -177,6 +181,10 @@
 #### 《自在城镇（Town To City）》v1.0-10230 中文版
 
 夸克：https://pan.quark.cn/s/f7a7740b9c92
+
+#### 《终末机兵（NITRO GEN）OMEGA）》v1.2.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4a99ffe1a8dc
 
 #### 《喵喵的结合（Mewgenics）》v1.1.21039 汉化版
 
@@ -3374,10 +3382,6 @@
 
 夸克：https://pan.quark.cn/s/fdb300c860c5
 
-#### 《帕格尼物语（Pioneers of Pagonia）》v1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/5f6e98ee44a0
-
 #### 《征服之歌（Songs of Conquest）完全版》v1.8.1 全DLC 中文版（回合制策略）
 
 夸克：https://pan.quark.cn/s/e53b0330c930
@@ -6269,10 +6273,6 @@
 #### 《TOGETHER BnB》v03.4 中文版（恋爱经营）
 
 夸克：https://pan.quark.cn/s/05308a8bb9cc
-
-#### 《终末机兵（NITRO GEN）OMEGA）》v2025.7.28 中文版
-
-夸克：https://pan.quark.cn/s/4a99ffe1a8dc
 
 #### 《石河伦吾的朋友们（The friends of Ringo Ishikawa）》Build.17529737 中文版
 
