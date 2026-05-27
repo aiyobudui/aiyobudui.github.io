@@ -59,7 +59,7 @@
 #### 《乐高航海家（LEGO Voyagers）》v2025.9.15 中文版（可本地双人游玩）
 #### 《乐高世界（LEGO Worlds）》v2019.11.23中文 联机版
 #### 《乐高旋风忍者大电影》Build.78560 中文版
-#### 《乐高 地平线大冒险（LEGO Horizon Adventures）》v1.3.0.0 豪华中文版
+#### 《乐高地平线大冒险（LEGO Horizon Adventures）豪华版》v1.3.0.0 中文版
 
 夸克：https://pan.quark.cn/s/3951186af176
 
