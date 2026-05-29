@@ -81,13 +81,17 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
-#### 《漫威复仇者（Marvel's Avengers）终结版》v2.8.2.0 全DLC 中文配音版（漫威复仇者联盟）
+#### 《星尘轨迹：魔女之愿（STARDUST Wish of Witch）》v2026.5.30 中文版
 
-夸克：https://pan.quark.cn/s/03087d00c29d
+夸克：https://pan.quark.cn/s/1dd930d3a4d2
 
 #### 《归零巡礼：亡谍镇魂曲（ZERO PARADES For Dead Spies）》VI.0.36599.K01 中文版
 
 夸克：https://pan.quark.cn/s/31ffbe847fed
+
+#### 《漫威复仇者（Marvel's Avengers）终结版》v2.8.2.0 全DLC 中文配音版（漫威复仇者联盟）
+
+夸克：https://pan.quark.cn/s/03087d00c29d
 
 #### 《歧路旅人0（OCTOPATH TRAVELER 0）》v1.0.7.0 全DLC 中文版（PC版）
 
