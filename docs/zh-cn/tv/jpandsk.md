@@ -262,7 +262,7 @@
 
 #### 《半泽直树》（2013-2020）1080P 高码 中字 1-2季全 + SP
 
-夸克：https://pan.quark.cn/s/03c4c7c46aaa
+夸克：https://pan.quark.cn/s/bbe48eda7104
 
 迅雷：https://pan.xunlei.com/s/VO2wkpPmCnzajjaomRls8ASPA1?pwd=xemy#
 
