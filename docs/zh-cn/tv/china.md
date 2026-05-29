@@ -19,7 +19,7 @@
 
 #### 《主角》（2026）4K 48集 更新中..
 
-夸克：https://pan.quark.cn/s/994b934efd52
+夸克：https://pan.quark.cn/s/c5e0e921366e
 
 迅雷：https://pan.xunlei.com/s/VOtYARECecm2i7yFAnw9SNe8A1?pwd=texp#
 

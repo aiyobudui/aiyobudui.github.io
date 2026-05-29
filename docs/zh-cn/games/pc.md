@@ -85,6 +85,10 @@
 
 夸克：https://pan.quark.cn/s/03087d00c29d
 
+#### 《归零巡礼：亡谍镇魂曲（ZERO PARADES For Dead Spies）》VI.0.36599.K01 中文版
+
+夸克：https://pan.quark.cn/s/31ffbe847fed
+
 #### 《歧路旅人0（OCTOPATH TRAVELER 0）》v1.0.7.0 全DLC 中文版（PC版）
 
 夸克：https://pan.quark.cn/s/2efdda311702
