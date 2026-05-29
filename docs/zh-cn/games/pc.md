@@ -67,13 +67,6 @@
 
 夸克：https://pan.quark.cn/s/8d5f644b18f5
 
-#### 《极限竞速：地平线6（Forza Horizon 6）》v360.259 全DLC 中文 联机版
-#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7c5fdf0323c4
-
-迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
-
 #### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/020b7323c7a6
@@ -87,6 +80,10 @@
 夸克：https://pan.quark.cn/s/245d4d2967f0
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
+
+#### 《漫威复仇者（Marvel's Avengers）终结版》v2.8.2.0 全DLC 中文配音版（漫威复仇者联盟）
+
+夸克：https://pan.quark.cn/s/03087d00c29d
 
 #### 《歧路旅人0（OCTOPATH TRAVELER 0）》v1.0.7.0 全DLC 中文版（PC版）
 
@@ -160,6 +157,13 @@
 
 ## 最近更新
 
+#### 《极限竞速：地平线6（Forza Horizon 6）》v364.933 全DLC 中文 联机版
+#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7c5fdf0323c4
+
+迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
 #### 《人渣（SCUM）豪华版》v1.3.0.0.117753 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/e1be35435129
@@ -173,7 +177,7 @@
 #### 《帕格尼物语（Pioneers of Pagonia）》v1.3.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5f6e98ee44a0
-
+w
 #### 《九球轮盘赌（Nine-Ball Roulette）》v1.1.5 中文 联机版
 
 夸克：https://pan.quark.cn/s/e4a3fe0257c4
