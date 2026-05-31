@@ -68,6 +68,14 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《街头赛车（CarX Street）豪华版》v1.13.0 全DLC 中文版（开放世界赛车）
+
+夸克：https://pan.quark.cn/s/18f6bc9b45ee
+
+#### 《恶魔学园（Demonschool）豪华版》V1.10.29 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b13ee8d7dc36
+
 #### 《小小王国（Tiny Kingdom）》v1.3.7 中文版
 
 夸克：https://pan.quark.cn/s/9d471c0ec40e
@@ -129,11 +137,21 @@
 
 夸克：https://pan.quark.cn/s/e7a38d40056a
 
+#### 《牧场模拟器（Ranch Simulator）》v1.214s 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/53e8ce604ebf
+
+#### 《机战佣兵6 境界天火（ARMORED CORE VI FIRES OF RUBICON）》v1.09.1 全DLC 豪华 中文 联机版（装甲核心6）
+
+夸克：https://pan.quark.cn/s/2e7f9aed5b9a
+
+迅雷：https://pan.xunlei.com/s/VNr-Qh8F3DXLvnKvENpFJt0SA1?pwd=dmhs#
+
 #### 《机甲战魔 神话之裔（Daemon X Machina Titanic Scion）豪华版》v1.2.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/22157231c180
 
-#### 《泡姆泡姆（POPUCOM）》v1.1.2 中文 联机版
+#### 《泡姆泡姆（POPUCOM）》v1.2.0_0511 中文 联机版
 
 夸克：https://pan.quark.cn/s/a5026885fbeb
 
@@ -4758,10 +4776,6 @@ w
 
 夸克：https://pan.quark.cn/s/c755ae397294
 
-#### 《牧场模拟器（Ranch Simulator）》v1.173s 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/53e8ce604ebf
-
 #### 《克苏鲁信徒（Worshippers of Cthulhu）》v1.0.0.3 中文版（新增DLC）
 
 夸克：https://pan.quark.cn/s/423b6f9a51ec
@@ -8224,12 +8238,6 @@ w
 #### 《盗贼之海（Sea Of Thieves）》v2.137.949.0 豪华中文 联机版 附升级补丁
 
 夸克：https://pan.quark.cn/s/4438881a65d7
-
-#### 《机战佣兵6 境界天火（ARMORED CORE VI FIRES OF RUBICON）》v1.08.1 全DLC 豪华 中文 联机版（装甲核心6）
-
-夸克：https://pan.quark.cn/s/2e7f9aed5b9a
-
-迅雷：https://pan.xunlei.com/s/VNr-Qh8F3DXLvnKvENpFJt0SA1?pwd=dmhs#
 
 #### 《波兰球：编年史（Bang on Balls Chronicles）》v1.1.3 中文版
 
