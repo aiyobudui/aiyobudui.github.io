@@ -54,6 +54,10 @@
 
 夸克：https://pan.quark.cn/s/7803702e2dd7
 
+#### 《超级银河战士（密特罗德）（Super Metroid）》最新 汉化版（附sfc模拟器）
+
+夸克：https://pan.quark.cn/s/adfe7068bd2c
+
 #### 《异星探险家  ASTRONEER》v1.40.3.0 NS整合 全DLC 美区中文版
 
 夸克：https://pan.quark.cn/s/e74dfe085cb3
@@ -366,7 +370,7 @@
 
 夸克：https://pan.quark.cn/s/601a22c5b461
 
-#### 《文明7》v1.3.2.1 NS整合 全DLC 中文版
+#### 《文明7》v1.4.0 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/dc3b513887ff
 

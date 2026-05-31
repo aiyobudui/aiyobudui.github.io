@@ -50,19 +50,6 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
-#### 《乐高蝙蝠侠：黑暗骑士之遗（LEGO Batman Legacy of the Dark Knight）豪华版》v2026.5.23 全DLC 中文版（非虚拟化）
-#### 《乐高星球大战：天行者传奇（LEGO Star Wars The Skywalker Saga）豪华版》Build.11152800 全DLC 中文版
-#### 《乐高漫威超级英雄2（LEGO Marvel Super Heroes 2）》v1.0.0.20065 全DLC 中文版
-#### 《乐高漫威超级英雄（LEGO Marvel Super Heroes）》v1.0.0.48513 全DLC 汉化中文版
-#### 《乐高哈利波特合集（LEGO Harry Potter Collection）重制版》Build.15890240 全DLC 中文版
-#### 《乐高派对（LEGO Party）》v1.4.3 全DLC 中文版
-#### 《乐高航海家（LEGO Voyagers）》v2025.9.15 中文版（可本地双人游玩）
-#### 《乐高世界（LEGO Worlds）》v2019.11.23中文 联机版
-#### 《乐高旋风忍者大电影》Build.78560 中文版
-#### 《乐高地平线大冒险（LEGO Horizon Adventures）豪华版》v1.3.0.0 中文版
-
-夸克：https://pan.quark.cn/s/3951186af176
-
 #### 《四海兄弟：故乡（Mafia The Old Country）豪华版》Build.20951841 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/8d5f644b18f5
@@ -80,6 +67,18 @@
 夸克：https://pan.quark.cn/s/245d4d2967f0
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
+
+#### 《小小王国（Tiny Kingdom）》v1.3.7 中文版
+
+夸克：https://pan.quark.cn/s/9d471c0ec40e
+
+#### 《Leaf it Alone》v1.0.16 中文版（落叶清理模拟器）
+
+夸克：https://pan.quark.cn/s/07f679183f33
+
+#### 《Cardburners》v1.0.2 中文版（快节奏卡牌）
+
+夸克：https://pan.quark.cn/s/107cf84cdc82
 
 #### 《星尘轨迹：魔女之愿（STARDUST Wish of Witch）》v2026.5.30 中文版
 
@@ -113,54 +112,6 @@
 
 夸克：https://pan.quark.cn/s/035afe8e9933
 
-#### 《Serpent's Gaze》v1.0.14927 中文 联机版（组队魂系肉鸽 蛇之凝视）
-
-夸克：https://pan.quark.cn/s/e071e01f179d
-
-#### 《Project Hunt 猎人的收藏版》v2026.5.25 全DLC 中文版（狩猎计划）
-
-夸克：https://pan.quark.cn/s/127d72f8d8ce
-
-#### 《Life Below》v1.0.0w 全DLC 中文版（水下生命 水下世界）
-
-夸克：https://pan.quark.cn/s/652f5719dfbb
-
-#### 《元素重铸（Elemental Reforged）》v1.1 CL61448 全DLC 中文版（策略游戏）
-
-夸克：https://pan.quark.cn/s/7fdc402bbca7
-
-#### 《随机鼠（Randomice）》v5.1.7.2 中文版
-
-夸克：https://pan.quark.cn/s/e69536c5571d
-
-#### 《遥远行星：建造师（Astrobuilder）》v2026.5.26 中文版
-
-夸克：https://pan.quark.cn/s/8b5444cc74b0
-
-#### 《Deep Corp》v2026.5.26 中文版
-
-夸克：https://pan.quark.cn/s/bab2b5ee80e3
-
-#### 《平行人生（Paralives）》v0.1.1.19867 中文版
-
-夸克：https://pan.quark.cn/s/16795f17858e
-
-#### 《屠夫（Butcherman）》v2025.5.26 中文版（心理恐怖游戏）
-
-夸克：https://pan.quark.cn/s/367ea722f612
-
-#### 《虚妄之盒（Cubic Cosmos）》v1.0.3 中文版（肉鸽卡牌）
-
-夸克：https://pan.quark.cn/s/977986fef094
-
-#### 《铸造厂（FOUNDRY）》v0.6.0.26518 中文 联机版
-
-夸克：https://pan.quark.cn/s/c5704a2be3f8
-
-#### 《小眷灵 (Tinykin)》v1.1.0 中文版
-
-夸克：https://pan.quark.cn/s/3165d2bd27cc
-
 ---
 
 ## 最近更新
@@ -172,6 +123,24 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《桥梁建筑师3（Poly Bridge 3）》v1.5.13 全DLC 中文版
+#### 《桥梁建筑师2（Poly Bridge 2）》v1.6.3 全DLC 中文版
+#### 《桥梁建筑师（Poly Bridge）》v1.1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e7a38d40056a
+
+#### 《机甲战魔 神话之裔（Daemon X Machina Titanic Scion）豪华版》v1.2.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/22157231c180
+
+#### 《泡姆泡姆（POPUCOM）》v1.1.2 中文 联机版
+
+夸克：https://pan.quark.cn/s/a5026885fbeb
+
+#### 《平行人生（Paralives）》v0.1.2.19939 中文版
+
+夸克：https://pan.quark.cn/s/16795f17858e
+
 #### 《人渣（SCUM）豪华版》v1.3.0.0.117753 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/e1be35435129
@@ -181,56 +150,6 @@
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
 
 夸克：https://pan.quark.cn/s/68a01dbea110
-
-#### 《帕格尼物语（Pioneers of Pagonia）》v1.3.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5f6e98ee44a0
-w
-#### 《九球轮盘赌（Nine-Ball Roulette）》v1.1.5 中文 联机版
-
-夸克：https://pan.quark.cn/s/e4a3fe0257c4
-
-#### 《自在城镇（Town To City）》v1.0-10230 中文版
-
-夸克：https://pan.quark.cn/s/f7a7740b9c92
-
-#### 《终末机兵（NITRO GEN）OMEGA）》v1.2.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4a99ffe1a8dc
-
-#### 《喵喵的结合（Mewgenics）》v1.1.21039 汉化版
-
-夸克：https://pan.quark.cn/s/9754a267780a
-
-迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
-
-#### 《杀戮尖塔2（Slay the Spire 2）》v0.106.0 中文 联机版（附第1部+安卓版）
-
-夸克：https://pan.quark.cn/s/4a575dc211fc
-
-迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
-
-#### 《风中行者（Windblown）》v0.9.4.1 中文 联机版
-
-夸克：https://pan.quark.cn/s/d0bc0bde2671
-
-#### 《灰烬之国（Cinderia）》v0.6.7b 中文版
-
-夸克：https://pan.quark.cn/s/42b5d468a537
-
-#### 《钢铁巨像 机甲觉醒（Gigantes Ex Machina）》v0.2 中文版
-
-夸克：https://pan.quark.cn/s/31dc994a760c
-
-#### 《指环王：夏尔传说（Tales of the Shire A The Lord of The Rings Game）》v1.0.2.1 中文版（种田钓鱼做饭）
-
-夸克：https://pan.quark.cn/s/791504d6fd8b
-
-#### 《中国式网游（Chinese Online Game）》V1.4.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5f4f5c6d82b4
-
-迅雷：https://pan.xunlei.com/s/VO2Ib0UQY5q7IyM8GfZJZdciA1?pwd=8ynb#
 
 ---
 
@@ -408,6 +327,113 @@ w
 ---
 
 ## 已有游戏
+
+#### 《乐高蝙蝠侠：黑暗骑士之遗（LEGO Batman Legacy of the Dark Knight）豪华版》v2026.5.23 全DLC 中文版（非虚拟化）
+#### 《乐高星球大战：天行者传奇（LEGO Star Wars The Skywalker Saga）豪华版》Build.11152800 全DLC 中文版
+#### 《乐高漫威超级英雄2（LEGO Marvel Super Heroes 2）》v1.0.0.20065 全DLC 中文版
+#### 《乐高漫威超级英雄（LEGO Marvel Super Heroes）》v1.0.0.48513 全DLC 汉化中文版
+#### 《乐高哈利波特合集（LEGO Harry Potter Collection）重制版》Build.15890240 全DLC 中文版
+#### 《乐高派对（LEGO Party）》v1.4.3 全DLC 中文版
+#### 《乐高航海家（LEGO Voyagers）》v2025.9.15 中文版（可本地双人游玩）
+#### 《乐高世界（LEGO Worlds）》v2019.11.23中文 联机版
+#### 《乐高旋风忍者大电影》Build.78560 中文版
+#### 《乐高地平线大冒险（LEGO Horizon Adventures）豪华版》v1.3.0.0 中文版
+
+夸克：https://pan.quark.cn/s/3951186af176
+
+#### 《Serpent's Gaze》v1.0.14927 中文 联机版（组队魂系肉鸽 蛇之凝视）
+
+夸克：https://pan.quark.cn/s/e071e01f179d
+
+#### 《Project Hunt 猎人的收藏版》v2026.5.25 全DLC 中文版（狩猎计划）
+
+夸克：https://pan.quark.cn/s/127d72f8d8ce
+
+#### 《Life Below》v1.0.0w 全DLC 中文版（水下生命 水下世界）
+
+夸克：https://pan.quark.cn/s/652f5719dfbb
+
+#### 《元素重铸（Elemental Reforged）》v1.1 CL61448 全DLC 中文版（策略游戏）
+
+夸克：https://pan.quark.cn/s/7fdc402bbca7
+
+#### 《随机鼠（Randomice）》v5.1.7.2 中文版
+
+夸克：https://pan.quark.cn/s/e69536c5571d
+
+#### 《遥远行星：建造师（Astrobuilder）》v2026.5.26 中文版
+
+夸克：https://pan.quark.cn/s/8b5444cc74b0
+
+#### 《Deep Corp》v2026.5.26 中文版
+
+夸克：https://pan.quark.cn/s/bab2b5ee80e3
+
+#### 《屠夫（Butcherman）》v2025.5.26 中文版（心理恐怖游戏）
+
+夸克：https://pan.quark.cn/s/367ea722f612
+
+#### 《虚妄之盒（Cubic Cosmos）》v1.0.3 中文版（肉鸽卡牌）
+
+夸克：https://pan.quark.cn/s/977986fef094
+
+#### 《铸造厂（FOUNDRY）》v0.6.0.26518 中文 联机版
+
+夸克：https://pan.quark.cn/s/c5704a2be3f8
+
+#### 《小眷灵 (Tinykin)》v1.1.0 中文版
+
+夸克：https://pan.quark.cn/s/3165d2bd27cc
+
+#### 《帕格尼物语（Pioneers of Pagonia）》v1.3.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5f6e98ee44a0
+w
+#### 《九球轮盘赌（Nine-Ball Roulette）》v1.1.5 中文 联机版
+
+夸克：https://pan.quark.cn/s/e4a3fe0257c4
+
+#### 《自在城镇（Town To City）》v1.0-10230 中文版
+
+夸克：https://pan.quark.cn/s/f7a7740b9c92
+
+#### 《终末机兵（NITRO GEN）OMEGA）》v1.2.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4a99ffe1a8dc
+
+#### 《喵喵的结合（Mewgenics）》v1.1.21039 汉化版
+
+夸克：https://pan.quark.cn/s/9754a267780a
+
+迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
+
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.106.0 中文 联机版（附第1部+安卓版）
+
+夸克：https://pan.quark.cn/s/4a575dc211fc
+
+迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
+
+#### 《风中行者（Windblown）》v0.9.4.1 中文 联机版
+
+夸克：https://pan.quark.cn/s/d0bc0bde2671
+
+#### 《灰烬之国（Cinderia）》v0.6.7b 中文版
+
+夸克：https://pan.quark.cn/s/42b5d468a537
+
+#### 《钢铁巨像 机甲觉醒（Gigantes Ex Machina）》v0.2 中文版
+
+夸克：https://pan.quark.cn/s/31dc994a760c
+
+#### 《指环王：夏尔传说（Tales of the Shire A The Lord of The Rings Game）》v1.0.2.1 中文版（种田钓鱼做饭）
+
+夸克：https://pan.quark.cn/s/791504d6fd8b
+
+#### 《中国式网游（Chinese Online Game）》V1.4.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5f4f5c6d82b4
+
+迅雷：https://pan.xunlei.com/s/VO2Ib0UQY5q7IyM8GfZJZdciA1?pwd=8ynb#
 
 #### 《工业巨头（Captain of Industry）支持者版》v0.8.4b 全DLC 中文版
 
@@ -931,7 +957,7 @@ w
 
 夸克：https://pan.quark.cn/s/0269e5852063
 
-#### 《饥荒（Dont Starve Together）》v726875 全DLC 中文 联机版（软件联机）
+#### 《饥荒（Dont Starve Together）》v726875 全DLC 中文 联机版（软件联机 附安卓版）
 
 夸克：https://pan.quark.cn/s/cbadff66e8dc
 
@@ -3530,10 +3556,6 @@ w
 
 夸克：https://pan.quark.cn/s/d7f5075eafc7
 
-#### 《桥梁建筑师 系列合集（Poly Bridge）》3部 最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e7a38d40056a
-
 #### 《浣币模拟器（Cash Cleaner Simulator）》v1.3.1.643 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7f01eae4ce9f
@@ -4679,10 +4701,6 @@ w
 #### 《大锻造师（Medieval Crafter Blacksmith）》v0.1.16 中文版
 
 夸克：https://pan.quark.cn/s/7d096c7ec47c
-
-#### 《机甲战魔 神话之裔（Daemon X Machina Titanic Scion）豪华版》v1.1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/22157231c180
 
 #### 《战争机器：重装上阵（Gears of War Reloaded）》v1.0.1.3816947 中文版（经典重制）
 
@@ -6972,10 +6990,6 @@ w
 #### 《墨水一族（Inkbound）》v1.1.2.24193 中文 联机版
 
 夸克：https://pan.quark.cn/s/87593b32afe8
-
-#### 《泡姆泡姆（POPUCOM）》v1.0.2 中文 联机版
-
-夸克：https://pan.quark.cn/s/a5026885fbeb
 
 #### 《仙音烛（Marquee Candle）》v2025.6.12 中文版
 

@@ -19,9 +19,15 @@
 
 #### 《主角》（2026）4K 48集 更新中..
 
-夸克：https://pan.quark.cn/s/c5e0e921366e
+夸克：https://pan.quark.cn/s/947f726923ea
 
 迅雷：https://pan.xunlei.com/s/VOtYARECecm2i7yFAnw9SNe8A1?pwd=texp#
+
+#### 《佳偶天成》（2026）4K 40集全
+
+夸克：https://pan.quark.cn/s/2bb37eef536c
+
+迅雷：https://pan.xunlei.com/s/VOtxvdBzBb0onGjAxFR6SexxA1?pwd=2stn#
 
 #### 《良陈美锦》（2026）4K 40集全
 
