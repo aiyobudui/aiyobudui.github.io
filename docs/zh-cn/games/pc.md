@@ -68,6 +68,18 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《莎玛尼娅（Shamania）》v2.0.0 中文版（开放世界联机）
+
+夸克：https://pan.quark.cn/s/74088743ed76
+
+#### 《深海刮刮乐（Scale the Depths）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/23a88cce0195
+
+#### 《Horsey Game》Build.23259279 英文版
+
+夸克：https://pan.quark.cn/s/f15ab55edb3a
+
 #### 《街头赛车（CarX Street）豪华版》v1.13.0 全DLC 中文版（开放世界赛车）
 
 夸克：https://pan.quark.cn/s/18f6bc9b45ee
@@ -130,6 +142,14 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《灾后修复师（RoadCraft）》v7.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f974a596610e
+
+#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.450 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4912658febe6
 
 #### 《桥梁建筑师3（Poly Bridge 3）》v1.5.13 全DLC 中文版
 #### 《桥梁建筑师2（Poly Bridge 2）》v1.6.3 全DLC 中文版
@@ -942,10 +962,6 @@ w
 #### 《异星工厂（Factorio）》v2.0.76 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/abf35a685935
-
-#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.394 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/4912658febe6
 
 #### 《下一站江湖2（Next Jianghu II）》v1.1.64(54) 全DLC 中文版（附第一部）
 
@@ -5341,10 +5357,6 @@ w
 #### 《奥萨里昂：终极之战（Ortharion The Last Battle）》v0.6 中文版（奥塔里昂：最后的战斗）
 
 夸克：https://pan.quark.cn/s/e74977c76a51
-
-#### 《灾后修复师（RoadCraft）》v2025.5.20 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/f974a596610e
 
 #### 《幸福工厂（Satisfactory）》v1.1.1.4 中文 联机版
 
