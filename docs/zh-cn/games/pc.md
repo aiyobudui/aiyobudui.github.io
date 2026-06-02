@@ -68,6 +68,21 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《破碎怪谈 恶意关注（BrokenLore FOLLOW）》v2026.6.2 中文版（恐怖游戏）*新*
+#### 《破碎怪谈 恶意取关（BrokenLore UNFOLLOW）豪华版》v2026.1.16 中文版（恐怖游戏）
+#### 《破碎怪谈 切勿直视（BrokenLore DONT WATCH）》v2025.5.17 中文版（恐怖游戏）
+#### 《破碎怪谈 雾雨村（BrokenLore LOW）》v20250319 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/01033339d945
+
+#### 《布鲁伊 寻找金色画笔（Blueys Quest For The Gold Pen）》v2026.6.2 英文版（卡通手绘剧情）附中文安卓版
+
+夸克：https://pan.quark.cn/s/99ac9a9a15b0
+
+#### 《以太与铁（Aether and Iron）》v1.1.354 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b9cbd3570c95
+
 #### 《莎玛尼娅（Shamania）》v2.0.0 中文版（开放世界联机）
 
 夸克：https://pan.quark.cn/s/74088743ed76
@@ -128,13 +143,16 @@
 
 夸克：https://pan.quark.cn/s/f9f28bb0a2f6
 
-#### 《罗马拓荒录（Romestead）》v0.25.1.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/035afe8e9933
-
 ---
 
 ## 最近更新
+
+#### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.8.81.0 全DLC 中文配音版
+#### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
+
+夸克：https://pan.quark.cn/s/f618becc1c8f
+
+迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
 
 #### 《极限竞速：地平线6（Forza Horizon 6）》v364.933 全DLC 中文 联机版
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
@@ -142,6 +160,14 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《风暴之城（Against the Storm）》v1.9.8R 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6c6c09517ff2
+
+#### 《罗马拓荒录（Romestead）》v0.25.1.6 中文 联机版
+
+夸克：https://pan.quark.cn/s/035afe8e9933
 
 #### 《为了吾王2（For The King II）》v1.8.8 全DLC 中文 联机版
 #### 《为了吾王（For The King）》v1.1.00.11378 全DLC 中文 联机版
@@ -197,13 +223,6 @@
 ---
 
 ## 顶置游戏
-
-#### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.7.76.0 全DLC 中文配音版
-#### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
-
-夸克：https://pan.quark.cn/s/f618becc1c8f
-
-迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
 
 #### 《生化危机9 安魂曲（Resident Evil Requiem）豪华版》v2026.3.27 全DLC 中文配音版（非虚拟化版本）
 #### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
@@ -3032,14 +3051,6 @@ w
 #### 《赌徒之桌（Gamblers Table）》Build.21470204 中文版（很上头的放置型休闲游戏）
 
 夸克：https://pan.quark.cn/s/f43c2dda7bc0
-
-#### 《破碎怪谈 恶意取关（BrokenLore UNFOLLOW）豪华版》v2026.1.16 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/01033339d945
-
-#### 《破碎怪谈 切勿直视（BrokenLore DONT WATCH）》v2025.5.17 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/01033339d945
 
 #### 《Super Woden Rally Edge》v1.0.2 中文版（可多人分屏的赛车小游戏）
 
@@ -8168,10 +8179,6 @@ w
 
 夸克：https://pan.quark.cn/s/379f08d9a6bd
 
-#### 《破碎怪谈 雾雨村（BrokenLore LOW）》v20250319 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/01033339d945
-
 #### 《BUTTON PRISON》v2025.4.2 中文版（按钮监狱 恐怖游戏）
 
 夸克：https://pan.quark.cn/s/23798c430823
@@ -8723,10 +8730,6 @@ w
 #### 《怪物少女传奇：堕落英雄（Monster Girl Saga Fallen Heroes）》v2025.2.20 中文版
 
 夸克：https://pan.quark.cn/s/63a2189270f6
-
-#### 《风暴之城（Against the Storm）》v1.7.3R 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/6c6c09517ff2
 
 #### 《龙崖（Dragon Cliff）》Build.6212414 中文版（2024.1.21更新）
 

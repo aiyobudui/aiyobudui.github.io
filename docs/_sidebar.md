@@ -6,10 +6,10 @@
   - [🎮  switch游戏](/zh-cn/games/switch)
   - [📱  安卓游戏](/zh-cn/games/android)
 - [🎬  电 影](/zh-cn/movie/page)
-  - [🔥  热门电影](/zh-cn/movie/popular)
-  - [📺  经典电影](/zh-cn/movie/classic)
-  - [🎞️  系列电影](/zh-cn/movie/series)
-  - [🎭  动画电影](/zh-cn/movie/animefilms)
+  - [🔥  热门电影(近期电影)](/zh-cn/movie/popular)
+  - [📺  经典电影(单部电影)](/zh-cn/movie/classic)
+  - [🎞️  系列电影(电影合集)](/zh-cn/movie/series)
+  - [🎭  动画电影(电影合集)](/zh-cn/movie/animefilms)
 - [📺  电视剧](/zh-cn/tv/page)
   - [🐼  国产剧](/zh-cn/tv/china)
   - [🌍  欧美剧](/zh-cn/tv/occident)
@@ -26,5 +26,6 @@
 - [📦  其 他](/zh-cn/additional)
 
 ---
+
 - [🗨️  留言板](/zh-cn/bbs)
 - [🧧  打 赏](/zh-cn/dashang)
