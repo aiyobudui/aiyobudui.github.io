@@ -43,11 +43,17 @@
 
 阿里：https://www.aliyundrive.com/s/PTV4KipGUCi
 
+#### 《神秘世界历险记》（2012-2018）1-4部 1080P
+
+夸克：https://pan.quark.cn/s/52570e1f112c
+
+迅雷：https://pan.xunlei.com/s/VOu7lsC3KedK0rMOcZv2RMgvA1?pwd=bk2g#
+
 #### 《雄狮少年》（2021-2024）1-2部 4K
 
 夸克：https://pan.quark.cn/s/afd5fe176eb7
 
-#### 《不思凡动画电影合集》4K+1080P（白鸟谷 - 大护法 - 妙先生 - 大雨）
+#### 《不思凡动画电影合集》4K+1080P（白鸟谷-大护法-妙先生-大雨）
 
 夸克：https://pan.quark.cn/s/7ec90b5f5ffd
 

@@ -65,7 +65,7 @@
 
 阿里：<https://www.aliyundrive.com/s/skJyt7xJkGJ>
 
-#### 《指环王+霍比特人》蓝光4K HDR 中英文注释字幕（附国语配音版）
+#### 《指环王+霍比特人》1-6部合 蓝光4K HDR 中英文注释字幕（附国语配音版）
 
 夸克：<https://pan.quark.cn/s/07cd1b572323>
 

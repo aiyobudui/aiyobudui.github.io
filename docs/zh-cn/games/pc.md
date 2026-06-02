@@ -161,6 +161,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《深海迷航2：异星水域（Subnautica 2）》v0.10.3-115506 中文 联机版
+#### 《深海迷航（Subnautica）终极收藏版》v82304 中文版
+#### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
+
+夸克：https://pan.quark.cn/s/68a01dbea110
+
 #### 《风暴之城（Against the Storm）》v1.9.8R 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/6c6c09517ff2
@@ -213,12 +219,6 @@
 #### 《人渣（SCUM）豪华版》v1.3.0.0.117753 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/e1be35435129
-
-#### 《深海迷航2：异星水域（Subnautica 2）》v0.10.1-114707 中文 联机版
-#### 《深海迷航（Subnautica）终极收藏版》v82304 中文版
-#### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
-
-夸克：https://pan.quark.cn/s/68a01dbea110
 
 ---
 
