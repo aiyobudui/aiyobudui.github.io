@@ -748,7 +748,7 @@
 
 阿里：<https://www.aliyundrive.com/s/2vzEQcwrxk5>
 
-#### 《阿索卡》（2023）4K HDR 高码率 内封简英（曼达洛人衍生剧）
+#### 《阿索卡》（2023）1080P 中字（曼达洛人衍生剧）
 
 夸克：https://pan.quark.cn/s/709ccd06ca19
 
@@ -768,7 +768,7 @@
 
 阿里：<https://www.aliyundrive.com/s/SXX55HXg5B1>
 
-#### 《边缘世界》（2022）第一季 4K HDR 8集全（赛博朋克科幻剧）
+#### 《边缘世界》（2022）第一季 1080P 中字 8集全（赛博朋克科幻剧）
 
 夸克：https://pan.quark.cn/s/b4a8e219ee41
 
@@ -806,37 +806,37 @@
 
 阿里：<https://www.alipan.com/s/TSokVDPCPWD>
 
-#### 《光环》（2022-2024）4K HDR + 1080P 中字
+#### 《光环》（2022-2024）1-2季全 4K HDR 中字
 
 夸克：https://pan.quark.cn/s/8c9baf510fcd
 
 迅雷：https://pan.xunlei.com/s/VNy_FkcVKc08IBHcuEJNjweyA1?pwd=mafn#
 
-#### 《间谍兔洞》（2023）1080P + 4K HDR 中英字幕(间谍在谜局中拯救世界)
+#### 《间谍兔洞》（2023）1080P 中英字幕(间谍在谜局中拯救世界)
 
 夸克：https://pan.quark.cn/s/f3e083deda9c
 
 迅雷：https://pan.xunlei.com/s/VNy_GA7aZvk1yHBBvSZvwY8QA1?pwd=7447#
 
-#### 《星期三》（2022-2025）1-2季全 1080P 官中（这是类似经典ip亚当斯一家价值观的作品）
+#### 《星期三》（2022-2025）1-2季全 1080P 中字（这是类似经典ip亚当斯一家价值观的作品）
 
 夸克：https://pan.quark.cn/s/ac5243c143da
 
 迅雷：https://pan.xunlei.com/s/VNlUJx7oGuZ2HxxGaFBCoglpA1?pwd=qgzi#
 
-#### 《黄石 1-5季+1883+1923 蓝光1080P 高码 中英字幕
+#### 《黄石》 1-5季+1883+1923 蓝光1080P 高码 中英字幕
 
 夸克：https://pan.quark.cn/s/56a62ef57b2d
 
 迅雷：https://pan.xunlei.com/s/VNop-7Laz-NwvCTh5IJenmgGA1?pwd=q9hc#
 
-#### 《1899 飘洋1899》（2022）4K 德语内嵌中字 8集全
+#### 《1899 飘洋1899》（2022）1080P 德语 中字 8集全
 
 夸克：https://pan.quark.cn/s/e088c69755f8
 
 阿里：<https://www.aliyundrive.com/s/ZVXa3UeyRJR>
 
-#### 《行尸走肉》（2010-2021）1-11季全 蓝光1080P + REMUX原盘 内封中英字幕 (丧尸剧鼻祖)
+#### 《行尸走肉》（2010-2021）1-11季全 蓝光1080P 中英字幕 (丧尸剧鼻祖)
 
 夸克：https://pan.quark.cn/s/af14d9bc24bf
 
@@ -908,7 +908,7 @@
 
 #### 《绝望主妇》（2014-2011）1-8季全 1080P高码 官中+外挂字幕
 
-夸克：https://pan.quark.cn/s/230e473ed2f8
+夸克：和谐
 
 迅雷：https://pan.xunlei.com/s/VNoBn0-17pswR8w2jkHsaIVWA1?pwd=44pa#
 
@@ -922,17 +922,13 @@
 
 迅雷：https://pan.xunlei.com/s/VNu0-Lm_TaYP1AJ1j4_LqDDfA1?pwd=fdjb#
 
-阿里：[https://www.alipan.com/s/KnbUtPiTHrU](https://www.alipan.com/s/KnbUtPiTHrU/folder/634fb9ff64767f62798d4c3ea9075f972034edd0)
-
 #### 《傲骨之战》1-6季全.1080P.内封特效中英字幕（超高分“法律+政治”两种类型结合的律政剧）
 
-夸克和谐这个资源
+夸克：和谐这个资源
 
 迅雷：https://pan.xunlei.com/s/VNu01lSkfmO-QOIH6QZIxJyuA1?pwd=89ys#
 
-阿里：[https://www.alipan.com/s/KnbUtPiTHrU](https://www.alipan.com/s/KnbUtPiTHrU/folder/649850503abcd6c86f534723b3a85c27eeef00ff)
-
-#### 《风骚律师》（2015-2022）1-6季.蓝光1080p 特效双字幕.FRDS压制.又名绝命律师
+#### 《风骚律师》（2015-2022）1-6季 蓝光1080p 特效字幕（绝命律师）
 
 夸克：https://pan.quark.cn/s/85e25a5f49c6
 
@@ -940,19 +936,19 @@
 
 阿里：<https://www.aliyundrive.com/s/AmkBvghBBdU>
 
-#### 《绝命毒师》（2008-2012）1-5季全 蓝光1080P + REMUX原盘 中字（收藏版）
+#### 《绝命毒师》（2008-2012）1-5季+电影版 蓝光1080P 中字
 
 夸克：https://pan.quark.cn/s/b2c8a480d598
 
 迅雷：https://pan.xunlei.com/s/VNlUYBbJ65gPlJJMCTMfOII9A1?pwd=nb4y#
 
-#### 《老友记》（1994-2003）1-10季 蓝光1080P + REMUX原盘 中英字幕
+#### 《老友记》（1994-2003）1-10季+特刊 蓝光1080P 中英字幕
 
 夸克：https://pan.quark.cn/s/4c41c0374ab4
 
 迅雷：https://pan.xunlei.com/s/VNlUXepyEOa5QR4rNT89mGO_A1?pwd=48xx#
 
-#### 《摩登家庭》（2009-2019）1-11季全 蓝光1080P 中英字幕 FRDS 》（附剧本对照+音频+音频口语课）
+#### 《摩登家庭》（2009-2019）1-11季全 蓝光1080P 中英字幕（附剧本对照+音频+音频口语课）
 
 夸克：https://pan.quark.cn/s/1472967b7064
 
@@ -964,7 +960,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNoB85TvUTvTOpT7tt7Iv8VPA1?pwd=xj24#
 
-#### 《纸钞屋》（2017-2021）1-5季全+纸钞屋：柏林 1080P.西班牙原版+韩版.内置中英字幕+外挂字幕
+#### 《纸钞屋》（2017-2021）1-5季全+纸钞屋：柏林 西班牙原版 1080P 内置中英字幕 外挂字幕
 
 夸克：https://pan.quark.cn/s/42e4475f2a3e
 
@@ -988,13 +984,13 @@
 
 阿里：<https://www.aliyundrive.com/s/Zpe2u9dJm9Z>
 
-#### 《太平洋战争》（2010）蓝光1080P高码 + Remux原盘 (高分美剧推荐)
+#### 《太平洋战争》（2010）蓝光1080P高码 (高分美剧推荐)
 
 夸克：https://pan.quark.cn/s/28389e5bc07b
 
 迅雷：https://pan.xunlei.com/s/VNlUOi27lf33i3YVXZSUawmVA1?pwd=hr27#
 
-#### 《兄弟连》（2001）蓝光1080P高码 中英双配音音轨 特效中字.(高分美剧推荐)
+#### 《兄弟连》（2001）蓝光1080P高码 国英配音 特效中字
 
 夸克：https://pan.quark.cn/s/634541b513ef
 
@@ -1014,7 +1010,7 @@
 
 阿里：https://www.aliyundrive.com/s/HPgUNaWpmNY
 
-#### 《王冠》（2016-2023）1-6季全 蓝光1080P + REMUX原盘 杜比音效 + 4K HDR 中英字幕（高分细腻 历史剧）
+#### 《王冠》（2016-2023）1-6季全 蓝光1080P 中英字幕（高分细腻 历史剧）
 
 夸克：https://pan.quark.cn/s/9878f94fdffa
 
@@ -1026,7 +1022,7 @@
 
 #### 《玫瑰之名》（2019）蓝光1080P 中字 8集全
 
-夸克：https://pan.quark.cn/s/daed5ead3a82 720P
+夸克：
 
 迅雷：https://pan.xunlei.com/s/VNojuCntwnHPNq9H7Mv90YarA1?pwd=jivx#
 
@@ -1082,7 +1078,7 @@
 
 #### 《路西法》（2016-2021）1-6季全集 中文字幕
 
-夸克：https://pan.quark.cn/s/6a1a5a56d75e
+夸克：https://pan.quark.cn/s/ff633ba1fe14
 
 #### 《哥谭》（2014-2019）1-5季全 中英字幕
 
@@ -1201,8 +1197,28 @@
 
 迅雷：https://pan.xunlei.com/s/VNyacRDLrw1lpG4Jl2HxXyD0A1?pwd=u54b#
 
-#### 《鹰眼》（2021）4K HDR + 1080P 6集全 中英配音 中英字幕
+#### 《鹰眼》（2021）1080P 国英配音 中英字幕 6集全 
 
 夸克：https://pan.quark.cn/s/52ae08914df0
 
 迅雷：https://pan.xunlei.com/s/VNyadFpgHDhbvP-hC0Xx-5hhA1?pwd=uqr6#
+
+#### 《暗夜狼人》（2022）1080P 国英双语 特效字幕
+
+夸克：https://pan.quark.cn/s/118b9e1475b3
+
+#### 《惊奇女士》（2022）1080P 国英双语 特效字幕 6集全
+
+夸克：https://pan.quark.cn/s/72b13eae8cc2
+
+#### 《女浩克》（2022）1080P 国英配音 特效字幕 6集全
+
+夸克：https://pan.quark.cn/s/309f387081c6
+
+#### 《秘密入侵》（2023）1080P 特效字幕 6集全
+
+夸克：https://pan.quark.cn/s/637be6082cba
+
+#### 《月光骑士》（2022）1080P 国英双语 特效字幕 6集全
+
+夸克：https://pan.quark.cn/s/8077a9f6bddc

@@ -143,6 +143,11 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《为了吾王2（For The King II）》v1.8.8 全DLC 中文 联机版
+#### 《为了吾王（For The King）》v1.1.00.11378 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/745b3dd3f3f1
+
 #### 《灾后修复师（RoadCraft）》v7.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/f974a596610e
@@ -5291,10 +5296,6 @@ w
 夸克：https://pan.quark.cn/s/12b756023778
 
 迅雷：https://pan.xunlei.com/s/VNtjbiFKuAnx1itnVSKqYufJA1?pwd=8s4y#
-
-#### 《为了吾王2（For The King II）》v1.8.8 全DLC 中文 联机版（附第一部）新增DLC
-
-夸克：https://pan.quark.cn/s/745b3dd3f3f1
 
 #### 《DYSMANTLE》v1.4.1.7 全DLC 中文版（末世生存、探索、建造、钓鱼）
 
