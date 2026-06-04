@@ -102,6 +102,10 @@
 
 夸克：https://pan.quark.cn/s/9502fa0d4aa5
 
+#### 《猫头鹰谋杀案 喜鹊谋杀案》（2022-2024）2部 1080P 中字(美版+英版)
+
+夸克：https://pan.quark.cn/s/2ea5b0ded606
+
 #### 《陆海之战》（2025）1080P 中字 5集全（神秘博士 衍生剧)
 
 夸克：https://pan.quark.cn/s/ba5ed862cfcc
