@@ -109,6 +109,14 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《都市天际线2（Cities Skylines 2）终极版》v1.5.10f1 全DLC 中文版（城市天际线2）
+
+夸克：https://pan.quark.cn/s/e78ffec97c4e
+
+#### 《流放者柯南 增强版（Conan Exiles Enhanced）》v1.1.2 全DLC 中文版（附旧版 联机版）
+
+夸克：https://pan.quark.cn/s/90d4ea9116da
+
 #### 《8020号指令（Directive 8020）豪华版》v2026.6.3 中文版
 
 夸克：https://pan.quark.cn/s/c14855858fd5
@@ -1088,10 +1096,6 @@ w
 #### 《黄金矿主模拟器：阿拉斯加淘金热（Alaska Gold Fever）》v2026.05.05.01 中文版
 
 夸克：https://pan.quark.cn/s/2e24bee55712
-
-#### 《流放者柯南 增强版（Conan Exiles Enhanced）》v1.0.1 全DLC 中文版（附旧版 联机版）
-
-夸克：https://pan.quark.cn/s/90d4ea9116da
 
 #### 《太阳帝国的原罪2（Sins of a Solar Empire II）》v1.60.2 全DLC 中文 联机版
 
@@ -3161,10 +3165,6 @@ w
 #### 《动物收容所2（Animal Shelter 2）》v1.1.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/1057e0a53bfd
-
-#### 《都市天际线2（Cities Skylines 2）终极版》v1.5.3f1 全DLC 中文版（城市天际线2）
-
-夸克：https://pan.quark.cn/s/e78ffec97c4e
 
 #### 《植物大战僵尸：重制版（Plants vs Zombies Replanted）》v1.5.1469.0 中文 联机版
 
