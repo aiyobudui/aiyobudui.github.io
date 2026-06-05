@@ -81,6 +81,10 @@
 
 阿里：<https://www.aliyundrive.com/s/ZhH5CQQGG34>
 
+#### 《爱在黎明破晓前、爱在日落黄昏时、爱在午夜降临前》（1995-2013）蓝光1080P 特效中英字幕
+
+夸克：https://pan.quark.cn/s/803e3567421f
+
 #### 《鳄鱼邓迪》（1986-2001）1-3部合集 720P高码 国英配音 内封中字
 
 夸克：https://pan.quark.cn/s/32a25f83ae21
