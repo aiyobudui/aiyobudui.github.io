@@ -64,6 +64,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《我变成鸟的那一天（The Day I Became a Bird）》v2026.6.5 全DLC 中文版（手绘温情故事）
+
+夸克：https://pan.quark.cn/s/973a84ef4ba2
+
 #### 《奥咕和秘密森林（Ogu and the Secret Forest）》v1.3b 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/183ab0127f54
