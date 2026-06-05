@@ -64,6 +64,15 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《奥咕和秘密森林（Ogu and the Secret Forest）》v1.3b 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/183ab0127f54
+
+#### 《索拉斯2（Solasta 2）支持者版》v0.3.5.90393 中文版
+#### 《索拉斯塔：魔导师之冠（Solasta Crown of the Magister）支持者版》v1.5.97 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e3a2240480eb
+
 #### 《热血西游记 天竺奇谭（River City Saga Journey to the West）》v1.0.2 中文版
 
 夸克：https://pan.quark.cn/s/d9a6151e1528

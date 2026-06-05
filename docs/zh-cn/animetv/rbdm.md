@@ -43,7 +43,13 @@
 
 ## 周三
 
-  
+#### 《石纪元》（2019-2026）第4季 Part.3 更新中..（1-4季全 1080P 中字 +漫画）
+
+夸克：https://pan.quark.cn/s/c2b55d462e0f
+
+迅雷：https://pan.xunlei.com/s/VNlg6E334ZYTUpq0twplRvx1A1?pwd=bb4m#
+
+阿里：<https://www.aliyundrive.com/s/MmR1PnARnHe>
 
 ----
 
@@ -78,6 +84,9 @@
 ## 周六
 
 
+#### 《躲在超市后门抽烟的两人》（2026）1080P 中字 12集 更新中..（附漫画）
+
+夸克：https://pan.quark.cn/s/7b757972ad13
 
 ----
 
@@ -490,14 +499,6 @@
 迅雷：https://pan.xunlei.com/s/VNnSaw8odVlJSNvTRSkN593TA1?pwd=bbyq#
 
 阿里：<https://www.aliyundrive.com/s/BdjMgWXCPVA>
-
-#### 《石纪元》（2019-2025）1-4季全 1080P 中字（附漫画）
-
-夸克：https://pan.quark.cn/s/c2b55d462e0f
-
-迅雷：https://pan.xunlei.com/s/VNlg6E334ZYTUpq0twplRvx1A1?pwd=bb4m#
-
-阿里：<https://www.aliyundrive.com/s/MmR1PnARnHe>
 
 #### 《甸星原》1-2季全 中字
 

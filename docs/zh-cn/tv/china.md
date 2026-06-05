@@ -17,7 +17,13 @@
 
 ## 正在更新中的...
 
-#### 《主角》（2026）4K 48集 更新中..
+#### 《雨霖铃》（2026）4K 37集全
+
+夸克：https://pan.quark.cn/s/0b6ca885da5a
+
+迅雷：https://pan.xunlei.com/s/VOuLPA06Z1FbpyYMsumD3GjyA1?pwd=tryt#
+
+#### 《主角》（2026）4K 48集全
 
 夸克：https://pan.quark.cn/s/947f726923ea
 
