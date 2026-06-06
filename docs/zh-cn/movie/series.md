@@ -85,6 +85,8 @@
 
 夸克：https://pan.quark.cn/s/803e3567421f
 
+迅雷：https://pan.xunlei.com/s/VOuNBUhmmTITvdV6TEtQ1U4JA1?pwd=svri#
+
 #### 《鳄鱼邓迪》（1986-2001）1-3部合集 720P高码 国英配音 内封中字
 
 夸克：https://pan.quark.cn/s/32a25f83ae21
