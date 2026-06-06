@@ -68,6 +68,30 @@
 
 夸克：https://pan.quark.cn/s/6b03eda75ca7
 
+#### 《波兰球：强权议定书（Countryballs Power Protocol）》v2.3.2 全DLC 中文版（波兰球：权力公约）
+
+夸克：https://pan.quark.cn/s/f4adeb6b7fea
+
+#### 《随时在一起：云自习（On-Together）》v1.1.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ad758b882943
+
+#### 《巴布西4D（Bubsy 4D）》v1.1.1 中文版（大笨猫4D）
+
+夸克：https://pan.quark.cn/s/8f4eb7b9e9cf
+
+#### 《盲盒店模拟器（Blind Box Shop Simulator）》v1.0.3 中文版
+
+夸克：https://pan.quark.cn/s/12ded08caf72
+
+#### 《Fish Hike》v0.9.01 中文版（Fish & Hike 钓鱼徒步：柴犬冒险）
+
+夸克：https://pan.quark.cn/s/bf493aaa67f0
+
+#### 《魔女：终末旅途（Witchs Apocalyptic Journey）》v1.0.888 中文版
+
+夸克：https://pan.quark.cn/s/3b2c93eec37b
+
 #### 《PROHIBEAST》v1.0.1 中文版（策略游戏）
 
 夸克：https://pan.quark.cn/s/dd6f8ef9783e
@@ -146,6 +170,14 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）豪华版》v1.5.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/49dd6d0d10cf
+
+#### 《漂泊牧歌（The Wandering Village）》v1.1.6a 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7e5c4273f5a7
 
 #### 《受折磨的灵魂2（Tormented Souls 2）豪华版》v1.5.0 全DLC 中文版（生存恐怖游戏）
 
@@ -3232,10 +3264,6 @@ w
 
 夸克：https://pan.quark.cn/s/08648b65183a
 
-#### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）豪华版》v1.3.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/49dd6d0d10cf
-
 #### 《奇物斋（Strange Antiquities）》v1.0.47 中文版（解密游戏 奇异古物）
 
 夸克：https://pan.quark.cn/s/3d048bd03ffb
@@ -4805,10 +4833,6 @@ w
 #### 《网吧模拟器2（Internet Cafe Simulator 2）》v1.2.5 中文版（附第一部）
 
 夸克：https://pan.quark.cn/s/0dfc5152dab9
-
-#### 《漂泊牧歌（The Wandering Village）》v1.1.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7e5c4273f5a7
 
 #### 《Keep Driving》v1.3.1.0с 中文版（公路旅行游戏）
 
