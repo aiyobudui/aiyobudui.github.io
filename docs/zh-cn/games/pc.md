@@ -68,6 +68,14 @@
 
 夸克：https://pan.quark.cn/s/6b03eda75ca7
 
+#### 《伊松佐河（Isonzo）》v71835 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/53b1737b1748
+
+#### 《大宝贝回收公司（Fish Stick Protocol）》Build.20736575 中文 联机版
+
+夸克：https://pan.quark.cn/s/4735704c5cf8
+
 #### 《波兰球：强权议定书（Countryballs Power Protocol）》v2.3.2 全DLC 中文版（波兰球：权力公约）
 
 夸克：https://pan.quark.cn/s/f4adeb6b7fea
