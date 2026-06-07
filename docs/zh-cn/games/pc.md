@@ -191,6 +191,18 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《无人深空（No Man's Sky）》v6.44 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/ebcd2a9f4907
+
+迅雷：https://pan.xunlei.com/s/VOpfA6L6tvULfjpoL9vVF8MWA1?pwd=3muq#
+
+#### 《暗黑地牢2（Darkest Dungeon II）遗忘版》v2.04.85095 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d1967a877a18
+
+迅雷：https://pan.xunlei.com/s/VNxlYnRzg09qEUhCXyYTrdBnA1?pwd=daqh#
+
 #### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）豪华版》v1.5.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/49dd6d0d10cf
@@ -1902,12 +1914,6 @@ w
 夸克：https://pan.quark.cn/s/e812eb1562dd
 
 迅雷：https://pan.xunlei.com/s/VNyaMJxMNH47wljXItgCPhlEA1?pwd=a3dy#
-
-#### 《无人深空（No Man's Sky）》v6.24 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/ebcd2a9f4907
-
-迅雷：https://pan.xunlei.com/s/VOpfA6L6tvULfjpoL9vVF8MWA1?pwd=3muq#
 
 #### 《夺宝奇兵：古老之圈（Indiana Jones and the Great Circle）高级版》v1.0.13.0 全DLC 中文版（显卡需支持光追）
 
@@ -8856,12 +8862,6 @@ w
 #### 《疾驰残影（Blur）》v1.2 英文版
 
 夸克：https://pan.quark.cn/s/e55d63615637
-
-#### 《暗黑地牢2（Darkest Dungeon II）》v2.00.73964 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/d1967a877a18
-
-迅雷：https://pan.xunlei.com/s/VNxlYnRzg09qEUhCXyYTrdBnA1?pwd=daqh#
 
 #### 《恸哭奇机（CRYMACHINA）》v1.2.0 全DLC 中文版
 
