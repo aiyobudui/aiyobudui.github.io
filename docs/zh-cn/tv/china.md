@@ -17,6 +17,12 @@
 
 ## 正在更新中的...
 
+#### 《家业》（2026）4K 42集全
+
+夸克：https://pan.quark.cn/s/8099bce09eaa
+
+迅雷：https://pan.xunlei.com/s/VOuXm43Rn8oVNihOvnu_cRp1A1?pwd=nj82#
+
 #### 《雨霖铃》（2026）4K 37集全
 
 夸克：https://pan.quark.cn/s/0b6ca885da5a

@@ -68,6 +68,18 @@
 
 夸克：https://pan.quark.cn/s/6b03eda75ca7
 
+#### 《纹身清除模拟器（Tattoo Removal Simulator）》v1.0.003 中文版
+
+夸克：https://pan.quark.cn/s/b85ebe1c81f3
+
+#### 《虚拟小屋2（Virtual Cottage 2）》v1.1.19 中文版
+
+夸克：https://pan.quark.cn/s/100f3b8651ee
+
+#### 《彼方的她-Aliya（Aliya Timelink）》Build.19035344 中文版
+
+夸克：https://pan.quark.cn/s/9a783c7b0921
+
 #### 《伊松佐河（Isonzo）》v71835 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/53b1737b1748
