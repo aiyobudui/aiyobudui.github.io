@@ -68,6 +68,10 @@
 
 夸克：https://pan.quark.cn/s/6b03eda75ca7
 
+#### 《灰烬（Ashen）终结版》v1.0.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/11511f5d49ba
+
 #### 《纹身清除模拟器（Tattoo Removal Simulator）》v1.0.003 中文版
 
 夸克：https://pan.quark.cn/s/b85ebe1c81f3
