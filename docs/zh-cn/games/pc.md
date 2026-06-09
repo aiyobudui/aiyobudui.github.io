@@ -68,6 +68,10 @@
 
 夸克：https://pan.quark.cn/s/6b03eda75ca7
 
+#### 《佩布尔骑士（Pebble Knights）》v0.1.13 中文 联机版
+
+夸克：https://pan.quark.cn/s/a638eaff7636
+
 #### 《灰烬（Ashen）终结版》v1.0.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/11511f5d49ba
