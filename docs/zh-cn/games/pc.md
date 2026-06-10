@@ -50,6 +50,10 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《007初露锋芒（007 First Light）》v1.0.0 全DLC 中文版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/76e705934c3b
+
 #### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/020b7323c7a6
@@ -184,6 +188,10 @@
 ---
 
 ## 最近更新
+
+#### 《沙丘：帝国（Dune Imperium）》v4.0.0.1702 全DLC 中文 联机版（沙丘帝国 桌游）
+
+夸克：https://pan.quark.cn/s/c021a2b6f46a
 
 #### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.8.81.0 全DLC 中文配音版
 #### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
@@ -4173,10 +4181,6 @@ w
 夸克：https://pan.quark.cn/s/601e230dca7c
 
 迅雷：https://pan.xunlei.com/s/VNxmA-19BxrvkoJ4erC5p2lcA1?pwd=fr7n#
-
-#### 《沙丘：帝国（Dune：Imperium）》v3.3.1 全DLC 中文 联机版（桌游）
-
-夸克：https://pan.quark.cn/s/c021a2b6f46a
 
 #### 《微软模拟飞行2020（Microsoft Flight Simulator 2020）》v1.39.9.0 中文 联机版
 
