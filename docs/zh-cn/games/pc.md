@@ -68,6 +68,18 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《沃德灵：共生（Voidling Bound）》v76030 中文版
+
+夸克：https://pan.quark.cn/s/3c5de87259a6
+
+#### 《嗜血之王：崛起（Vampires Bloodlord Rising）》v1.5.1.21425 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/a132d017748c
+
+#### 《巫塔战记（Witchspire）》v0.1.0g 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/8b067ec0bc59
+
 #### 《时空迷踪（Crushed In Time）》v1.0.5796 中文版
 
 夸克：https://pan.quark.cn/s/04f83be9c932
@@ -95,6 +107,14 @@
 ---
 
 ## 最近更新
+
+#### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.14.1.19644 中文版
+
+夸克：https://pan.quark.cn/s/652d7102951b
+
+#### 《轮回保险公司（RIP Reincarnation Insurance Program）》v0.8.4 中文版
+
+夸克：https://pan.quark.cn/s/2df93c0d3df0
 
 #### 《至暗之光：幸存者（Dark Light Survivor）》v1.1.06081301 中文版（肉鸽生存）
 
@@ -1248,10 +1268,6 @@ w
 #### 《魔饮心语（Tavern Talk）》v20260306 全DLC 中文版（视觉小说）
 
 夸克：https://pan.quark.cn/s/7f8d80a23b0e
-
-#### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.13.18884 中文版
-
-夸克：https://pan.quark.cn/s/652d7102951b
 
 #### 《安迪和莱莉的棺材（The Coffin of Andy and Leyley）》v3.0.13 汉化版
 
@@ -3073,10 +3089,6 @@ w
 #### 《DRUDGE》v0.4.1 中文版（射击恐怖）
 
 夸克：https://pan.quark.cn/s/dcecdb5f7501
-
-#### 《轮回保险公司（RIP Reincarnation Insurance Program）》v0.8.1.6 中文版
-
-夸克：https://pan.quark.cn/s/2df93c0d3df0
 
 #### 《黑客中心：终极黑客模拟器（HackHub）》v2026.1.26 中文版
 
