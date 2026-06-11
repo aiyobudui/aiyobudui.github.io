@@ -84,6 +84,10 @@
 
 夸克：https://pan.quark.cn/s/04f83be9c932
 
+#### 《再刷一把2：金色传说（Play Again 2 The Golden Legend）豪华版》v1.00 中文版
+
+夸克：https://pan.quark.cn/s/5b551747701d
+
 #### 《第十三区（Section 13）》v1.1.2 中文版（肉鸽双摇杆射击）
 
 夸克：https://pan.quark.cn/s/669743189221
