@@ -53,6 +53,14 @@
 
 迅雷：https://pan.xunlei.com/s/VOtHtUwxaa2HnGIwxRpXKowTA1?pwd=b3qk#
 
+---
+
+## 已完结的...
+
+#### 《我在他乡挺好的》（2021）1080P高码 12集全
+
+夸克：https://pan.quark.cn/s/3cbc95b17c2e
+
 #### 《低智商犯罪》（2026）4K 24集全
 
 夸克：https://pan.quark.cn/s/a98172e263cc
@@ -100,10 +108,6 @@
 夸克：https://pan.quark.cn/s/93554a89e91b
 
 迅雷：https://pan.xunlei.com/s/VOnPkzWFrwgR_qCbkCBd5wyOA1?pwd=hnnv
-
----
-
-## 已完结的...
 
 #### 《隐身的名字》（2026）4K 31集全
 

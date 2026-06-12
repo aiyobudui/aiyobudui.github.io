@@ -112,6 +112,16 @@
 
 ## 最近更新
 
+#### 《哈迪斯2（Hades II）》v1.138517 中文版（附第一部）
+
+夸克：https://pan.quark.cn/s/74b6e4cc96f7
+
+迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
+
+#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.18.3.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/e2644eb87c21
+
 #### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.14.1.19644 中文版
 
 夸克：https://pan.quark.cn/s/652d7102951b
@@ -1019,10 +1029,6 @@ w
 
 迅雷：https://pan.xunlei.com/s/VOnHWAHd5FqS2M3NKcjRiaBJA1?pwd=kx4v
 
-#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.18.1.0.8549 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/e2644eb87c21
-
 #### 《云族裔（inZOI）》v0.8.3 全DLC 中文版（韩国模拟人生）
 
 夸克：https://pan.quark.cn/s/8458e4ca4a38
@@ -1797,12 +1803,6 @@ w
 #### 《帕夏时代（Roots of Pacha）》v1.3.1 中文版
 
 夸克：https://pan.quark.cn/s/29b5e1d775e0
-
-#### 《哈迪斯2（Hades II）》v1.137536 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/74b6e4cc96f7
-
-迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
 
 #### 《焕然异星（Terraformers）》v1.7.76 全DLC 中文版
 
