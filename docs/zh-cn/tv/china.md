@@ -383,7 +383,7 @@
 
 #### 《利剑玫瑰》（2025）4K 32集全
 
-夸克：和谐
+夸克：https://pan.quark.cn/s/cd3d8b47f094
 
 迅雷：https://pan.xunlei.com/s/VOXZDWZUL2Rz3D-cbJ0eg9vPA1?pwd=rjv5#
 

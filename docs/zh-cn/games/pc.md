@@ -68,6 +68,22 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《1348：圣誓（1348 Ex Voto）》v1.50 中文版（1348圣誓）
+
+夸克：https://pan.quark.cn/s/71da80453541
+
+#### 《欢迎光临（Beastro）》v1.0.2.0 中文版
+
+夸克：https://pan.quark.cn/s/72042dca54a4
+
+#### 《地精捣蛋团（Burglin Gnomes）》v2026.6.12 中文版
+
+夸克：https://pan.quark.cn/s/86a6bc536e54
+
+#### 《桌上谈兵（Tabletop Tavern）》v0.6.11.3 中文版
+
+夸克：https://pan.quark.cn/s/e9973524d0ce
+
 #### 《沃德灵：共生（Voidling Bound）》v76030 中文版
 
 夸克：https://pan.quark.cn/s/3c5de87259a6
@@ -112,6 +128,35 @@
 
 ## 最近更新
 
+#### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.9.85.0 全DLC 中文配音版
+#### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
+
+夸克：https://pan.quark.cn/s/f618becc1c8f
+
+迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
+
+#### 《仁王3（Nioh 3）豪华版》v1.07 全DLC 中文 联机版（更新）
+#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
+#### 《仁王（Nioh）完全版》v1.24.08 中文版
+
+夸克：https://pan.quark.cn/s/be850af09c63
+
+#### 《小小梦魇3（Little Nightmares 3）豪华版》v2026.6.12 全DLC 中文 联机版（新增DLC）
+#### 《小小梦魇2（Little Nightmares 2）增强版》v1165 全DLC 中文版
+#### 《小小梦魇（Little Nightmares）增强版》v1.0.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/23c16824e3ac
+
+迅雷：https://pan.xunlei.com/s/VNqmp1LM5ed8XNX-HRSGTE3dA1?pwd=icd2#
+
+#### 《心之眼（MindsEye）豪华版》v7608873 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1d8bcee97d85
+
+#### 《烤串大厨 餐厅模拟器（Kebab Chefs Restaurant Simulator）》v1.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/780e085dd9de
+
 #### 《哈迪斯2（Hades II）》v1.138517 中文版（附第一部）
 
 夸克：https://pan.quark.cn/s/74b6e4cc96f7
@@ -142,13 +187,6 @@
 
 夸克：https://pan.quark.cn/s/c021a2b6f46a
 
-#### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.8.81.0 全DLC 中文配音版
-#### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
-
-夸克：https://pan.quark.cn/s/f618becc1c8f
-
-迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
-
 #### 《极限竞速：地平线6（Forza Horizon 6）》v364.933 全DLC 中文 联机版
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 
@@ -176,12 +214,6 @@
 夸克：https://pan.quark.cn/s/744a500cb67e
 
 迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
-
-#### 《仁王3（Nioh 3）豪华版》v1.05 全DLC 中文 联机版（新）
-#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
-#### 《仁王（Nioh）完全版》v1.24.08 中文版
-
-夸克：https://pan.quark.cn/s/be850af09c63
 
 #### 《天外世界：太空人之选（The Outer Worlds Spacer's Choice）》v2.5.7.0 中文版（天外世界1 重制版）
 #### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.1 中文版
@@ -251,12 +283,6 @@
 #### 《艾尔登法环 黑夜君临（Elden Ring Nightreign）豪华版》v1.0.3.2 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/220acef4a4a1
-
-#### 《小小梦魇3（Little Nightmares 3）》v2025.11.19 全DLC 中文 联机版（附前2部 恐怖解密）
-
-夸克：https://pan.quark.cn/s/23c16824e3ac
-
-迅雷：https://pan.xunlei.com/s/VNqmp1LM5ed8XNX-HRSGTE3dA1?pwd=icd2#
 
 #### 《匹诺曹的谎言（Lies of P Overture）豪华版》v1.12.0.0 全DLC 中文版（魂类游戏）
 
@@ -2844,10 +2870,6 @@ w
 #### 《极限国度（Riders Republic）》v1.26.0 离线 中文版
 
 夸克：https://pan.quark.cn/s/8f167fa75ea3
-
-#### 《心之眼（MindsEye）豪华版》v6073305 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1d8bcee97d85
 
 #### 《失落之魂（Lost Soul Aside）豪华版》v1.101 全DLC 中文版
 
@@ -6175,10 +6197,6 @@ w
 #### 《上古卷轴4 湮没 重制版（The Elder Scrolls 4 Oblivion Remastered）》v1.512.105.0 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/4e89855b4d77
-
-#### 《烤肉串模拟器（Kebab Chefs! Restaurant Simulator）》v0.5 中文 联机版
-
-夸克：https://pan.quark.cn/s/780e085dd9de
 
 #### 《死域Rogue（Deadzone Rogue）》v1.0.0.7 中文版（FPS射击肉鸽）
 
