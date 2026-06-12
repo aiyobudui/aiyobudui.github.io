@@ -87,6 +87,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOuNBUhmmTITvdV6TEtQ1U4JA1?pwd=svri#
 
+#### 《玩尽杀绝》（1998-2010）1-4部 1080P 外挂中字
+
+夸克：https://pan.quark.cn/s/33148d0795f0
+
 #### 《鳄鱼邓迪》（1986-2001）1-3部合集 720P高码 国英配音 内封中字
 
 夸克：https://pan.quark.cn/s/32a25f83ae21

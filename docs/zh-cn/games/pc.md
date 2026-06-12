@@ -141,6 +141,12 @@
 
 夸克：https://pan.quark.cn/s/be850af09c63
 
+#### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版
+#### 《消逝的光芒：增强版（Dying Light）》v1.54 全DLC 中文 联机版
+#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.28.0 全DLC 中文配音 联机版（更新）
+
+夸克：https://pan.quark.cn/s/7cd3766e113d
+
 #### 《小小梦魇3（Little Nightmares 3）豪华版》v2026.6.12 全DLC 中文 联机版（新增DLC）
 #### 《小小梦魇2（Little Nightmares 2）增强版》v1165 全DLC 中文版
 #### 《小小梦魇（Little Nightmares）增强版》v1.0.0.0 全DLC 中文版
@@ -219,12 +225,6 @@
 #### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.1 中文版
 
 夸克：https://pan.quark.cn/s/9baad4a27102
-
-#### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版（更新）
-#### 《消逝的光芒：增强版（Dying Light）》v1.54 全DLC 中文 联机版
-#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.27.1 全DLC 中文配音 联机版
-
-夸克：https://pan.quark.cn/s/7cd3766e113d
 
 #### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R.2 Heart of Chornobyl）终极版》v1.9 全DLC 中文版
 
