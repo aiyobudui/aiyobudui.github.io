@@ -128,6 +128,14 @@
 
 ## 最近更新
 
+#### 《缺氧（Oxygen Not Included）完整版》v59-736649 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/608fc7dd1539
+
+#### 《失落城堡2（Lost Castle 2）》v1.0.0.0.16 中文 联机版
+
+夸克：https://pan.quark.cn/s/f391be81e520
+
 #### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.9.85.0 全DLC 中文配音版
 #### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
 
@@ -135,7 +143,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
 
-#### 《仁王3（Nioh 3）豪华版》v1.07 全DLC 中文 联机版（更新）
+#### 《仁王3（Nioh 3）豪华版》v1.07 全DLC 中文 联机版
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
 
@@ -2655,10 +2663,6 @@ w
 
 夸克：https://pan.quark.cn/s/f45144acd21e
 
-#### 《失落城堡2（Lost Castle 2）》v0.9.3.8 中文 联机版
-
-夸克：https://pan.quark.cn/s/f391be81e520
-
 #### 《模拟人生4（The Sims 4）豪华版》v1.121.372.1020 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/844d489a7abd
@@ -3813,10 +3817,6 @@ w
 #### 《懊悔谷（Rue Valley）》v1.0.1v5 中文版（叙事情感故事）
 
 夸克：https://pan.quark.cn/s/57af60e7c9f7
-
-#### 《缺氧（Oxygen Not Included）完整版》vU56-700386 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/608fc7dd1539
 
 #### 《幻兽大农场：放置好时光》Build.20781038 中文版（桌面小游戏）
 

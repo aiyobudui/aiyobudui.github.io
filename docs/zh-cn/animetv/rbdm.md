@@ -23,6 +23,12 @@
 
 ## 周一
 
+#### 《关于我转生变成史莱姆这档事》第四季 更新中..（附1-3季+OAD+剧场版+番外+小说）
+
+夸克：https://pan.quark.cn/s/c4a48cb75483
+
+迅雷：https://pan.xunlei.com/s/VNoLmv50re4aJPyXQT3Y9LSWA1?pwd=rbbf#
+
 #### 《地狱乐》（2023-2026）1-2季全 1080P 中字
 
 夸克：https://pan.quark.cn/s/ef5594e4f0c1
@@ -293,12 +299,6 @@
 夸克：https://pan.quark.cn/s/da837e2766bc
 
 迅雷：https://pan.xunlei.com/s/VNv6klVPfn3P_O21nvCur4S-A1?pwd=2tf9#
-
-#### 《关于我转生变成史莱姆这档事》1-3季+OAD+剧场版+番外
-
-夸克：https://pan.quark.cn/s/c4a48cb75483
-
-迅雷：https://pan.xunlei.com/s/VNoLmv50re4aJPyXQT3Y9LSWA1?pwd=rbbf#
 
 #### 《迷宫饭》（2024）24集全 4K + 1080P 中字
 
