@@ -68,6 +68,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《掘地求狗（Pratfall）》v1.2.0.R3791 中文 联机版
+
+夸克：https://pan.quark.cn/s/c334f5bdb88c
+
 #### 《1348：圣誓（1348 Ex Voto）》v1.50 中文版（1348圣誓）
 
 夸克：https://pan.quark.cn/s/71da80453541
@@ -116,10 +120,6 @@
 
 夸克：https://pan.quark.cn/s/c7099b0f2e3e
 
-#### 《哥特王朝 重制版（Gothic 1 Remake）》v168089 中文版
-
-夸克：https://pan.quark.cn/s/6b03eda75ca7
-
 #### 《佩布尔骑士（Pebble Knights）》v0.1.13 中文 联机版
 
 夸克：https://pan.quark.cn/s/a638eaff7636
@@ -127,6 +127,30 @@
 ---
 
 ## 最近更新
+
+#### 《哥特王朝 重制版（Gothic 1 Remake）》v168781 中文版
+
+夸克：https://pan.quark.cn/s/6b03eda75ca7
+
+#### 《打骨折超市日记（Discounty）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/5b65c7c90507
+
+#### 《欢欣森活（Mirthwood）》v1.1.5p1 中文版
+
+夸克：https://pan.quark.cn/s/37e861d2401c
+
+#### 《卓乐新声（People of Note）》v159874 中文版
+
+夸克：https://pan.quark.cn/s/29e279c6c5a9
+
+#### 《圣域2 重制版（Sacred 2）Remaster）》v20077 汉化 联机版
+
+夸克：https://pan.quark.cn/s/7ba04095dc9d
+
+#### 《归零巡礼：亡谍镇魂曲（ZERO PARADES For Dead Spies）》v1.1.37407 中文版
+
+夸克：https://pan.quark.cn/s/31ffbe847fed
 
 #### 《缺氧（Oxygen Not Included）完整版》v59-736649 全DLC 中文 联机版（新增DLC）
 
@@ -641,10 +665,6 @@
 #### 《星尘轨迹：魔女之愿（STARDUST Wish of Witch）》v2026.5.30 中文版
 
 夸克：https://pan.quark.cn/s/1dd930d3a4d2
-
-#### 《归零巡礼：亡谍镇魂曲（ZERO PARADES For Dead Spies）》VI.0.36599.K01 中文版
-
-夸克：https://pan.quark.cn/s/31ffbe847fed
 
 #### 《漫威复仇者（Marvel's Avengers）终结版》v2.8.2.0 全DLC 中文配音版（漫威复仇者联盟）
 
@@ -2008,10 +2028,6 @@ w
 #### 《三角战略（Triangle Strategy）豪华版》v1.1.0 中文版
 
 夸克：https://pan.quark.cn/s/d7b1c65f28c2
-
-#### 《卓乐新声（People of Note）》v2025.4.8 中文版
-
-夸克：https://pan.quark.cn/s/29e279c6c5a9
 
 #### 《机动战队VS（Iron Saga VS）》v1.4.6 中文版
 
@@ -3666,10 +3682,6 @@ w
 
 夸克：https://pan.quark.cn/s/4714fd4f3acc
 
-#### 《圣域2 重制版（Sacred 2）Remaster）》vCL16183 汉化 联机版
-
-夸克：https://pan.quark.cn/s/7ba04095dc9d
-
 #### 《轮回修仙传（Re-xiuxian Legend）》v2025.12.9 中文版
 
 夸克：https://pan.quark.cn/s/cfb98fe88d3f
@@ -4518,10 +4530,6 @@ w
 
 夸克：https://pan.quark.cn/s/0c572c4d12c1
 
-#### 《欢欣森活（Mirthwood）》v1.0.94p3 中文版
-
-夸克：https://pan.quark.cn/s/37e861d2401c
-
 #### 《夜下降生2（UNDER NIGHT IN-BIRTH II Sys Celes）豪华版》v1.35 全DLC 中文 联机版（格斗游戏）
 
 夸克：https://pan.quark.cn/s/7c8258ed4b8c
@@ -4829,10 +4837,6 @@ w
 #### 《机械制造者（Trailmakers）》v212.502.732.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/f4faa9506d28
-
-#### 《打骨折超市日记（Discounty）》v1.0.2b 中文版
-
-夸克：https://pan.quark.cn/s/5b65c7c90507
 
 #### 《东方弹幕神乐：失落幻想（Touhou Danmaku Kagura Phantasia Lost）》v1.10.4 全DLC 豪华中文版
 
