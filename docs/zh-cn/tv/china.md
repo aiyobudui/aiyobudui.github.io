@@ -57,9 +57,9 @@
 
 ## 已完结的...
 
-#### 《灵魂摆渡·十年》（2026）4K 24集全（灵魂摆渡十年）
+#### 《灵魂摆渡·十年》（2026）第四季 4K 24集全（灵魂摆渡十年）
 
-夸克：https://pan.quark.cn/s/d2ce8800a433
+夸克：https://pan.quark.cn/s/bdd9ef56d034
 
 迅雷：https://pan.xunlei.com/s/VOuw7CoghwjnX3BHCYZCOHFBA1?pwd=npxb#
 
