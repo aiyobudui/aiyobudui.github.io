@@ -170,7 +170,7 @@
 
 夸克：https://pan.quark.cn/s/322600a046b4
 
-#### 《无人深空 No Man's Sky》v6.36.0 NS整合 中文版
+#### 《无人深空 No Man's Sky》v6.40.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/1811c2306565
 

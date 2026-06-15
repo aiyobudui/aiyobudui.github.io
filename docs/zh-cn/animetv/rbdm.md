@@ -41,6 +41,12 @@
 
 ## 周二
 
+#### 《杖与剑的魔剑谭》（2024-2026）1080P 中字 第二季 更新中.. （附第一季）
+
+夸克：https://pan.quark.cn/s/477f4792e6c5
+
+迅雷：https://pan.xunlei.com/s/VO9OggcxSkPSdjWkObGKyERoA1?pwd=zpyv#
+
 #### 《欢迎来到实力至上主义教室》（2017-2026）1080P 中字 第四季更新中 ..（附1-3季全）
 
 夸克：https://pan.quark.cn/s/472a93441870
@@ -311,12 +317,6 @@
 夸克：https://pan.quark.cn/s/e28c70d98759
 
 迅雷：https://pan.xunlei.com/s/VO053HeWm73_ALc6Z8nLSPqPA1?pwd=esbt#
-
-#### 《杖与剑的魔剑谭》（2024）1080P 日语中字 12集全
-
-夸克：https://pan.quark.cn/s/477f4792e6c5
-
-迅雷：https://pan.xunlei.com/s/VO9OggcxSkPSdjWkObGKyERoA1?pwd=zpyv#
 
 #### 《杀手寓言》（2024）1080P 25集全 动画版（附 真人电影1-2 4K）
 

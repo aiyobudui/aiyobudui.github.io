@@ -68,6 +68,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《亡命迪斯科、死亡迪斯科（Dead as Disco）》v0.8.16 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a1e3f4d62707
+
 #### 《掘地求狗（Pratfall）》v1.2.0.R3791 中文 联机版
 
 夸克：https://pan.quark.cn/s/c334f5bdb88c
