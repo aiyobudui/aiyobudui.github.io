@@ -68,69 +68,32 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
-#### 《亡命迪斯科、死亡迪斯科（Dead as Disco）》v0.8.16 全DLC 中文版
+#### 《超级变色龙（MECCHA CHAMELEON）》v1.3.0 中文 联机版
 
-夸克：https://pan.quark.cn/s/a1e3f4d62707
+夸克：https://pan.quark.cn/s/258c1f8479d8
 
-#### 《掘地求狗（Pratfall）》v1.2.0.R3791 中文 联机版
+#### 《垃圾小子（Junkster）》v01.00 中文版
 
-夸克：https://pan.quark.cn/s/c334f5bdb88c
+夸克：https://pan.quark.cn/s/4fad052505e8
 
-#### 《1348：圣誓（1348 Ex Voto）》v1.50 中文版（1348圣誓）
+#### 《烦恼驿站（Burden Street Station）》v2026.6.16 中文版
 
-夸克：https://pan.quark.cn/s/71da80453541
-
-#### 《欢迎光临（Beastro）》v1.0.2.0 中文版
-
-夸克：https://pan.quark.cn/s/72042dca54a4
-
-#### 《地精捣蛋团（Burglin Gnomes）》v2026.6.12 中文版
-
-夸克：https://pan.quark.cn/s/86a6bc536e54
-
-#### 《桌上谈兵（Tabletop Tavern）》v0.6.11.3 中文版
-
-夸克：https://pan.quark.cn/s/e9973524d0ce
-
-#### 《沃德灵：共生（Voidling Bound）》v76030 中文版
-
-夸克：https://pan.quark.cn/s/3c5de87259a6
-
-#### 《嗜血之王：崛起（Vampires Bloodlord Rising）》v1.5.1.21425 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/a132d017748c
-
-#### 《巫塔战记（Witchspire）》v0.1.0g 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/8b067ec0bc59
-
-#### 《时空迷踪（Crushed In Time）》v1.0.5796 中文版
-
-夸克：https://pan.quark.cn/s/04f83be9c932
-
-#### 《再刷一把2：金色传说（Play Again 2 The Golden Legend）豪华版》v1.00 中文版
-
-夸克：https://pan.quark.cn/s/5b551747701d
-
-#### 《第十三区（Section 13）》v1.1.2 中文版（肉鸽双摇杆射击）
-
-夸克：https://pan.quark.cn/s/669743189221
-
-#### 《兽人与人类（Of Orcs And Men）》v1.02 汉化版
-
-夸克：https://pan.quark.cn/s/e45289072cad
-
-#### 《地下城4（Dungeons 4）豪华版》v1.11 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c7099b0f2e3e
-
-#### 《佩布尔骑士（Pebble Knights）》v0.1.13 中文 联机版
-
-夸克：https://pan.quark.cn/s/a638eaff7636
+夸克：https://pan.quark.cn/s/f981b22eeee5
 
 ---
 
 ## 最近更新
+
+#### 《极限竞速：地平线6（Forza Horizon 6）》v375.327 全DLC 中文 联机版（更新）
+#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7c5fdf0323c4
+
+迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《北欧之烬：诸神黄昏幸存者（Nordic Ashes Survivors of Ragnarok）终结版》v3.1.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/88d9eb2ab93c
 
 #### 《哥特王朝 重制版（Gothic 1 Remake）》v168781 中文版
 
@@ -148,6 +111,7 @@
 
 夸克：https://pan.quark.cn/s/29e279c6c5a9
 
+#### 《圣域3（Sacred 3）黄金版》v4 全DLC 汉化版
 #### 《圣域2 重制版（Sacred 2）Remaster）》v20077 汉化 联机版
 
 夸克：https://pan.quark.cn/s/7ba04095dc9d
@@ -190,51 +154,6 @@
 夸克：https://pan.quark.cn/s/23c16824e3ac
 
 迅雷：https://pan.xunlei.com/s/VNqmp1LM5ed8XNX-HRSGTE3dA1?pwd=icd2#
-
-#### 《心之眼（MindsEye）豪华版》v7608873 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1d8bcee97d85
-
-#### 《烤串大厨 餐厅模拟器（Kebab Chefs Restaurant Simulator）》v1.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/780e085dd9de
-
-#### 《哈迪斯2（Hades II）》v1.138517 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/74b6e4cc96f7
-
-迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
-
-#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.18.3.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/e2644eb87c21
-
-#### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.14.1.19644 中文版
-
-夸克：https://pan.quark.cn/s/652d7102951b
-
-#### 《轮回保险公司（RIP Reincarnation Insurance Program）》v0.8.4 中文版
-
-夸克：https://pan.quark.cn/s/2df93c0d3df0
-
-#### 《至暗之光：幸存者（Dark Light Survivor）》v1.1.06081301 中文版（肉鸽生存）
-
-夸克：https://pan.quark.cn/s/0e32fd71020d
-
-#### 《PROHIBEAST》v1.0.3 中文版（策略游戏）
-
-夸克：https://pan.quark.cn/s/dd6f8ef9783e
-
-#### 《沙丘：帝国（Dune Imperium）》v4.0.0.1702 全DLC 中文 联机版（沙丘帝国 桌游）
-
-夸克：https://pan.quark.cn/s/c021a2b6f46a
-
-#### 《极限竞速：地平线6（Forza Horizon 6）》v364.933 全DLC 中文 联机版
-#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7c5fdf0323c4
-
-迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
 ---
 
@@ -391,6 +310,104 @@
 ---
 
 ## 已有游戏
+
+#### 《心之眼（MindsEye）豪华版》v7608873 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1d8bcee97d85
+
+#### 《烤串大厨 餐厅模拟器（Kebab Chefs Restaurant Simulator）》v1.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/780e085dd9de
+
+#### 《哈迪斯2（Hades II）》v1.138517 中文版（附第一部）
+
+夸克：https://pan.quark.cn/s/74b6e4cc96f7
+
+迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
+
+#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.18.3.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/e2644eb87c21
+
+#### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.14.1.19644 中文版
+
+夸克：https://pan.quark.cn/s/652d7102951b
+
+#### 《轮回保险公司（RIP Reincarnation Insurance Program）》v0.8.4 中文版
+
+夸克：https://pan.quark.cn/s/2df93c0d3df0
+
+#### 《至暗之光：幸存者（Dark Light Survivor）》v1.1.06081301 中文版（肉鸽生存）
+
+夸克：https://pan.quark.cn/s/0e32fd71020d
+
+#### 《PROHIBEAST》v1.0.3 中文版（策略游戏）
+
+夸克：https://pan.quark.cn/s/dd6f8ef9783e
+
+#### 《沙丘：帝国（Dune Imperium）》v4.0.0.1702 全DLC 中文 联机版（沙丘帝国 桌游）
+
+夸克：https://pan.quark.cn/s/c021a2b6f46a
+
+#### 《亡命迪斯科、死亡迪斯科（Dead as Disco）》v0.8.16 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a1e3f4d62707
+
+#### 《掘地求狗（Pratfall）》v1.2.0.R3791 中文 联机版
+
+夸克：https://pan.quark.cn/s/c334f5bdb88c
+
+#### 《1348：圣誓（1348 Ex Voto）》v1.50 中文版（1348圣誓）
+
+夸克：https://pan.quark.cn/s/71da80453541
+
+#### 《欢迎光临（Beastro）》v1.0.2.0 中文版
+
+夸克：https://pan.quark.cn/s/72042dca54a4
+
+#### 《地精捣蛋团（Burglin Gnomes）》v2026.6.12 中文版
+
+夸克：https://pan.quark.cn/s/86a6bc536e54
+
+#### 《桌上谈兵（Tabletop Tavern）》v0.6.11.3 中文版
+
+夸克：https://pan.quark.cn/s/e9973524d0ce
+
+#### 《沃德灵：共生（Voidling Bound）》v76030 中文版
+
+夸克：https://pan.quark.cn/s/3c5de87259a6
+
+#### 《嗜血之王：崛起（Vampires Bloodlord Rising）》v1.5.1.21425 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/a132d017748c
+
+#### 《巫塔战记（Witchspire）》v0.1.0g 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/8b067ec0bc59
+
+#### 《时空迷踪（Crushed In Time）》v1.0.5796 中文版
+
+夸克：https://pan.quark.cn/s/04f83be9c932
+
+#### 《再刷一把2：金色传说（Play Again 2 The Golden Legend）豪华版》v1.00 中文版
+
+夸克：https://pan.quark.cn/s/5b551747701d
+
+#### 《第十三区（Section 13）》v1.1.2 中文版（肉鸽双摇杆射击）
+
+夸克：https://pan.quark.cn/s/669743189221
+
+#### 《兽人与人类（Of Orcs And Men）》v1.02 汉化版
+
+夸克：https://pan.quark.cn/s/e45289072cad
+
+#### 《地下城4（Dungeons 4）豪华版》v1.11 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c7099b0f2e3e
+
+#### 《佩布尔骑士（Pebble Knights）》v0.1.13 中文 联机版
+
+夸克：https://pan.quark.cn/s/a638eaff7636
 
 #### 《灰烬（Ashen）终结版》v1.0.2 全DLC 中文版
 
@@ -6943,10 +6960,6 @@ w
 #### 《龙山英雄（Heroes Mount Dragon）》v2025.6.27 中文版
 
 夸克：https://pan.quark.cn/s/db98d984c910
-
-#### 《北欧之烬：诸神黄昏幸存者（Nordic Ashes Survivors of Ragnarok）》v2.0.4 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/88d9eb2ab93c
 
 #### 《王国两位君主（Kingdom Two Crowns）》v2.2.0 全DLC 中文 联机版
 
