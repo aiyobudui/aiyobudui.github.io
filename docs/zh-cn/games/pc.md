@@ -72,6 +72,22 @@
 
 夸克：https://pan.quark.cn/s/258c1f8479d8
 
+#### 《零售地狱（Retail Hell）》v1.1.11 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/5ab2b8b78587
+
+#### 《Meltopia》v01.01.42 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1d35aea459d0
+
+#### 《Pain Pain Go Away》v202606031256 中文版（疼痛滚出）
+
+夸克：https://pan.quark.cn/s/4295428a85f9
+
+#### 《哇咔纳传说（Tales Of Wakana）》v1.078 中文版
+
+夸克：https://pan.quark.cn/s/472d17c7b172
+
 #### 《女巫史诗（Gastova The Witches of Arkana）》v2026.6.17 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/0b779a3dd9be
@@ -99,15 +115,33 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
-#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v0.84.75 全DLC 中文版
+#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v0.84.75 (1.0.0.0) 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/e69d68ac66af
 
 迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
 
+#### 《死亡细胞（Dead Cells）》v2026.6.16 全DLC 中文版（重生细胞）
+
+夸克：https://pan.quark.cn/s/ed512bf9e6b5
+
+迅雷：https://pan.xunlei.com/s/VNq30YIo9jq75Ea01kpT-6ovA1?pwd=v5bh#
+
+#### 《将军：古典时代（Strategos）》v1899 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/52841d455972
+
 #### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/692dc066767e
+
+#### 《肉鸽指挥部（Rogue Command）》v1.0.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c157684ee9e2
+
+#### 《征服之歌（Songs of Conquest）完全版》v1.10.4 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e53b0330c930
 
 #### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》v1.23b 全DLC 中文版（魂游）
 
@@ -1157,10 +1191,6 @@ w
 #### 《暴打联盟（Underling Uprising）》v10.0.404 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/e79de75324da
-
-#### 《肉鸽指挥部（Rogue Command）》v1.0.3 中文版
-
-夸克：https://pan.quark.cn/s/c157684ee9e2
 
 #### 《尸姬之梦（Dream of Corpse Lady）》v1.272 中文版
 
@@ -3694,10 +3724,6 @@ w
 #### 《茂林源记（Root：The Marauder Expansion）收藏家版》v2.1.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/fdb300c860c5
-
-#### 《征服之歌（Songs of Conquest）完全版》v1.8.1 全DLC 中文版（回合制策略）
-
-夸克：https://pan.quark.cn/s/e53b0330c930
 
 #### 《无感染区（Infection Free Zone）》v0.25.10.25 2 中文版
 
@@ -9267,12 +9293,6 @@ w
 夸克：https://pan.quark.cn/s/b184630ec43c
 
 迅雷：https://pan.xunlei.com/s/VNy51nNsHIID7bECYk4n0-PkA1?pwd=urtf#
-
-#### 《死亡细胞（Dead Cells）》v35.8a 全DLC 豪华中文版（重生细胞）
-
-夸克：https://pan.quark.cn/s/ed512bf9e6b5
-
-迅雷：https://pan.xunlei.com/s/VNq30YIo9jq75Ea01kpT-6ovA1?pwd=v5bh#
 
 #### 《西洋镜建设者（Diorama Builder）》v1.1.3 全DLC 豪华中文版
 
