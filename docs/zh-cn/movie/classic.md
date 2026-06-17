@@ -18,6 +18,10 @@
 
 ---
 
+#### 《秘密特工 The Man from U.N.C.L.E. 》（2015）4K HDR 中英配音 内封特效字幕
+
+夸克：https://pan.quark.cn/s/35f8cda5f335
+
 #### 《直到黎明》（2025）1080P 中英双字
 
 夸克：https://pan.quark.cn/s/73103fa14a43

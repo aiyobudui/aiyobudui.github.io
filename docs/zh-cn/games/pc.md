@@ -72,6 +72,10 @@
 
 夸克：https://pan.quark.cn/s/258c1f8479d8
 
+#### 《女巫史诗（Gastova The Witches of Arkana）》v2026.6.17 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0b779a3dd9be
+
 #### 《垃圾小子（Junkster）》v01.00 中文版
 
 夸克：https://pan.quark.cn/s/4fad052505e8
@@ -79,6 +83,10 @@
 #### 《烦恼驿站（Burden Street Station）》v2026.6.16 中文版
 
 夸克：https://pan.quark.cn/s/f981b22eeee5
+
+#### 《流氓软件（Malware）》最新 中文版
+
+夸克：https://pan.quark.cn/s/59d5933d0a64
 
 ---
 
@@ -90,6 +98,20 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v0.84.75 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e69d68ac66af
+
+迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
+
+#### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/692dc066767e
+
+#### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》v1.23b 全DLC 中文版（魂游）
+
+夸克：https://pan.quark.cn/s/f45144acd21e
 
 #### 《北欧之烬：诸神黄昏幸存者（Nordic Ashes Survivors of Ragnarok）终结版》v3.1.1 全DLC 中文版
 
@@ -2238,10 +2260,6 @@ w
 
 夸克：https://pan.quark.cn/s/c164538c9a59
 
-#### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/692dc066767e
-
 #### 《杀手 暗杀世界（HITMAN World of Assassination）豪华版》v3.260.1 全DLC 中文版（杀手1 杀手2 杀手3)
 
 夸克：https://pan.quark.cn/s/88d4e323e453
@@ -2249,12 +2267,6 @@ w
 #### 《龙的传人 孤旅（Dragonkin The Banished）》v1.3.66.54113 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/8d2b0b6ea1be
-
-#### 《太吾绘卷（The Scroll Of Taiwu）》v0.0.76.43 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e69d68ac66af
-
-迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
 
 #### 《云之国（Cloudheim）》v98877 全DLC 中文 联机版
 
@@ -2695,10 +2707,6 @@ w
 #### 《刺客信条：幻景（Assassins Creed Mirage）》v1.11 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/2677d84177be
-
-#### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》v1.20 全DLC 中文版（魂游）
-
-夸克：https://pan.quark.cn/s/f45144acd21e
 
 #### 《模拟人生4（The Sims 4）豪华版》v1.121.372.1020 全DLC 中文 联机版
 
