@@ -72,6 +72,14 @@
 
 夸克：https://pan.quark.cn/s/258c1f8479d8
 
+#### 《将军：古典时代（Strategos）》v1899 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/52841d455972
+
+#### 《雷霆孤影（VOIN）》v0.5.0.56 中文版
+
+夸克：https://pan.quark.cn/s/9386d035fbde
+
 #### 《零售地狱（Retail Hell）》v1.1.11 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/5ab2b8b78587
@@ -126,10 +134,6 @@
 夸克：https://pan.quark.cn/s/ed512bf9e6b5
 
 迅雷：https://pan.xunlei.com/s/VNq30YIo9jq75Ea01kpT-6ovA1?pwd=v5bh#
-
-#### 《将军：古典时代（Strategos）》v1899 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/52841d455972
 
 #### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版（新增DLC）
 
