@@ -135,6 +135,10 @@
 
 迅雷：https://pan.xunlei.com/s/VNq30YIo9jq75Ea01kpT-6ovA1?pwd=v5bh#
 
+#### 《失落城堡2（Lost Castle 2）》v1.0.0.5.3 中文 联机版
+
+夸克：https://pan.quark.cn/s/f391be81e520
+
 #### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/692dc066767e
@@ -158,6 +162,23 @@
 #### 《哥特王朝 重制版（Gothic 1 Remake）》v168781 中文版
 
 夸克：https://pan.quark.cn/s/6b03eda75ca7
+
+#### 《战锤40K：机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版
+#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v13.1.0.1 全DLC 中文版（更新）
+#### 《战锤40K 星际战士 大师锻造版》v1.0.156.0 全DLC 汉化版
+#### 《战锤40K 星际战士（Warhammer 40000 Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
+#### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
+#### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
+#### 《战锤40K 战争黎明 终极版（Warhammer 40000 Dawn of War）终极版》v2025.8.15 中文版
+#### 《战锤40K 角斗士之战争圣器（Warhammer 40000 Gladius Relics of War）》v1.16.2 全DLC 中文版
+#### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
+#### 《战锤40K 爆矢枪（Warhammer 40000 Boltgun）》v1.22.68871.3 全DLC 豪华中文版
+#### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）》v1.14.0 全DLC 豪华中文版
+#### 《战锤 末世鼠疫2（Warhammer Vermintide 2）》v5.5.7 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/42d400d7daa0
+
+迅雷：https://pan.xunlei.com/s/VO66AjKFj2GlFllW69pKVBa8A1?pwd=uerd#
 
 #### 《打骨折超市日记（Discounty）》v1.2.0 中文版
 
@@ -184,9 +205,9 @@
 
 夸克：https://pan.quark.cn/s/608fc7dd1539
 
-#### 《失落城堡2（Lost Castle 2）》v1.0.0.0.16 中文 联机版
+---
 
-夸克：https://pan.quark.cn/s/f391be81e520
+## 顶置游戏
 
 #### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.9.85.0 全DLC 中文配音版
 #### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
@@ -214,10 +235,6 @@
 夸克：https://pan.quark.cn/s/23c16824e3ac
 
 迅雷：https://pan.xunlei.com/s/VNqmp1LM5ed8XNX-HRSGTE3dA1?pwd=icd2#
-
----
-
-## 顶置游戏
 
 #### 《四海兄弟：故乡（Mafia The Old Country）豪华版》Build.20951841 全DLC 中文版（非虚拟化）
 
@@ -556,23 +573,6 @@
 #### 《以太与铁（Aether and Iron）》v1.1.354 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/b9cbd3570c95
-
-#### 《战锤40K：机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版（新）
-#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v12.3.0.1 全DLC 中文版
-#### 《战锤40K 星际战士 大师锻造版》v1.0.156.0 全DLC 汉化版
-#### 《战锤40K 星际战士（Warhammer 40000 Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
-#### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
-#### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
-#### 《战锤40K 战争黎明 终极版（Warhammer 40000 Dawn of War）终极版》v2025.8.15 中文版
-#### 《战锤40K 角斗士之战争圣器（Warhammer 40000 Gladius Relics of War）》v1.16.2 全DLC 中文版
-#### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
-#### 《战锤40K 爆矢枪（Warhammer 40000 Boltgun）》v1.22.68871.3 全DLC 豪华中文版
-#### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）》v1.14.0 全DLC 豪华中文版
-#### 《战锤 末世鼠疫2（Warhammer Vermintide 2）》v5.5.7 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/42d400d7daa0
-
-迅雷：https://pan.xunlei.com/s/VO66AjKFj2GlFllW69pKVBa8A1?pwd=uerd#
 
 #### 《无人深空（No Man's Sky）》v6.44 全DLC 中文 联机版
 
