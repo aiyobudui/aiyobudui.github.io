@@ -23,6 +23,14 @@
 
 ## 周一
 
+#### 《Re：从零开始的异世界生活》（2016-2026）第四季 更新中..（附1-3季全+OVA+小说）
+
+夸克：https://pan.quark.cn/s/fa1ca3a14873
+
+迅雷：https://pan.xunlei.com/s/VNnS_ZufLisABwq0eExVeAFyA1?pwd=x6mm#
+
+阿里：<https://www.aliyundrive.com/s/5gQZNwPo9LA>
+
 #### 《关于我转生变成史莱姆这档事》第四季 更新中..（附1-3季+OAD+剧场版+番外+小说）
 
 夸克：https://pan.quark.cn/s/c4a48cb75483
@@ -195,14 +203,6 @@
 #### 《药屋少女的呢喃》（2023-2025）1-2季全 4K  中字（附漫画+小说）
 
 夸克：https://pan.quark.cn/s/5ea763c94ae6
-
-#### 《Re：从零开始的异世界生活》（2016-2024）第三季更新中..（1-2季全+新编版+小说）
-
-夸克：https://pan.quark.cn/s/fa1ca3a14873
-
-迅雷：https://pan.xunlei.com/s/VNnS_ZufLisABwq0eExVeAFyA1?pwd=x6mm#
-
-阿里：<https://www.aliyundrive.com/s/5gQZNwPo9LA>
 
 #### 《物语系列 外传季&怪物季／愚物语&抚物语》1-16季 物语系列合集+原著小说
 
