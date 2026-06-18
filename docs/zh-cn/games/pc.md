@@ -72,6 +72,10 @@
 
 夸克：https://pan.quark.cn/s/258c1f8479d8
 
+#### 《全职猎人（HUNTER×HUNTER NEN×IMPACT）豪华版》v1.4.1 全DLC 中文 联机版（格斗游戏）
+
+夸克：https://pan.quark.cn/s/af8ba2de0a6d
+
 #### 《将军：古典时代（Strategos）》v1899 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/52841d455972
@@ -123,11 +127,21 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《潜水员戴夫（Dave the Diver）豪华版》v1.0.6.2018 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/2ed8f0fbce63
+
+迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
+
 #### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v0.84.75 (1.0.0.0) 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/e69d68ac66af
 
 迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
+
+#### 《横跨方尖碑（Across the Obelisk）》v1.7.6 全DLC 中文 联机版（卡牌游戏）
+
+夸克：https://pan.quark.cn/s/5c3c750d0248
 
 #### 《死亡细胞（Dead Cells）》v2026.6.16 全DLC 中文版（重生细胞）
 
@@ -3393,12 +3407,6 @@ w
 
 夸克：https://pan.quark.cn/s/d41c34afa726
 
-#### 《潜水员戴夫（Dave the Diver）豪华版》v1.0.5.1781 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/2ed8f0fbce63
-
-迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
-
 #### 《动物收容所2（Animal Shelter 2）》v1.1.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/1057e0a53bfd
@@ -5136,10 +5144,6 @@ w
 #### 《鼠托邦（Ratopia）》v1.0.0520 中文版（策略生存建设）
 
 夸克：https://pan.quark.cn/s/f5fb93d1c493
-
-#### 《横跨方尖碑（Across the Obelisk）》v1.6.20 全DLC 中文 联机版（卡牌游戏）
-
-夸克：https://pan.quark.cn/s/5c3c750d0248
 
 #### 《崩溃大陆2（Crashlands 2）》v1.3.0.RC.2 中文版（附第1部）
 
