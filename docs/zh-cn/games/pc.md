@@ -68,9 +68,29 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
-#### 《超级变色龙（MECCHA CHAMELEON）》v1.3.0 中文 联机版
+#### 《后室 迷失奔跑者（Backrooms Lost Runners）》v2026.6.19 中文版
 
-夸克：https://pan.quark.cn/s/258c1f8479d8
+夸克：https://pan.quark.cn/s/4ad81423662c
+
+#### 《OPUS：心相吾山（OPUS Prism Peak）》v1.31.0.72 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b703fd1ebdaa
+
+#### 《Fretless - The Wrath of Riffson》v1.5.08 中文版（像素风回合制音游）
+
+夸克：https://pan.quark.cn/s/cf312234f90a
+
+#### 《青蛙小队（Frog Sqwad）》v1.3.5954 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/ffaca430e5ed
+
+#### 《囚徒的柜台（Tellers Duty）》v1.1.6 中文版
+
+夸克：https://pan.quark.cn/s/fff14931ed7f
+
+#### 《城门血战（The Gate Must Stand）》v1.01 中文版
+
+夸克：https://pan.quark.cn/s/f937c60cdb21
 
 #### 《全职猎人（HUNTER×HUNTER NEN×IMPACT）豪华版》v1.4.1 全DLC 中文 联机版（格斗游戏）
 
@@ -133,11 +153,31 @@
 
 迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
 
+#### 《超级变色龙（MECCHA CHAMELEON）》v1.4.1 中文 联机版(躲猫猫游戏)
+
+夸克：https://pan.quark.cn/s/258c1f8479d8
+
+#### 《Until Then 豪华版》Build.23785927 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/be8f3d05c804
+
+#### 《PEAK》v1.63a 中文 联机版（多人联机爬山）
+
+夸克：https://pan.quark.cn/s/f56bd5be8765
+
+#### 《巫火之火（Witchfire）》v0.9.0 中文版
+
+夸克：https://pan.quark.cn/s/ceeea7de34b7
+
 #### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v0.84.75 (1.0.0.0) 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/e69d68ac66af
 
 迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
+
+#### 《复古物语（Vintage Story）》v1.22.3 中文 联机版
+
+夸克：https://pan.quark.cn/s/36e3374ce76a
 
 #### 《横跨方尖碑（Across the Obelisk）》v1.7.6 全DLC 中文 联机版（卡牌游戏）
 
@@ -1782,10 +1822,6 @@ w
 #### 《东方冰之勇者记（Touhou Hero of Ice Fairy）》v2026.4.24 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a9f44c669cda
-
-#### 《PEAK》v1.61.b 中文 联机版（多人联机爬山）
-
-夸克：https://pan.quark.cn/s/f56bd5be8765
 
 #### 《塔楼统治（Tower Dominion）》v1.66 全DLC 中文版（塔防游戏）
 
@@ -6479,10 +6515,6 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNr0PkP9ITFWhQdHe8CT2ksnA1?pwd=696x#
 
-#### 《巫火之火（Witchfire）》v0.7.2 汉化版（附汉化补丁）
-
-夸克：https://pan.quark.cn/s/ceeea7de34b7
-
 #### 《星河战队：人类指挥部（Starship Troopers Terran Command）》v5.0.7 中文版
 
 夸克：https://pan.quark.cn/s/c2580f1ce6bf
@@ -9708,10 +9740,6 @@ w
 
 夸克：https://pan.quark.cn/s/79965ca81c2b
 
-#### 《Until Then》v2024.11.22 中文版
-
-夸克：https://pan.quark.cn/s/be8f3d05c804
-
 #### 《回溯依存（The Chrono Jotter）》v1.02 中文版
 
 夸克：https://pan.quark.cn/s/1a441ce5d9c1
@@ -11871,10 +11899,6 @@ w
 #### 《天神镇（The Immortal Mayor）》v1.1.08 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/816888593801
-
-#### 《复古物语（Vintage Story）》最新 中文联机版
-
-夸克：https://pan.quark.cn/s/36e3374ce76a
 
 #### 《毛茸茸的先生：火辣肌肉（Mister Furry：Hot Muscles）》最新 中文版
 

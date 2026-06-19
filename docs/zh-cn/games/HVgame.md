@@ -24,6 +24,10 @@
 
 ## 已有游戏
 
+#### 《冒险家艾略特的千年奇谭（The Adventures of Elliot The MT）豪华版》v2026.6.19 中文版
+
+夸克：https://pan.quark.cn/s/40f4612fc7d7
+
 #### 《007初露锋芒（007 First Light）》Build.23388781 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5d2d74be4eca
