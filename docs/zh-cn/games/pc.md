@@ -68,6 +68,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《Maseylia 过去的回响（Maseylia Echoes of the Past）》v2026.6.19 中文版
+
+夸克：https://pan.quark.cn/s/aaa51569959e
+
 #### 《后室 迷失奔跑者（Backrooms Lost Runners）》v2026.6.19 中文版
 
 夸克：https://pan.quark.cn/s/4ad81423662c
@@ -108,39 +112,11 @@
 
 夸克：https://pan.quark.cn/s/5ab2b8b78587
 
-#### 《Meltopia》v01.01.42 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1d35aea459d0
-
-#### 《Pain Pain Go Away》v202606031256 中文版（疼痛滚出）
-
-夸克：https://pan.quark.cn/s/4295428a85f9
-
-#### 《哇咔纳传说（Tales Of Wakana）》v1.078 中文版
-
-夸克：https://pan.quark.cn/s/472d17c7b172
-
-#### 《女巫史诗（Gastova The Witches of Arkana）》v2026.6.17 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/0b779a3dd9be
-
-#### 《垃圾小子（Junkster）》v01.00 中文版
-
-夸克：https://pan.quark.cn/s/4fad052505e8
-
-#### 《烦恼驿站（Burden Street Station）》v2026.6.16 中文版
-
-夸克：https://pan.quark.cn/s/f981b22eeee5
-
-#### 《流氓软件（Malware）》最新 中文版
-
-夸克：https://pan.quark.cn/s/59d5933d0a64
-
 ---
 
 ## 最近更新
 
-#### 《极限竞速：地平线6（Forza Horizon 6）》v375.327 全DLC 中文 联机版（更新）
+#### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v379.939 全DLC 中文 联机版（更新）
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
@@ -168,6 +144,10 @@
 #### 《巫火之火（Witchfire）》v0.9.0 中文版
 
 夸克：https://pan.quark.cn/s/ceeea7de34b7
+
+#### 《幸福工厂（Satisfactory）》v1.2.3.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/84e5889663ed
 
 #### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v0.84.75 (1.0.0.0) 全DLC 中文版
 
@@ -233,31 +213,6 @@
 夸克：https://pan.quark.cn/s/42d400d7daa0
 
 迅雷：https://pan.xunlei.com/s/VO66AjKFj2GlFllW69pKVBa8A1?pwd=uerd#
-
-#### 《打骨折超市日记（Discounty）》v1.2.0 中文版
-
-夸克：https://pan.quark.cn/s/5b65c7c90507
-
-#### 《欢欣森活（Mirthwood）》v1.1.5p1 中文版
-
-夸克：https://pan.quark.cn/s/37e861d2401c
-
-#### 《卓乐新声（People of Note）》v159874 中文版
-
-夸克：https://pan.quark.cn/s/29e279c6c5a9
-
-#### 《圣域3（Sacred 3）黄金版》v4 全DLC 汉化版
-#### 《圣域2 重制版（Sacred 2）Remaster）》v20077 汉化 联机版
-
-夸克：https://pan.quark.cn/s/7ba04095dc9d
-
-#### 《归零巡礼：亡谍镇魂曲（ZERO PARADES For Dead Spies）》v1.1.37407 中文版
-
-夸克：https://pan.quark.cn/s/31ffbe847fed
-
-#### 《缺氧（Oxygen Not Included）完整版》v59-736649 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/608fc7dd1539
 
 ---
 
@@ -441,6 +396,59 @@
 ---
 
 ## 已有游戏
+
+#### 《Meltopia》v01.01.42 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1d35aea459d0
+
+#### 《Pain Pain Go Away》v202606031256 中文版（疼痛滚出）
+
+夸克：https://pan.quark.cn/s/4295428a85f9
+
+#### 《哇咔纳传说（Tales Of Wakana）》v1.078 中文版
+
+夸克：https://pan.quark.cn/s/472d17c7b172
+
+#### 《女巫史诗（Gastova The Witches of Arkana）》v2026.6.17 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0b779a3dd9be
+
+#### 《垃圾小子（Junkster）》v01.00 中文版
+
+夸克：https://pan.quark.cn/s/4fad052505e8
+
+#### 《烦恼驿站（Burden Street Station）》v2026.6.16 中文版
+
+夸克：https://pan.quark.cn/s/f981b22eeee5
+
+#### 《流氓软件（Malware）》最新 中文版
+
+夸克：https://pan.quark.cn/s/59d5933d0a64
+
+#### 《打骨折超市日记（Discounty）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/5b65c7c90507
+
+#### 《欢欣森活（Mirthwood）》v1.1.5p1 中文版
+
+夸克：https://pan.quark.cn/s/37e861d2401c
+
+#### 《卓乐新声（People of Note）》v159874 中文版
+
+夸克：https://pan.quark.cn/s/29e279c6c5a9
+
+#### 《圣域3（Sacred 3）黄金版》v4 全DLC 汉化版
+#### 《圣域2 重制版（Sacred 2）Remaster）》v20077 汉化 联机版
+
+夸克：https://pan.quark.cn/s/7ba04095dc9d
+
+#### 《归零巡礼：亡谍镇魂曲（ZERO PARADES For Dead Spies）》v1.1.37407 中文版
+
+夸克：https://pan.quark.cn/s/31ffbe847fed
+
+#### 《缺氧（Oxygen Not Included）完整版》v59-736649 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/608fc7dd1539
 
 #### 《心之眼（MindsEye）豪华版》v7608873 全DLC 中文版
 
@@ -5626,10 +5634,6 @@ w
 #### 《奥萨里昂：终极之战（Ortharion The Last Battle）》v0.6 中文版（奥塔里昂：最后的战斗）
 
 夸克：https://pan.quark.cn/s/e74977c76a51
-
-#### 《幸福工厂（Satisfactory）》v1.1.1.4 中文 联机版
-
-夸克：https://pan.quark.cn/s/84e5889663ed
 
 #### 《出租生涯：模拟城市驾驶（Taxi Life  A City Driving Simulator）》v1.17.30088 全DLC 中文版
 
