@@ -62,7 +62,7 @@
 
 夸克：https://pan.quark.cn/s/adfe7068bd2c
 
-#### 《异星探险家  ASTRONEER》v1.40.3.0 NS整合 全DLC 美区中文版
+#### 《异星探险家  ASTRONEER》v1.41.4.0 NS整合 全DLC 美区中文版
 
 夸克：https://pan.quark.cn/s/e74dfe085cb3
 
@@ -70,7 +70,7 @@
 
 夸克：https://pan.quark.cn/s/f1f5bb9cd304
 
-#### 《拾光旅人 Outbound》v2.6.1 NS整合 中文版
+#### 《拾光旅人 Outbound》v3.2.1 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/fb46d24d7cb7
 
@@ -106,7 +106,7 @@
 
 夸克：https://pan.quark.cn/s/04f93cc69e2d
 
-#### 《潜水员戴夫 DAVE THE DIVER》v1.0.5.1111 NS整合 全DLC 美区中文版
+#### 《潜水员戴夫 DAVE THE DIVER》v1.0.6.1161 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/287adeaffadc
 
@@ -254,11 +254,11 @@
 
 夸克：https://pan.quark.cn/s/31c75e066797
 
-#### 《小小梦魇3 Little Nightmares III》v1.0.5 NS整合 全DLC 中文版
+#### 《小小梦魇3 Little Nightmares III》v1.1.0 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/614a0eba58bc
 
-#### 《最终幻想战略版 伊瓦利斯编年史》v1.2.0 NS整合 中文版
+#### 《最终幻想战略版 伊瓦利斯编年史》v1.5.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/6cb1efda4603
 
@@ -378,7 +378,7 @@
 
 夸克：https://pan.quark.cn/s/dc3b513887ff
 
-#### 《喷射战士3 Splatoon 3》v11.1.0 NS整合 全DLC 中文版
+#### 《喷射战士3 Splatoon 3》v11.2.0 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/10a29ab26440
 

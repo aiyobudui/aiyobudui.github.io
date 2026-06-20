@@ -68,6 +68,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《女王的游戏：盛世天下 媚娘篇（Road to Empress）》Build.22921822 全DLC 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/cdd597341b60
+
 #### 《Maseylia 过去的回响（Maseylia Echoes of the Past）》v2026.6.19 中文版
 
 夸克：https://pan.quark.cn/s/aaa51569959e
