@@ -980,7 +980,7 @@
 
 阿里：<https://www.aliyundrive.com/s/uf6yT3m4J5e>
 
-#### 《后翼弃兵》（2020）1080P + 4K HDR中英字幕（高分美剧又名：女王的棋局）
+#### 《后翼弃兵》（2020）4K HDR中英字幕（又名：女王的棋局）
 
 夸克：https://pan.quark.cn/s/d72e5bf11af7
 

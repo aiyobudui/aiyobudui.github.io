@@ -1338,11 +1338,6 @@ body:not([data-platform^="Mac"]) .sidebar::-webkit-scrollbar-thumb {
     }
 }
 
-.sidebar-nav li>a:before,
-.sidebar-nav li>strong:before {
-    display: inline-block;
-}
-
 .sidebar-nav li>a {
     background-repeat: var(--sidebar-nav-pagelink-background-repeat);
     background-size: var(--sidebar-nav-pagelink-background-size);
@@ -1408,86 +1403,6 @@ body:not([data-platform^="Mac"]) .sidebar::-webkit-scrollbar-thumb {
 
 .sidebar-nav li.collapse .app-sub-sidebar {
     display: none;
-}
-
-.sidebar-nav>ul>li>a:before {
-    content: var(--sidebar-nav-link-before-content-l1,
-            var(--sidebar-nav-link-before-content));
-    margin: var(--sidebar-nav-link-before-margin-l1,
-            var(--sidebar-nav-link-before-margin));
-    color: var(--sidebar-nav-link-before-color-l1,
-            var(--sidebar-nav-link-before-color));
-}
-
-.sidebar-nav>ul>li.active>a:before {
-    content: var(--sidebar-nav-link-before-content-l1--active,
-            var(--sidebar-nav-link-before-content--active,
-                var(--sidebar-nav-link-before-content-l1,
-                    var(--sidebar-nav-link-before-content))));
-    color: var(--sidebar-nav-link-before-color-l1--active,
-            var(--sidebar-nav-link-before-color--active,
-                var(--sidebar-nav-link-before-color-l1,
-                    var(--sidebar-nav-link-before-color))));
-}
-
-.sidebar-nav>ul>li>ul>li>a:before {
-    content: var(--sidebar-nav-link-before-content-l2,
-            var(--sidebar-nav-link-before-content));
-    margin: var(--sidebar-nav-link-before-margin-l2,
-            var(--sidebar-nav-link-before-margin));
-    color: var(--sidebar-nav-link-before-color-l2,
-            var(--sidebar-nav-link-before-color));
-}
-
-.sidebar-nav>ul>li>ul>li.active>a:before {
-    content: var(--sidebar-nav-link-before-content-l2--active,
-            var(--sidebar-nav-link-before-content--active,
-                var(--sidebar-nav-link-before-content-l2,
-                    var(--sidebar-nav-link-before-content))));
-    color: var(--sidebar-nav-link-before-color-l2--active,
-            var(--sidebar-nav-link-before-color--active,
-                var(--sidebar-nav-link-before-color-l2,
-                    var(--sidebar-nav-link-before-color))));
-}
-
-.sidebar-nav>ul>li>ul>li>ul>li>a:before {
-    content: var(--sidebar-nav-link-before-content-l3,
-            var(--sidebar-nav-link-before-content));
-    margin: var(--sidebar-nav-link-before-margin-l3,
-            var(--sidebar-nav-link-before-margin));
-    color: var(--sidebar-nav-link-before-color-l3,
-            var(--sidebar-nav-link-before-color));
-}
-
-.sidebar-nav>ul>li>ul>li>ul>li.active>a:before {
-    content: var(--sidebar-nav-link-before-content-l3--active,
-            var(--sidebar-nav-link-before-content--active,
-                var(--sidebar-nav-link-before-content-l3,
-                    var(--sidebar-nav-link-before-content))));
-    color: var(--sidebar-nav-link-before-color-l3--active,
-            var(--sidebar-nav-link-before-color--active,
-                var(--sidebar-nav-link-before-color-l3,
-                    var(--sidebar-nav-link-before-color))));
-}
-
-.sidebar-nav>ul>li>ul>li>ul>li>ul>li>a:before {
-    content: var(--sidebar-nav-link-before-content-l4,
-            var(--sidebar-nav-link-before-content));
-    margin: var(--sidebar-nav-link-before-margin-l4,
-            var(--sidebar-nav-link-before-margin));
-    color: var(--sidebar-nav-link-before-color-l4,
-            var(--sidebar-nav-link-before-color));
-}
-
-.sidebar-nav>ul>li>ul>li>ul>li>ul>li.active>a:before {
-    content: var(--sidebar-nav-link-before-content-l4--active,
-            var(--sidebar-nav-link-before-content--active,
-                var(--sidebar-nav-link-before-content-l4,
-                    var(--sidebar-nav-link-before-content))));
-    color: var(--sidebar-nav-link-before-color-l4--active,
-            var(--sidebar-nav-link-before-color--active,
-                var(--sidebar-nav-link-before-color-l4,
-                    var(--sidebar-nav-link-before-color))));
 }
 
 .sidebar-nav> :last-child {
