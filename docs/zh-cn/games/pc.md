@@ -72,6 +72,10 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《怦然心动的瞬间（Charming Hearts）》v0.2.1 中文版（真人互动影游）附安卓版
+
+夸克：https://pan.quark.cn/s/a1f057b362c8
+
 #### 《毛线小精灵2（Unravel Two）》v1.0.0.47008 中文 联机版（已修复Win11问题）
 
 夸克：https://pan.quark.cn/s/1762e8fb758e
