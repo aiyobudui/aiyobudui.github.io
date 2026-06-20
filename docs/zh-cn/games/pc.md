@@ -72,6 +72,10 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《毛线小精灵2（Unravel Two）》v1.0.0.47008 中文 联机版（已修复Win11问题）
+
+夸克：https://pan.quark.cn/s/1762e8fb758e
+
 #### 《Maseylia 过去的回响（Maseylia Echoes of the Past）》v2026.6.19 中文版
 
 夸克：https://pan.quark.cn/s/aaa51569959e

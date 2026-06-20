@@ -17,7 +17,13 @@
 
 ## 正在更新中的...
 
-#### 《迷墙》（2026）4K 20集 更新中..
+#### 《翘楚》（2026）4K 24集全
+
+夸克：https://pan.quark.cn/s/d03e3ce88822
+
+迅雷：https://pan.xunlei.com/s/VOv_JA5z2N3e8YumtYSaN95HA1?pwd=niz7
+
+#### 《迷墙》（2026）4K 20集全
 
 夸克：https://pan.quark.cn/s/b7c86c0f4293
 
