@@ -72,7 +72,7 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
-#### 《怦然心动的瞬间（Charming Hearts）》v0.2.1 中文版（真人互动影游）附安卓版
+#### 《怦然心动的她们 / 怦然心动的瞬间（Charming Hearts）》v0.2.1 全DLC 中文版（真人互动影游）附安卓版
 
 夸克：https://pan.quark.cn/s/a1f057b362c8
 

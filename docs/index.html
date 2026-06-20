@@ -617,6 +617,19 @@
             /* 脉冲动画 */
         }
 
+        /* 搜索结果分类路径样式（电脑端） */
+        .search .results-panel .matching-post .result-category {
+            display: block;
+            font-size: 0.7rem;
+            color: #999;
+            margin-bottom: 4px;
+            font-weight: normal;
+        }
+
+        .search .results-panel .matching-post .result-category::before {
+            content: "📁 ";
+        }
+
         /* 搜索框边框脉冲动画 */
         @keyframes pulseBorder {
             0% {
@@ -1135,7 +1148,8 @@
 
         .mobile-search-result-item {
             display: flex;
-            align-items: center;
+            flex-direction: column;
+            align-items: flex-start;
             padding: 0.75rem 0.9375rem;
             color: #333333;
             text-decoration: none;
@@ -1167,6 +1181,21 @@
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
+        }
+
+        .mobile-search-result-row {
+            display: flex;
+            align-items: center;
+            width: 100%;
+        }
+
+        .mobile-search-result-category {
+            display: block;
+            width: 100%;
+            font-size: 0.7rem;
+            color: #999;
+            margin-bottom: 4px;
+            font-weight: normal;
         }
 
         .mobile-search-no-results {
@@ -1758,6 +1787,117 @@
         }
     </script>
 
+    <!-- =================== 搜索结果分类路径（电脑端） =================== -->
+    <script>
+        // URL → 侧边栏分类路径映射表
+        var searchCategoryMap = {
+            '/zh-cn/games/pc': '游戏 > 电脑游戏',
+            '/zh-cn/games/HVgame': '游戏 > 虚拟化游戏',
+            '/zh-cn/games/switch': '游戏 > Switch游戏',
+            '/zh-cn/games/android': '游戏 > 安卓游戏',
+            '/zh-cn/games/page': '游戏',
+            '/zh-cn/movie/popular': '电影 > 热门电影',
+            '/zh-cn/movie/classic': '电影 > 经典电影',
+            '/zh-cn/movie/series': '电影 > 系列电影',
+            '/zh-cn/movie/animefilms': '电影 > 动画电影',
+            '/zh-cn/movie/page': '电影',
+            '/zh-cn/tv/china': '电视剧 > 国产剧',
+            '/zh-cn/tv/occident': '电视剧 > 欧美剧',
+            '/zh-cn/tv/jpandsk': '电视剧 > 日韩剧',
+            '/zh-cn/tv/page': '电视剧',
+            '/zh-cn/animetv/gcdm': '动画剧集 > 国产动漫',
+            '/zh-cn/animetv/rbdm': '动画剧集 > 日本动漫',
+            '/zh-cn/animetv/omdm': '动画剧集 > 欧美动漫',
+            '/zh-cn/animetv/xpy': '动画剧集 > 小朋友动画',
+            '/zh-cn/animetv/page': '动画剧集',
+            '/zh-cn/documentary': '纪录片',
+            '/zh-cn/realitytv': '综艺',
+            '/zh-cn/books': '书籍、漫画、有声读物',
+            '/zh-cn/music': '音乐、演唱会、MV',
+            '/zh-cn/additional': '其他资源',
+            '/zh-cn/bbs': '留言板',
+            '/zh-cn/dashang': '打赏'
+        };
+
+        // 获取URL对应的分类路径
+        function getCategoryPath(url) {
+            if (!url) return '';
+            var cleanUrl = url.replace(/^#/, '').split('?')[0];
+            var longestMatch = '';
+            for (var path in searchCategoryMap) {
+                if (cleanUrl.indexOf(path) === 0 && path.length > longestMatch.length) {
+                    longestMatch = path;
+                }
+            }
+            return longestMatch ? searchCategoryMap[longestMatch] : '';
+        }
+
+        // 为搜索结果添加分类路径
+        function addCategoryToSearchResults() {
+            var results = document.querySelectorAll('.search .results-panel .matching-post a');
+            if (results.length === 0) return;
+
+            results.forEach(function(link) {
+                if (link.querySelector('.result-category')) return;
+
+                var href = link.getAttribute('href');
+                var category = getCategoryPath(href);
+
+                if (category) {
+                    var categorySpan = document.createElement('span');
+                    categorySpan.className = 'result-category';
+                    categorySpan.textContent = category;
+                    var h2 = link.querySelector('h2');
+                    if (h2) {
+                        link.insertBefore(categorySpan, h2);
+                    } else {
+                        link.insertBefore(categorySpan, link.firstChild);
+                    }
+                }
+            });
+        }
+
+        // 监听搜索框输入
+        function initSearchObserver() {
+            var searchInput = document.querySelector('.search input[type="search"]');
+            if (searchInput) {
+                searchInput.addEventListener('input', function() {
+                    setTimeout(addCategoryToSearchResults, 300);
+                });
+                searchInput.addEventListener('focus', function() {
+                    setTimeout(addCategoryToSearchResults, 300);
+                });
+            }
+
+            var searchArea = document.querySelector('.search');
+            if (searchArea) {
+                var observer = new MutationObserver(function(mutations) {
+                    mutations.forEach(function(mutation) {
+                        if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
+                            setTimeout(addCategoryToSearchResults, 200);
+                        }
+                    });
+                });
+                observer.observe(searchArea, { childList: true, subtree: true });
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(initSearchObserver, 1000);
+        });
+
+        if (typeof docsify !== 'undefined' && docsify.hooks) {
+            docsify.hooks.doneEach(function() {
+                setTimeout(addCategoryToSearchResults, 500);
+            });
+        }
+
+        setTimeout(function checkLoop() {
+            addCategoryToSearchResults();
+            setTimeout(checkLoop, 2000);
+        }, 2000);
+    </script>
+
     <!-- =================== 核心JS文件 =================== -->
     <!-- docsify核心 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
@@ -2136,7 +2276,8 @@
                 results.forEach(function (result) {
                     var path = result.path || result.url || '#';
                     var title = result.title || '未命名';
-                    
+                    var category = getCategoryPath(path);
+
                     var hashPath = path;
                     if (!hashPath.startsWith('#')) {
                         if (!hashPath.startsWith('/')) {
@@ -2144,12 +2285,17 @@
                         }
                         hashPath = '#' + hashPath;
                     }
-                    
-                    html += '<a href="' + escapeHtml(hashPath) + '" class="mobile-search-result-item" data-search-result>' +
-                        '<svg><use href="#icon-file-alt"/></svg>' +
+
+                    html += '<a href="' + escapeHtml(hashPath) + '" class="mobile-search-result-item" data-search-result>';
+                    if (category) {
+                        html += '<span class="mobile-search-result-category">' + escapeHtml(category) + '</span>';
+                    }
+                    html += '<span class="mobile-search-result-row">';
+                    html += '<svg><use href="#icon-file-alt"/></svg>' +
                         '<span class="mobile-search-result-title">' + escapeHtml(title) + '</span>' +
-                        '<svg style="color: #ccc; font-size: 0.75rem;"><use href="#icon-chevron-right"/></svg>' +
-                        '</a>';
+                        '<svg style="color: #ccc; font-size: 0.75rem;"><use href="#icon-chevron-right"/></svg>';
+                    html += '</span>';
+                    html += '</a>';
                 });
                 mobileSearchResults.innerHTML = html;
                 mobileSearchResults.classList.add('has-content');
