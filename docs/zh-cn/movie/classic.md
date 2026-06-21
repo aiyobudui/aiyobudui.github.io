@@ -18,6 +18,10 @@
 
 ---
 
+#### 《新世界》（2013）蓝光1080p 韩语 内封中字
+
+夸克：https://pan.quark.cn/s/3de8ff6c737f
+
 #### 《秘密特工 The Man from U.N.C.L.E. 》（2015）4K HDR 中英配音 内封特效字幕
 
 夸克：https://pan.quark.cn/s/35f8cda5f335

@@ -23,6 +23,19 @@
 ---
 
 ## 已有游戏
+!> 靠前的是新添加和刚更新的，如果链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
+
+#### 《席德·梅尔的文明VII（Civilization VII）豪华版》v1.4.0 全DLC 中文版（文明7）
+
+夸克：https://pan.quark.cn/s/2d3110be13e4
+
+#### 《侏罗纪世界：进化3（Jurassic World Evolution 3）豪华版》v1.3.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8822d4a453fe
+
+#### 《双点博物馆（Two Point Museum）豪华版》v10.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7a82258d377f
 
 #### 《冒险家艾略特的千年奇谭（The Adventures of Elliot The MT）豪华版》v2026.6.19 中文版
 
@@ -60,10 +73,6 @@
 
 夸克：https://pan.quark.cn/s/bba1c6a244ac
 
-#### 《双点博物馆（Two Point Museum）豪华版》v8.0.216267 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7a82258d377f
-
 #### 《乐高蝙蝠侠：黑暗骑士之遗（LEGO Batman Legacy of the Dark Knight）豪华版》Build.23222834 中文版
 
 夸克：https://pan.quark.cn/s/af824a41d719
@@ -87,7 +96,3 @@
 #### 《女神异闻录3 Reload（Persona 3 Reload）豪华版》v1.11 全DLC 中文版（女神异闻录3重制版 P3R）
 
 夸克：https://pan.quark.cn/s/e07e7b793ab8
-
-#### 《席德·梅尔的文明VII（Civilization VII）豪华版》v1.3.2 全DLC 中文版（文明7）
-
-夸克：https://pan.quark.cn/s/2d3110be13e4
