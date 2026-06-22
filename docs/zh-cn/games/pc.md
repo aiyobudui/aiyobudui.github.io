@@ -475,7 +475,7 @@
 
 夸克：https://pan.quark.cn/s/59d5933d0a64
 
-#### 《打骨折超市日记（Discounty）》v1.2.0 中文版
+#### 《打骨折超市日记（Discounty）》v1.2.0a 中文版
 
 夸克：https://pan.quark.cn/s/5b65c7c90507
 
