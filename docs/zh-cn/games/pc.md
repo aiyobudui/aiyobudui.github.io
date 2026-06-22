@@ -76,6 +76,14 @@
 
 夸克：https://pan.quark.cn/s/a1f057b362c8
 
+#### 《青岚物语（Tales of Seikyu）》v1.0.29 中文版
+
+夸克：https://pan.quark.cn/s/6a01e57719a5
+
+#### 《吾皇万岁（Long Live The Emperor）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/a53d35a90a5d
+
 #### 《骷髅成群（Skull Horde）》v1.032 中文版
 
 夸克：https://pan.quark.cn/s/380c5cfe4604
@@ -151,6 +159,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.1.0 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/e69d68ac66af
+
+迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
+
 #### 《潜水员戴夫（Dave the Diver）豪华版》v1.0.6.2018 全DLC 中文版（新增DLC）
 
 夸克：https://pan.quark.cn/s/2ed8f0fbce63
@@ -198,12 +212,6 @@
 #### 《幸福工厂（Satisfactory）》v1.2.3.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/84e5889663ed
-
-#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v0.84.75 (1.0.0.0) 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e69d68ac66af
-
-迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
 
 ---
 
