@@ -165,6 +165,22 @@
 
 迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
 
+#### 《艾尔登法环（Elden Ring）豪华版》v1.16.2 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f961d5992bd3
+
+迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
+
+#### 《巫师3 狂猎 次时代版（The Witcher 3: Wild Hunt）完全版》v4.04H3 全DLC 中文配音版
+
+夸克：https://pan.quark.cn/s/0f14d0941698
+
+迅雷：https://pan.xunlei.com/s/VNobR8YyiTDx8LCCl4AWFg5OA1?pwd=cmu8#
+
+#### 《吸血鬼：避世血族2（Vampire The Masquerade Bloodlines 2）高级版》v53085 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/208c46eae054
+
 #### 《潜水员戴夫（Dave the Diver）豪华版》v1.0.6.2018 全DLC 中文版（新增DLC）
 
 夸克：https://pan.quark.cn/s/2ed8f0fbce63
@@ -212,6 +228,19 @@
 #### 《幸福工厂（Satisfactory）》v1.2.3.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/84e5889663ed
+
+#### 《最终幻想16（FINAL FANTASY XVI）FF16》v1.03 全DLC 豪华中文版
+#### 《最终幻想15（Final Fantasy XV）FF15》v1261414 全DLC 豪华中文版
+#### 《最终幻想13 雷光归来（Final Fantasy XIII-3）FF13》v1.0 全DLC 中文版
+#### 《最终幻想12：黄道年代（FINAL FANTASY XII THE ZODIAC AGE）》v1.0.4 中文版
+#### 《最终幻想7：重生（FINAL FANTASY VII REBIRTH）》v1.005 全DLC 中文版
+#### 《最终幻想7 重制版Intergrade（Final Fantasy VII Remake Intergrade）》v1.007 全DLC 中文版
+#### 《最终幻想7：核心危机重聚（CRISIS CORE FINAL FANTASY VII REUNION）豪华版》v1.0.3 全DLC 中文版
+#### 《最终幻想：零式（HD Final Fantasy TYPE-0 HD）》v2021.6.21 中文版
+#### 《最终幻想起源：天堂的陌生人(Stranger of Paradise Final Fantasy Origin)》v1.32 全DLC 中文 联机版
+#### 《最终幻想 重制系列1-6》像素 v1.1.0 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/79878124f832
 
 ---
 
@@ -293,10 +322,6 @@
 
 夸克：https://pan.quark.cn/s/bdfdcea387f0
 
-#### 《最终幻想7 重制版Intergrade（Final Fantasy VII Remake Intergrade）》v1.007 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
-
 #### 《女神异闻录5 皇家版（Persona 5 Royal）》v1.04 中文版（PC版非模拟器版）
 
 夸克：https://pan.quark.cn/s/550ed16aa7c9
@@ -337,12 +362,6 @@
 #### 《战神5：诸神黄昏（God of War Ragnarök）豪华版》v1.0.668.5700 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7510e0c2474a
-
-#### 《艾尔登法环（Elden Ring）豪华版》v1.16.1 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/f961d5992bd3
-
-迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
 
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.6.10721 中文版（美末2）
 
@@ -1543,10 +1562,6 @@ w
 #### 《维多利亚3（Victoria 3）豪华版》v1.13.0 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/5b0145311ea9
-
-#### 《吸血鬼：避世血族2（Vampire The Masquerade Bloodlines 2）高级版》v51713 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/208c46eae054
 
 #### 《狼人：内在野兽（Werewolf The Inner Beast）》v2026.5.7 中文版（生存恐怖游戏）
 
@@ -3433,14 +3448,6 @@ w
 
 夸克：https://pan.quark.cn/s/0334a55bd322
 
-#### 《最终幻想12：黄道年代（FINAL FANTASY XII THE ZODIAC AGE）》v1.0.4 中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
-
-#### 《最终幻想：零式（HD Final Fantasy TYPE-0 HD）》v2021.6.21 中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
-
 #### 《降妖散记（Yao-Guai Hunter）》v1.2.8 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8272826eda10
@@ -5025,10 +5032,6 @@ w
 
 夸克：https://pan.quark.cn/s/1a87818f0b0f
 
-#### 《最终幻想7：核心危机重聚（CRISIS CORE FINAL FANTASY VII REUNION）豪华版》v1.0.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
-
 #### 《马克思佩恩3（Max Payne 3）完整版》v1.0.0.272 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/5aa350780082
@@ -5318,10 +5321,6 @@ w
 #### 《活体脑细胞（SOMA）》v2025.9.22 中文版（科幻恐怖）
 
 夸克：https://pan.quark.cn/s/0b4ab975b7a3
-
-#### 《最终幻想起源：天堂的陌生人(Stranger of Paradise Final Fantasy Origin)》v1.32 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/79878124f832
 
 #### 《末日地带2（Endzone 2）》v1.0.9356.17132 全DLC 中文版（末世生存建造）
 
@@ -5996,26 +5995,6 @@ w
 #### 《板块群岛（Isles & Tiles）》v1.0.2 中文版
 
 夸克：https://pan.quark.cn/s/9287e2cf941e
-
-#### 《最终幻想16（FINAL FANTASY XVI）FF16》v1.03 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
-
-#### 《最终幻想15（Final Fantasy XV）FF15》v1261414 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
-
-#### 《最终幻想13 雷光归来（Final Fantasy XIII-3）FF13》v1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
-
-#### 《最终幻想7：重生（FINAL FANTASY VII REBIRTH）》v1.003 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
-
-#### 《最终幻想 重制系列1-6》像素 v1.1.0 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
 
 #### 《魔女之泉R（WitchSpring R）豪华版》v1.105 全DLC 中文版
 
@@ -9233,12 +9212,6 @@ w
 #### 《伊琳（Elin）》v23.78 中文版 (艾琳)
 
 夸克：https://pan.quark.cn/s/29ee86c01225
-
-#### 《巫师3 狂猎（The Witcher 3 Next-Gen）次时代版》v4.04a 全DLC 中文配音版
-
-夸克：https://pan.quark.cn/s/0f14d0941698
-
-迅雷：https://pan.xunlei.com/s/VNobR8YyiTDx8LCCl4AWFg5OA1?pwd=cmu8#
 
 #### 《怪物猎人物语2：破灭之翼（Monster Hunter Stories 2）》v1.6.0 全DLC PC中文版
 
@@ -12805,10 +12778,6 @@ w
 #### 《古墓丽影 系列合集（Tomb Raider）》11部 最新 全DLC 中文版（暗影 崛起 地下城）
 
 夸克：https://pan.quark.cn/s/8c417acf572b
-
-#### 《最终幻想 系列合集（FINAL FANTASY ）》最新 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
 
 #### 《极品飞车 系列合集（Need For Speed ）》12部 最新 全DLC 中文版
 
