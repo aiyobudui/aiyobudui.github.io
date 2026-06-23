@@ -95,6 +95,14 @@
 
 迅雷：https://pan.xunlei.com/s/VNm9axELHxKie2GFFXpIfxiUA1?pwd=rg86#
 
+#### 《镖人》（2023-2026）4K 第二季 周四更新中..（附第一季）
+
+夸克：https://pan.quark.cn/s/8d49546a3e44
+
+迅雷：https://pan.xunlei.com/s/VNnmEeW66ZrPX4la_Jd-xbWJA1?pwd=i6mq#
+
+阿里：<https://www.aliyundrive.com/s/rF4BJBNcWjB>
+
 ---
 
 ## 周五
@@ -574,14 +582,6 @@
 迅雷：https://pan.xunlei.com/s/VNll3Nm08eZw0SCvzCcEYo9YA1?pwd=jc5b#
 
 阿里：<https://www.alipan.com/s/G5j8a8MhK2i>
-
-#### 《镖人》4K 15集全 火到国外的去漫画改编 (附：漫画)
-
-夸克：https://pan.quark.cn/s/8d49546a3e44
-
-迅雷：https://pan.xunlei.com/s/VNnmEeW66ZrPX4la_Jd-xbWJA1?pwd=i6mq#
-
-阿里：<https://www.aliyundrive.com/s/rF4BJBNcWjB>
 
 #### 《神澜奇域无双珠》1-3季全
 

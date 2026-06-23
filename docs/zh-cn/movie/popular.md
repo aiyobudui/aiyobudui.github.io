@@ -21,6 +21,12 @@
 
 **靠前的是最新添加的**
 
+#### 《镖人：风起大漠》（2026）4K 国粤 双版本
+
+夸克：https://pan.quark.cn/s/1712f4c2398e
+
+迅雷：https://pan.xunlei.com/s/VOvmkc_N_pxvrA5UxVQF8RSgA1?pwd=6rmm#
+
 #### 《呼啸山庄》（2026）4K 中英字幕
 
 夸克：https://pan.quark.cn/s/b904475320e1
