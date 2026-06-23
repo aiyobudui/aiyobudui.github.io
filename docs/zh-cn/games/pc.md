@@ -76,6 +76,10 @@
 
 夸克：https://pan.quark.cn/s/a1f057b362c8
 
+#### 《老婆随手扔了我多年珍藏卡牌（我反手买下整个垃圾场）》v2025.12.22 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f14480c5c7ca
+
 #### 《青岚物语（Tales of Seikyu）》v1.0.29 中文版
 
 夸克：https://pan.quark.cn/s/6a01e57719a5
