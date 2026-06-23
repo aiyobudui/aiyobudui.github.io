@@ -171,6 +171,10 @@
 
 迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
 
+#### 《我独自升级：起立觉醒（Solo Leveling ARISE OVERDRIVE）豪华版》v1.1.89 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6d6532985d59
+
 #### 《巫师3 狂猎 次时代版（The Witcher 3: Wild Hunt）完全版》v4.04H3 全DLC 中文配音版
 
 夸克：https://pan.quark.cn/s/0f14d0941698
@@ -3839,10 +3843,6 @@ w
 #### 《无感染区（Infection Free Zone）》v0.25.10.25 2 中文版
 
 夸克：https://pan.quark.cn/s/b7697055707f
-
-#### 《我独自升级：起立觉醒（Solo Leveling ARISE OVERDRIVE）豪华版》v1.1.71.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/6d6532985d59
 
 #### 《焦虑小狗（Anxiety Puppy）》v2025.12.10 中文版
 
