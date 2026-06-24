@@ -20,10 +20,10 @@
   - [🦅  欧美动漫](/zh-cn/animetv/omdm)
   - [👶  小朋友动画](/zh-cn/animetv/xpy)
 - [📽️  纪录片](/zh-cn/documentary)
-- [🎤  综 艺](/zh-cn/realitytv)
+- [🎤  综 艺](/zh-cn/variety)
 - [📚  书籍、漫画、有声读物](/zh-cn/books)
 - [🎵  音乐、演唱会、MV](/zh-cn/music)
-- [📦  其 他](/zh-cn/additional)
+- [📦  其他资源](/zh-cn/others)
 
 ---
 
