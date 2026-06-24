@@ -72,9 +72,21 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
-#### 《怦然心动的她们 / 怦然心动的瞬间（Charming Hearts）》v0.2.1 全DLC 中文版（真人互动影游）附安卓版
+#### 《疯狂轮盘（Bingle Bingle）》v1.0.0 中文版
 
-夸克：https://pan.quark.cn/s/a1f057b362c8
+夸克：https://pan.quark.cn/s/103b3a268e87
+
+#### 《Dimhaven - The Lost Source》v1.0.2 中文版（悬疑解密）
+
+夸克：https://pan.quark.cn/s/9cdc6161f8dc
+
+#### 《挂机破坏神（IdleDiablo）》v1.0.5 中文版
+
+夸克：https://pan.quark.cn/s/d239d0230c94
+
+#### 《释厄传（Relief）》v2.66 中文版
+
+夸克：https://pan.quark.cn/s/a74b32dfaf7c
 
 #### 《符文世界：龙之荒野（RuneScape Dragonwilds ）》Build.23880916 全DLC 中文 联机版
 
@@ -108,44 +120,28 @@
 
 夸克：https://pan.quark.cn/s/99043e01a4a0
 
-#### 《老婆随手扔了我多年珍藏卡牌（我反手买下整个垃圾场）》v2025.12.22 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/f14480c5c7ca
-
-#### 《青岚物语（Tales of Seikyu）》v1.0.29 中文版
-
-夸克：https://pan.quark.cn/s/6a01e57719a5
-
-#### 《吾皇万岁（Long Live The Emperor）》v1.0.1 中文版
-
-夸克：https://pan.quark.cn/s/a53d35a90a5d
-
-#### 《骷髅成群（Skull Horde）》v1.032 中文版
-
-夸克：https://pan.quark.cn/s/380c5cfe4604
-
-#### 《祭祀地宫（THYSIASTERY）》v1.1.14 中文版
-
-夸克：https://pan.quark.cn/s/16c2177fa199
-
-#### 《桌面战争：兵团乱斗（D.O.T.Defence）》v1.01 中文版
-
-夸克：https://pan.quark.cn/s/2505128263aa
-
-#### 《太阳朋克：浮岛家园（Solarpunk）》v1.0.4 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d915ef6c4d9e
-
 ---
 
 ## 最近更新
 
-#### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v379.939 全DLC 中文 联机版（更新）
+#### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v382.893 全DLC 中文 联机版（更新）
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/257debd362e9
+
+#### 《警区（The Precinct）》v1.12.23888 中文版
+
+夸克：https://pan.quark.cn/s/9e02b38ca188
+
+#### 《异星工厂（Factorio）》v2.0.77 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/abf35a685935
 
 #### 《冰汽时代2（Frostpunk 2）豪华版》v1.6.0 全DLC 中文配音版（新增DLC）
 #### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
@@ -155,6 +151,10 @@
 #### 《哥特王朝 重制版（Gothic 1 Remake）》v169686 中文版
 
 夸克：https://pan.quark.cn/s/6b03eda75ca7
+
+#### 《生灵重塑（REANIMAL）豪华版》v1.7.1 全DLC 中文 联机版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/fcef91158dcf
 
 #### 《帝国时代2 决定版（Age of Empires II）》v179158 全DLC 中文 联机版（新增DLC）
 #### 《帝国时代4（Age of Empires IV）周年纪念版》v16.2.10604 全DLC 中文版
@@ -207,61 +207,6 @@
 夸克：https://pan.quark.cn/s/2ed8f0fbce63
 
 迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
-
-#### 《中世纪王朝（Medieval Dynasty）终极版）》v2.6.0.1 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/32cb69fc196a
-
-迅雷：https://pan.xunlei.com/s/VO36_DlzI2PMsp3e2egTj-d0A1?pwd=icc2#
-
-#### 《WILL Follow The Light》v2026.6.19 中文版（冒险解密游戏）威尔：追随光明
-
-夸克：https://pan.quark.cn/s/97e42375f66e
-
-#### 《战魂铭人（Otherworld Legends）》v3.3.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e459884d9239
-
-#### 《异星探险家（ASTRONEER）》v1.41.4.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/dec8c384b354
-
-#### 《全面冲突：抵抗（Total Conflict Resistance）》v1.31.1 全DLC 中文版（战略指挥游戏）
-
-夸克：https://pan.quark.cn/s/bb69e0d360ae
-
-#### 《超级变色龙（MECCHA CHAMELEON）》v1.4.1 中文 联机版(躲猫猫游戏)
-
-夸克：https://pan.quark.cn/s/258c1f8479d8
-
-#### 《Until Then 豪华版》Build.23785927 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/be8f3d05c804
-
-#### 《PEAK》v1.63a 中文 联机版（多人联机爬山）
-
-夸克：https://pan.quark.cn/s/f56bd5be8765
-
-#### 《巫火之火（Witchfire）》v0.9.0 中文版
-
-夸克：https://pan.quark.cn/s/ceeea7de34b7
-
-#### 《幸福工厂（Satisfactory）》v1.2.3.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/84e5889663ed
-
-#### 《最终幻想16（FINAL FANTASY XVI）FF16》v1.03 全DLC 豪华中文版
-#### 《最终幻想15（Final Fantasy XV）FF15》v1261414 全DLC 豪华中文版
-#### 《最终幻想13 雷光归来（Final Fantasy XIII-3）FF13》v1.0 全DLC 中文版
-#### 《最终幻想12：黄道年代（FINAL FANTASY XII THE ZODIAC AGE）》v1.0.4 中文版
-#### 《最终幻想7：重生（FINAL FANTASY VII REBIRTH）》v1.005 全DLC 中文版
-#### 《最终幻想7 重制版Intergrade（Final Fantasy VII Remake Intergrade）》v1.007 全DLC 中文版
-#### 《最终幻想7：核心危机重聚（CRISIS CORE FINAL FANTASY VII REUNION）豪华版》v1.0.3 全DLC 中文版
-#### 《最终幻想：零式（HD Final Fantasy TYPE-0 HD）》v2021.6.21 中文版
-#### 《最终幻想起源：天堂的陌生人(Stranger of Paradise Final Fantasy Origin)》v1.32 全DLC 中文 联机版
-#### 《最终幻想 重制系列1-6》像素 v1.1.0 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/79878124f832
 
 ---
 
@@ -430,6 +375,89 @@
 ---
 
 ## 已有游戏
+
+#### 《老婆随手扔了我多年珍藏卡牌（我反手买下整个垃圾场）》v2025.12.22 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f14480c5c7ca
+
+#### 《青岚物语（Tales of Seikyu）》v1.0.29 中文版
+
+夸克：https://pan.quark.cn/s/6a01e57719a5
+
+#### 《吾皇万岁（Long Live The Emperor）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/a53d35a90a5d
+
+#### 《骷髅成群（Skull Horde）》v1.032 中文版
+
+夸克：https://pan.quark.cn/s/380c5cfe4604
+
+#### 《祭祀地宫（THYSIASTERY）》v1.1.14 中文版
+
+夸克：https://pan.quark.cn/s/16c2177fa199
+
+#### 《桌面战争：兵团乱斗（D.O.T.Defence）》v1.01 中文版
+
+夸克：https://pan.quark.cn/s/2505128263aa
+
+#### 《太阳朋克：浮岛家园（Solarpunk）》v1.0.4 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d915ef6c4d9e
+
+#### 《中世纪王朝（Medieval Dynasty）终极版）》v2.6.0.1 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/32cb69fc196a
+
+迅雷：https://pan.xunlei.com/s/VO36_DlzI2PMsp3e2egTj-d0A1?pwd=icc2#
+
+#### 《WILL Follow The Light》v2026.6.19 中文版（冒险解密游戏）威尔：追随光明
+
+夸克：https://pan.quark.cn/s/97e42375f66e
+
+#### 《战魂铭人（Otherworld Legends）》v3.3.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e459884d9239
+
+#### 《异星探险家（ASTRONEER）》v1.41.4.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/dec8c384b354
+
+#### 《全面冲突：抵抗（Total Conflict Resistance）》v1.31.1 全DLC 中文版（战略指挥游戏）
+
+夸克：https://pan.quark.cn/s/bb69e0d360ae
+
+#### 《超级变色龙（MECCHA CHAMELEON）》v1.4.1 中文 联机版(躲猫猫游戏)
+
+夸克：https://pan.quark.cn/s/258c1f8479d8
+
+#### 《Until Then 豪华版》Build.23785927 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/be8f3d05c804
+
+#### 《PEAK》v1.63a 中文 联机版（多人联机爬山）
+
+夸克：https://pan.quark.cn/s/f56bd5be8765
+
+#### 《巫火之火（Witchfire）》v0.9.0 中文版
+
+夸克：https://pan.quark.cn/s/ceeea7de34b7
+
+#### 《幸福工厂（Satisfactory）》v1.2.3.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/84e5889663ed
+
+#### 《最终幻想16（FINAL FANTASY XVI）FF16》v1.03 全DLC 豪华中文版
+#### 《最终幻想15（Final Fantasy XV）FF15》v1261414 全DLC 豪华中文版
+#### 《最终幻想13 雷光归来（Final Fantasy XIII-3）FF13》v1.0 全DLC 中文版
+#### 《最终幻想12：黄道年代（FINAL FANTASY XII THE ZODIAC AGE）》v1.0.4 中文版
+#### 《最终幻想7：重生（FINAL FANTASY VII REBIRTH）》v1.005 全DLC 中文版
+#### 《最终幻想7 重制版Intergrade（Final Fantasy VII Remake Intergrade）》v1.007 全DLC 中文版
+#### 《最终幻想7：核心危机重聚（CRISIS CORE FINAL FANTASY VII REUNION）豪华版》v1.0.3 全DLC 中文版
+#### 《最终幻想：零式（HD Final Fantasy TYPE-0 HD）》v2021.6.21 中文版
+#### 《最终幻想起源：天堂的陌生人(Stranger of Paradise Final Fantasy Origin)》v1.32 全DLC 中文 联机版
+#### 《最终幻想 重制系列1-6》像素 v1.1.0 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/79878124f832
 
 #### 《毛线小精灵2（Unravel Two）》v1.0.0.47008 中文 联机版（已修复Win11问题）
 
@@ -1397,10 +1425,6 @@ w
 
 夸克：https://pan.quark.cn/s/3968c3e7ebd2
 
-#### 《生灵重塑（REANIMAL）豪华版》v361299 中文 联机版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/fcef91158dcf
-
 #### 《波比的游戏时间（Poppy Playtime）1~5章》Build 21905565 汉化中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/958456185407
@@ -1518,10 +1542,6 @@ w
 #### 《萨妮羊研究室（Sani Yang's Laboratory）》v20260508 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/fd2f2389fa35
-
-#### 《异星工厂（Factorio）》v2.0.76 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/abf35a685935
 
 #### 《下一站江湖2（Next Jianghu II）》v1.1.64(54) 全DLC 中文版（附第一部）
 
@@ -4800,10 +4820,6 @@ w
 
 夸克：https://pan.quark.cn/s/115c8ddd4f4d
 
-#### 《警区（The Precinct）》v1.9.20284 中文版
-
-夸克：https://pan.quark.cn/s/9e02b38ca188
-
 #### 《寇瑞登（Coridden）》v1.3.3 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/5053f5811c65
@@ -8042,10 +8058,6 @@ w
 #### 《数码宝贝物语：网络侦探骇客追忆（Digimon Story Cyber Sleuth Complete Edition）完整版》v2022.8.2 中文版
 
 夸克：https://pan.quark.cn/s/92631af31e17
-
-#### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1117238 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/257debd362e9
 
 #### 《中土世界：战争之影（Middle earth Shadow of War DE）终极版》v1.21 全DLC 中文版
 
@@ -12560,6 +12572,10 @@ w
 ---
 ## 互动影游
 > 靠前的是新添加的
+
+#### 《怦然心动的她们 / 怦然心动的瞬间（Charming Hearts）》v0.2.1 全DLC 中文版（真人互动影游）附安卓版
+
+夸克：https://pan.quark.cn/s/a1f057b362c8
 
 #### 《男神模拟器（Mr Right Simulator）》Build.23269762 中文版（真人互动影游）
 

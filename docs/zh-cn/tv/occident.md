@@ -24,7 +24,13 @@
 
 ## 正在更新中的..
 
-#### 《亢奋》（2019-2022）1080P 第三季 更新中..（附1-2季全+特别篇）
+#### 《校园之外》（2026）4K 8集全
+
+夸克：https://pan.quark.cn/s/24deaee60601
+
+迅雷：https://pan.xunlei.com/s/VOvvWwpUzveNMfe9B8FjQe-2A1?pwd=447p#
+
+#### 《亢奋》（2019-2022）1080P 1-3季全+特别篇
 
 夸克：https://pan.quark.cn/s/4522695a8c08
 
