@@ -76,6 +76,26 @@
 
 夸克：https://pan.quark.cn/s/a1f057b362c8
 
+#### 《符文世界：龙之荒野（RuneScape Dragonwilds ）》Build.23880916 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7058eb474352
+
+#### 《男孩与鹿（Deer & Boy）》v1.0.19.24 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4d7f2a45bece
+
+#### 《圣火守望者：共筑防线（Sineus Arena）》v1.01 中文 联机版
+
+夸克：https://pan.quark.cn/s/2a852e4c756b
+
+#### 《科幻英雄（heroes of science and fiction）》v1.0.8 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/0b115bbad258
+
+#### 《植物苗圃模拟器（Plant Nursery Simulator）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/99043e01a4a0
+
 #### 《老婆随手扔了我多年珍藏卡牌（我反手买下整个垃圾场）》v2025.12.22 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/f14480c5c7ca
@@ -104,54 +124,6 @@
 
 夸克：https://pan.quark.cn/s/d915ef6c4d9e
 
-#### 《毛线小精灵2（Unravel Two）》v1.0.0.47008 中文 联机版（已修复Win11问题）
-
-夸克：https://pan.quark.cn/s/1762e8fb758e
-
-#### 《Maseylia 过去的回响（Maseylia Echoes of the Past）》v2026.6.19 中文版
-
-夸克：https://pan.quark.cn/s/aaa51569959e
-
-#### 《后室 迷失奔跑者（Backrooms Lost Runners）》v2026.6.19 中文版
-
-夸克：https://pan.quark.cn/s/4ad81423662c
-
-#### 《OPUS：心相吾山（OPUS Prism Peak）》v1.31.0.72 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/b703fd1ebdaa
-
-#### 《Fretless - The Wrath of Riffson》v1.5.08 中文版（像素风回合制音游）
-
-夸克：https://pan.quark.cn/s/cf312234f90a
-
-#### 《青蛙小队（Frog Sqwad）》v1.3.5954 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/ffaca430e5ed
-
-#### 《囚徒的柜台（Tellers Duty）》v1.1.6 中文版
-
-夸克：https://pan.quark.cn/s/fff14931ed7f
-
-#### 《城门血战（The Gate Must Stand）》v1.01 中文版
-
-夸克：https://pan.quark.cn/s/f937c60cdb21
-
-#### 《全职猎人（HUNTER×HUNTER NEN×IMPACT）豪华版》v1.4.1 全DLC 中文 联机版（格斗游戏）
-
-夸克：https://pan.quark.cn/s/af8ba2de0a6d
-
-#### 《将军：古典时代（Strategos）》v1899 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/52841d455972
-
-#### 《雷霆孤影（VOIN）》v0.5.0.56 中文版
-
-夸克：https://pan.quark.cn/s/9386d035fbde
-
-#### 《零售地狱（Retail Hell）》v1.1.11 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/5ab2b8b78587
-
 ---
 
 ## 最近更新
@@ -162,6 +134,19 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《冰汽时代2（Frostpunk 2）豪华版》v1.6.0 全DLC 中文配音版（新增DLC）
+#### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d1d00e8c72d5
+
+#### 《帝国时代2 决定版（Age of Empires II）》v179158 全DLC 中文 联机版（新增DLC）
+#### 《帝国时代4（Age of Empires IV）周年纪念版》v16.2.10604 全DLC 中文版
+#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
+
+夸克：https://pan.quark.cn/s/0c0f7a82ce32
+
+迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
 
 #### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.1.0 全DLC 中文版（新增DLC）
 
@@ -342,11 +327,6 @@
 
 夸克：https://pan.quark.cn/s/346ee452b56d
 
-#### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
-#### 《冰汽时代2（Frostpunk 2）豪华版》v1.5.4 全DLC 中文配音版
-
-夸克：https://pan.quark.cn/s/d1d00e8c72d5
-
 #### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》v1013.29 中文版（GTA5增强版+纯净版+MOD版）
 
 夸克：https://pan.quark.cn/s/f27bd77aa030
@@ -422,6 +402,54 @@
 ---
 
 ## 已有游戏
+
+#### 《毛线小精灵2（Unravel Two）》v1.0.0.47008 中文 联机版（已修复Win11问题）
+
+夸克：https://pan.quark.cn/s/1762e8fb758e
+
+#### 《Maseylia 过去的回响（Maseylia Echoes of the Past）》v2026.6.19 中文版
+
+夸克：https://pan.quark.cn/s/aaa51569959e
+
+#### 《后室 迷失奔跑者（Backrooms Lost Runners）》v2026.6.19 中文版
+
+夸克：https://pan.quark.cn/s/4ad81423662c
+
+#### 《OPUS：心相吾山（OPUS Prism Peak）》v1.31.0.72 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b703fd1ebdaa
+
+#### 《Fretless - The Wrath of Riffson》v1.5.08 中文版（像素风回合制音游）
+
+夸克：https://pan.quark.cn/s/cf312234f90a
+
+#### 《青蛙小队（Frog Sqwad）》v1.3.5954 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/ffaca430e5ed
+
+#### 《囚徒的柜台（Tellers Duty）》v1.1.6 中文版
+
+夸克：https://pan.quark.cn/s/fff14931ed7f
+
+#### 《城门血战（The Gate Must Stand）》v1.01 中文版
+
+夸克：https://pan.quark.cn/s/f937c60cdb21
+
+#### 《全职猎人（HUNTER×HUNTER NEN×IMPACT）豪华版》v1.4.1 全DLC 中文 联机版（格斗游戏）
+
+夸克：https://pan.quark.cn/s/af8ba2de0a6d
+
+#### 《将军：古典时代（Strategos）》v1899 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/52841d455972
+
+#### 《雷霆孤影（VOIN）》v0.5.0.56 中文版
+
+夸克：https://pan.quark.cn/s/9386d035fbde
+
+#### 《零售地狱（Retail Hell）》v1.1.11 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/5ab2b8b78587
 
 #### 《复古物语（Vintage Story）》v1.22.3 中文 联机版
 
@@ -774,14 +802,6 @@
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
 
 夸克：https://pan.quark.cn/s/68a01dbea110
-
-#### 《帝国时代2 决定版（Age of Empires II）》v101.103.43920.0 全DLC 中文 联机版（新增DLC）
-#### 《帝国时代4（Age of Empires IV）周年纪念版》v16.2.10604 全DLC 中文版
-#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
-
-夸克：https://pan.quark.cn/s/0c0f7a82ce32
-
-迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
 
 #### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.2.92777 全DLC 中文版
 
