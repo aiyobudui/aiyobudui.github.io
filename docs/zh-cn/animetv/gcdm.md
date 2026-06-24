@@ -103,6 +103,10 @@
 
 阿里：<https://www.aliyundrive.com/s/rF4BJBNcWjB>
 
+#### 《搜神记》（2026）4K 周四 更新中..
+
+夸克：https://pan.quark.cn/s/44411d300812
+
 ---
 
 ## 周五
