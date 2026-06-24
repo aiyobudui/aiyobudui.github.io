@@ -80,6 +80,14 @@
 
 夸克：https://pan.quark.cn/s/7058eb474352
 
+#### 《守夜人：长夜（Vigil The Longest Night）》v2026.6.23 中文版
+
+夸克：https://pan.quark.cn/s/a1405cb8b441
+
+#### 《Samson 支持者版》v2026.6.23 全DLC 中文版（萨姆森：廷德尔斯顿故事）
+
+夸克：https://pan.quark.cn/s/d5156670a62b
+
 #### 《男孩与鹿（Deer & Boy）》v1.0.19.24 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/4d7f2a45bece
@@ -91,6 +99,10 @@
 #### 《科幻英雄（heroes of science and fiction）》v1.0.8 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/0b115bbad258
+
+#### 《Wizardry Proving Grounds of the Mad Overlord》v1.1.1 汉化版（巫术1 重制版）
+
+夸克：https://pan.quark.cn/s/1d2454c8985b
 
 #### 《植物苗圃模拟器（Plant Nursery Simulator）》v1.0 中文版
 
@@ -140,6 +152,10 @@
 
 夸克：https://pan.quark.cn/s/d1d00e8c72d5
 
+#### 《哥特王朝 重制版（Gothic 1 Remake）》v169686 中文版
+
+夸克：https://pan.quark.cn/s/6b03eda75ca7
+
 #### 《帝国时代2 决定版（Age of Empires II）》v179158 全DLC 中文 联机版（新增DLC）
 #### 《帝国时代4（Age of Empires IV）周年纪念版》v16.2.10604 全DLC 中文版
 #### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
@@ -147,6 +163,18 @@
 夸克：https://pan.quark.cn/s/0c0f7a82ce32
 
 迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
+
+#### 《平行人生（Paralives）》v0.1.4.20182 中文版
+
+夸克：https://pan.quark.cn/s/16795f17858e
+
+#### 《虐杀熔炉（KIBORG）》V2026.6.23 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d590ba9f9318
+
+#### 《焕家物语（Hozy）》v1.2 中文版
+
+夸克：https://pan.quark.cn/s/3758da8f2bbc
 
 #### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.1.0 全DLC 中文版（新增DLC）
 
@@ -488,10 +516,6 @@
 #### 《北欧之烬：诸神黄昏幸存者（Nordic Ashes Survivors of Ragnarok）终结版》v3.1.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/88d9eb2ab93c
-
-#### 《哥特王朝 重制版（Gothic 1 Remake）》v168781 中文版
-
-夸克：https://pan.quark.cn/s/6b03eda75ca7
 
 #### 《战锤40K：机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版
 #### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v13.1.0.1 全DLC 中文版（更新）
@@ -893,10 +917,6 @@
 #### 《泡姆泡姆（POPUCOM）》v1.2.0_0511 中文 联机版
 
 夸克：https://pan.quark.cn/s/a5026885fbeb
-
-#### 《平行人生（Paralives）》v0.1.2.19939 中文版
-
-夸克：https://pan.quark.cn/s/16795f17858e
 
 #### 《人渣（SCUM）豪华版》v1.3.0.0.117753 全DLC 中文 联机版（新增DLC）
 
@@ -2336,10 +2356,6 @@ w
 
 夸克：https://pan.quark.cn/s/f93f87475478
 
-#### 《焕家物语 （Hozy）》v2026.3.30 中文版
-
-夸克：https://pan.quark.cn/s/3758da8f2bbc
-
 #### 《盒子面包坊（Box Bakery）》v1.0.2.34 中文版
 
 夸克：https://pan.quark.cn/s/7e593264ef99
@@ -2756,10 +2772,6 @@ w
 #### 《永恒天空（Forever Skies）豪华版》v1.2.2 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/13bbd841c5dd
-
-#### 《虐杀熔炉（KIBORG）》V2026.3.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d590ba9f9318
 
 #### 《龙腾世纪2（Dragon Age 2）终极版》v1.04 全DLC 汉化版
 #### 《龙腾世纪 起源（Dragon Age Origins）终极版》v1.05 全DLC 汉化版
