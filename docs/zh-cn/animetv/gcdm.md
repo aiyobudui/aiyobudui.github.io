@@ -53,12 +53,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNlbtym7EZ_QMc4gjpiw4ijKA1?pwd=i5sw#
 
-#### 《百炼成神》（2022-2026）4K 第3季 周二 更新中 （附1-2季全）
-
-夸克：https://pan.quark.cn/s/752adf4f755b
-
-迅雷：https://pan.xunlei.com/s/VNyGBGY-qwfi6xY7eyt6uu69A1?pwd=nbdd#
-
 #### 《炼气十万年》 1080P 周二 周六 更新中..
 
 夸克：https://pan.quark.cn/s/7fa0ebc6325e
@@ -106,6 +100,12 @@
 #### 《搜神记》（2026）4K 周四 更新中..
 
 夸克：https://pan.quark.cn/s/44411d300812
+
+#### 《斩神之凡尘神域》（2024）4K 第二季 周四 更新中..（附第一季）15集全（我在神经病院学斩神）
+
+夸克：https://pan.quark.cn/s/1efccfc24666
+
+迅雷：https://pan.xunlei.com/s/VO6L1qf_DE-Xj4knMXHDXEp3A1?pwd=zvz4#
 
 ---
 
@@ -196,6 +196,12 @@
 ---
 
 ## 暂时完结
+
+#### 《百炼成神》（2022-2026）4K 1-3季全
+
+夸克：https://pan.quark.cn/s/752adf4f755b
+
+迅雷：https://pan.xunlei.com/s/VNyGBGY-qwfi6xY7eyt6uu69A1?pwd=nbdd#
 
 #### 《星辰变》（2018-2025）4K 1-7季全
 
@@ -386,12 +392,6 @@
 夸克：https://pan.quark.cn/s/345cdf1f9384
 
 迅雷：https://pan.xunlei.com/s/VO2suWQxv1XYzSDhQp8quxEqA1?pwd=bu9m#
-
-#### 《斩神之凡尘神域》（2024）4K 15集全（我在神经病院学斩神）
-
-夸克：https://pan.quark.cn/s/1efccfc24666
-
-迅雷：https://pan.xunlei.com/s/VO6L1qf_DE-Xj4knMXHDXEp3A1?pwd=zvz4#
 
 #### 《全职高手》（2017-2024）4K+1080P 1-3季全+特别篇+真人剧+小说
 

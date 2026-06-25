@@ -72,6 +72,10 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《财富磨坊（Fortune Mill）》Build.23705722 中文版
+
+夸克：https://pan.quark.cn/s/79ff61921bd9
+
 #### 《疯狂轮盘（Bingle Bingle）》v1.0.0 中文版
 
 夸克：https://pan.quark.cn/s/103b3a268e87
@@ -134,6 +138,10 @@
 #### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/257debd362e9
+
+#### 《超级变色龙（MECCHA CHAMELEON）》v1.9.0 中文 联机版(躲猫猫游戏)
+
+夸克：https://pan.quark.cn/s/258c1f8479d8
 
 #### 《警区（The Precinct）》v1.12.23888 中文版
 
@@ -425,10 +433,6 @@
 #### 《全面冲突：抵抗（Total Conflict Resistance）》v1.31.1 全DLC 中文版（战略指挥游戏）
 
 夸克：https://pan.quark.cn/s/bb69e0d360ae
-
-#### 《超级变色龙（MECCHA CHAMELEON）》v1.4.1 中文 联机版(躲猫猫游戏)
-
-夸克：https://pan.quark.cn/s/258c1f8479d8
 
 #### 《Until Then 豪华版》Build.23785927 全DLC 中文版
 

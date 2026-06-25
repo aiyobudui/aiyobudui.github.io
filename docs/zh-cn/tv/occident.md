@@ -116,9 +116,11 @@
 
 夸克：https://pan.quark.cn/s/ba5ed862cfcc
 
-#### 《斯巴达克斯：亚述家族》（2025）1080P 10集全（附 旧版4季）
+#### 《斯巴达克斯：亚述家族》（2025）1080P 10集全
 
-夸克：https://pan.quark.cn/s/7e4ce182b0f3
+夸克：和谐
+
+迅雷：https://pan.xunlei.com/s/VOvwvm-DBIgwgMA6dcJktVi6A1?pwd=ahf8#
 
 #### 《怪奇物语》（2016-2025）4K 1-5季全+SP 蓝光4K 内封中英特效字幕（FRDS压制）
 
@@ -1148,6 +1150,11 @@
 
 迅雷：https://pan.xunlei.com/s/VOkpqgX057gOnpm2PqrJ2fgaA1?pwd=adnd#
 
+#### 《叶卡捷琳娜大帝》（2014-2023）1080P 中字 俄语版+美国版+英国版 共8季（附电子书）
+
+夸克：https://pan.quark.cn/s/6720f501aee3
+
+迅雷：https://pan.xunlei.com/s/VOvx2A1miJNGRxvDW__zfJK1A1?pwd=mz34#
 
 ---
 
