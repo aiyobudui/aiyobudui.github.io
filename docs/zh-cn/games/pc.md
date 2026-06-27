@@ -72,6 +72,18 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《黑相集：8020号指令（Directive 8020）豪华版》v2026.6.3 中文版（电影叙事恐怖游戏系列）
+#### 《黑相集：心中魔（The Dark Pictures Anthology The Devil in Me）》Build.11855829 全DLC 中文版
+#### 《黑相集：灰冥界（The Dark Pictures Anthology House of Ashes）》Build.8603627 全DLC 中文版
+#### 《黑相集：稀望镇（The Dark Pictures Anthology Little Hope）》Build.11200128 全DLC 中文版
+#### 《黑相集：棉兰号（The Dark Pictures Anthology Man of Medan）》Build.10739751 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c14855858fd5
+
+#### 《水泽仙女（Naiad）》v1.0.19 中文版
+
+夸克：https://pan.quark.cn/s/f35cffe27722
+
 #### 《财富磨坊（Fortune Mill）》Build.23705722 中文版
 
 夸克：https://pan.quark.cn/s/79ff61921bd9
@@ -138,6 +150,24 @@
 #### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/257debd362e9
+
+#### 《烈焰之刃（Blades of Fire）》v2.0.0.10 中文版
+
+夸克：https://pan.quark.cn/s/e1c1a6e4a189
+
+#### 《失落之魂（Lost Soul Aside）豪华版》v1.104 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/254473ee08f7
+
+#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.28.1 全DLC 中文配音 联机版（更新）
+#### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版
+#### 《消逝的光芒：增强版（Dying Light）》v1.54 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7cd3766e113d
+
+#### 《僵尸世界大战（World War Z）豪华版》v2026.6.18 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/bb9aa80fd6eb
 
 #### 《超级变色龙（MECCHA CHAMELEON）》v1.9.0 中文 联机版(躲猫猫游戏)
 
@@ -232,12 +262,6 @@
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
 
 夸克：https://pan.quark.cn/s/be850af09c63
-
-#### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版
-#### 《消逝的光芒：增强版（Dying Light）》v1.54 全DLC 中文 联机版
-#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.28.0 全DLC 中文配音 联机版（更新）
-
-夸克：https://pan.quark.cn/s/7cd3766e113d
 
 #### 《小小梦魇3（Little Nightmares 3）豪华版》v2026.6.12 全DLC 中文 联机版（新增DLC）
 #### 《小小梦魇2（Little Nightmares 2）增强版》v1165 全DLC 中文版
@@ -836,10 +860,6 @@
 #### 《流放者柯南 增强版（Conan Exiles Enhanced）》v1.1.2 全DLC 中文版（附旧版 联机版）
 
 夸克：https://pan.quark.cn/s/90d4ea9116da
-
-#### 《8020号指令（Directive 8020）豪华版》v2026.6.3 中文版
-
-夸克：https://pan.quark.cn/s/c14855858fd5
 
 #### 《蛮荒计划（Ferocious）》v1.08 中文版
 
@@ -2583,10 +2603,6 @@ w
 
 夸克：https://pan.quark.cn/s/296a2d4242e8
 
-#### 《僵尸世界大战 劫后余生（World War Z）豪华版》v2026.3.10 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/bb9aa80fd6eb
-
 #### 《空洞骑士：丝之歌（Hollow Knight Silksong）》v1.0.29909 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/4c68712bb95c
@@ -3138,10 +3154,6 @@ w
 #### 《极限国度（Riders Republic）》v1.26.0 离线 中文版
 
 夸克：https://pan.quark.cn/s/8f167fa75ea3
-
-#### 《失落之魂（Lost Soul Aside）豪华版》v1.101 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/254473ee08f7
 
 #### 《暗使 导演剪辑版（Dark Envoy）》v1.9.2.75237 全DLC 中文版
 
@@ -5139,10 +5151,6 @@ w
 #### 《优米雅的炼金工房 ～追忆之炼金术士与幻创之地～》v1.5.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/40086dffb3c8
-
-#### 《烈焰之刃（Blades of Fire）》v1.4.8 中文版
-
-夸克：https://pan.quark.cn/s/e1c1a6e4a189
 
 #### 《网吧模拟器2（Internet Cafe Simulator 2）》v1.2.5 中文版（附第一部）
 
@@ -9551,10 +9559,6 @@ w
 
 夸克：https://pan.quark.cn/s/d4ed73f68c9b
 
-#### 《NAIAD》v1.0.3 中文版（自然风光冒险解密）
-
-夸克：https://pan.quark.cn/s/b56518aeddef
-
 #### 《光明记忆 无限（Bright Memory Infinite）》v1.44 全DLC 中文 终结版
 
 夸克：https://pan.quark.cn/s/1deb04f406c6
@@ -11405,7 +11409,7 @@ w
 
 夸克：https://pan.quark.cn/s/ac80a53751a8
 
-#### 《文明6》v1.0.12.68 全DLC 豪华中文 联机版 迅雷附345合集
+#### 《席德·梅尔的文明VI（Civilization VI）豪华版》v1.0.12.68 全DLC 中文 联机版(文明6)迅雷附345合集
 
 夸克：https://pan.quark.cn/s/d294578cae26
 

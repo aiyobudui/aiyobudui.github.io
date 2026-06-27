@@ -86,7 +86,7 @@
 
 夸克：https://pan.quark.cn/s/169303297ee0
 
-#### 《恶魔宝贝 DAMON and BABY》v1.0.6 NS整合 美区中文版
+#### 《恶魔宝贝 DAMON and BABY》v2.00 NS整合 美区中文版
 
 夸克：https://pan.quark.cn/s/6594378a1acb
 
@@ -106,7 +106,7 @@
 
 夸克：https://pan.quark.cn/s/04f93cc69e2d
 
-#### 《潜水员戴夫 DAVE THE DIVER》v1.0.6.1161 NS整合 全DLC 中文版
+#### 《潜水员戴夫 DAVE THE DIVER》v1.0.6.1182 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/287adeaffadc
 
@@ -374,7 +374,7 @@
 
 夸克：https://pan.quark.cn/s/601a22c5b461
 
-#### 《文明7》v1.4.0 NS整合 全DLC 中文版
+#### 《席德·梅尔的文明VII（Civilization VII）豪华版》v1.4.1 NS整合 全DLC 中文版（文明7）
 
 夸克：https://pan.quark.cn/s/dc3b513887ff
 
