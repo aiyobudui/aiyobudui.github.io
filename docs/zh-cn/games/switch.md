@@ -48,6 +48,86 @@
 ## 已有游戏
 !> 靠前的是新添加的，求资源、求更新、链接失效、打不开等问题可以进群@群主帮你解决.
 
+#### 《迷你公路 Mini Motorways》v1.20 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/512210f2f72d
+
+#### 《废土快递 Dustland Delivery》v1.4 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/47958374e948
+
+#### 《歪小子斯科特 EX Scott Pilgrim EX》v1.0.0.14564 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/411b017c44c0
+
+#### 《星霜钢机 斯特兰尼亚 EX》v1.1.3 NS整合 英文版
+
+夸克：https://pan.quark.cn/s/15d332e3ed7d
+
+#### 《足球经理26 触摸版》v1.0.6 NS整合 日语版
+
+夸克：https://pan.quark.cn/s/1193f1e8d4d6
+
+#### 《黑暗拍卖 Dark Auction》v1.0.7 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/5c1129d06153
+
+#### 《挖掘者米娜 Mina the Hollower》v1.0.5 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/4780ecf961e5
+
+#### 《超英派遣中心 Dispatch》v1.0.17397 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/112897b2c122
+
+#### 《东方弹幕神乐 失落幻想》v1.15.1 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/796e63a40d2d
+
+#### 《绝对阶级学园》v1.0.0 NS整合 港区中文版
+
+夸克：https://pan.quark.cn/s/84a28320aa74
+
+#### 《始于谎言的夏日恋情》v1.0.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/92c1f4ab2fda
+
+#### 《墨境 Realm of Ink》v1.0.3 NS整合 美区中文
+
+夸克：https://pan.quark.cn/s/f56d1afb1cfa
+
+#### 《流明物语 特雷的回忆》v1.0.02 NS整合 全DLC 美区中文版
+
+夸克：https://pan.quark.cn/s/13b193798f5a
+
+#### 《终极幸运之塔 Lucky Tower Ultimate》v1.0.13 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/14736cf1d8ae
+
+#### 《涅瓦河 Neva》v1.3.4 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/63961b6e96e7
+
+#### 《永恒之夜 Aeterna Noctis》v3.3.000 NS整合 全DLC 美区中文版
+
+夸克：https://pan.quark.cn/s/c555fa2134ef
+
+#### 《擦弹战机3 Psyvariar 3》v1.0.2 NS整合 日区中文版
+
+夸克：https://pan.quark.cn/s/56e9e8fdc534
+
+#### 《终将凋零的镜花 Dear Mirror Flower》v1.0.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/e3203fc87929
+
+#### 《世界灭亡共有幻想 MAMIYA》v1.0.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/f0ee4a020547
+
+#### 《实况力量棒球2026-2027》v1.1.0 NS整合 日语版
+
+夸克：https://pan.quark.cn/s/554f678ad10a
+
 #### 《真流行之神1+2》最新 NS整合 汉化版
 
 夸克：https://pan.quark.cn/s/7972bc3fe816
@@ -250,7 +330,7 @@
 
 夸克：https://pan.quark.cn/s/ba0fbf9a5d1f
 
-#### 《海珂 北境极光 HYKE Northern Light(s)》v1.0.1 NS整合 中文版
+#### 《海珂 北境极光 HYKE Northern Light(s)》v1.1.2 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/31c75e066797
 
