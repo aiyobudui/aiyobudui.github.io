@@ -80,6 +80,10 @@
 
 夸克：https://pan.quark.cn/s/c14855858fd5
 
+#### 《撞车嘉年华2（Wreckfest 2）》v0.365849 英文 联机版
+
+夸克：https://pan.quark.cn/s/c8c75d517929
+
 #### 《水泽仙女（Naiad）》v1.0.19 中文版
 
 夸克：https://pan.quark.cn/s/f35cffe27722
