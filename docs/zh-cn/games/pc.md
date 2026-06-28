@@ -80,6 +80,10 @@
 
 夸克：https://pan.quark.cn/s/c14855858fd5
 
+#### 《历历在目（before your eyes）》v1.2.6.8 中文版
+
+夸克：https://pan.quark.cn/s/7dd184218821
+
 #### 《撞车嘉年华2（Wreckfest 2）》v0.365849 英文 联机版
 
 夸克：https://pan.quark.cn/s/c8c75d517929
@@ -150,6 +154,10 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《迷魅狩猎（MIMESIS）》v0.3.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/b040c2480c94
 
 #### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
 
@@ -4571,10 +4579,6 @@ w
 #### 《怪物圣所（Monster Sanctuary）》v2.1.0.35 中文版
 
 夸克：https://pan.quark.cn/s/31bfe643d154
-
-#### 《迷魅狩猎（MIMESIS）》v0.2.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/b040c2480c94
 
 #### 《房车还在那里（RV There Yet）》v1.0.14337 英文 联机版
 

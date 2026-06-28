@@ -107,6 +107,10 @@
 
 迅雷：https://pan.xunlei.com/s/VO6L1qf_DE-Xj4knMXHDXEp3A1?pwd=zvz4#
 
+#### 《将夜》（2026）4K 周四 更新中..
+
+夸克：https://pan.quark.cn/s/6ed80329bbcb
+
 ---
 
 ## 周五
