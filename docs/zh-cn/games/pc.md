@@ -155,6 +155,10 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《超级变色龙（MECCHA CHAMELEON）》v2.2.1 中文 联机版(躲猫猫游戏)
+
+夸克：https://pan.quark.cn/s/258c1f8479d8
+
 #### 《迷魅狩猎（MIMESIS）》v0.3.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/b040c2480c94
@@ -180,10 +184,6 @@
 #### 《僵尸世界大战（World War Z）豪华版》v2026.6.18 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/bb9aa80fd6eb
-
-#### 《超级变色龙（MECCHA CHAMELEON）》v1.9.0 中文 联机版(躲猫猫游戏)
-
-夸克：https://pan.quark.cn/s/258c1f8479d8
 
 #### 《警区（The Precinct）》v1.12.23888 中文版
 

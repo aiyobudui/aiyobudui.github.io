@@ -24,6 +24,16 @@
 
 ## 正在更新中的..
 
+#### 《龙之家族》（2022-2026）1080P 第三季 更新中..（附1-2集全 4K）
+
+夸克：https://pan.quark.cn/s/7e5804e26d47
+
+迅雷：https://pan.xunlei.com/s/VNnsz3T9NZr5eynMHur8Q8aqA1?pwd=dzvv#
+
+---
+
+## 已完结的
+
 #### 《校园之外》（2026）4K 8集全
 
 夸克：https://pan.quark.cn/s/24deaee60601
@@ -35,10 +45,6 @@
 夸克：https://pan.quark.cn/s/4522695a8c08
 
 迅雷：https://pan.xunlei.com/s/VNy0SWGNad5Z1gEgyF4UjQfFA1?pwd=6ssf#
-
----
-
-## 已完结的
 
 #### 《暗影蜘蛛侠》（2026）1080P 中字 黑白+彩色版
 
@@ -453,12 +459,6 @@
 夸克：https://pan.quark.cn/s/a75553be552e
 
 迅雷：https://pan.xunlei.com/s/VO-5Jp48S62PNBTZb_BJoax3A1?pwd=29m6#
-
-#### 《龙之家族》（2022-2024）1-2集全 4K HDR 中字
-
-夸克：https://pan.quark.cn/s/7e5804e26d47
-
-迅雷：https://pan.xunlei.com/s/VNnsz3T9NZr5eynMHur8Q8aqA1?pwd=dzvv#
 
 #### 《毒枭》（2015-2017）1080P 1-3季全 中字
 

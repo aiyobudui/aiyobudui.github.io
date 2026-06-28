@@ -16,6 +16,20 @@
 
 ## 正在更新中的...
 
+#### 《金特务：本色回归》（2026）1080P 10集更新中..
+
+夸克：https://pan.quark.cn/s/2de6e07086cb
+
+迅雷：https://pan.xunlei.com/s/VOwEp7VDwy-XAWSSTfUC-q9aA1?pwd=nbzi
+
+---
+
+## 已完结的...
+
+#### 《金科长 김과장》（2017）1080P高码 中字
+
+夸克：https://pan.quark.cn/s/dd2b1c498e4f
+
 #### 《铁拳教育》（2026）1080P 内封中字 10集全
 
 夸克：https://pan.quark.cn/s/c59079072e52
@@ -31,10 +45,6 @@
 夸克：https://pan.quark.cn/s/8e6a2fb66ec4
 
 迅雷：https://pan.xunlei.com/s/VOt2MSA8C2t7X7a2rqynK4a3A1?pwd=bmaw#
-
----
-
-## 已完结的...
 
 #### 《幸福 해피니스》 （2021）1080P 中字（惊悚 丧尸）
 
