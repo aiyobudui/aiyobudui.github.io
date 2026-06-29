@@ -159,6 +159,14 @@
 
 夸克：https://pan.quark.cn/s/258c1f8479d8
 
+#### 《深渊之潮（Abyssus）》v1.3.61832 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/d9e794c1e06e
+
+#### 《刀剑江湖路（Path of Kung Fu）豪华版》v1.1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/53ac0e97ba27
+
 #### 《迷魅狩猎（MIMESIS）》v0.3.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/b040c2480c94
@@ -4212,10 +4220,6 @@ w
 
 夸克：https://pan.quark.cn/s/eac402eb5d11
 
-#### 《深渊之潮（Abyssus）》v1.1.53392 中文 联机版
-
-夸克：https://pan.quark.cn/s/d9e794c1e06e
-
 #### 《杀手：灰与尘的时代（Slayer the Demon Haunted World）》v2025.11.12 中文版
 
 夸克：https://pan.quark.cn/s/0abd46fb16d4
@@ -4535,10 +4539,6 @@ w
 #### 《编程农场（The Farmer Was Replaced）》Build.20588319 中文版（Python编程练习游戏）
 
 夸克：https://pan.quark.cn/s/d9330507c76f
-
-#### 《刀剑江湖路（Path of Kung Fu）豪华版》v1.0.1.3 中文版
-
-夸克：https://pan.quark.cn/s/53ac0e97ba27
 
 #### 《突击：第二次世界大战（RAID World War II）特别版》v25.03 全DLC 中文 联机版（突袭二战）
 
