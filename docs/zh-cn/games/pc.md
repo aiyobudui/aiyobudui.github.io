@@ -127,6 +127,12 @@
 
 夸克：https://pan.quark.cn/s/258c1f8479d8
 
+#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.44 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/e69d68ac66af
+
+迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
+
 #### 《墨境（Realm of Ink）》Build.23905874 中文版
 
 夸克：https://pan.quark.cn/s/9c8494132b6e
@@ -156,6 +162,10 @@
 #### 《绯夜传奇 复刻版（Tales of Berseria Remastered）豪华版》v1.0.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/ae94d79246eb
+
+#### 《日落汽车旅馆（Sunset Motel）》v1.0.18 中文版
+
+夸克：https://pan.quark.cn/s/21d48d0290a4
 
 ---
 
@@ -433,12 +443,6 @@
 #### 《焕家物语（Hozy）》v1.2 中文版
 
 夸克：https://pan.quark.cn/s/3758da8f2bbc
-
-#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.1.0 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/e69d68ac66af
-
-迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
 
 #### 《艾尔登法环（Elden Ring）豪华版》v1.16.2 全DLC 中文 联机版
 
@@ -4421,10 +4425,6 @@ w
 #### 《虚空破坏者（VOIDBREAKER）》v010.8 中文版
 
 夸克：https://pan.quark.cn/s/42eb3afb2e87
-
-#### 《汽车旅馆模拟（Sunset Motel）》v1.0.15 中文版
-
-夸克：https://pan.quark.cn/s/21d48d0290a4
 
 #### 《诸神灰烬：抉择（Ash of Gods The Way）》v1.11.8.0 全DLC 中文版（策略卡牌）
 
