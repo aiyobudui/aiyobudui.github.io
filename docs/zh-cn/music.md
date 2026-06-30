@@ -18,6 +18,10 @@
 
 夸克：https://pan.quark.cn/s/414f8d2f45cb
 
+#### 《宋冬野 新专辑《再想想 Take Another Moment》FLAC 44.1kHz-16bit
+
+夸克：https://pan.quark.cn/s/bb2c4505dcf9
+
 #### 《周杰伦》FLAC无损专辑.高清修复MV.蓝光演唱会.私人收藏（已刮削）有新专辑 太阳之子
 
 夸克：https://pan.quark.cn/s/5e5f24e9d066
