@@ -72,6 +72,18 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《觉醒者：遗忘之誓（The Awakener Forgotten Oath）》v3.1 中文版（动作肉鸽）
+
+夸克：https://pan.quark.cn/s/0a3c7a8cc3d6
+
+#### 《占领火星（Occupy Mars The Game）》v1.1.38 中文 联机版
+
+夸克：https://pan.quark.cn/s/f7a0484620a5
+
+#### 《氧气列车（Oxygen Train）》v0.9.330 中文版
+
+夸克：https://pan.quark.cn/s/868dcb5abdaa
+
 #### 《黑相集：8020号指令（Directive 8020）豪华版》v2026.6.3 中文版（电影叙事恐怖游戏系列）
 #### 《黑相集：心中魔（The Dark Pictures Anthology The Devil in Me）》Build.11855829 全DLC 中文版
 #### 《黑相集：灰冥界（The Dark Pictures Anthology House of Ashes）》Build.8603627 全DLC 中文版
@@ -102,6 +114,14 @@
 
 ## 最近更新
 
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）豪华版》v68322 中文版
+
+夸克：https://pan.quark.cn/s/32c452be1479
+
+#### 《非生物因素（Abiotic Factor）支持者版》v1.3.0.26036 中文 联机版
+
+夸克：https://pan.quark.cn/s/d7b93db8b076
+
 #### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v382.893 全DLC 中文 联机版（更新）
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 
@@ -113,9 +133,29 @@
 
 夸克：https://pan.quark.cn/s/30fe4607b484
 
+#### 《天外世界：太空人之选（The Outer Worlds Spacer's Choice Edition）重制版》v2.5.9.0 中文版
+#### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/9baad4a27102
+
 #### 《机械制造者（Trailmakers）终结版》v244.513.575.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/f4faa9506d28
+
+#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.6.115628 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《辐射4（Fallout 4）周年版》v1.11.221.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3c6a02617ff3
+
+#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
+#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
+#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
+#### 《毁灭战士 永恒（DOOM Eternal）豪华版》Build.23241804 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5d002d83f9e0
 
 #### 《Forgotlings》v1.3.0 中文版（遗忘之物 遗忘之灵）
 
@@ -166,6 +206,12 @@
 #### 《日落汽车旅馆（Sunset Motel）》v1.0.18 中文版
 
 夸克：https://pan.quark.cn/s/21d48d0290a4
+
+#### 《卧龙 苍天陨落（Wo Long Fallen Dynasty）完全版》v1.305 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/25886713fa22
+
+迅雷：https://pan.xunlei.com/s/VNvHiC360_dT43mM0F5eQ9UkA1?pwd=vcf3#
 
 ---
 
@@ -223,11 +269,6 @@
 夸克：https://pan.quark.cn/s/744a500cb67e
 
 迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
-
-#### 《天外世界：太空人之选（The Outer Worlds Spacer's Choice）》v2.5.7.0 中文版（天外世界1 重制版）
-#### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.1 中文版
-
-夸克：https://pan.quark.cn/s/9baad4a27102
 
 #### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R.2 Heart of Chornobyl）终极版》v1.9 全DLC 中文版
 
@@ -1177,10 +1218,6 @@ w
 
 迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
 
-#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.5.107738 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/2ce76d085b7c
-
 #### 《阿兹特克：最后的太阳（Aztecs The Last Sun）支持者版》v2026.5.22 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/35e5a936e15a
@@ -1897,10 +1934,6 @@ w
 #### 《House Builder》v2026.4.24 全DLC 中文版（房屋建筑商、建筑工模拟器、房屋建造者）
 
 夸克：https://pan.quark.cn/s/22d7ef6f8837
-
-#### 《光与影：33号远征队（Clair Obscur Expedition 33）豪华版》v64517 中文版
-
-夸克：https://pan.quark.cn/s/32c452be1479
 
 #### 《风启之旅（Windrose）》v0.10.0.3.104.256f9653 中文 联机版
 
@@ -2627,13 +2660,6 @@ w
 #### 《无归（No Return）》v15255988 中文版（恐怖解密）
 
 夸克：https://pan.quark.cn/s/17bef83c8769
-
-#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
-#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
-#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
-#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5d002d83f9e0
 
 #### 《Pure Badminton》Build.21335860 中文版（纯正羽毛球）
 
@@ -3510,10 +3536,6 @@ w
 
 夸克：https://pan.quark.cn/s/15e312a44808
 
-#### 《非生物因素（Abiotic Factor）支持者版》v1.2 中文 联机版
-
-夸克：https://pan.quark.cn/s/d7b93db8b076
-
 #### 《月华辉映之刻》v1.0.0 中文版
 
 夸克：https://pan.quark.cn/s/b7129e40f934
@@ -3761,10 +3783,6 @@ w
 #### 《逃离鸭科夫（Escape From Duckov）》v1.3.13 中文版（附一堆MOD）
 
 夸克：https://pan.quark.cn/s/0efc56eb9b21
-
-#### 《辐射4（Fallout 4）周年版》v1.11.191 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/3c6a02617ff3
 
 #### 《灰雨钢锋（Of Ash and Steel）》v1.05b 中文版
 
@@ -12301,12 +12319,6 @@ w
 夸克：https://pan.quark.cn/s/bc8dbf816c49
 
 迅雷：https://pan.xunlei.com/s/VNvC8wNHWGF9CAHzbQ6L-ud0A1?pwd=dqvj#
-
-#### 《卧龙：苍天陨落》最新 全DLC 豪华中文版  附XG器+预购特典+季票
-
-夸克：https://pan.quark.cn/s/25886713fa22
-
-迅雷：https://pan.xunlei.com/s/VNvHiC360_dT43mM0F5eQ9UkA1?pwd=vcf3#
 
 #### 《笼中窥梦》v1.06 中文版
 
