@@ -84,6 +84,10 @@
 
 夸克：https://pan.quark.cn/s/868dcb5abdaa
 
+#### 《韩国街头美食经营模拟器（POJANGMACHA）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/f2a4b8599f6b
+
 #### 《黑相集：8020号指令（Directive 8020）豪华版》v2026.6.3 中文版（电影叙事恐怖游戏系列）
 #### 《黑相集：心中魔（The Dark Pictures Anthology The Devil in Me）》Build.11855829 全DLC 中文版
 #### 《黑相集：灰冥界（The Dark Pictures Anthology House of Ashes）》Build.8603627 全DLC 中文版
@@ -128,6 +132,14 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《逃离鸭科夫（Escape From Duckov）》v2.3.20 中文版（附一堆MOD）
+
+夸克：https://pan.quark.cn/s/0efc56eb9b21
+
+#### 《以太术士 (Aethermancer)》v0.7.0.19 中文版
+
+夸克：https://pan.quark.cn/s/152221838481
 
 #### 《七日杀（7 Days to Die）》v3.0.0 中文 联机版（7日杀 多版本自选）
 
@@ -3780,10 +3792,6 @@ w
 
 夸克：https://pan.quark.cn/s/dd64b7e57e0d
 
-#### 《逃离鸭科夫（Escape From Duckov）》v1.3.13 中文版（附一堆MOD）
-
-夸克：https://pan.quark.cn/s/0efc56eb9b21
-
 #### 《灰雨钢锋（Of Ash and Steel）》v1.05b 中文版
 
 夸克：https://pan.quark.cn/s/9c5a315866f7
@@ -5115,10 +5123,6 @@ w
 #### 《逃离永明岛（Escape Everlit）》v2025.10.2 中文版（文字解密冒险）
 
 夸克：https://pan.quark.cn/s/b8ba8a22c26f
-
-#### 《以太术士 (Aethermancer)》v0.3.1.1 中文版
-
-夸克：https://pan.quark.cn/s/152221838481
 
 #### 《六星门：观星者（Sixtar Gate STARGAZER）》v1.0.6.001 全DLC 中文版（音乐游戏）
 
