@@ -72,6 +72,18 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《核纪元（Nuclear Epoch）支持者版》v1.0.0.5 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f7daed39b839
+
+#### 《黎明之钟（Dawn Bell）》v2026.7.2 中文版（2D恐怖冒險）
+
+夸克：https://pan.quark.cn/s/f731d009d0c4
+
+#### 《混乱超市整理模拟器（Supermarket Chaos）》v1.0.7 中文版（治愈系整理模拟游戏）
+
+夸克：https://pan.quark.cn/s/8cd4fc681b46
+
 #### 《觉醒者：遗忘之誓（The Awakener Forgotten Oath）》v3.1 中文版（动作肉鸽）
 
 夸克：https://pan.quark.cn/s/0a3c7a8cc3d6
@@ -122,6 +134,12 @@
 
 夸克：https://pan.quark.cn/s/32c452be1479
 
+#### 《苍翼：混沌效应（BlazBlue Entropy Effect）豪华版》v1.1.0.1413673.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dffcc45a56c8
+
+迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
+
 #### 《非生物因素（Abiotic Factor）支持者版》v1.3.0.26036 中文 联机版
 
 夸克：https://pan.quark.cn/s/d7b93db8b076
@@ -132,6 +150,10 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《终落之城（All Will Fall）》v1.2.3f1 中文版
+
+夸克：https://pan.quark.cn/s/9d2ee6bd80e6
 
 #### 《逃离鸭科夫（Escape From Duckov）》v2.3.20 中文版（附一堆MOD）
 
@@ -154,6 +176,10 @@
 
 夸克：https://pan.quark.cn/s/f4faa9506d28
 
+#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.490 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4912658febe6
+
 #### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.6.115628 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/2ce76d085b7c
@@ -161,6 +187,14 @@
 #### 《辐射4（Fallout 4）周年版》v1.11.221.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/3c6a02617ff3
+
+#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）》v1.7.0.0 全DLC 中文版(更新)
+#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
+#### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
+#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
+#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/bb5134dcb570
 
 #### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
 #### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
@@ -1028,10 +1062,6 @@
 #### 《灾后修复师（RoadCraft）》v7.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/f974a596610e
-
-#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.450 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4912658febe6
 
 #### 《莎玛尼娅（Shamania）》v2.0.0 中文版（开放世界联机）
 
@@ -2049,12 +2079,6 @@ w
 
 迅雷：https://pan.xunlei.com/s/VOpBI7QtZ6grVZoY6gPF8HWcA1?pwd=8s6y#
 
-#### 《苍翼：混沌效应（BlazBlue Entropy Effect）豪华版》v1.0.8.140136.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/dffcc45a56c8
-
-迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
-
 #### 《生存主义：隐形异变 (Survivalist：Invisible Strain)》v272 中文 联机版
 
 夸克：https://pan.quark.cn/s/1d0e80320107
@@ -2402,10 +2426,6 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNudY1SUMO36N9TX9pNUGRgXA1?pwd=28c7#
 
-#### 《终落之城（All Will Fall）》v1.0.9f1 中文版
-
-夸克：https://pan.quark.cn/s/9d2ee6bd80e6
-
 #### 《冥界契约（Netherworld Covenant）》v1.2.0 中文版（3D动作肉鸽）
 
 夸克：https://pan.quark.cn/s/f782c1f22063
@@ -2714,14 +2734,6 @@ w
 #### 《要战便战（Diplomacy is Not an Option）》v1.0.130 中文版
 
 夸克：https://pan.quark.cn/s/d13054962c00
-
-#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
-#### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
-#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
-#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
-#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）》v1.5.2.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/bb5134dcb570
 
 #### 《海狸浮生记（Timberborn）》v1.0.12.5 中文版
 
