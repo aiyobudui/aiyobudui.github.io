@@ -124,6 +124,10 @@
 
 夸克：https://pan.quark.cn/s/e2644eb87c21
 
+#### 《神话时代 重述版（Age of Mythology Retold）高级版》v100.19.17020.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/51201cccd0db
+
 #### 《知只大冒险2（Biped 2）》v2.5.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/fad1536fd55f
@@ -1951,10 +1955,6 @@ w
 #### 《不思议的皇冠（Crown Trick）》v1.2.1.15 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/4525e3048705
-
-#### 《神话时代 重述版（Age of Mythology Retold）高级版》v100.19.10938.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/51201cccd0db
 
 #### 《七龙珠 电光炸裂 ZERO（Dragon Ball Sparking Zero）终结版》v2019.018.003.011.012 全DLC 中文 联机版
 
