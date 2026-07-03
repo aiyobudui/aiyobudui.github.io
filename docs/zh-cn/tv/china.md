@@ -17,6 +17,12 @@
 
 ## 正在更新中的...
 
+#### 《昨夜将至》（2026）4K 12集全
+
+夸克：https://pan.quark.cn/s/8f80d2eca7bb
+
+迅雷：https://pan.xunlei.com/s/VOw_T3ShRVRtzLR3eM17tQFsA1?pwd=idu4
+
 #### 《翘楚》（2026）4K 24集全
 
 夸克：https://pan.quark.cn/s/d03e3ce88822

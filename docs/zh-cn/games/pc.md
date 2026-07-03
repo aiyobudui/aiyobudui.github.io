@@ -151,6 +151,10 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《饥荒（Dont Starve Together）》v739465 全DLC 中文 联机版（软件联机 附安卓版）
+
+夸克：https://pan.quark.cn/s/cbadff66e8dc
+
 #### 《终落之城（All Will Fall）》v1.2.3f1 中文版
 
 夸克：https://pan.quark.cn/s/9d2ee6bd80e6
@@ -188,7 +192,7 @@
 
 夸克：https://pan.quark.cn/s/3c6a02617ff3
 
-#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）》v1.7.0.0 全DLC 中文版(更新)
+#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）典藏版》v1.7.0.0 全DLC 中文版(更新)
 #### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
 #### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
 #### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
@@ -1731,10 +1735,6 @@ w
 #### 《重铸纪元：自由地（Age of Reforging The Freelands）支持者版》v1.21d 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/0269e5852063
-
-#### 《饥荒（Dont Starve Together）》v726875 全DLC 中文 联机版（软件联机 附安卓版）
-
-夸克：https://pan.quark.cn/s/cbadff66e8dc
 
 #### 《符文工房 龙之天地（Rune Factory Guardians of Azuma）》v1.1.4 全DLC 中文版
 
