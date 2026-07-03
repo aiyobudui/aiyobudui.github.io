@@ -72,6 +72,22 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《喋血街头4（POSTAL 4 No Regerts）》v1.6.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c146f678e7d5
+
+#### 《黑书（Black Book）》v2025.8.12 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/57e03aee086c
+
+#### 《阿门罗（Armello）》Build.10109492 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dc10a03e0597
+
+#### 《挖掘者米娜（Mina the Hollower）》v1.0.6 中文版
+
+夸克：https://pan.quark.cn/s/228106b785d2
+
 #### 《核纪元（Nuclear Epoch）支持者版》v1.0.0.5 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/f7daed39b839
@@ -92,40 +108,6 @@
 
 夸克：https://pan.quark.cn/s/f7a0484620a5
 
-#### 《氧气列车（Oxygen Train）》v0.9.330 中文版
-
-夸克：https://pan.quark.cn/s/868dcb5abdaa
-
-#### 《韩国街头美食经营模拟器（POJANGMACHA）》v1.2.0 中文版
-
-夸克：https://pan.quark.cn/s/f2a4b8599f6b
-
-#### 《黑相集：8020号指令（Directive 8020）豪华版》v2026.6.3 中文版（电影叙事恐怖游戏系列）
-#### 《黑相集：心中魔（The Dark Pictures Anthology The Devil in Me）》Build.11855829 全DLC 中文版
-#### 《黑相集：灰冥界（The Dark Pictures Anthology House of Ashes）》Build.8603627 全DLC 中文版
-#### 《黑相集：稀望镇（The Dark Pictures Anthology Little Hope）》Build.11200128 全DLC 中文版
-#### 《黑相集：棉兰号（The Dark Pictures Anthology Man of Medan）》Build.10739751 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c14855858fd5
-
-#### 《历历在目（before your eyes）》v1.2.6.8 中文版
-
-夸克：https://pan.quark.cn/s/7dd184218821
-
-#### 《撞车嘉年华2（Wreckfest 2）》v0.365849 英文 联机版
-
-夸克：https://pan.quark.cn/s/c8c75d517929
-
-#### 《水泽仙女（Naiad）》v1.0.19 中文版
-
-夸克：https://pan.quark.cn/s/f35cffe27722
-
-#### 《极度恐慌3（F.E.A.R. 3）》v16.0.20.1060 汉化版
-#### 《极度恐慌2：起源计划（F.E.A.R. 2 Project Origin）》v1.05 全DLC 汉化版（支持联机）
-#### 《极度恐慌：撤退点（FEAR Ultimate Shooter Edition）白金版》v1.08 全DLC 汉化版
-
-夸克：https://pan.quark.cn/s/1c85f296d32a
-
 ---
 
 ## 最近更新
@@ -133,6 +115,33 @@
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）豪华版》v68322 中文版
 
 夸克：https://pan.quark.cn/s/32c452be1479
+
+#### 《逃离鸭科夫（Escape From Duckov）》v2.3.30 中文版（附一堆MOD）
+
+夸克：https://pan.quark.cn/s/0efc56eb9b21
+
+#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.19.2.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/e2644eb87c21
+
+#### 《知只大冒险2（Biped 2）》v2.5.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/fad1536fd55f
+
+#### 《平行人生（Paralives）》v0.1.5 中文版
+
+夸克：https://pan.quark.cn/s/16795f17858e
+
+#### 《潜水员戴夫（Dave the Diver）豪华版》v1.0.6.2044 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/2ed8f0fbce63
+
+迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
+
+#### 《一起玩农场2（Farm Together 2）》v303 全DLC 中文 联机版
+#### 《一起玩农场（Farm Together）》v2022.8.23 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/2f8ffe329c9b
 
 #### 《苍翼：混沌效应（BlazBlue Entropy Effect）豪华版》v1.1.0.1413673.0 全DLC 中文版
 
@@ -158,10 +167,6 @@
 #### 《终落之城（All Will Fall）》v1.2.3f1 中文版
 
 夸克：https://pan.quark.cn/s/9d2ee6bd80e6
-
-#### 《逃离鸭科夫（Escape From Duckov）》v2.3.20 中文版（附一堆MOD）
-
-夸克：https://pan.quark.cn/s/0efc56eb9b21
 
 #### 《以太术士 (Aethermancer)》v0.7.0.19 中文版
 
@@ -199,69 +204,6 @@
 #### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/bb5134dcb570
-
-#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
-#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
-#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
-#### 《毁灭战士 永恒（DOOM Eternal）豪华版》Build.23241804 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5d002d83f9e0
-
-#### 《Forgotlings》v1.3.0 中文版（遗忘之物 遗忘之灵）
-
-夸克：https://pan.quark.cn/s/9e8b4e99c225
-
-迅雷：https://pan.xunlei.com/s/VOmy-wR7ZV-w7eoHmU6igqCjA1?pwd=yfzx#
-
-#### 《超级变色龙（MECCHA CHAMELEON）》v2.2.1 中文 联机版(躲猫猫游戏)
-
-夸克：https://pan.quark.cn/s/258c1f8479d8
-
-#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.44 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/e69d68ac66af
-
-迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
-
-#### 《墨境（Realm of Ink）》Build.23905874 中文版
-
-夸克：https://pan.quark.cn/s/9c8494132b6e
-
-迅雷：https://pan.xunlei.com/s/VO8HDZsLAc5ng5SPqCvILFBeA1?pwd=h5y2#
-
-#### 《深渊之潮（Abyssus）》v1.3.61832 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/d9e794c1e06e
-
-#### 《刀剑江湖路（Path of Kung Fu）豪华版》v1.1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/53ac0e97ba27
-
-#### 《蛮荒计划（Ferocious）》v1.09.273.4211 中文版
-
-夸克：https://pan.quark.cn/s/2f2a7280d767
-
-#### 《迷魅狩猎（MIMESIS）》v0.3.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/b040c2480c94
-
-#### 《破晓（Dawn Break）》v2026.6.9 中文版
-
-夸克：https://pan.quark.cn/s/f7dae3181778
-
-#### 《绯夜传奇 复刻版（Tales of Berseria Remastered）豪华版》v1.0.4 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ae94d79246eb
-
-#### 《日落汽车旅馆（Sunset Motel）》v1.0.18 中文版
-
-夸克：https://pan.quark.cn/s/21d48d0290a4
-
-#### 《卧龙 苍天陨落（Wo Long Fallen Dynasty）完全版》v1.305 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/25886713fa22
-
-迅雷：https://pan.xunlei.com/s/VNvHiC360_dT43mM0F5eQ9UkA1?pwd=vcf3#
 
 ---
 
@@ -435,6 +377,103 @@
 
 ## 已有游戏
 
+#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
+#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
+#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
+#### 《毁灭战士 永恒（DOOM Eternal）豪华版》Build.23241804 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5d002d83f9e0
+
+#### 《Forgotlings》v1.3.0 中文版（遗忘之物 遗忘之灵）
+
+夸克：https://pan.quark.cn/s/9e8b4e99c225
+
+迅雷：https://pan.xunlei.com/s/VOmy-wR7ZV-w7eoHmU6igqCjA1?pwd=yfzx#
+
+#### 《超级变色龙（MECCHA CHAMELEON）》v2.2.1 中文 联机版(躲猫猫游戏)
+
+夸克：https://pan.quark.cn/s/258c1f8479d8
+
+#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.44 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/e69d68ac66af
+
+迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
+
+#### 《墨境（Realm of Ink）》Build.23905874 中文版
+
+夸克：https://pan.quark.cn/s/9c8494132b6e
+
+迅雷：https://pan.xunlei.com/s/VO8HDZsLAc5ng5SPqCvILFBeA1?pwd=h5y2#
+
+#### 《深渊之潮（Abyssus）》v1.3.61832 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/d9e794c1e06e
+
+#### 《刀剑江湖路（Path of Kung Fu）豪华版》v1.1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/53ac0e97ba27
+
+#### 《蛮荒计划（Ferocious）》v1.09.273.4211 中文版
+
+夸克：https://pan.quark.cn/s/2f2a7280d767
+
+#### 《迷魅狩猎（MIMESIS）》v0.3.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/b040c2480c94
+
+#### 《破晓（Dawn Break）》v2026.6.9 中文版
+
+夸克：https://pan.quark.cn/s/f7dae3181778
+
+#### 《绯夜传奇 复刻版（Tales of Berseria Remastered）豪华版》v1.0.4 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ae94d79246eb
+
+#### 《日落汽车旅馆（Sunset Motel）》v1.0.18 中文版
+
+夸克：https://pan.quark.cn/s/21d48d0290a4
+
+#### 《卧龙 苍天陨落（Wo Long Fallen Dynasty）完全版》v1.305 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/25886713fa22
+
+迅雷：https://pan.xunlei.com/s/VNvHiC360_dT43mM0F5eQ9UkA1?pwd=vcf3#
+
+#### 《氧气列车（Oxygen Train）》v0.9.330 中文版
+
+夸克：https://pan.quark.cn/s/868dcb5abdaa
+
+#### 《韩国街头美食经营模拟器（POJANGMACHA）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/f2a4b8599f6b
+
+#### 《黑相集：8020号指令（Directive 8020）豪华版》v2026.6.3 中文版（电影叙事恐怖游戏系列）
+#### 《黑相集：心中魔（The Dark Pictures Anthology The Devil in Me）》Build.11855829 全DLC 中文版
+#### 《黑相集：灰冥界（The Dark Pictures Anthology House of Ashes）》Build.8603627 全DLC 中文版
+#### 《黑相集：稀望镇（The Dark Pictures Anthology Little Hope）》Build.11200128 全DLC 中文版
+#### 《黑相集：棉兰号（The Dark Pictures Anthology Man of Medan）》Build.10739751 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c14855858fd5
+
+#### 《历历在目（before your eyes）》v1.2.6.8 中文版
+
+夸克：https://pan.quark.cn/s/7dd184218821
+
+#### 《撞车嘉年华2（Wreckfest 2）》v0.365849 英文 联机版
+
+夸克：https://pan.quark.cn/s/c8c75d517929
+
+#### 《水泽仙女（Naiad）》v1.0.19 中文版
+
+夸克：https://pan.quark.cn/s/f35cffe27722
+
+#### 《极度恐慌3（F.E.A.R. 3）》v16.0.20.1060 汉化版
+#### 《极度恐慌2：起源计划（F.E.A.R. 2 Project Origin）》v1.05 全DLC 汉化版（支持联机）
+#### 《极度恐慌：撤退点（FEAR Ultimate Shooter Edition）白金版》v1.08 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/1c85f296d32a
+
 #### 《财富磨坊（Fortune Mill）》Build.23705722 中文版
 
 夸克：https://pan.quark.cn/s/79ff61921bd9
@@ -523,10 +562,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
 
-#### 《平行人生（Paralives）》v0.1.4.20182 中文版
-
-夸克：https://pan.quark.cn/s/16795f17858e
-
 #### 《虐杀熔炉（KIBORG）》V2026.6.23 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d590ba9f9318
@@ -554,12 +589,6 @@
 #### 《吸血鬼：避世血族2（Vampire The Masquerade Bloodlines 2）高级版》v53085 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/208c46eae054
-
-#### 《潜水员戴夫（Dave the Diver）豪华版》v1.0.6.2018 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/2ed8f0fbce63
-
-迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
 
 #### 《老婆随手扔了我多年珍藏卡牌（我反手买下整个垃圾场）》v2025.12.22 全DLC 中文版
 
@@ -809,10 +838,6 @@
 夸克：https://pan.quark.cn/s/74b6e4cc96f7
 
 迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
-
-#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.18.3.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/e2644eb87c21
 
 #### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.14.1.19644 中文版
 
@@ -1365,11 +1390,6 @@ w
 夸克：https://pan.quark.cn/s/0e5b3795fcf1
 
 迅雷：https://pan.xunlei.com/s/VOtOcK0r4Wy9WJv6bWn23G8WA1?pwd=g4rt#
-
-#### 《一起玩农场（Farm Together）》v2022.8.23 全DLC 中文 联机版
-#### 《一起玩农场2（Farm Together 2）》v270 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/2f8ffe329c9b
 
 #### 《迷失之刃（Stray Blade）》Build.12682948 全DLC 中文版
 
@@ -4387,10 +4407,6 @@ w
 #### 《冬日幸存者（Winter Survival）》v49336S 中文版
 
 夸克：https://pan.quark.cn/s/93d347e76302
-
-#### 《知只大冒险2（Biped 2）》v1.7 中文 联机版
-
-夸克：https://pan.quark.cn/s/fad1536fd55f
 
 #### 《鸡蛋历险记（Egging On）》v0.1.8654 中文版
 
