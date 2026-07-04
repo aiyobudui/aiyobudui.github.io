@@ -18,11 +18,11 @@
 
 夸克：https://pan.quark.cn/s/414f8d2f45cb
 
-#### 《宋冬野 新专辑《再想想 Take Another Moment》FLAC 44.1kHz-16bit
+#### 《宋冬野》新专辑（再想想 Take Another Moment）FLAC 44.1kHz-16bit
 
 夸克：https://pan.quark.cn/s/bb2c4505dcf9
 
-#### 《周杰伦》FLAC无损专辑.高清修复MV.蓝光演唱会.私人收藏（已刮削）有新专辑 太阳之子
+#### 《周杰伦》FLAC无损专辑.高清修复MV.蓝光演唱会.私人收藏（已刮削）《太阳之子 FLAC 48kHz-24bit》
 
 夸克：https://pan.quark.cn/s/5e5f24e9d066
 
@@ -86,7 +86,7 @@
 
 阿里：<https://www.aliyundrive.com/s/jTtUaRj19Wj>
 
-#### 《2023 QQ音乐年度热歌榜TOP300》（FLAC MP3 格式）（8.8G）
+#### 《QQ音乐年度热歌榜TOP300 2023 》（FLAC MP3 格式）
 
 夸克：https://pan.quark.cn/s/f01ca8811e10
 
@@ -94,11 +94,11 @@
 
 夸克：https://pan.quark.cn/s/15b60f35fbf1
 
-#### 《张学友 雪狼湖·国语版 2CD》2005 [台湾限量珍藏纪念版] [WAV]
+#### 《张学友 雪狼湖·国语版 2CD》2005 [台湾限量珍藏纪念版] [WAV格式]
 
 夸克：https://pan.quark.cn/s/d79a0c4ca001
 
-#### 《DJ 280首 无损音乐flac格式 》
+#### 《DJ 280首》（flac 格式）
 
 夸克：https://pan.quark.cn/s/57cc6d6609f7
 
@@ -150,7 +150,7 @@
 
 夸克：https://pan.quark.cn/s/b2bc7a7574cd
 
-#### 《2023车载U盘，无损高音质Mp3格式》（41GB）
+#### 《2023车载U盘》（41GB）
 
 夸克：https://pan.quark.cn/s/6b353b4f80bc
 

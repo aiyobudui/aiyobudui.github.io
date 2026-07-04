@@ -12240,9 +12240,9 @@ w
 
 夸克：https://pan.quark.cn/s/7d6a036ad1d5
 
-#### 《中国式家长》最新版 PC+ 模拟器版/安卓
+#### 《中国式家长（Chinese Parent）》v2.0.0.3 中文版
 
-夸克：https://pan.quark.cn/s/a047916a14a8
+夸克：https://pan.quark.cn/s/8e5f60ba2aa4
 
 迅雷：https://pan.xunlei.com/s/VNx4SBo0tai5YXoYQkJrt6w4A1?pwd=nfvw#
 

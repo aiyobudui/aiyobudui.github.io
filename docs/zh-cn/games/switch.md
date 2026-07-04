@@ -520,6 +520,10 @@
 
 夸克：https://pan.quark.cn/s/8d31bd1bd1d4
 
+#### 《中国式家长》v1.05 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/a047916a14a8
+
 #### 《建筑模拟器2》最新 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/f8510d81fb6a
@@ -528,7 +532,7 @@
 
 夸克：https://pan.quark.cn/s/172acc40a2b9
 
-#### 《勇者斗恶龙怪物仙境3》（怪兽篇3）v1.0.2 全DLC 豪华中文 NS整合版
+#### 《勇者斗恶龙怪物仙境3》（怪兽篇3）v1.0.2 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a6258c1bd168
 
