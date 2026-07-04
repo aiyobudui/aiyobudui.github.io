@@ -72,6 +72,22 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《裁缝模拟器（Tailor Simulator）》v0.3.2406.1 中文版
+
+夸克：https://pan.quark.cn/s/fd5a8b67c20e
+
+#### 《小小模拟世界（Little Sim World）》v0.60.0 中文版
+
+夸克：https://pan.quark.cn/s/f0f018bcb2ae
+
+#### 《花艺师普妮（Puni the Florist）》v1.0.6.3 中文版
+
+夸克：https://pan.quark.cn/s/e46d8d4035e8
+
+#### 《温馨大扫除（Cozy Cleanup）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/17273b5666bd
+
 #### 《喋血街头4（POSTAL 4 No Regerts）》v1.6.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/c146f678e7d5
@@ -108,13 +124,58 @@
 
 夸克：https://pan.quark.cn/s/f7a0484620a5
 
+#### 《茧之锤 继承者（Malleus Cocconum The Heiress）》v2025.1.25 中文版
+
+夸克：https://pan.quark.cn/s/eb2004a060f8
+
 ---
 
 ## 最近更新
 
+#### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v382.893 全DLC 中文 联机版（更新）
+#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7c5fdf0323c4
+
+迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）豪华版》v68322 中文版
 
 夸克：https://pan.quark.cn/s/32c452be1479
+
+#### 《禁闭求生2（Grounded 2）创始人版》v0.4.2.1 全DLC 中文 联机版
+#### 《禁闭求生（Grounded）》v1.4.7.4815 中文 联机版
+
+夸克：https://pan.quark.cn/s/9dd4fa1dcd84
+
+#### 《求生之路2（Left 4 Dead 2）》Build.23990068 中文 联机版
+#### 《求生之路（Left 4 Dead ）》v1.0.4.5 中文 联机版
+
+夸克：https://pan.quark.cn/s/665c521c5b43
+
+#### 《黄金矿主模拟器：阿拉斯加淘金热（Alaska Gold Fever）》Build.23981202 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2e24bee55712
+
+#### 《异变金属（Morbid Metal）》v22127 中文版
+
+夸克：https://pan.quark.cn/s/c48de0ceb715
+
+#### 《零希沃特 (ZERO Sievert)》v1.2.71 中文版
+
+夸克：https://pan.quark.cn/s/ae8d0b9aa9fd
+
+#### 《极限国度（Riders Republic）高级版》v1.32.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8f167fa75ea3
+
+#### 《无尽帝国2（ENDLESS Legend 2）》v0.82.114 中文版（策略游戏）
+
+夸克：https://pan.quark.cn/s/514eabc7aa7c
+
+#### 《触手回春（Do No Harm）》v1.2.8 中文版
+
+夸克：https://pan.quark.cn/s/8c7a813ede21
 
 #### 《逃离鸭科夫（Escape From Duckov）》v2.3.30 中文版（附一堆MOD）
 
@@ -156,13 +217,6 @@
 #### 《非生物因素（Abiotic Factor）支持者版》v1.3.0.26036 中文 联机版
 
 夸克：https://pan.quark.cn/s/d7b93db8b076
-
-#### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v382.893 全DLC 中文 联机版（更新）
-#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7c5fdf0323c4
-
-迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
 #### 《饥荒（Dont Starve Together）》v739465 全DLC 中文 联机版（软件联机 附安卓版）
 
@@ -208,6 +262,16 @@
 #### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/bb5134dcb570
+
+#### 《尸姬之梦（Dream of Corpse Lady）豪华版》v1.3099 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0020655e3565
+
+#### 《杯杯倒满（Feed The Cups）》v0.8.54 中文 联机版
+
+夸克：https://pan.quark.cn/s/fedd9c9a5ad5
+
+迅雷：https://pan.xunlei.com/s/VO057Y0arOn6-KaL7LUEa8ktA1?pwd=dkw2#
 
 ---
 
@@ -1596,10 +1660,6 @@ w
 
 夸克：https://pan.quark.cn/s/e79de75324da
 
-#### 《尸姬之梦（Dream of Corpse Lady）》v1.272 中文版
-
-夸克：https://pan.quark.cn/s/0020655e3565
-
 #### 《人类（HUMANKIND）终极版》v1.0.30.4814 全DLC 中文版（历史战略游戏）
 
 夸克：https://pan.quark.cn/s/c5d945316d3b
@@ -1763,10 +1823,6 @@ w
 #### 《符文工房 龙之天地（Rune Factory Guardians of Azuma）》v1.1.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8a27527d8863
-
-#### 《黄金矿主模拟器：阿拉斯加淘金热（Alaska Gold Fever）》v2026.05.05.01 中文版
-
-夸克：https://pan.quark.cn/s/2e24bee55712
 
 #### 《太阳帝国的原罪2（Sins of a Solar Empire II）》v1.60.2 全DLC 中文 联机版
 
@@ -2354,10 +2410,6 @@ w
 夸克：https://pan.quark.cn/s/71caab0146f5
 
 迅雷：https://pan.xunlei.com/s/VOqFe2vAKNJlB6ewSQ2mXNCiA1?pwd=cjwf#
-
-#### 《异变金属（Morbid Metal）》v19988 中文版
-
-夸克：https://pan.quark.cn/s/c48de0ceb715
 
 #### 《神经鹅（Tingus Goose）》v1.2.1 中文版
 
@@ -3259,10 +3311,6 @@ w
 
 夸克：https://pan.quark.cn/s/165489cfa06c
 
-#### 《极限国度（Riders Republic）》v1.26.0 离线 中文版
-
-夸克：https://pan.quark.cn/s/8f167fa75ea3
-
 #### 《暗使 导演剪辑版（Dark Envoy）》v1.9.2.75237 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/b2330660a4a8
@@ -3996,10 +4044,6 @@ w
 
 夸克：https://pan.quark.cn/s/ee94a70b44fa
 
-#### 《禁闭求生2（Grounded 2）》v0.2.2.3 中文 联机版
-
-夸克：https://pan.quark.cn/s/9dd4fa1dcd84
-
 #### 《茂林源记（Root：The Marauder Expansion）收藏家版》v2.1.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/fdb300c860c5
@@ -4507,12 +4551,6 @@ w
 #### 《大脚怪模拟（Bigfoot Life）》v1.0.0 中文版（生存建造）
 
 夸克：https://pan.quark.cn/s/a314aa7c7b95
-
-#### 《杯杯倒满（Feed The Cups）》v0.8.31 中文 联机版
-
-夸克：https://pan.quark.cn/s/fedd9c9a5ad5
-
-迅雷：https://pan.xunlei.com/s/VO057Y0arOn6-KaL7LUEa8ktA1?pwd=dkw2#
 
 #### 《海洋幻想（Sea Fantasy）》v2.6.3 中文版
 
@@ -5406,10 +5444,6 @@ w
 
 夸克：https://pan.quark.cn/s/d97c364ba7ec
 
-#### 《无尽帝国2（ENDLESS Legend 2）》v0.0.71.157967 中文版（策略游戏）
-
-夸克：https://pan.quark.cn/s/514eabc7aa7c
-
 #### 《天朝上国（Celestial Empire）》v0.9.302 中文版（建造策略）
 
 夸克：https://pan.quark.cn/s/89d1e596057e
@@ -5513,10 +5547,6 @@ w
 #### 《胡闹厨房 全都好吃（Overcooked! All You Can Eat)）》v1173 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/90ad780a2681
-
-#### 《触手回春（Do No Harm）》v1.2.0 中文版
-
-夸克：https://pan.quark.cn/s/8c7a813ede21
 
 #### 《黑色童话：梦境幸存者（Dark Fairy Tale Dreamland Survivors）》v1.1.1.1859 全DLC 中文版
 
@@ -7899,10 +7929,6 @@ w
 
 夸克：https://pan.quark.cn/s/e2b2f732826a
 
-#### 《求生之路2（Left 4 Dead 2）》Build.17255556 中文 联机版
-
-夸克：https://pan.quark.cn/s/665c521c5b43
-
 #### 《一方灵田（Immortal Life）》v1.0.43 中文版
 
 夸克：https://pan.quark.cn/s/71dd3cf29c67
@@ -7916,10 +7942,6 @@ w
 #### 《仓库猎人模拟器（Storage Hunter Simulator）》Build.18366232 中文版
 
 夸克：https://pan.quark.cn/s/de93af2a0199
-
-#### 《禁闭求生（Grounded）》v1.4.7.4815 中文 联机版
-
-夸克：https://pan.quark.cn/s/84583f2bc1dc
 
 #### 《沉没之城：重制版（The Sinking City Remastered）》v2025.5.13 全DLC 豪华中文版
 
@@ -8546,10 +8568,6 @@ w
 #### 《奇门象棋（QiMen Chess）》v0.2.0 中文版（测试版）
 
 夸克：https://pan.quark.cn/s/4b173f0c34a8
-
-#### 《零希沃特 (ZERO Sievert)》v1.0.17 中文版
-
-夸克：https://pan.quark.cn/s/ae8d0b9aa9fd
 
 #### 《永恒瀑布（Everafter Falls）》v1.2.11-v2 中文版
 
@@ -9546,10 +9564,6 @@ w
 #### 《领地 种田与征战（Territory Farming and Fighting ）》v0.20241222.22 中文版
 
 夸克：https://pan.quark.cn/s/ffc1e1c52a08
-
-#### 《求生之路（Left 4 Dead ）》v1.0.4.5 中文 联机版
-
-夸克：https://pan.quark.cn/s/4374d5e27edb
 
 #### 《不存在的你和我（The NOexistenceN of you AND me ）》v1.4 中文版
 
