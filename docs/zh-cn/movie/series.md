@@ -87,6 +87,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOuNBUhmmTITvdV6TEtQ1U4JA1?pwd=svri#
 
+#### 《咒怨 系列合集》12部 1080P 中字 日版+美版
+
+夸克：https://pan.quark.cn/s/2f1050616209
+
 #### 《玩尽杀绝》（1998-2010）1-4部 1080P 外挂中字
 
 夸克：https://pan.quark.cn/s/33148d0795f0
