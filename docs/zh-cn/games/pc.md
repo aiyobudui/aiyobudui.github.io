@@ -14,7 +14,7 @@
 
 > [!TIP|style:callout|label:怎么搜索|iconvisibility:hidden]
   1、资源过多，左侧有搜索框 🔍**搜索** 能快速定位到需要的资源，可模糊搜索，别精确到标点符号  
-  2、新添加的资源可能暂时搜索不到，可使用浏览器自带的搜索功能 **CTRL+F** 弹出查找搜索
+  2、新添加的资源可能暂时搜索不到，可在分类里面使用浏览器的搜索功能 **CTRL+F** 弹出查找搜索
 
 > [!note|style:callout|label:用户须知|iconVisibility:hidden]
 > 1、**求资源、求更新、链接失效、打不开等问题可以进群@群主 帮你解决**  
@@ -48,7 +48,7 @@
 ---
 
 ## 最新添加
-!> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
+!> 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
 #### 《007初露锋芒（007 First Light）》v1.0.0 全DLC 中文版（非虚拟化）
 
@@ -144,6 +144,10 @@
 
 ## 最近更新
 
+#### 《原子之心（Atomic Heart）》Build.23005793 全DLC 中文配音版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/b17d3da70047
+
 #### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v382.893 全DLC 中文 联机版（更新）
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 
@@ -176,6 +180,10 @@
 #### 《东方幕华祭 永夜篇》Build.21611900 中文版
 
 夸克：https://pan.quark.cn/s/5a8a7ef1c859
+
+#### 《麻布仔大冒险（Sackboy A Big）Adventure）》Build.27102022 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/ff76686c2579
 
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）豪华版》v68322 中文版
 
@@ -251,65 +259,6 @@
 夸克：https://pan.quark.cn/s/dffcc45a56c8
 
 迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
-
-#### 《非生物因素（Abiotic Factor）支持者版》v1.3.0.26036 中文 联机版
-
-夸克：https://pan.quark.cn/s/d7b93db8b076
-
-#### 《饥荒（Dont Starve Together）》v739465 全DLC 中文 联机版（软件联机 附安卓版）
-
-夸克：https://pan.quark.cn/s/cbadff66e8dc
-
-#### 《终落之城（All Will Fall）》v1.2.3f1 中文版
-
-夸克：https://pan.quark.cn/s/9d2ee6bd80e6
-
-#### 《以太术士 (Aethermancer)》v0.7.0.19 中文版
-
-夸克：https://pan.quark.cn/s/152221838481
-
-#### 《七日杀（7 Days to Die）》v3.0.0 中文 联机版（7日杀 多版本自选）
-
-夸克：https://pan.quark.cn/s/30fe4607b484
-
-#### 《天外世界：太空人之选（The Outer Worlds Spacer's Choice Edition）重制版》v2.5.9.0 中文版
-#### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.1 中文版
-
-夸克：https://pan.quark.cn/s/9baad4a27102
-
-#### 《机械制造者（Trailmakers）终结版》v244.513.575.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/f4faa9506d28
-
-#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.490 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4912658febe6
-
-#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.6.115628 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/2ce76d085b7c
-
-#### 《辐射4（Fallout 4）周年版》v1.11.221.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/3c6a02617ff3
-
-#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）典藏版》v1.7.0.0 全DLC 中文版(更新)
-#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
-#### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
-#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
-#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/bb5134dcb570
-
-#### 《尸姬之梦（Dream of Corpse Lady）豪华版》v1.3099 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/0020655e3565
-
-#### 《杯杯倒满（Feed The Cups）》v0.8.54 中文 联机版
-
-夸克：https://pan.quark.cn/s/fedd9c9a5ad5
-
-迅雷：https://pan.xunlei.com/s/VO057Y0arOn6-KaL7LUEa8ktA1?pwd=dkw2#
 
 ---
 
@@ -482,6 +431,65 @@
 ---
 
 ## 已有游戏
+
+#### 《非生物因素（Abiotic Factor）支持者版》v1.3.0.26036 中文 联机版
+
+夸克：https://pan.quark.cn/s/d7b93db8b076
+
+#### 《饥荒（Dont Starve Together）》v739465 全DLC 中文 联机版（软件联机 附安卓版）
+
+夸克：https://pan.quark.cn/s/cbadff66e8dc
+
+#### 《终落之城（All Will Fall）》v1.2.3f1 中文版
+
+夸克：https://pan.quark.cn/s/9d2ee6bd80e6
+
+#### 《以太术士 (Aethermancer)》v0.7.0.19 中文版
+
+夸克：https://pan.quark.cn/s/152221838481
+
+#### 《七日杀（7 Days to Die）》v3.0.0 中文 联机版（7日杀 多版本自选）
+
+夸克：https://pan.quark.cn/s/30fe4607b484
+
+#### 《天外世界：太空人之选（The Outer Worlds Spacer's Choice Edition）重制版》v2.5.9.0 中文版
+#### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/9baad4a27102
+
+#### 《机械制造者（Trailmakers）终结版》v244.513.575.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f4faa9506d28
+
+#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.490 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4912658febe6
+
+#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.6.115628 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《辐射4（Fallout 4）周年版》v1.11.221.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3c6a02617ff3
+
+#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）典藏版》v1.7.0.0 全DLC 中文版(更新)
+#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
+#### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
+#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
+#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/bb5134dcb570
+
+#### 《尸姬之梦（Dream of Corpse Lady）豪华版》v1.3099 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0020655e3565
+
+#### 《杯杯倒满（Feed The Cups）》v0.8.54 中文 联机版
+
+夸克：https://pan.quark.cn/s/fedd9c9a5ad5
+
+迅雷：https://pan.xunlei.com/s/VO057Y0arOn6-KaL7LUEa8ktA1?pwd=dkw2#
 
 #### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
 #### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
@@ -2822,10 +2830,6 @@ w
 #### 《Easy Red 2》v2.0.4 全DLC 中文版（浅红2、简红2、轻松挂彩2、易红2）
 
 夸克：https://pan.quark.cn/s/dfa59e4ecd68
-
-#### 《原子之心（Atomic Heart）》v2026.2.8 中文配音 开发版
-
-夸克：https://pan.quark.cn/s/b17d3da70047
 
 #### 《熊视眈眈（Out of Sight）》v1.1.93 中文版（类似小小梦魇恐怖解密）
 
@@ -9435,14 +9439,6 @@ w
 
 夸克：https://pan.quark.cn/s/ac849477abb1
 
-#### 《麻布仔大冒险（Sackboy A Big）Adventure）》Build.10884090 中文 联机版
-
-夸克：https://pan.quark.cn/s/ff76686c2579
-
-#### 《精灵宝可梦：究极之日丨究极之月（Pokemon Ultra Sun丨Ultra Moon）》v1.2 3DS模拟器PC 中文版
-
-夸克：https://pan.quark.cn/s/557a99e853c3
-
 #### 《雅皮士精神（Yuppie Psycho）》v2.7.5 中文版
 
 夸克：https://pan.quark.cn/s/dd22ccbf1f32
@@ -11655,10 +11651,6 @@ w
 #### 《狂野西部：枪手（Call of Juarez：Gunslinger）》v1.05 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/a50c2947704b
-
-#### 《精灵宝可梦白，黑2 V5汉化修复版(DSi增强AP)》nds文件 需要模拟器
-
-夸克：https://pan.quark.cn/s/a24fda395e17
 
 #### 《锈苔（Rusted Moss）》v1.47 中文版
 

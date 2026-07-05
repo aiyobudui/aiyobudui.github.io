@@ -48,6 +48,110 @@
 ## 已有游戏
 !> 靠前的是新添加的，求资源、求更新、链接失效、打不开等问题可以进群@群主帮你解决.
 
+#### 《预视武宗 Forestrike》v1.0.6 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/a973349f072f
+
+#### 《刀剑神域 碎梦边境》v1.7.0.0 NS整合 全DLC 港区中文版
+
+夸克：https://pan.quark.cn/s/6c757cc755d2
+
+#### 《异星工厂 Factorio》v2.0.77 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/3ac009829a01
+
+#### 《药剂工艺 炼金模拟器》v1.1.0.7 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/1ffd473889cc
+
+#### 《直到那时 Until Then》v1.0.7 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/a7b2a712d7cb
+
+#### 《节奏天国 奇迹之星》v1.0.0 NS整合 港区中文版
+
+夸克：https://pan.quark.cn/s/2ba45dc34a0a
+
+#### 《心动恋旅 樱花篇》v1.0.0 NS整合 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/18835bce315f
+
+#### 《蔷薇与椿 豪华绚烂版》v1.4.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/d20162d51c88
+
+#### 《灵视异闻 FILE38 伊势人鱼物语》v1.1.1 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/dbcd628d3fff
+
+#### 《姆明 暖心冬日》v1.0.5 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/13ab4a2db8a7
+
+#### 《超级炸弹人R2》v1.3.1 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/2d5cad2e7dad
+
+#### 《兔兔秘密花园2》v1.0.5 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/d3750e1ec46c
+
+#### 《日本乡下生活 Japanese Rural Life Adventure》v1.2.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/0ed772e6a0d7
+
+#### 《电锯甜心 重制版》v1.2.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/8f192a02186a
+
+#### 《优米雅的炼金工房 追忆之炼金术士与幻创之地》v1.6.0 NS整合 全DLC 港区中文版
+
+夸克：https://pan.quark.cn/s/6730958a3792
+
+#### 《三国志8 重制版》v1.1.3 NS整合 全DLC 港版中文版
+
+夸克：https://pan.quark.cn/s/108d07f44914
+
+#### 《喵斯快跑 Muse Dash》v6.4.0 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/04038f73e14e
+
+#### 《挂姬恶魔 Idle Devils》v1.0.6 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3c9ba2b8fe42
+
+#### 《金子一马的月读》v1.0.4 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/4ed91a50ae5e
+
+#### 《奇异园艺 Strange Horticulture》v1.1.51 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/867db29f096b
+
+#### 《屋顶与小巷 跑酷游戏》v1.09 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/1274dbde7705
+
+#### 《圣铠 冰魂》v1.3.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/194af1642ef5
+
+#### 《全民高尔夫 环球之旅》v1.1.10 NS整合 全DLC 港区中文版
+
+夸克：https://pan.quark.cn/s/923a78bec7bb
+
+#### 《可爱特攻队 自由前线》v1.0.1 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/6c445443f294
+
+#### 《深空梦里人2 逐星之旅 Citizen Sleeper 2》v1.2.26 NS整合 美区中文版
+
+夸克：https://pan.quark.cn/s/4c43c94ab455
+
+#### 《焕然异星 Terraformers》v1.7.82 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ee2b12ce83a3
+
 #### 《迷你公路 Mini Motorways》v1.20 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/512210f2f72d
@@ -170,7 +274,7 @@
 
 夸克：https://pan.quark.cn/s/6594378a1acb
 
-#### 《朋友收集 梦想生活》v1.0.2 NS整合 中文版
+#### 《朋友收集 梦想生活》v1.0.3 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/b20b1f142470
 
@@ -198,7 +302,7 @@
 
 夸克：https://pan.quark.cn/s/82233b3ad455
 
-#### 《我的世界 Minecraft》v1.26.13 NS整合 美区中文版
+#### 《我的世界 Minecraft》v1.26.31 NS整合 美区中文版
 
 夸克：https://pan.quark.cn/s/e4fc0750a9e0
 
@@ -234,7 +338,7 @@
 
 夸克：https://pan.quark.cn/s/3dc517524300
 
-#### 《异形战机 战略 I･II 宇宙》v1.0.6 NS整合 全DLC 美区中文版
+#### 《异形战机 战略 I･II 宇宙》v1.0.7 NS整合 全DLC 美区中文版
 
 夸克：https://pan.quark.cn/s/d762d988ba26
 
@@ -246,11 +350,11 @@
 
 夸克：https://pan.quark.cn/s/d364c33a52f4
 
-#### 《尼奥宠物 超级迷你游戏合集》v1.1.3 NS整合 中文版
+#### 《尼奥宠物 超级迷你游戏合集》v1.1.4 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/322600a046b4
 
-#### 《无人深空 No Man's Sky》v6.40.0 NS整合 中文版
+#### 《无人深空 No Man's Sky》v6.45.0 NS整合 美区中文版
 
 夸克：https://pan.quark.cn/s/1811c2306565
 
@@ -562,7 +666,7 @@
 
 夸克：https://pan.quark.cn/s/168eff416b17
 
-#### 《高仿宝可梦科洛蒙》coromon v1.3.2 NS整合 中文版
+#### 《高仿宝可梦 科洛蒙coromon》v1.4.1 NS整合 美区中文版
 
 夸克：https://pan.quark.cn/s/20110972748f
 
@@ -741,11 +845,19 @@
 
 夸克：https://pan.quark.cn/s/9342503692b0
 
+#### 《宝可梦火红绿叶》v1.0.0 NS整合 汉化版
+
+夸克：https://pan.quark.cn/s/fa144c0bc11b
+
+#### 《宝可梦朋友 Pokémon Friends》v1.1.5 NS整合 全DLC 美区中文版
+
+夸克：https://pan.quark.cn/s/4f3e5cde6f92
+
 #### 《宝可梦咖啡馆MIX》v5.40.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/1db3a4c103c2
 
-#### 《宝可梦不可思议迷宫救助队 DX》v1.0.2 NS整合 中文版 附金手指
+#### 《宝可梦不可思议迷宫 救助队DX》v1.0.2 NS整合 中文版 附金手指
 
 夸克：https://pan.quark.cn/s/d6d6257b9452
 
@@ -769,24 +881,30 @@
 
 夸克：https://pan.quark.cn/s/cf491ba0ef25
 
+#### 《精灵宝可梦白2\黑2》V5汉化修复版(DSi增强AP) nds文件 需要模拟器
+
+夸克：https://pan.quark.cn/s/a24fda395e17
+
+#### 《精灵宝可梦：究极之日\究极之月（Pokemon Ultra Sun丨Ultra Moon）》v1.2 3DS模拟器 中文版
+
+夸克：https://pan.quark.cn/s/557a99e853c3
 
 #### 《口袋妖怪 游戏合集》掌机模拟器游戏 3DS、GBA、NDS格式（精灵宝可梦 合集）
-#### 《口袋妖怪 太阳月亮 终极版》  
-#### 《口袋妖怪 XY》  
-#### 《口袋妖怪 红宝石蓝宝石 终极版》  
-#### 《口袋妖怪 永恒之焱zero》  
-#### 《口袋妖怪 漆黑的魅影5.0EX+BW》  
-#### 《口袋妖怪 漆黑的魅影5.0EX+DP》  
-#### 《口袋妖怪 火红 中文版》  
-#### 《口袋妖怪 绿宝石386 中文版》  
-#### 《口袋妖怪 叶绿386 中文版》  
-#### 《口袋妖怪 超级绿宝石 8.0改》  
-#### 《口袋妖怪 白金》  
-#### 《口袋妖怪 金心银灵》  
-#### 《口袋妖怪 钻石珍珠》  
-#### 《口袋妖怪 白黑2》  
-#### 《口袋妖怪 黑白v3 修正版》  
-
+#### 《口袋妖怪 太阳月亮 终极版》
+#### 《口袋妖怪 XY》
+#### 《口袋妖怪 红宝石蓝宝石 终极版》
+#### 《口袋妖怪 永恒之焱zero》
+#### 《口袋妖怪 漆黑的魅影5.0EX+BW》
+#### 《口袋妖怪 漆黑的魅影5.0EX+DP》
+#### 《口袋妖怪 火红 中文版》
+#### 《口袋妖怪 绿宝石386 中文版》
+#### 《口袋妖怪 叶绿386 中文版》
+#### 《口袋妖怪 超级绿宝石 8.0改》
+#### 《口袋妖怪 白金》
+#### 《口袋妖怪 金心银灵》
+#### 《口袋妖怪 钻石珍珠》
+#### 《口袋妖怪 白黑2》
+#### 《口袋妖怪 黑白v3 修正版》
 
 夸克：https://pan.quark.cn/s/2fd539e5c219
 
