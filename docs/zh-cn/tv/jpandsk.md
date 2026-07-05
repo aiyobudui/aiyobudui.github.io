@@ -30,7 +30,7 @@
 
 夸克：https://pan.quark.cn/s/c30f1fb7f39d
 
-#### 《金科长 김과장》（2017）1080P高码 中字
+#### 《金科长 김과장》（2017）1080P高码 中字 20集全
 
 夸克：https://pan.quark.cn/s/dd2b1c498e4f
 

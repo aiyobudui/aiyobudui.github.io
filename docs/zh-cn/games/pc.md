@@ -72,6 +72,18 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《威赫战线（MENACE）》v0.7.7 中文版
+
+夸克：https://pan.quark.cn/s/d186e51228db
+
+#### 《追猎者：超时（Huntdown Overtime）》v0.790.2 中文版
+
+夸克：https://pan.quark.cn/s/6fc4c0f93f1a
+
+#### 《终结者2D：NO FATE（Terminator 2D No Fate）》v2026.7.3 中文版（像素风）
+
+夸克：https://pan.quark.cn/s/cb98780c8878
+
 #### 《裁缝模拟器（Tailor Simulator）》v0.3.2406.1 中文版
 
 夸克：https://pan.quark.cn/s/fd5a8b67c20e
@@ -138,6 +150,32 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《超级变色龙（MECCHA CHAMELEON）》v2.5.0 中文 联机版(躲猫猫游戏)
+
+夸克：https://pan.quark.cn/s/258c1f8479d8
+
+#### 《梦幻主义（Onirism）》Build.24019549 中文 联机版（奇幻动作冒险）
+
+夸克：https://pan.quark.cn/s/0dc0e9840bcf
+
+#### 《地球不屈（Terra Invicta）》v1.0.39 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/9ca7438200cb
+
+#### 《抬头只见天花板（Looking Up I See Only A Ceiling）》v3.0.0.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7b5b908bf9eb
+
+#### 《卡牌修仙传（Card Cultivation）》v2.2.0.26 中文版
+
+夸克：https://pan.quark.cn/s/cb91eda9d166
+
+迅雷：https://pan.xunlei.com/s/VOnHb7UJp7pepL7c2qUJfp13A1?pwd=8nr4
+
+#### 《东方幕华祭 永夜篇》Build.21611900 中文版
+
+夸克：https://pan.quark.cn/s/5a8a7ef1c859
 
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）豪华版》v68322 中文版
 
@@ -457,10 +495,6 @@
 夸克：https://pan.quark.cn/s/9e8b4e99c225
 
 迅雷：https://pan.xunlei.com/s/VOmy-wR7ZV-w7eoHmU6igqCjA1?pwd=yfzx#
-
-#### 《超级变色龙（MECCHA CHAMELEON）》v2.2.1 中文 联机版(躲猫猫游戏)
-
-夸克：https://pan.quark.cn/s/258c1f8479d8
 
 #### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.44 全DLC 中文版（新增DLC）
 
@@ -1844,12 +1878,6 @@ w
 
 迅雷：https://pan.xunlei.com/s/VOnHcwu3EeyaFESWurf3Iq96A1?pwd=g67e
 
-#### 《卡牌修仙传（Card Cultivation）》v2.1.0.51 中文版
-
-夸克：https://pan.quark.cn/s/cb91eda9d166
-
-迅雷：https://pan.xunlei.com/s/VOnHb7UJp7pepL7c2qUJfp13A1?pwd=8nr4
-
 #### 《魔饮心语（Tavern Talk）》v20260306 全DLC 中文版（视觉小说）
 
 夸克：https://pan.quark.cn/s/7f8d80a23b0e
@@ -2927,10 +2955,6 @@ w
 
 夸克：https://pan.quark.cn/s/d6f92efcdb54
 
-#### 《梦幻主义（Onirism）》build.21313783 中文 联机版（奇幻动作冒险）
-
-夸克：https://pan.quark.cn/s/0dc0e9840bcf
-
 #### 《夏日口袋 流光蓝（Summer Pockets REFLECTION BLUE）》v1.4.2.1 中文版（视觉小说）
 
 夸克：https://pan.quark.cn/s/c2b1316245c1
@@ -3094,10 +3118,6 @@ w
 #### 《月球任务（ROUTINE）》v2.1.0.0 中文版（科幻恐怖游戏）
 
 夸克：https://pan.quark.cn/s/199d7e6f3ab3
-
-#### 《地球不屈（Terra Invicta）》v1.0.32 中文版
-
-夸克：https://pan.quark.cn/s/9ca7438200cb
 
 #### 《动物迷城（Back to the Dawn）支持者版》v2.0.0.31 中文版
 
@@ -3781,10 +3801,6 @@ w
 #### 《奇物斋（Strange Antiquities）》v1.0.47 中文版（解密游戏 奇异古物）
 
 夸克：https://pan.quark.cn/s/3d048bd03ffb
-
-#### 《抬头只见天花板（Looking Up I See Only A Ceiling）》v2.0.0.19 中文版
-
-夸克：https://pan.quark.cn/s/7b5b908bf9eb
 
 #### 《爱氏物语（Artis Impact）》v1.14 中文版
 
@@ -5393,10 +5409,6 @@ w
 #### 《纸房子（Paper House）》Build.19744053 中文版（视觉小说）
 
 夸克：https://pan.quark.cn/s/1ed556159bff
-
-#### 《东方幕华祭 永夜篇（Touhou Makuka Sai ~ Fantastic Danmaku Festival Part III）》v1.0 中文版
-
-夸克：https://pan.quark.cn/s/5a8a7ef1c859
 
 #### 《鼠托邦（Ratopia）》v1.0.0520 中文版（策略生存建设）
 
