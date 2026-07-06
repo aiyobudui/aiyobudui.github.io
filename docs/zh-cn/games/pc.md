@@ -72,6 +72,10 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
+#### 《不朽者传奇（Immortals of Aveum）豪华版》v226.971 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a30559b8eebd
+
 #### 《威赫战线（MENACE）》v0.7.7 中文版
 
 夸克：https://pan.quark.cn/s/d186e51228db
