@@ -37,14 +37,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNoLmv50re4aJPyXQT3Y9LSWA1?pwd=rbbf#
 
-#### 《地狱乐》（2023-2026）1-2季全 1080P 中字
-
-夸克：https://pan.quark.cn/s/ef5594e4f0c1
-
-迅雷：https://pan.xunlei.com/s/VNoVGlpuekQkzFuJjVqSlk1UA1?pwd=dsf8#
-
-阿里：<https://www.aliyundrive.com/s/bQUNYztB26V>
-
 ---
 
 ## 周二
@@ -63,6 +55,14 @@
 
 ## 周三
 
+#### 《死神 千年血战篇》第四季 祸进谭 更新中...（附TV版+千年血战三季+剧场版）
+
+夸克：https://pan.quark.cn/s/d4b6fd3b46f1
+
+迅雷：https://pan.xunlei.com/s/VNnO7phZxvfPlaWGTTE2jctfA1?pwd=3bzv#
+
+阿里：<https://www.alipan.com/s/92HVZUomaKu>
+
 #### 《石纪元》（2019-2026）第4季 Part.3 更新中..（1-4季全 1080P 中字 +漫画）
 
 夸克：https://pan.quark.cn/s/c2b55d462e0f
@@ -75,23 +75,15 @@
 
 ## 周四
 
-#### 《咒术回战》（2020-2026）1-3季全 1080P 中字 （附剧场+漫画）
+#### 《无职转生 到了异世界就拿出真本事》（2024-2026）第三季 更新中.. （附1-2季全 1080P 中字）
 
-夸克：https://pan.quark.cn/s/6b44584aeb32
+夸克：https://pan.quark.cn/s/e28c70d98759
 
-迅雷：https://pan.xunlei.com/s/VNlCa8oEXfVYqdf3xxvyjUPhA1?pwd=5yhz#
-
-阿里：<https://www.aliyundrive.com/s/V8VHh28iPKZ>
+迅雷：https://pan.xunlei.com/s/VO053HeWm73_ALc6Z8nLSPqPA1?pwd=esbt#
 
 ----
 
 ## 周五
-
-#### 《葬送的芙莉莲》（2023-2026）1-2季全 1080P 中字（附漫画）
-
-夸克：https://pan.quark.cn/s/713097eae882
-
-迅雷：https://pan.xunlei.com/s/VNnO4lpmvkIuubjQo5GCNTiFA1?pwd=24hx#
 
 #### 《JOJO的奇妙冒险》（1993-2026）飙马野郎 更新中.. 附1-7季全+外传 4K高码 中日字幕 （附漫画 ）
 
@@ -135,6 +127,28 @@
 ---
 
 ## 近期完结
+
+#### 《地狱乐》（2023-2026）1-2季全 1080P 中字
+
+夸克：https://pan.quark.cn/s/ef5594e4f0c1
+
+迅雷：https://pan.xunlei.com/s/VNoVGlpuekQkzFuJjVqSlk1UA1?pwd=dsf8#
+
+阿里：<https://www.aliyundrive.com/s/bQUNYztB26V>
+
+#### 《咒术回战》（2020-2026）1-3季全 1080P 中字 （附剧场+漫画）
+
+夸克：https://pan.quark.cn/s/6b44584aeb32
+
+迅雷：https://pan.xunlei.com/s/VNlCa8oEXfVYqdf3xxvyjUPhA1?pwd=5yhz#
+
+阿里：<https://www.aliyundrive.com/s/V8VHh28iPKZ>
+
+#### 《葬送的芙莉莲》（2023-2026）1-2季全 1080P 中字（附漫画）
+
+夸克：https://pan.quark.cn/s/713097eae882
+
+迅雷：https://pan.xunlei.com/s/VNnO4lpmvkIuubjQo5GCNTiFA1?pwd=24hx#
 
 #### 《光逝去的夏天》（2025）1080P 中字 12集全
 
@@ -230,14 +244,6 @@
 
 迅雷：https://pan.xunlei.com/s/VO-WsiOPAqfuTfTMze5grgVbA1?pwd=j4nk#
 
-#### 《死神 千年血战篇》1-3季全+TV版台粤英日四音轨+剧场版
-
-夸克：https://pan.quark.cn/s/d4b6fd3b46f1
-
-迅雷：https://pan.xunlei.com/s/VNnO7phZxvfPlaWGTTE2jctfA1?pwd=3bzv#
-
-阿里：<https://www.alipan.com/s/92HVZUomaKu>
-
 #### 《尼尔：自动人形 Ver1.1a》（2023-2024）4K+1080P 1-2季全
 
 夸克：https://pan.quark.cn/s/7d2c25af9cd2
@@ -316,11 +322,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNo25acADfjgkx4DmSC3n04AA1?pwd=2dkp#
 
-#### 《无职转生 到了异世界就拿出真本事》（2024）1-2季+OVA全 4K+1080P 中字
-
-夸克：https://pan.quark.cn/s/e28c70d98759
-
-迅雷：https://pan.xunlei.com/s/VO053HeWm73_ALc6Z8nLSPqPA1?pwd=esbt#
 
 #### 《杀手寓言》（2024）1080P 25集全 动画版（附 真人电影1-2 4K）
 
