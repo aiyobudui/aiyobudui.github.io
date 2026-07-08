@@ -68,6 +68,14 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《月光岭物语（Moonlight Peaks）》v2026.7.8 中文版
+
+夸克：https://pan.quark.cn/s/1860940ccd61
+
+#### 《火鹰FPV：无人机战争模拟器（Firehawk FPV Drone Warfare Simulator）》v2026.7.4 中文版
+
+夸克：https://pan.quark.cn/s/c7e0a232b1bd
+
 #### 《女王的游戏：盛世天下 媚娘篇（Road to Empress）》Build.22921822 全DLC 中文版（真人互动影游）
 
 夸克：https://pan.quark.cn/s/cdd597341b60
@@ -123,6 +131,62 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.28.1 全DLC 中文配音 联机版
+#### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版
+#### 《消逝的光芒：增强版（Dying Light）终结版》v1.55.0 全DLC 中文 联机版（更新）
+
+夸克：https://pan.quark.cn/s/7cd3766e113d
+
+#### 《汽车修理工模拟2021（Car Mechanic Simulator 2021）完全版》v1.0.40 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9278eb71417e
+
+#### 《潜水员戴夫（Dave the Diver）豪华版》v1.0.6.2055 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2ed8f0fbce63
+
+迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
+
+#### 《Ithya 魔法研究室（Ithya Magic Studies）》v2026.7.2 中文版（手绘静谧休闲）
+
+夸克：https://pan.quark.cn/s/cfddda07da41
+
+#### 《遵命，陛下：寒冬（Yes Your Grace 2 Snowfall）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/2d539a29df7b
+
+#### 《群星（Stellaris）终极版》v4.4.5 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/e812eb1562dd
+
+迅雷：https://pan.xunlei.com/s/VNyaMJxMNH47wljXItgCPhlEA1?pwd=a3dy#
+
+#### 《龙珠 超宇宙2（DRAGON BALL XENOVERSE 2）特别版》v1.26.0 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/ffe1b48f730b
+
+#### 《欧洲卡车模拟2（Euro Truck Simulator 2）豪华版》v1.60.1.7s 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/9c1147b7ac79
+
+迅雷：https://pan.xunlei.com/s/VNudY1SUMO36N9TX9pNUGRgXA1?pwd=28c7#
+
+#### 《星际空间站（Outworld Station）》v1.1.0.4 中文版
+
+夸克：https://pan.quark.cn/s/223497fac977
+
+#### 《泰拉科技魇团（TerraTech Legion）》v1.0.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/fbcb69410f2f
+
+#### 《狼人 内在野兽（Werewolf The Inner Beast）》v2026.7.6 中文版（生存恐怖游戏）
+
+夸克：https://pan.quark.cn/s/0f8a1a8c01ce
+
+#### 《地狱黑杰克（Black Jacket）》v1.0.6.250 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c3a6a10ffebe
+
 #### 《姆明：暖心冬日（Moomintroll Winters Warmth）》v0.1.1440 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/0e4fa3e966ff
@@ -157,29 +221,6 @@
 
 夸克：https://pan.quark.cn/s/5a8a7ef1c859
 
-#### 《麻布仔大冒险（Sackboy A Big）Adventure）》Build.27102022 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/ff76686c2579
-
-#### 《吾皇万岁（Long Live The Emperor）》Build.24060819 中文版
-
-夸克：https://pan.quark.cn/s/a53d35a90a5d
-
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）豪华版》v68322 中文版
-
-夸克：https://pan.quark.cn/s/32c452be1479
-
-#### 《禁闭求生2（Grounded 2）创始人版》v0.4.2.1 全DLC 中文 联机版
-#### 《禁闭求生（Grounded）》v1.4.7.4815 中文 联机版
-
-夸克：https://pan.quark.cn/s/9dd4fa1dcd84
-
-#### 《前往中世纪（Going Medieval）》v1.1.6 中文版
-
-夸克：https://pan.quark.cn/s/edc955c692df
-
-迅雷：https://pan.xunlei.com/s/VOqFhEwqw4A0dthbrqIQemGEA1?pwd=mt8q#
-
 ---
 
 ## 顶置游戏
@@ -194,12 +235,6 @@
 #### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/257debd362e9
-
-#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.28.1 全DLC 中文配音 联机版（更新）
-#### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版
-#### 《消逝的光芒：增强版（Dying Light）》v1.54 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7cd3766e113d
 
 #### 《冰汽时代2（Frostpunk 2）豪华版》v1.6.0 全DLC 中文配音版（新增DLC）
 #### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
@@ -352,6 +387,33 @@
 
 ## 已有游戏
 
+#### 《麻布仔大冒险（Sackboy A Big）Adventure）》Build.27102022 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/ff76686c2579
+
+#### 《吾皇万岁（Long Live The Emperor）》Build.24060819 中文版
+
+夸克：https://pan.quark.cn/s/a53d35a90a5d
+
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）豪华版》v68322 中文版
+
+夸克：https://pan.quark.cn/s/32c452be1479
+
+#### 《禁闭求生2（Grounded 2）创始人版》v0.4.2.1 全DLC 中文 联机版
+#### 《禁闭求生（Grounded）》v1.4.7.4815 中文 联机版
+
+夸克：https://pan.quark.cn/s/9dd4fa1dcd84
+
+#### 《深入后室（Inside the Backrooms）》v0.5.3 中文 联机版
+
+夸克：https://pan.quark.cn/s/0f1d9206658b
+
+#### 《前往中世纪（Going Medieval）》v1.1.6 中文版
+
+夸克：https://pan.quark.cn/s/edc955c692df
+
+迅雷：https://pan.xunlei.com/s/VOqFhEwqw4A0dthbrqIQemGEA1?pwd=mt8q#
+
 #### 《黑书（Black Book）》v2025.8.12 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/57e03aee086c
@@ -436,12 +498,6 @@
 #### 《平行人生（Paralives）》v0.1.5 中文版
 
 夸克：https://pan.quark.cn/s/16795f17858e
-
-#### 《潜水员戴夫（Dave the Diver）豪华版》v1.0.6.2044 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/2ed8f0fbce63
-
-迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
 
 #### 《一起玩农场2（Farm Together 2）》v303 全DLC 中文 联机版
 #### 《一起玩农场（Farm Together）》v2022.8.23 全DLC 中文 联机版
@@ -1558,10 +1614,6 @@ w
 
 夸克：https://pan.quark.cn/s/bb1f79be4d6a
 
-#### 《地狱黑杰克（Black Jacket）》v0.1.0.222 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c3a6a10ffebe
-
 #### 《失落余烬：重燃版（LOST EMBER Rekindled Edition）》v1.11.1.22169 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/63f8f006f768
@@ -1926,14 +1978,6 @@ w
 
 夸克：https://pan.quark.cn/s/5b0145311ea9
 
-#### 《狼人：内在野兽（Werewolf The Inner Beast）》v2026.5.7 中文版（生存恐怖游戏）
-
-夸克：https://pan.quark.cn/s/0f8a1a8c01ce
-
-#### 《星际空间站（Outworld Station）》v1.0.0.1 中文版
-
-夸克：https://pan.quark.cn/s/223497fac977
-
 #### 《觉醒者：战斗之潮（The Awakener Battle Tendency）》v1.0 中文版
 
 夸克：https://pan.quark.cn/s/4c5511ab4ea0
@@ -1971,10 +2015,6 @@ w
 #### 《杀出重围：陨落（Deus Ex The Fall）》v2026.5.7 汉化版
 
 夸克：https://pan.quark.cn/s/d1ae9afff783
-
-#### 《泰拉科技魇团（TerraTech Legion）》v1.0.2 中文版
-
-夸克：https://pan.quark.cn/s/fbcb69410f2f
 
 #### 《一家小店，故事多多（inKONBINI One Store. Many Stories）》v1.0.204.0 全DLC 中文版
 
@@ -2536,21 +2576,9 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNxDGZNbhRNwmF3UM72ZSVWjA1?pwd=vh32#
 
-#### 《欧洲卡车模拟2（Euro Truck Simulator 2）豪华版》v1.58.1.4s 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/9c1147b7ac79
-
-迅雷：https://pan.xunlei.com/s/VNudY1SUMO36N9TX9pNUGRgXA1?pwd=28c7#
-
 #### 《冥界契约（Netherworld Covenant）》v1.2.0 中文版（3D动作肉鸽）
 
 夸克：https://pan.quark.cn/s/f782c1f22063
-
-#### 《群星（Stellaris）终极版》v4.3.3.2 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/e812eb1562dd
-
-迅雷：https://pan.xunlei.com/s/VNyaMJxMNH47wljXItgCPhlEA1?pwd=a3dy#
 
 #### 《夺宝奇兵：古老之圈（Indiana Jones and the Great Circle）高级版》v1.0.13.0 全DLC 中文版（显卡需支持光追）
 
@@ -4460,10 +4488,6 @@ w
 
 夸克：https://pan.quark.cn/s/f3dfb80cb1ff
 
-#### 《龙珠 超宇宙2（DRAGON BALL XENOVERSE 2）特别版》v1.25.01 全DLC 中文 联机版（七龙珠 异战2）
-
-夸克：https://pan.quark.cn/s/ffe1b48f730b
-
 #### 《枪匠幸存者（NIMRODS）》v0.8.6a 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/2fa399824b3b
@@ -5045,10 +5069,6 @@ w
 #### 《敲棺盖（Knock on the Coffin Lid）》v1.3.9.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/e15f4cfb5227
-
-#### 《遵命，陛下：寒冬（Yes Your Grace 2 Snowfall）》v1.0.32 中文版
-
-夸克：https://pan.quark.cn/s/2d539a29df7b
 
 #### 《精神城市：洛菲会议（Spirit City：Lofi Sessions）》v2.1.1 全DLC 中文版
 
@@ -5894,10 +5914,6 @@ w
 
 夸克：https://pan.quark.cn/s/1754857bd3d0
 
-#### 《Ithya：魔法研究室（Ithya Magic Studies）》v2025.8.31 中文版（手绘静谧休闲）
-
-夸克：https://pan.quark.cn/s/cfddda07da41
-
 #### 《终端：灭绝永恒（Endling-Extinction is Forever）》v0.17.19 全DLC 中文版（狐狸生存冒险）
 
 夸克：https://pan.quark.cn/s/d5cfcc825f44
@@ -6375,10 +6391,6 @@ w
 #### 《鬼屋魔影（Alone in the Dark）豪华版》v1.05b 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/fe83a1c671a1
-
-#### 《汽车修理工模拟2021（Car Mechanic Simulator 2021）》v1.0.38.HF1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/9278eb71417e
 
 #### 《牛仔镇杂货铺（Wild West Supermarket Simulator）》v0.0.242 中文版
 
@@ -10340,10 +10352,6 @@ w
 #### 《暗喻幻想：ReFantazio（Metaphor：ReFantazio）》v1.03 中文版
 
 夸克：https://pan.quark.cn/s/69e62f1c189e
-
-#### 《深入后室（Inside the Backrooms）》v0.4.5 中文 联机版
-
-夸克：https://pan.quark.cn/s/0f1d9206658b
 
 #### 《bodgcam》v0.00010 20240608 尝鲜版，没有中文
 

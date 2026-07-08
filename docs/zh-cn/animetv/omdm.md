@@ -20,6 +20,19 @@
 阿里：<https://www.aliyundrive.com/s/K8cLi2tT1yy>
 
 ---
+## 更新中..
+
+#### 《瑞克和莫蒂》（2013-2026）第9季 更新中..（附1-8季全）
+
+夸克：https://pan.quark.cn/s/022f16dd50e3
+
+迅雷：https://pan.xunlei.com/s/VOp0oWsvBxsM2Xga-PoUgEW8A1?pwd=b8sm#
+
+阿里1-5季：<https://www.aliyundrive.com/s/pRctPZveBuy>
+
+---
+
+## 暂时完结
 
 #### 《蜘蛛侠1994 国语 + 终极蜘蛛侠2012 + 神奇蜘蛛侠2008 》动画版 合集
 
@@ -32,14 +45,6 @@
 #### 《降世神通》（2005-2007）1-3季全 1080P 中字（附 降世神通：最后的气宗和降世神通：科拉传奇）
 
 夸克：https://pan.quark.cn/s/5acfc869b777
-
-#### 《瑞克和莫蒂》（2013-2025）1-8季全 1080P 中英字幕
-
-夸克：https://pan.quark.cn/s/022f16dd50e3
-
-迅雷：https://pan.xunlei.com/s/VOp0oWsvBxsM2Xga-PoUgEW8A1?pwd=b8sm#
-
-阿里1-5季：<https://www.aliyundrive.com/s/pRctPZveBuy>
 
 #### 《环太平洋：黑色禁区》（2021-2022）1-2季全 1080P 中字 （美漫）
 
