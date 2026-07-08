@@ -137,6 +137,16 @@
 
 夸克：https://pan.quark.cn/s/7cd3766e113d
 
+#### 《超级变色龙（MECCHA CHAMELEON）》v2.5.1 中文 联机版(躲猫猫游戏)
+
+夸克：https://pan.quark.cn/s/258c1f8479d8
+
+#### 《墨境（Realm of Ink）》Build.24070279 中文版
+
+夸克：https://pan.quark.cn/s/9c8494132b6e
+
+迅雷：https://pan.xunlei.com/s/VO8HDZsLAc5ng5SPqCvILFBeA1?pwd=h5y2#
+
 #### 《汽车修理工模拟2021（Car Mechanic Simulator 2021）完全版》v1.0.40 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9278eb71417e
@@ -195,10 +205,6 @@
 
 夸克：https://pan.quark.cn/s/83a3f6958a9a
 
-#### 《超级变色龙（MECCHA CHAMELEON）》v2.5.0 中文 联机版(躲猫猫游戏)
-
-夸克：https://pan.quark.cn/s/258c1f8479d8
-
 #### 《梦幻主义（Onirism）》Build.24019549 中文 联机版（奇幻动作冒险）
 
 夸克：https://pan.quark.cn/s/0dc0e9840bcf
@@ -220,6 +226,13 @@
 #### 《东方幕华祭 永夜篇》Build.21611900 中文版
 
 夸克：https://pan.quark.cn/s/5a8a7ef1c859
+
+#### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.6 全DLC 中文版
+#### 《天国拯救（Kingdom Come Deliverance）HD皇家版》v1.9.8 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7c6b8f30675c
+
+迅雷：https://pan.xunlei.com/s/VO37CRQu2t8RQECID1fHoDG9A1?pwd=ane4#
 
 ---
 
@@ -275,13 +288,6 @@
 #### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R.2 Heart of Chornobyl）终极版》v1.9 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/ae92fcbace04
-
-#### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.5 全DLC 中文版
-#### 《天国拯救（Kingdom Come Deliverance）HD皇家版》v1.9.8 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7c6b8f30675c
-
-迅雷：https://pan.xunlei.com/s/VO37CRQu2t8RQECID1fHoDG9A1?pwd=ane4#
 
 #### 《幻兽帕鲁（Palworld）》v0.7.3.90464 中文 联机版
 
@@ -587,12 +593,6 @@
 夸克：https://pan.quark.cn/s/e69d68ac66af
 
 迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
-
-#### 《墨境（Realm of Ink）》Build.23905874 中文版
-
-夸克：https://pan.quark.cn/s/9c8494132b6e
-
-迅雷：https://pan.xunlei.com/s/VO8HDZsLAc5ng5SPqCvILFBeA1?pwd=h5y2#
 
 #### 《深渊之潮（Abyssus）》v1.3.61832 全DLC 中文 联机版
 

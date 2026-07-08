@@ -25,6 +25,10 @@
 ## 已有游戏
 !> 靠前的是新添加和刚更新的，如果链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》v1.0.2 中文版
+
+夸克：https://pan.quark.cn/s/02ea9cc893a7
+
 #### 《席德·梅尔的文明VII（Civilization VII）豪华版》v1.4.0 全DLC 中文版（文明7）
 
 夸克：https://pan.quark.cn/s/2d3110be13e4
