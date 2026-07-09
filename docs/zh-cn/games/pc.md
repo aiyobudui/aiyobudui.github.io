@@ -124,6 +124,12 @@
 
 夸克：https://pan.quark.cn/s/b17d3da70047
 
+#### 《碧蓝幻想Relink 无尽黄昏（Granblue Fantasy Relink）特别版》v2.0.2 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/9af2972b02d7
+
+迅雷：https://pan.xunlei.com/s/VNy69t1End8_Ts7us0ZDNtHOA1?pwd=yb72#
+
 #### 《对马岛之魂：导演剪辑版（Ghost of Tsushima）》v1053.9.0623.1807 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a507e892f30a
@@ -11601,12 +11607,6 @@ w
 #### 《幽灵行者2（Ghostrunner 2 ）》v0.41591.514 全DLC 豪华中文残暴版
 
 夸克：https://pan.quark.cn/s/c0c32c7d3b33
-
-#### 《碧蓝幻想：Relink》v1.3.2 豪华中文版 联机补丁+升级补丁+修改器
-
-夸克：https://pan.quark.cn/s/9af2972b02d7
-
-迅雷：https://pan.xunlei.com/s/VNy69t1End8_Ts7us0ZDNtHOA1?pwd=yb72#
 
 #### 《亡灵巫师2（necrosmith 2 ）》v1.0.7.382a 中文版
 
