@@ -124,6 +124,34 @@
 
 夸克：https://pan.quark.cn/s/b17d3da70047
 
+#### 《对马岛之魂：导演剪辑版（Ghost of Tsushima）》v1053.9.0623.1807 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a507e892f30a
+
+迅雷：https://pan.xunlei.com/s/VNy4bvg3plxbbrzKWqagvgU5A1?pwd=f59e#
+
+#### 《漫威蜘蛛侠2（Marvel’s Spider-Man 2）豪华版》v2.629.0.0 中文版
+#### 《漫威蜘蛛侠 重制版（Marvel’s Spider-Man Remastered）》v4.630.0.0 中文版
+#### 《漫威蜘蛛侠 迈尔斯 莫拉莱斯（Marvel’s Spider-Man: Miles Morales）》v4.630.0.0 中文版（更新）
+#### 《蜘蛛侠2（Spider-Man 2 The Game）》v1.0 英文版（2006年的游戏）
+#### 《蜘蛛侠：破碎维度（Spider-Man Shattered）Dimensions）》v7.42.0004 汉化版
+#### 《神奇蜘蛛侠 2部合集（The Amazing Spider Man）》2部 最新 汉化版（超凡蜘蛛侠）
+#### 《蜘蛛侠暗影之网 终结版》v1.1 中文版（同人游戏）
+
+夸克：https://pan.quark.cn/s/6986a722ea37
+
+迅雷：https://pan.xunlei.com/s/VNobgwozE59Fjsz1fpjXoN5MA1?pwd=pnbt#
+
+#### 《风暴之城（Against the Storm）支持者版》v1.10.3R 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6c6c09517ff2
+
+#### 《苍翼：混沌效应（BlazBlue Entropy Effect）豪华版》v1.1.0.144198.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dffcc45a56c8
+
+迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
+
 #### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v382.893 全DLC 中文 联机版（更新）
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 
@@ -351,10 +379,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNobS--BYgvmW-SB-fHXvnODA1?pwd=vtus#
 
-#### 《漫威蜘蛛侠2（Marvels Spider-Man 2）》v1.526.0.0 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/6986a722ea37
-
 #### 《地平线：西之绝境（Horizon Forbidden West）》v1.5.80.0 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/db38a8295e45
@@ -509,12 +533,6 @@
 #### 《一起玩农场（Farm Together）》v2022.8.23 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/2f8ffe329c9b
-
-#### 《苍翼：混沌效应（BlazBlue Entropy Effect）豪华版》v1.1.0.1413673.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/dffcc45a56c8
-
-迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
 
 #### 《非生物因素（Abiotic Factor）支持者版》v1.3.0.26036 中文 联机版
 
@@ -1258,10 +1276,6 @@
 #### 《魔法门之英雄无敌：上古纪元（Heroes of Might and Magic Olden Era）》v0.80.18 中文版
 
 夸克：https://pan.quark.cn/s/2a0393a03afc
-
-#### 《风暴之城（Against the Storm）》v1.9.8R 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/6c6c09517ff2
 
 #### 《罗马拓荒录（Romestead）》v0.25.1.6 中文 联机版
 
@@ -4027,12 +4041,6 @@ w
 #### 《古墓丽影9（Tomb Raider）终结版》v1.01.838.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8c417acf572b
-
-#### 《对马岛之魂：导演剪辑版（Ghost of Tsushima）》v1053.8.1212.1408 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a507e892f30a
-
-迅雷：https://pan.xunlei.com/s/VNy4bvg3plxbbrzKWqagvgU5A1?pwd=f59e#
 
 #### 《亡魂战纪（Winds Of Arcana Ruination）》v1.201 中文版
 
@@ -6868,10 +6876,6 @@ w
 
 夸克：https://pan.quark.cn/s/e10a6372e20b
 
-#### 《蜘蛛侠2（Spider-Man 2 The Game）》v1.0 英文版（2006年的游戏）
-
-夸克：https://pan.quark.cn/s/4982e01f8e07
-
 #### 《Mayhemers》v0.3.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/37956e5037dc
@@ -7231,10 +7235,6 @@ w
 #### 《骷髅女孩（Skullgirls 2nd Encore）》v3.6.11 全DLC 英文版（格斗游戏）
 
 夸克：https://pan.quark.cn/s/931699d039a0
-
-#### 《蜘蛛侠：破碎维度（Spider-Man Shattered）Dimensions）》v7.42.0004 汉化中文版
-
-夸克：https://pan.quark.cn/s/b7390ed3449e
 
 #### 《行星的毁灭：泰坦（Planetary Annihilation TITANS）》v124610 中文 联机版
 
@@ -11672,18 +11672,6 @@ w
 
 夸克：https://pan.quark.cn/s/da4cd88fffaa
 
-#### 《漫威蜘蛛侠 重制版》v3.618.0.0 中文版
-
-夸克：https://pan.quark.cn/s/6287e800a5a2
-
-迅雷：https://pan.xunlei.com/s/VNobfv9xZ8VpJb3sSuve8vuSA1?pwd=nppf#
-
-#### 《漫威蜘蛛侠 迈尔斯·莫拉莱斯》v3.617.1.0 中文版
-
-夸克：https://pan.quark.cn/s/463db91276d1
-
-迅雷：https://pan.xunlei.com/s/VNobgwozE59Fjsz1fpjXoN5MA1?pwd=pnbt#
-
 #### 《雪居之地（Wildfrost）》v1.2.0 中文版
 
 夸克：https://pan.quark.cn/s/496fb1c900d2
@@ -12305,10 +12293,6 @@ w
 #### 《海岛大亨6》最新 全DLC 豪华中文完整版
 
 夸克：https://pan.quark.cn/s/86465e965cc5
-
-#### 《蜘蛛侠暗影之网》v1.1 终结版 同人制作
-
-夸克：https://pan.quark.cn/s/66b4c6218f9b
 
 #### 《重装岚影（Heavy Storm Shadow）》v1.055 中文版
 
@@ -13021,10 +13005,6 @@ w
 夸克：https://pan.quark.cn/s/e0ce1f455355
 
 迅雷：https://pan.xunlei.com/s/VNpAil3kuIHDOX7GaTZlKMMOA1?pwd=9tun#
-
-#### 《神奇蜘蛛侠 系列合集（The Amazing Spider Man）》2部 最新 汉化中文版（超凡蜘蛛侠）
-
-夸克：https://pan.quark.cn/s/feac9703334d
 
 #### 《巴士模拟 系列合集》4部 最新 中文版
 

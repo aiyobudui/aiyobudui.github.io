@@ -200,7 +200,7 @@
 
 夸克：https://pan.quark.cn/s/f56d1afb1cfa
 
-#### 《流明物语 特雷的回忆》v1.0.02 NS整合 全DLC 美区中文版
+#### 《流明物语 特雷的回忆》v1.0.0.3 NS整合 全DLC 美区中文版
 
 夸克：https://pan.quark.cn/s/13b193798f5a
 
@@ -290,7 +290,7 @@
 
 夸克：https://pan.quark.cn/s/04f93cc69e2d
 
-#### 《潜水员戴夫 DAVE THE DIVER》v1.0.6.1182 NS整合 全DLC 中文版
+#### 《潜水员戴夫 DAVE THE DIVER》v1.0.6.1206 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/287adeaffadc
 
@@ -334,7 +334,7 @@
 
 夸克：https://pan.quark.cn/s/f9b8f42f527d
 
-#### 《一起玩农场2 Farm Together 2》v1.0.23 NS整合 全DLC 美区中文版
+#### 《一起玩农场2 Farm Together 2》v1.0.26 NS整合 全DLC 美区中文版
 
 夸克：https://pan.quark.cn/s/3dc517524300
 
@@ -346,7 +346,7 @@
 
 夸克：https://pan.quark.cn/s/40fd8a33f6f1
 
-#### 《浅红2 Easy Red 2》v1.26 NS整合 全DLC 美区中文版
+#### 《浅红2 Easy Red 2》v1.27 NS整合 全DLC 美区中文版
 
 夸克：https://pan.quark.cn/s/d364c33a52f4
 
@@ -470,7 +470,7 @@
 
 夸克：https://pan.quark.cn/s/a435ee7d2bea
 
-#### 《鬼灭之刃 火之神血风谭2》v1.80 NS整合 全DLC 美区中文 豪华版
+#### 《鬼灭之刃 火之神血风谭2》v1.81 NS整合 全DLC 美区中文 豪华版
 
 夸克：https://pan.quark.cn/s/36c108d3dfea
 
@@ -558,7 +558,7 @@
 
 夸克：https://pan.quark.cn/s/601a22c5b461
 
-#### 《席德·梅尔的文明VII（Civilization VII）豪华版》v1.4.1 NS整合 全DLC 中文版（文明7）
+#### 《席德·梅尔的文明VII（Civilization VII）豪华版》v1.4.1.1 NS整合 全DLC 中文版（文明7）
 
 夸克：https://pan.quark.cn/s/dc3b513887ff
 
