@@ -50,6 +50,10 @@
 ## 最新添加
 !> 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
+#### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.23514637 全DLC 中文版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/64f0b5deb517
+
 #### 《007初露锋芒（007 First Light）》v1.0.0 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/76e705934c3b
@@ -67,6 +71,14 @@
 夸克：https://pan.quark.cn/s/245d4d2967f0
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
+
+#### 《记忆之城（MEMORIAPOLIS）》v1.6.8 中文版（城市建设模拟）
+
+夸克：https://pan.quark.cn/s/32a941069d1d
+
+#### 《东京女武神（Tokyo Valkyries）》v1.0.0 中文版（卡牌肉鸽）
+
+夸克：https://pan.quark.cn/s/5b535a3dc9a7
 
 #### 《月光岭物语（Moonlight Peaks）》v2026.7.8 中文版
 
@@ -147,6 +159,22 @@
 夸克：https://pan.quark.cn/s/6986a722ea37
 
 迅雷：https://pan.xunlei.com/s/VNobgwozE59Fjsz1fpjXoN5MA1?pwd=pnbt#
+
+#### 《帝国时代2 决定版（Age of Empires II）》v180059 全DLC 中文 联机版（更新）
+#### 《帝国时代4（Age of Empires IV）周年纪念版》v16.2.10604 全DLC 中文版
+#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（局域网联机）
+
+夸克：https://pan.quark.cn/s/0c0f7a82ce32
+
+迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
+
+#### 《种呱得呱（Rana Card）》v1.4.18 中文版（肉鸽卡牌）
+
+夸克：https://pan.quark.cn/s/b24891cba0c1
+
+#### 《鼠织小家（Squeakross Home Squeak Home）》v1.9b 中文版
+
+夸克：https://pan.quark.cn/s/38e326895460
 
 #### 《风暴之城（Against the Storm）支持者版》v1.10.3R 全DLC 中文版
 
@@ -765,14 +793,6 @@
 #### 《生灵重塑（REANIMAL）豪华版》v1.7.1 全DLC 中文 联机版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/fcef91158dcf
-
-#### 《帝国时代2 决定版（Age of Empires II）》v179158 全DLC 中文 联机版（新增DLC）
-#### 《帝国时代4（Age of Empires IV）周年纪念版》v16.2.10604 全DLC 中文版
-#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
-
-夸克：https://pan.quark.cn/s/0c0f7a82ce32
-
-迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
 
 #### 《虐杀熔炉（KIBORG）》V2026.6.23 全DLC 中文版
 
@@ -5634,10 +5654,6 @@ w
 
 夸克：https://pan.quark.cn/s/a20f29a9fd8d
 
-#### 《种呱得呱（Rana Card）》v1.0.6 中文版（肉鸽卡牌）
-
-夸克：https://pan.quark.cn/s/b24891cba0c1
-
 #### 《阴郁之眸（Gloomy Eyes）》v2025.9.13 中文版（黑暗解密）
 
 夸克：https://pan.quark.cn/s/7bcd7745a9e5
@@ -7225,10 +7241,6 @@ w
 #### 《音律叛客（Antro）》v2025.6.27 中文版
 
 夸克：https://pan.quark.cn/s/689f68fe70d9
-
-#### 《鼠织小家（Squeakross Home Squeak Home）》v2025.6.28 中文版
-
-夸克：https://pan.quark.cn/s/38e326895460
 
 #### 《盒子城2（Boxville 2）》v2025.6.27 中文版（附第1部）益智解密
 

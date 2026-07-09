@@ -69,10 +69,6 @@
 
 夸克：https://pan.quark.cn/s/fe31badceec2
 
-#### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.21891774 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/64f0b5deb517
-
 #### 《第一狂战士：卡赞（The First Berserker Khazan）豪华版》Build.22579715 中文版
 
 夸克：https://pan.quark.cn/s/bba1c6a244ac
