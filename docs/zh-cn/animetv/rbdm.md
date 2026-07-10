@@ -91,6 +91,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNlmPri1ldJCKkypev9QPnI_A1?pwd=qvsn#
 
+#### 《胆大党》（2024-2026）第三季 更新中..（附1-2季全+漫画）
+
+夸克：https://pan.quark.cn/s/8a8d53dbb0e5
+
+迅雷：https://pan.xunlei.com/s/VO8lXH4UMTcybu-q8YLRyLpyA1?pwd=87jz#
+
 ----
 
 ## 周六
@@ -203,12 +209,6 @@
 #### 《薰香花朵凛然绽放》（2025）1080P 中字 13集全（附漫画）
 
 夸克：https://pan.quark.cn/s/84f1b0b669b7
-
-#### 《胆大党》（2024）1-2季全 + 漫画 1080P 中字
-
-夸克：https://pan.quark.cn/s/8a8d53dbb0e5
-
-迅雷：https://pan.xunlei.com/s/VO8lXH4UMTcybu-q8YLRyLpyA1?pwd=87jz#
 
 #### 《碧蓝之海》（2018-2025）1-2集全+真人电影版1080P 中字
 

@@ -92,45 +92,15 @@
 
 夸克：https://pan.quark.cn/s/cdd597341b60
 
-#### 《不朽者传奇（Immortals of Aveum）豪华版》v226.971 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a30559b8eebd
-
-#### 《威赫战线（MENACE）》v0.7.7 中文版
-
-夸克：https://pan.quark.cn/s/d186e51228db
-
-#### 《追猎者：超时（Huntdown Overtime）》v0.790.2 中文版
-
-夸克：https://pan.quark.cn/s/6fc4c0f93f1a
-
-#### 《终结者2D：NO FATE（Terminator 2D No Fate）》v2026.7.3 中文版（像素风）
-
-夸克：https://pan.quark.cn/s/cb98780c8878
-
-#### 《裁缝模拟器（Tailor Simulator）》v0.3.2406.1 中文版
-
-夸克：https://pan.quark.cn/s/fd5a8b67c20e
-
-#### 《小小模拟世界（Little Sim World）》v0.60.0 中文版
-
-夸克：https://pan.quark.cn/s/f0f018bcb2ae
-
-#### 《花艺师普妮（Puni the Florist）》v1.0.6.3 中文版
-
-夸克：https://pan.quark.cn/s/e46d8d4035e8
-
-#### 《温馨大扫除（Cozy Cleanup）》v1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/17273b5666bd
-
-#### 《喋血街头4（POSTAL 4 No Regerts）》v1.6.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c146f678e7d5
-
 ---
 
 ## 最近更新
+
+#### 《幻兽帕鲁（Palworld）》v1.0.0.100427 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/51d73c209195
+
+迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
 #### 《原子之心（Atomic Heart）终结版》Build.23005793 全DLC 中文配音版（非虚拟化）
 
@@ -167,6 +137,10 @@
 夸克：https://pan.quark.cn/s/0c0f7a82ce32
 
 迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
+
+#### 《美少女梦工场：预言之子（Princess Maker Children of Revelation）》v0.9.7 中文版
+
+夸克：https://pan.quark.cn/s/8f96fad0a95a
 
 #### 《种呱得呱（Rana Card）》v1.4.18 中文版（肉鸽卡牌）
 
@@ -219,75 +193,9 @@
 
 迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
 
-#### 《Ithya 魔法研究室（Ithya Magic Studies）》v2026.7.2 中文版（手绘静谧休闲）
+---
 
-夸克：https://pan.quark.cn/s/cfddda07da41
-
-#### 《遵命，陛下：寒冬（Yes Your Grace 2 Snowfall）》v1.2.0 中文版
-
-夸克：https://pan.quark.cn/s/2d539a29df7b
-
-#### 《群星（Stellaris）终极版》v4.4.5 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/e812eb1562dd
-
-迅雷：https://pan.xunlei.com/s/VNyaMJxMNH47wljXItgCPhlEA1?pwd=a3dy#
-
-#### 《龙珠 超宇宙2（DRAGON BALL XENOVERSE 2）特别版》v1.26.0 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/ffe1b48f730b
-
-#### 《欧洲卡车模拟2（Euro Truck Simulator 2）豪华版》v1.60.1.7s 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/9c1147b7ac79
-
-迅雷：https://pan.xunlei.com/s/VNudY1SUMO36N9TX9pNUGRgXA1?pwd=28c7#
-
-#### 《星际空间站（Outworld Station）》v1.1.0.4 中文版
-
-夸克：https://pan.quark.cn/s/223497fac977
-
-#### 《泰拉科技魇团（TerraTech Legion）》v1.0.7 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/fbcb69410f2f
-
-#### 《狼人 内在野兽（Werewolf The Inner Beast）》v2026.7.6 中文版（生存恐怖游戏）
-
-夸克：https://pan.quark.cn/s/0f8a1a8c01ce
-
-#### 《地狱黑杰克（Black Jacket）》v1.0.6.250 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c3a6a10ffebe
-
-#### 《姆明：暖心冬日（Moomintroll Winters Warmth）》v0.1.1440 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/0e4fa3e966ff
-
-#### 《奈斯启示录（Necesse）》Build.23522718 中文 联机版
-
-夸克：https://pan.quark.cn/s/83a3f6958a9a
-
-#### 《梦幻主义（Onirism）》Build.24019549 中文 联机版（奇幻动作冒险）
-
-夸克：https://pan.quark.cn/s/0dc0e9840bcf
-
-#### 《抬头只见天花板（Looking Up I See Only A Ceiling）》v3.0.0.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7b5b908bf9eb
-
-#### 《地球不屈（Terra Invicta）》v1.0.39 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/9ca7438200cb
-
-#### 《卡牌修仙传（Card Cultivation）》v2.2.0.26 中文版
-
-夸克：https://pan.quark.cn/s/cb91eda9d166
-
-迅雷：https://pan.xunlei.com/s/VOnHb7UJp7pepL7c2qUJfp13A1?pwd=8nr4
-
-#### 《东方幕华祭 永夜篇》Build.21611900 中文版
-
-夸克：https://pan.quark.cn/s/5a8a7ef1c859
+## 顶置游戏
 
 #### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.6 全DLC 中文版
 #### 《天国拯救（Kingdom Come Deliverance）HD皇家版》v1.9.8 全DLC 中文版
@@ -295,10 +203,6 @@
 夸克：https://pan.quark.cn/s/7c6b8f30675c
 
 迅雷：https://pan.xunlei.com/s/VO37CRQu2t8RQECID1fHoDG9A1?pwd=ane4#
-
----
-
-## 顶置游戏
 
 #### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.9.85.0 全DLC 中文配音版
 #### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
@@ -350,12 +254,6 @@
 #### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R.2 Heart of Chornobyl）终极版》v1.9 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/ae92fcbace04
-
-#### 《幻兽帕鲁（Palworld）》v0.7.3.90464 中文 联机版
-
-夸克：https://pan.quark.cn/s/51d73c209195
-
-迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
 #### 《博德之门3（Baldur's Gate 3）豪华版》v4.1.1.7209685 全DLC 中文 联机版
 
@@ -450,6 +348,112 @@
 ---
 
 ## 已有游戏
+
+#### 《不朽者传奇（Immortals of Aveum）豪华版》v226.971 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a30559b8eebd
+
+#### 《威赫战线（MENACE）》v0.7.7 中文版
+
+夸克：https://pan.quark.cn/s/d186e51228db
+
+#### 《追猎者：超时（Huntdown Overtime）》v0.790.2 中文版
+
+夸克：https://pan.quark.cn/s/6fc4c0f93f1a
+
+#### 《终结者2D：NO FATE（Terminator 2D No Fate）》v2026.7.3 中文版（像素风）
+
+夸克：https://pan.quark.cn/s/cb98780c8878
+
+#### 《裁缝模拟器（Tailor Simulator）》v0.3.2406.1 中文版
+
+夸克：https://pan.quark.cn/s/fd5a8b67c20e
+
+#### 《小小模拟世界（Little Sim World）》v0.60.0 中文版
+
+夸克：https://pan.quark.cn/s/f0f018bcb2ae
+
+#### 《花艺师普妮（Puni the Florist）》v1.0.6.3 中文版
+
+夸克：https://pan.quark.cn/s/e46d8d4035e8
+
+#### 《温馨大扫除（Cozy Cleanup）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/17273b5666bd
+
+#### 《喋血街头4（POSTAL 4 No Regerts）》v1.6.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c146f678e7d5
+
+#### 《Ithya 魔法研究室（Ithya Magic Studies）》v2026.7.2 中文版（手绘静谧休闲）
+
+夸克：https://pan.quark.cn/s/cfddda07da41
+
+#### 《遵命，陛下：寒冬（Yes Your Grace 2 Snowfall）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/2d539a29df7b
+
+#### 《群星（Stellaris）终极版》v4.4.5 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/e812eb1562dd
+
+迅雷：https://pan.xunlei.com/s/VNyaMJxMNH47wljXItgCPhlEA1?pwd=a3dy#
+
+#### 《龙珠 超宇宙2（DRAGON BALL XENOVERSE 2）特别版》v1.26.0 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/ffe1b48f730b
+
+#### 《欧洲卡车模拟2（Euro Truck Simulator 2）豪华版》v1.60.1.7s 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/9c1147b7ac79
+
+迅雷：https://pan.xunlei.com/s/VNudY1SUMO36N9TX9pNUGRgXA1?pwd=28c7#
+
+#### 《星际空间站（Outworld Station）》v1.1.0.4 中文版
+
+夸克：https://pan.quark.cn/s/223497fac977
+
+#### 《泰拉科技魇团（TerraTech Legion）》v1.0.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/fbcb69410f2f
+
+#### 《狼人 内在野兽（Werewolf The Inner Beast）》v2026.7.6 中文版（生存恐怖游戏）
+
+夸克：https://pan.quark.cn/s/0f8a1a8c01ce
+
+#### 《地狱黑杰克（Black Jacket）》v1.0.6.250 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c3a6a10ffebe
+
+#### 《姆明：暖心冬日（Moomintroll Winters Warmth）》v0.1.1440 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0e4fa3e966ff
+
+#### 《奈斯启示录（Necesse）》Build.23522718 中文 联机版
+
+夸克：https://pan.quark.cn/s/83a3f6958a9a
+
+#### 《梦幻主义（Onirism）》Build.24019549 中文 联机版（奇幻动作冒险）
+
+夸克：https://pan.quark.cn/s/0dc0e9840bcf
+
+#### 《抬头只见天花板（Looking Up I See Only A Ceiling）》v3.0.0.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7b5b908bf9eb
+
+#### 《地球不屈（Terra Invicta）》v1.0.39 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/9ca7438200cb
+
+#### 《卡牌修仙传（Card Cultivation）》v2.2.0.26 中文版
+
+夸克：https://pan.quark.cn/s/cb91eda9d166
+
+迅雷：https://pan.xunlei.com/s/VOnHb7UJp7pepL7c2qUJfp13A1?pwd=8nr4
+
+#### 《东方幕华祭 永夜篇》Build.21611900 中文版
+
+夸克：https://pan.quark.cn/s/5a8a7ef1c859
 
 #### 《麻布仔大冒险（Sackboy A Big）Adventure）》Build.27102022 全DLC 中文 联机版
 
@@ -7057,10 +7061,6 @@ w
 #### 《漂移日（DAY OF DRIFT）》v1.04 中文版
 
 夸克：https://pan.quark.cn/s/583cf989555d
-
-#### 《美少女梦工场：预言之子（Princess Maker Children of Revelation）》v0.7.7 中文版
-
-夸克：https://pan.quark.cn/s/8f96fad0a95a
 
 #### 《沙丘：香料战争（Dune：Spice Wars）》v2.2.7.32974 全DLC 中文版
 
