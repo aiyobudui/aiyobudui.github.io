@@ -72,6 +72,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《脱轨山谷（Derail Valley）》v99.7 中文版
+
+夸克：https://pan.quark.cn/s/a0a982aa68d0
+
 #### 《记忆之城（MEMORIAPOLIS）》v1.6.8 中文版（城市建设模拟）
 
 夸克：https://pan.quark.cn/s/32a941069d1d

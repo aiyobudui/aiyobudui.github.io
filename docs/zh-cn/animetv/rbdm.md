@@ -91,12 +91,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNlmPri1ldJCKkypev9QPnI_A1?pwd=qvsn#
 
-#### 《胆大党》（2024-2026）第三季 更新中..（附1-2季全+漫画）
-
-夸克：https://pan.quark.cn/s/8a8d53dbb0e5
-
-迅雷：https://pan.xunlei.com/s/VO8lXH4UMTcybu-q8YLRyLpyA1?pwd=87jz#
-
 ----
 
 ## 周六
@@ -133,6 +127,12 @@
 ---
 
 ## 近期完结
+
+#### 《胆大党》（2024-2026）1-2季全+漫画 1080P 中字
+
+夸克：https://pan.quark.cn/s/8a8d53dbb0e5
+
+迅雷：https://pan.xunlei.com/s/VO8lXH4UMTcybu-q8YLRyLpyA1?pwd=87jz#
 
 #### 《地狱乐》（2023-2026）1-2季全 1080P 中字
 
