@@ -1162,6 +1162,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOvx2A1miJNGRxvDW__zfJK1A1?pwd=mz34#
 
+#### 《野兽家族》（2016-2022）1-6季全 1080P 中英字幕
+
+夸克：https://pan.quark.cn/s/5ac4ef88e132
+
+迅雷：https://pan.xunlei.com/s/VOxGAAZZHIOyoeCOmhdy3pH-A1?pwd=y6ww#
+
 ---
 
 ## 漫威衍生剧..
