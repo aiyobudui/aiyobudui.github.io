@@ -72,6 +72,14 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《Dark Reaper Shoots! 2》v1.0.0 中文版（暗黑死神射击2 2D肉鸽）
+
+夸克：https://pan.quark.cn/s/40ab2a72592d
+
+#### 《奥术攀升（Arcane Ascent）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/086daeb7a6fb
+
 #### 《脱轨山谷（Derail Valley）》v99.7 中文版
 
 夸克：https://pan.quark.cn/s/a0a982aa68d0
@@ -116,6 +124,10 @@
 
 迅雷：https://pan.xunlei.com/s/VNy69t1End8_Ts7us0ZDNtHOA1?pwd=yb72#
 
+#### 《瑞奇与叮当 时空跳转（Ratchet & Clank Rift Apart）》v3.630.1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/99357b51c721
+
 #### 《对马岛之魂：导演剪辑版（Ghost of Tsushima）》v1053.9.0623.1807 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a507e892f30a
@@ -141,6 +153,18 @@
 夸克：https://pan.quark.cn/s/0c0f7a82ce32
 
 迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
+
+#### 《混乱超市整理模拟器（Supermarket Chaos）》v1.1.2 中文版（治愈系整理模拟游戏）
+
+夸克：https://pan.quark.cn/s/8cd4fc681b46
+
+#### 《康斯坦丝（Constance）》v1.1.2.18256 中文版（2D手绘动作冒险）
+
+夸克：https://pan.quark.cn/s/d2a577f4ea3f
+
+#### 《救国少女之斯娜静歌（Snezhinka Sentinel Girls2）》v1.2.5 中文版
+
+夸克：https://pan.quark.cn/s/01766735c4df
 
 #### 《美少女梦工场：预言之子（Princess Maker Children of Revelation）》v0.9.7 中文版
 
@@ -505,10 +529,6 @@
 #### 《黎明之钟（Dawn Bell）》v2026.7.2 中文版（2D恐怖冒險）
 
 夸克：https://pan.quark.cn/s/f731d009d0c4
-
-#### 《混乱超市整理模拟器（Supermarket Chaos）》v1.0.7 中文版（治愈系整理模拟游戏）
-
-夸克：https://pan.quark.cn/s/8cd4fc681b46
 
 #### 《觉醒者：遗忘之誓（The Awakener Forgotten Oath）》v3.1 中文版（动作肉鸽）
 
@@ -4198,10 +4218,6 @@ w
 
 夸克：https://pan.quark.cn/s/7d5a41610f6e
 
-#### 《康斯坦丝（Constance）》Build.1.0.2.77733 中文版（2D手绘动作冒险）
-
-夸克：https://pan.quark.cn/s/d2a577f4ea3f
-
 #### 《红怪（Carrion）豪华版》v1.0.5.643 全DLC 中文版（逆转恐怖游戏）
 
 夸克：https://pan.quark.cn/s/36fe581927ec
@@ -5177,10 +5193,6 @@ w
 夸克：https://pan.quark.cn/s/bbd59beca72d
 
 迅雷：https://pan.xunlei.com/s/VNri90IcCAPiwlDMNmgWCYvLA1?pwd=btgj#
-
-#### 《救国少女之斯娜静歌（Snezhinka Sentinel Girls2）》v1.2.4 中文版
-
-夸克：https://pan.quark.cn/s/01766735c4df
 
 #### 《控制（Control）终极合辑版》v1.33 全DLC 中文版
 
@@ -12541,10 +12553,6 @@ w
 #### 《真人快打11》v0.384.34 终极版
 
 夸克：https://pan.quark.cn/s/7513e24d3c33
-
-#### 《瑞奇与叮当：时空跳转》v1.808.0.0 全DLC 豪华中文 学习补丁+升级补丁
-
-夸克：https://pan.quark.cn/s/99357b51c721
 
 #### 《方舟：生存进化（ARK Survival Evolved）终极幸存者版》v356.1 全DLC 中文 联机版
 
