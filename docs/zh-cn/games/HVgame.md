@@ -29,6 +29,14 @@
 
 夸克：https://pan.quark.cn/s/02ea9cc893a7
 
+#### 《地产大亨 狂乐派对（Monopoly Madness）》V5.8 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/339aaeb912cb
+
+#### 《地产大亨 MONOPOLY》v1.10 中文版
+
+夸克：https://pan.quark.cn/s/6eec0f106565
+
 #### 《席德·梅尔的文明VII（Civilization VII）豪华版》v1.4.0 全DLC 中文版（文明7）
 
 夸克：https://pan.quark.cn/s/2d3110be13e4
