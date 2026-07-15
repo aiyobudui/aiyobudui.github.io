@@ -72,6 +72,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《The Mound 克苏鲁恶兆（The Mound Omen of Cthulhu）》vCL34308 中文 联机版（多人合作心理恐惧）
+
+夸克：https://pan.quark.cn/s/776b0cc787ed
+
 #### 《试炼幸存者（Trials Survivors）》v0.1.8.1 中文版（肉鸽）
 
 夸克：https://pan.quark.cn/s/86ce07b6d626
