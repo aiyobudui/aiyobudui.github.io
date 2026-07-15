@@ -72,6 +72,30 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《试炼幸存者（Trials Survivors）》v0.1.8.1 中文版（肉鸽）
+
+夸克：https://pan.quark.cn/s/86ce07b6d626
+
+#### 《灵伴世界（Taival）》v0.5.0-370 中文版（可同屏双人）
+
+夸克：https://pan.quark.cn/s/f1552d9f0edc
+
+#### 《电车炫客（Denshattack）》v1.2.1.6g 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/434cb4ca7c7d
+
+#### 《D-topia》v1.1.1007 中文版（休闲冒险解密）
+
+夸克：https://pan.quark.cn/s/950622d402c4
+
+#### 《肉鸽领地 守卫方格（Rogue Realm Guardian Grids）》v2026.7.15 中文版
+
+夸克：https://pan.quark.cn/s/0af5d0d94464
+
+#### 《绯色侍女（The Crimson Maid）》v2026.7.15 中文版（悬疑探索）
+
+夸克：https://pan.quark.cn/s/f3ad9a688346
+
 #### 《加利宅邸悬案（The Incident at Galley House）》Build.24210977 中文版
 
 夸克：https://pan.quark.cn/s/01fd94613abb
@@ -147,7 +171,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
-#### 《幻兽帕鲁（Palworld）》v1.0.0.100427 全DLC 中文 联机版
+#### 《幻兽帕鲁（Palworld）》v1.0.1.100619 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/51d73c209195
 
@@ -169,6 +193,13 @@
 #### 《双截龙再临（Double Dragon Revive）豪华版》v1.5.0.0 中文版
 
 夸克：https://pan.quark.cn/s/7fac7da65caa
+
+#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》build.24132495 全DLC 中文版（显卡需支持光线追踪）
+#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
+#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
+#### 《毁灭战士 永恒（DOOM Eternal）豪华版》Build.23241804 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5d002d83f9e0
 
 #### 《天外世界2（The Outer Worlds 2）高级版》v1.2.0.0 中文版（更新）
 #### 《天外世界：太空人之选（The Outer Worlds Spacer's Choice Edition）重制版》v2.5.9.0 中文版
@@ -730,13 +761,6 @@
 夸克：https://pan.quark.cn/s/fedd9c9a5ad5
 
 迅雷：https://pan.xunlei.com/s/VO057Y0arOn6-KaL7LUEa8ktA1?pwd=dkw2#
-
-#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
-#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
-#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
-#### 《毁灭战士 永恒（DOOM Eternal）豪华版》Build.23241804 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5d002d83f9e0
 
 #### 《Forgotlings》v1.3.0 中文版（遗忘之物 遗忘之灵）
 
