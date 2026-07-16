@@ -72,6 +72,22 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《电竞经理2026（Esports Manager 2026）》v1.0.2.20260714 中文版
+
+夸克：https://pan.quark.cn/s/433ba606112b
+
+#### 《三国志BOND（Three Kingdoms BOND）》v0.4.21 全DLC 中文版（卡牌肉鸽）
+
+夸克：https://pan.quark.cn/s/7bc606734c69
+
+#### 《Urban Strife》v1.0.1 中文版（城市纷争、尸城饿人、末日回合制策略）
+
+夸克：https://pan.quark.cn/s/5f940831c1f8
+
+#### 《泰瑞诺斯 降临英雄（Terrinoth Heroes of Descent）》v1.03 中文版
+
+夸克：https://pan.quark.cn/s/3a48030b22f9
+
 #### 《The Mound 克苏鲁恶兆（The Mound Omen of Cthulhu）》vCL34308 中文 联机版（多人合作心理恐惧）
 
 夸克：https://pan.quark.cn/s/776b0cc787ed
@@ -180,6 +196,18 @@
 夸克：https://pan.quark.cn/s/51d73c209195
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
+
+#### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.1892 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/51ec3310edca
+
+#### 《云族裔（inZOI）》v0.9.5 全DLC 中文版（韩国模拟人生）
+
+夸克：https://pan.quark.cn/s/8458e4ca4a38
+
+#### 《终末机兵（NITRO GEN OMEGA）》v1.3.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4a99ffe1a8dc
 
 #### 《哥特王朝 重制版（Gothic 1 Remake）》v170857 中文版
 
@@ -1597,10 +1625,6 @@ w
 
 夸克：https://pan.quark.cn/s/f7a7740b9c92
 
-#### 《终末机兵（NITRO GEN）OMEGA）》v1.2.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4a99ffe1a8dc
-
 #### 《喵喵的结合（Mewgenics）》v1.1.21039 汉化版
 
 夸克：https://pan.quark.cn/s/9754a267780a
@@ -1911,10 +1935,6 @@ w
 夸克：https://pan.quark.cn/s/6deca0e36190
 
 迅雷：https://pan.xunlei.com/s/VOnHWAHd5FqS2M3NKcjRiaBJA1?pwd=kx4v
-
-#### 《云族裔（inZOI）》v0.8.3 全DLC 中文版（韩国模拟人生）
-
-夸克：https://pan.quark.cn/s/8458e4ca4a38
 
 #### 《疫区档案（Vultures Scavengers of Death）》v1.0.2 中文版
 
@@ -2509,10 +2529,6 @@ w
 #### 《雾锁王国（Enshrouded）》v999467 中文 联机版
 
 夸克：https://pan.quark.cn/s/cb96556f07cd
-
-#### 《检疫区：最后一站（Quarantine Zone The Last Check）》v1.1.13.1645 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/51ec3310edca
 
 #### 《紫色晶石（Stoneshard）》v0.9.4.18 全DLC 中文版
 

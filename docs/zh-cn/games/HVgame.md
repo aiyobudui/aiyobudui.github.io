@@ -25,6 +25,10 @@
 ## 已有游戏
 !> 靠前的是新添加和刚更新的，如果链接里面没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《女神异闻录3 Reload（Persona 3 Reload）豪华版》Build.22672075 全DLC 中文版（女神异闻录3重制版 P3R）
+
+夸克：https://pan.quark.cn/s/e07e7b793ab8
+
 #### 《艾恩葛朗特 回荡新声（Echoes of Aincrad）终结版》v1.0.3.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/12ba1138c169
@@ -100,11 +104,3 @@
 #### 《红色沙漠（Crimson Desert）豪华版》v1.04.02 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8f8e4c92e22e
-
-#### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e259cd42aebf
-
-#### 《女神异闻录3 Reload（Persona 3 Reload）豪华版》v1.11 全DLC 中文版（女神异闻录3重制版 P3R）
-
-夸克：https://pan.quark.cn/s/e07e7b793ab8
