@@ -72,6 +72,34 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《背包地牢（Backpack Dungeon）》v2.0.1 中文版
+
+夸克：https://pan.quark.cn/s/8ad605ee25de
+
+#### 《霜轨（Frostrain 2）豪华版》v1.0.0-5 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/305e57c90dce
+
+#### 《致病本源（Pathogenic）》v1.0.6 中文版
+
+夸克：https://pan.quark.cn/s/009c5800756a
+
+#### 《星球田园诗（Farlands）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/5d4d4b02c465
+
+#### 《地狱公主（Hell Maiden）》v0.2.30 中文版（卡牌肉鸽）
+
+夸克：https://pan.quark.cn/s/9ad8c1f59250
+
+#### 《末世奥力（The Last Oricru）最终剪辑版》v1.3.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/87d7052c9539
+
+#### 《Dead Weight》v1.0.1.11 中文版
+
+夸克：https://pan.quark.cn/s/6af88080412b
+
 #### 《电竞经理2026（Esports Manager 2026）》v1.0.2.20260714 中文版
 
 夸克：https://pan.quark.cn/s/433ba606112b
@@ -201,6 +229,10 @@
 
 夸克：https://pan.quark.cn/s/51ec3310edca
 
+#### 《Go-Go Town!》v1.0.25831 中文版（城市建设和双人协作）
+
+夸克：https://pan.quark.cn/s/1409c59aa866
+
 #### 《云族裔（inZOI）》v0.9.5 全DLC 中文版（韩国模拟人生）
 
 夸克：https://pan.quark.cn/s/8458e4ca4a38
@@ -225,6 +257,12 @@
 #### 《双截龙再临（Double Dragon Revive）豪华版》v1.5.0.0 中文版
 
 夸克：https://pan.quark.cn/s/7fac7da65caa
+
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.108.0b 中文 联机版（附第1部+安卓版）
+
+夸克：https://pan.quark.cn/s/4a575dc211fc
+
+迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
 #### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》build.24132495 全DLC 中文版（显卡需支持光线追踪）
 #### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
@@ -277,6 +315,17 @@
 夸克：https://pan.quark.cn/s/0c0f7a82ce32
 
 迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
+
+#### 《绯夜传奇 重制版（Tales of Berseria Remastered）豪华版》v1.0.4 全DLC 中文版（绯夜传说 狂战传说）
+#### 《无尽传奇 重制版（Tales of Xillia Remastered）豪华版》v1.0.2 全DLC 中文版（无尽传说）
+#### 《美德传奇f 重制版（Tales of Graces F Remastered）豪华版》v1.0.2 全DLC 中文版（圣恩传说F）
+#### 《破晓传奇 黎明新程（Tales of Arise）究极版》Build.12823607 全DLC 中文版（破晓传说）
+#### 《薄暮传说 终极版（Tales of Vesperia Definitive Edition）》v1.3.0 全DLC 中文版（宵星传奇）
+#### 《热情传奇（Tales of Zestiria）》v1.4.0.0 全DLC 中文版（情热传说）
+
+夸克：https://pan.quark.cn/s/ae94d79246eb
+
+迅雷：https://pan.xunlei.com/s/VO-eXyaLUluyIy0xfw29dheWA1?pwd=etgk#
 
 ---
 
@@ -825,10 +874,6 @@
 #### 《破晓（Dawn Break）》v2026.6.9 中文版
 
 夸克：https://pan.quark.cn/s/f7dae3181778
-
-#### 《绯夜传奇 复刻版（Tales of Berseria Remastered）豪华版》v1.0.4 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ae94d79246eb
 
 #### 《日落汽车旅馆（Sunset Motel）》v1.0.18 中文版
 
@@ -1630,12 +1675,6 @@ w
 夸克：https://pan.quark.cn/s/9754a267780a
 
 迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
-
-#### 《杀戮尖塔2（Slay the Spire 2）》v0.106.0 中文 联机版（附第1部+安卓版）
-
-夸克：https://pan.quark.cn/s/4a575dc211fc
-
-迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
 #### 《风中行者（Windblown）》v0.9.4.1 中文 联机版
 
@@ -4702,10 +4741,6 @@ w
 #### 《网络工程师模拟器（ServiceIT You can do IT）》v1.0.6 中文版
 
 夸克：https://pan.quark.cn/s/a3ef58ff3fdb
-
-#### 《无尽传奇 重制版（Tales of Xillia）豪华版》v1.0.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/6a24f9f92755
 
 #### 《工业巨擘4.0（Industry Giant 4.0）》v1.0.1 全DLC 中文版
 
@@ -7854,12 +7889,6 @@ w
 
 夸克：https://pan.quark.cn/s/1d521cff5381
 
-#### 《破晓传奇 黎明新程（Tales of Arise）究极版》Build.12823607 全DLC 中文版（破晓传说）
-
-夸克：https://pan.quark.cn/s/23cd87eee013
-
-迅雷：https://pan.xunlei.com/s/VO-eXyaLUluyIy0xfw29dheWA1?pwd=etgk#
-
 #### 《打倒白雪公主！乌拉！（Union of Gnomes）》v1.5.25 中文版（地精联盟）
 
 夸克：https://pan.quark.cn/s/3901b6f123d6
@@ -8891,10 +8920,6 @@ w
 #### 《SD高达G世纪：火线纵横（SD Gundam G Generation Cross Rays）》v2020.3.28 全DLC 豪华 中文版
 
 夸克：https://pan.quark.cn/s/30ed363b0bb3
-
-#### 《圣恩传说 F：重制版（Tales of Graces F Remastered）》v1.02 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1aac4952aa8a
 
 #### 《汽车制造（Car Manufacture）》v1.0.7g 中文版
 
@@ -11736,10 +11761,6 @@ w
 #### 《像素工厂（Mindustry）》build 146 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/08fdd597cb80
-
-#### 《Go-Go Town!》v0.4.47.15713EA 中文版
-
-夸克：https://pan.quark.cn/s/1409c59aa866
 
 #### 《我的幻想乡》v2.1.4 全DLC+奖励内容 豪华中文版
 
