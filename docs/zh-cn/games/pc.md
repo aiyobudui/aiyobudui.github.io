@@ -80,7 +80,7 @@
 #### 《刺客信条 英灵殿（Assassins Creed Valhalla）完整版》v1.7.0 全DLC 中文版
 #### 《刺客信条 奥德赛（Assassins Creed Odyssey）最终版》v1.5.3 全DLC 中文版
 #### 《刺客信条 枭雄（Assassin s Creed Syndicate）》v1.51up8 全DLC 中文版
-#### 《刺客信条：编年史 三部曲（Assassins Creed - Chronicles）》v1.01 中文版
+#### 《刺客信条 编年史 三部曲（Assassins Creed - Chronicles）》v1.01 中文版
 #### 《刺客信条4 黑旗（Assassins Creed IV Black Flag）》v1.08 中文寒鸦版
 #### 《刺客信条3 重制版 和 刺客信条 解放 重制版 二合一》v1.0.3 全DLC 中文版
 #### 《刺客信条2（Assassins Creed II）豪华版》 v1.01 全DLC 汉化版
@@ -168,6 +168,10 @@
 #### 《Go-Go Town!》v1.0.25831 中文版（城市建设和双人协作）
 
 夸克：https://pan.quark.cn/s/1409c59aa866
+
+#### 《海权（Sea Power Naval Combat in the Missile Age）》v0.8.1 中文版
+
+夸克：https://pan.quark.cn/s/af33faba8ec6
 
 #### 《云族裔（inZOI）》v0.9.5 全DLC 中文版（韩国模拟人生）
 
@@ -3464,10 +3468,6 @@ w
 #### 《万千定数孤注破晓之刻（Wayblazer Dammerung）》v1.00.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7589dfc3f562
-
-#### 《海权（Sea Power Naval Combat in the Missile Age）》v0.7.2 中文版
-
-夸克：https://pan.quark.cn/s/af33faba8ec6
 
 #### 《嗜血印（Bloody Spell）》Build.22069271 全DLC 中文 联机版
 

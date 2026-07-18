@@ -65,10 +65,6 @@
 
 夸克：https://pan.quark.cn/s/5d2d74be4eca
 
-#### 《刺客信条：影（Assassins Creed Shadows）豪华版》v1.1.9 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/b28d0889b550
-
 #### 《无主之地4（Borderlands 4）超级豪华版》v1.5.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/ed1b0b512903
