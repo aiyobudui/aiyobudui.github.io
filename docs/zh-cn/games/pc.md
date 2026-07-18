@@ -72,6 +72,26 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《刺客信条 影（Assassins Creed Shadows）高级版》v1.1.11 全DLC 中文版（非虚拟化）
+#### 《刺客信条 幻景（Assassins Creed Mirage）豪华版》v1.11 全DLC 中文版
+#### 《刺客信条 叛变（Assassins Creed Rogue）》v1.1.0 全DLC 中文版
+#### 《刺客信条 起源（Assassins Creed Origins）》v1.62 全DLC 中文版
+#### 《刺客信条 兄弟会（Assassins Creed Brotherhood）豪华版》v1.03 中文版
+#### 《刺客信条 英灵殿（Assassins Creed Valhalla）完整版》v1.7.0 全DLC 中文版
+#### 《刺客信条 奥德赛（Assassins Creed Odyssey）最终版》v1.5.3 全DLC 中文版
+#### 《刺客信条 枭雄（Assassin s Creed Syndicate）》v1.51up8 全DLC 中文版
+#### 《刺客信条：编年史 三部曲（Assassins Creed - Chronicles）》v1.01 中文版
+#### 《刺客信条4 黑旗（Assassins Creed IV Black Flag）》v1.08 中文寒鸦版
+#### 《刺客信条3 重制版 和 刺客信条 解放 重制版 二合一》v1.0.3 全DLC 中文版
+#### 《刺客信条2（Assassins Creed II）豪华版》 v1.01 全DLC 汉化版
+#### 《刺客信条1 导演剪辑版》v1.02 v2 汉化版
+#### 《刺客信条大革命》
+#### 《刺客信条启示录》
+
+夸克：https://pan.quark.cn/s/2d419e5f757a
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
 #### 《背包地牢（Backpack Dungeon）》v2.0.1 中文版
 
 夸克：https://pan.quark.cn/s/8ad605ee25de
@@ -119,90 +139,6 @@
 #### 《The Mound 克苏鲁恶兆（The Mound Omen of Cthulhu）》vCL34308 中文 联机版（多人合作心理恐惧）
 
 夸克：https://pan.quark.cn/s/776b0cc787ed
-
-#### 《试炼幸存者（Trials Survivors）》v0.1.8.1 中文版（肉鸽）
-
-夸克：https://pan.quark.cn/s/86ce07b6d626
-
-#### 《灵伴世界（Taival）》v0.5.0-370 中文版（可同屏双人）
-
-夸克：https://pan.quark.cn/s/f1552d9f0edc
-
-#### 《电车炫客（Denshattack）》v1.2.1.6g 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/434cb4ca7c7d
-
-#### 《D-topia》v1.1.1007 中文版（休闲冒险解密）
-
-夸克：https://pan.quark.cn/s/950622d402c4
-
-#### 《肉鸽领地 守卫方格（Rogue Realm Guardian Grids）》v2026.7.15 中文版
-
-夸克：https://pan.quark.cn/s/0af5d0d94464
-
-#### 《绯色侍女（The Crimson Maid）》v2026.7.15 中文版（悬疑探索）
-
-夸克：https://pan.quark.cn/s/f3ad9a688346
-
-#### 《加利宅邸悬案（The Incident at Galley House）》Build.24210977 中文版
-
-夸克：https://pan.quark.cn/s/01fd94613abb
-
-#### 《Pyramidion》Build.23819612 中文 联机版（双人合作物理游戏 苦力或监工）
-
-夸克：https://pan.quark.cn/s/8c0d7d68c0e5
-
-#### 《森林逃生 末班列车 Forest Escape Last Train》v2026.7.12 中文版
-
-夸克：https://pan.quark.cn/s/c763e24d950a
-
-#### 《喇叭之城（Phonopolis）》v1.0.4.6.8 中文版（手绘风故事驱动冒险解密）
-
-夸克：https://pan.quark.cn/s/9b70d5d2ea5f
-
-#### 《星尘战线（Breachway）》v1.143.3.0g 中文版
-
-夸克：https://pan.quark.cn/s/e0e3575d2291
-
-#### 《造化仙缘（Destiny of Immortal）》v0.13.16 中文版
-
-夸克：https://pan.quark.cn/s/f38f359549f1
-
-#### 《零秒 时光的归途（Ascend to ZERO）》v1.0.4.0 中文版
-
-夸克：https://pan.quark.cn/s/e90cfe3860a0
-
-#### 《废都电锯姬（MOTORSLICE）》v1.05 中文版
-
-夸克：https://pan.quark.cn/s/12a128a8f623
-
-#### 《Dark Reaper Shoots! 2》v1.0.0 中文版（暗黑死神射击2 2D肉鸽）
-
-夸克：https://pan.quark.cn/s/40ab2a72592d
-
-#### 《奥术攀升（Arcane Ascent）》v1.0 中文版
-
-夸克：https://pan.quark.cn/s/086daeb7a6fb
-
-#### 《脱轨山谷（Derail Valley）》v99.7 中文版
-
-夸克：https://pan.quark.cn/s/a0a982aa68d0
-
-#### 《记忆之城（MEMORIAPOLIS）》v1.6.8 中文版（城市建设模拟）
-
-夸克：https://pan.quark.cn/s/32a941069d1d
-
-#### 《东京女武神（Tokyo Valkyries）》v1.0.0 中文版（卡牌肉鸽）
-
-夸克：https://pan.quark.cn/s/5b535a3dc9a7
-
-#### 《月光岭物语（Moonlight Peaks）》v2026.7.8 中文版
-
-夸克：https://pan.quark.cn/s/1860940ccd61
-
-#### 《火鹰FPV：无人机战争模拟器（Firehawk FPV Drone Warfare Simulator）》v2026.7.4 中文版
-
-夸克：https://pan.quark.cn/s/c7e0a232b1bd
 
 #### 《女王的游戏：盛世天下 媚娘篇（Road to Empress）》Build.22921822 全DLC 中文版（真人互动影游）
 
@@ -488,6 +424,90 @@
 ---
 
 ## 已有游戏
+
+#### 《试炼幸存者（Trials Survivors）》v0.1.8.1 中文版（肉鸽）
+
+夸克：https://pan.quark.cn/s/86ce07b6d626
+
+#### 《灵伴世界（Taival）》v0.5.0-370 中文版（可同屏双人）
+
+夸克：https://pan.quark.cn/s/f1552d9f0edc
+
+#### 《电车炫客（Denshattack）》v1.2.1.6g 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/434cb4ca7c7d
+
+#### 《D-topia》v1.1.1007 中文版（休闲冒险解密）
+
+夸克：https://pan.quark.cn/s/950622d402c4
+
+#### 《肉鸽领地 守卫方格（Rogue Realm Guardian Grids）》v2026.7.15 中文版
+
+夸克：https://pan.quark.cn/s/0af5d0d94464
+
+#### 《绯色侍女（The Crimson Maid）》v2026.7.15 中文版（悬疑探索）
+
+夸克：https://pan.quark.cn/s/f3ad9a688346
+
+#### 《加利宅邸悬案（The Incident at Galley House）》Build.24210977 中文版
+
+夸克：https://pan.quark.cn/s/01fd94613abb
+
+#### 《Pyramidion》Build.23819612 中文 联机版（双人合作物理游戏 苦力或监工）
+
+夸克：https://pan.quark.cn/s/8c0d7d68c0e5
+
+#### 《森林逃生 末班列车 Forest Escape Last Train》v2026.7.12 中文版
+
+夸克：https://pan.quark.cn/s/c763e24d950a
+
+#### 《喇叭之城（Phonopolis）》v1.0.4.6.8 中文版（手绘风故事驱动冒险解密）
+
+夸克：https://pan.quark.cn/s/9b70d5d2ea5f
+
+#### 《星尘战线（Breachway）》v1.143.3.0g 中文版
+
+夸克：https://pan.quark.cn/s/e0e3575d2291
+
+#### 《造化仙缘（Destiny of Immortal）》v0.13.16 中文版
+
+夸克：https://pan.quark.cn/s/f38f359549f1
+
+#### 《零秒 时光的归途（Ascend to ZERO）》v1.0.4.0 中文版
+
+夸克：https://pan.quark.cn/s/e90cfe3860a0
+
+#### 《废都电锯姬（MOTORSLICE）》v1.05 中文版
+
+夸克：https://pan.quark.cn/s/12a128a8f623
+
+#### 《Dark Reaper Shoots! 2》v1.0.0 中文版（暗黑死神射击2 2D肉鸽）
+
+夸克：https://pan.quark.cn/s/40ab2a72592d
+
+#### 《奥术攀升（Arcane Ascent）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/086daeb7a6fb
+
+#### 《脱轨山谷（Derail Valley）》v99.7 中文版
+
+夸克：https://pan.quark.cn/s/a0a982aa68d0
+
+#### 《记忆之城（MEMORIAPOLIS）》v1.6.8 中文版（城市建设模拟）
+
+夸克：https://pan.quark.cn/s/32a941069d1d
+
+#### 《东京女武神（Tokyo Valkyries）》v1.0.0 中文版（卡牌肉鸽）
+
+夸克：https://pan.quark.cn/s/5b535a3dc9a7
+
+#### 《月光岭物语（Moonlight Peaks）》v2026.7.8 中文版
+
+夸克：https://pan.quark.cn/s/1860940ccd61
+
+#### 《火鹰FPV：无人机战争模拟器（Firehawk FPV Drone Warfare Simulator）》v2026.7.4 中文版
+
+夸克：https://pan.quark.cn/s/c7e0a232b1bd
 
 #### 《古城（Ancient Cities）》v1.9.3 中文版（生存城市建设）
 
@@ -3372,10 +3392,6 @@ w
 夸克：https://pan.quark.cn/s/1b93e06b30f9
 
 迅雷：https://pan.xunlei.com/s/VOn1Ee7dTwgD42nobbkdz65HA1?pwd=cckz#
-
-#### 《刺客信条：幻景（Assassins Creed Mirage）》v1.11 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/2677d84177be
 
 #### 《模拟人生4（The Sims 4）豪华版》v1.121.372.1020 全DLC 中文 联机版
 
@@ -13014,13 +13030,6 @@ w
 夸克：https://pan.quark.cn/s/587a501e383e
 
 迅雷：https://pan.xunlei.com/s/VNvbMbABxGh6ttTHd1ekUnNYA1?pwd=a9w7#
-
-#### 《刺客信条 系列合集（Assassins）》15部 最新 全DLC 中文版
-（英灵殿+枭雄+叛变+黑旗+大革命+编年史三部曲+兄弟会+起源+奥德赛等等）
-
-夸克：https://pan.quark.cn/s/2d419e5f757a
-
-迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
 
 #### 《古墓丽影 系列合集（Tomb Raider）》11部 最新 全DLC 中文版（暗影 崛起 地下城）
 

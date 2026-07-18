@@ -2169,4 +2169,8 @@
 
 夸克：https://pan.quark.cn/s/be46394e73e3
 
-训练：https://pan.xunlei.com/s/VOu6PNnik69RGC1iHrYuOMoLA1?pwd=4k7z#
+迅雷：https://pan.xunlei.com/s/VOu6PNnik69RGC1iHrYuOMoLA1?pwd=4k7z#
+
+#### 《少年歌行 剧版》（2022）4K 40集全
+
+迅雷：https://pan.xunlei.com/s/VOxo1egFVdqYrAFhOLeqmbIxA1?pwd=mb4a#

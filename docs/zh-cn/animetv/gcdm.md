@@ -77,12 +77,6 @@
 
 ## 周四
 
-#### 《神印王座》（2024）4K 周四 更新中..
-
-夸克：https://pan.quark.cn/s/ef4af367ac22
-
-迅雷：https://pan.xunlei.com/s/VNlbicNs9EhvsHCYfFNUcxonA1?pwd=kpcj#
-
 #### 《师兄啊师兄》（2023-2024）4K 第三季 周四 更新中..（附1-2季）
 
 夸克：https://pan.quark.cn/s/19af21c98b9f
@@ -110,6 +104,12 @@
 #### 《将夜》（2026）4K 周四 更新中..
 
 夸克：https://pan.quark.cn/s/6ed80329bbcb
+
+#### 《逆天邪神》（2023-2026）4K 第二季 周四更新中..（附第一季）
+
+夸克：https://pan.quark.cn/s/8746b1ef0486
+
+迅雷：https://pan.xunlei.com/s/VNll67MdIJQYhvCX-ZRlVyRhA1?pwd=2783#
 
 ---
 
@@ -143,13 +143,13 @@
 
 ## 周六
 
-#### 《一人之下》（2026）4K 第6集 更新中..（附1-5季+番外篇+剧场版）
+#### 《择日飞升》（2026）4K 周六 更新中...
 
-夸克：https://pan.quark.cn/s/321111476e20
+夸克：https://pan.quark.cn/s/720267ef91e8
 
-迅雷：https://pan.xunlei.com/s/VNnmIOtkVPA98SCZPniW_bjBA1?pwd=ia8u#
+迅雷：https://pan.xunlei.com/s/VOxnrKV20BfDiG0daHVpQZpPA1?pwd=2u3h#
 
-#### 《凡人修仙传》（2024）4K高码 新年番 周六更新中..（附有声书+电子书）
+#### 《凡人修仙传》（2024-2026）4K高码 新年番 周六更新中..（附有声书+电子书）
 
 夸克：https://pan.quark.cn/s/ad348de8e3b7
 
@@ -167,12 +167,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOsIIrKKJj-8EUh4KI3Ih8HWA1?pwd=cs4v#
 
-#### 《永生》（2022-2026）4K 第6季 更新中..（附1-5季）
-
-夸克：https://pan.quark.cn/s/5001f1390a28
-
-迅雷：https://pan.xunlei.com/s/VOsIJzizx7f-TtMJQn6YUaQ9A1?pwd=gwd3#
-
 ---
 
 ## 周日
@@ -187,19 +181,45 @@
 
 夸克：https://pan.quark.cn/s/817fe07b45ff
 
+迅雷：https://pan.xunlei.com/s/VOxoZ95ZUt8S1GWo1EOTep-rA1?pwd=iw2y#
+
 #### 《光阴之外》（2026）4K 周日 更新中..
 
 夸克：https://pan.quark.cn/s/04be3106ee7b
 
-#### 《成何体统》（2024-2026）4K 24更新中..（附第一季）
+---
+
+## 暂时完结
+
+#### 《一人之下》（2026）4K 1-6季+番外篇+剧场版
+
+夸克：https://pan.quark.cn/s/321111476e20
+
+迅雷：https://pan.xunlei.com/s/VNnmIOtkVPA98SCZPniW_bjBA1?pwd=ia8u#
+
+#### 《成何体统》（2024-2026）4K 1-2季全
 
 夸克：https://pan.quark.cn/s/659a9c61e3ae
 
 迅雷：https://pan.xunlei.com/s/VO7cP8eIK-fj0_1nfeYEs5VFA1?pwd=w8fz#
 
----
+#### 《永生》（2022-2026）4K 1-6季全
 
-## 暂时完结
+夸克：https://pan.quark.cn/s/5001f1390a28
+
+迅雷：https://pan.xunlei.com/s/VOsIJzizx7f-TtMJQn6YUaQ9A1?pwd=gwd3#
+
+#### 《神印王座》（2024）4K 208集全
+
+夸克：https://pan.quark.cn/s/ef4af367ac22
+
+迅雷：https://pan.xunlei.com/s/VNlbicNs9EhvsHCYfFNUcxonA1?pwd=kpcj#
+
+#### 《枕刀歌》（2023）4K 1-3季+剧场版+特别篇
+
+夸克：https://pan.quark.cn/s/24607475fd86
+
+迅雷：https://pan.xunlei.com/s/VNn7jAZuaNfg7FTjT3QWkE5IA1?pwd=syz7#
 
 #### 《百炼成神》（2022-2026）4K 1-3季全
 
@@ -341,6 +361,8 @@
 
 夸克：https://pan.quark.cn/s/b5e12d11a99e
 
+迅雷：https://pan.xunlei.com/s/VNm4hStYGPNbscE4xQSY0JgFA1?pwd=avfn#
+
 #### 《如果历史是一群喵》（2018+2024）4K 1-11季全
 
 夸克：https://pan.quark.cn/s/3d4ad0860f51
@@ -378,6 +400,8 @@
 #### 《少年白马醉春风》（2022-2024）1-2季全（少年歌行系列）
 
 夸克：https://pan.quark.cn/s/2df26953a440
+
+迅雷：https://pan.xunlei.com/s/VNm4hStYGPNbscE4xQSY0JgFA1?pwd=avfn#
 
 #### 《大道朝天》（2024）4K 16集全
 
@@ -433,7 +457,7 @@
 
 夸克：https://pan.quark.cn/s/f74655529d58
 
-迅雷：https://pan.xunlei.com/s/VNnm7qFJINhdSmIIz38_PsC5A1?pwd=j7kc#
+迅雷：https://pan.xunlei.com/s/VNm4hStYGPNbscE4xQSY0JgFA1?pwd=avfn#
 
 #### 《百妖谱》（2020-2024）4K 1-4季全
 
@@ -447,7 +471,11 @@
 
 迅雷：https://pan.xunlei.com/s/VNyJvZ6oPqnb2KGS1cQtlWM5A1?pwd=hbv2#
 
-#### 《少年歌行 海外仙山篇》1-3季全 4K（少年歌行系列）
+#### 《君有云》（2023-205）4K 1-2季全
+
+夸克：https://pan.quark.cn/s/b68d4ec8ee78
+
+#### 《少年歌行 海外仙山篇》4K 26集全（少年歌行系列）
 
 夸克：https://pan.quark.cn/s/e330e383c5dc
 
@@ -485,12 +513,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNmUPuugwF8O7viI4Qg890JJA1?pwd=znk3#
 
-#### 《枕刀歌》（2023）4K 1-2季全+电影+特别篇
-
-夸克：https://pan.quark.cn/s/24607475fd86
-
-迅雷：https://pan.xunlei.com/s/VNn7jAZuaNfg7FTjT3QWkE5IA1?pwd=syz7#
-
 #### 《太一剑仙传》（2023）4K 20集全
 
 夸克：https://pan.quark.cn/s/9c78f063e2ee
@@ -509,7 +531,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNnhZ7WJxppy6kWOL6vsVlfLA1?pwd=hqsw#
 
-#### 《天官赐福》（2023）4K 1-2季全（第一季 国日配音）
+#### 《天官赐福》（2020-2023）4K 1-2季全（第一季 国日配音）
 
 夸克：https://pan.quark.cn/s/d27f1c57e4ee
 
@@ -517,7 +539,7 @@
 
 阿里：<https://www.aliyundrive.com/s/MgMhqUjG64b>
 
-#### 《有药》（2023）1-2季全 4K
+#### 《有药》（2020-2023）4K 1-2季全 36集全
 
 夸克：https://pan.quark.cn/s/1cd46c3df381
 
@@ -540,12 +562,6 @@
 夸克：https://pan.quark.cn/s/6ba7ebe9e50d
 
 迅雷：https://pan.xunlei.com/s/VNmo3p2kWBdJ1xlvGfYykSdEA1?pwd=prpx#
-
-#### 《逆天邪神》（2023）4K 30集全（附小说）
-
-夸克：https://pan.quark.cn/s/9bb0ea5792ac
-
-迅雷：https://pan.xunlei.com/s/VNll67MdIJQYhvCX-ZRlVyRhA1?pwd=2783#
 
 #### 《七侯笔录》（2023）4K 12集全
 
