@@ -92,6 +92,10 @@
 
 迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
 
+#### 《Moss：遗落圣物（Moss The Forgotten Relic）》v2026.7.20 中文版（Moss苔藓重制版2合1）
+
+夸克：https://pan.quark.cn/s/6d84659aa45a
+
 #### 《死去活来（Live Hard Die Hard）》v1.0.8 中文版（即时策略）
 
 夸克：https://pan.quark.cn/s/5291f88f150a
