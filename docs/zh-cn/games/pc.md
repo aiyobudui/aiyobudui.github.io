@@ -120,42 +120,6 @@
 
 夸克：https://pan.quark.cn/s/69289f87b591
 
-#### 《伯吉的温馨厨房（Burgie's Cozy Kitchen）》v1.11 中文版
-
-夸克：https://pan.quark.cn/s/3cded14ea443
-
-#### 《Moss：遗落圣物（Moss The Forgotten Relic）》v2026.7.20 中文版（Moss苔藓重制版2合1）
-
-夸克：https://pan.quark.cn/s/6d84659aa45a
-
-#### 《死去活来（Live Hard Die Hard）》v1.0.8 中文版（即时策略）
-
-夸克：https://pan.quark.cn/s/5291f88f150a
-
-#### 《列乌尼斯的挽歌（Requiem of Reuinis）》v1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/e37b854ed08c
-
-#### 《凉茶王（Herb Tea Man）》v2026.7.20 中文版
-
-夸克：https://pan.quark.cn/s/3c8ba533c301
-
-#### 《魔釜小女巫（Cauldron）》v1.1.05 中文版
-
-夸克：https://pan.quark.cn/s/385f5e172652
-
-#### 《春秋异闻录（The Hidden Scrolls）》v1.001.5 中文版
-
-夸克：https://pan.quark.cn/s/b32a6e1f8dc5
-
-#### 《桌面探索者（Desktop Explorer）》v1.0.22 中文版
-
-夸克：https://pan.quark.cn/s/a80b841ef03d
-
-#### 《千里山河录（Qianli The Vastscape Scroll）》v2026.7.20 中文版（板块拼筑建造游戏）
-
-夸克：https://pan.quark.cn/s/4e7da76dcc74
-
 #### 《女王的游戏：盛世天下 媚娘篇（Road to Empress）》Build.22921822 全DLC 中文版（真人互动影游）
 
 夸克：https://pan.quark.cn/s/cdd597341b60
@@ -423,6 +387,42 @@
 ---
 
 ## 已有游戏
+
+#### 《伯吉的温馨厨房（Burgie's Cozy Kitchen）》v1.11 中文版
+
+夸克：https://pan.quark.cn/s/3cded14ea443
+
+#### 《Moss：遗落圣物（Moss The Forgotten Relic）》v2026.7.20 中文版（Moss苔藓重制版2合1）
+
+夸克：https://pan.quark.cn/s/6d84659aa45a
+
+#### 《死去活来（Live Hard Die Hard）》v1.0.8 中文版（即时策略）
+
+夸克：https://pan.quark.cn/s/5291f88f150a
+
+#### 《列乌尼斯的挽歌（Requiem of Reuinis）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/e37b854ed08c
+
+#### 《凉茶王（Herb Tea Man）》v2026.7.20 中文版
+
+夸克：https://pan.quark.cn/s/3c8ba533c301
+
+#### 《魔釜小女巫（Cauldron）》v1.1.05 中文版
+
+夸克：https://pan.quark.cn/s/385f5e172652
+
+#### 《春秋异闻录（The Hidden Scrolls）》v1.001.5 中文版
+
+夸克：https://pan.quark.cn/s/b32a6e1f8dc5
+
+#### 《桌面探索者（Desktop Explorer）》v1.0.22 中文版
+
+夸克：https://pan.quark.cn/s/a80b841ef03d
+
+#### 《千里山河录（Qianli The Vastscape Scroll）》v2026.7.20 中文版（板块拼筑建造游戏）
+
+夸克：https://pan.quark.cn/s/4e7da76dcc74
 
 #### 《杀戮尖塔2（Slay the Spire 2）》v0.108.0b 中文 联机版（附第1部+安卓版）
 
