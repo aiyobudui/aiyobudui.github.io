@@ -25,6 +25,10 @@
 ## 已有游戏
 !> 靠前的是新添加和刚更新的，如果链接里面没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《EA SPORTS FC 26》v1.6.2 全DLC 中文配音版（FC26）
+
+夸克：https://pan.quark.cn/s/cabbe07c9f72
+
 #### 《女神异闻录3 Reload（Persona 3 Reload）豪华版》Build.22672075 全DLC 中文版（女神异闻录3重制版 P3R）
 
 夸克：https://pan.quark.cn/s/e07e7b793ab8
