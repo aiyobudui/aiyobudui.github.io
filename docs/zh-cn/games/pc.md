@@ -92,6 +92,30 @@
 
 迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
 
+#### 《失落权柄（Dominion Of The Forgotten）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/e0906b4d774b
+
+#### 《红鹿旅馆（Scarlet Deer Inn）》v1.003 中文版
+
+夸克：https://pan.quark.cn/s/62589f3f4b97
+
+#### 《LIFTED》v1.0.8438 中文版（探索 解密 逃脱）
+
+夸克：https://pan.quark.cn/s/22197b97deba
+
+#### 《噩梦边境（Nightmare Frontier）》v1.0.0.1607 中文版
+
+夸克：https://pan.quark.cn/s/128c32c1ccbd
+
+#### 《瞎闹猎车手（Tiny Terry's Turbo Trip）》v1.789.2312 中文版
+
+夸克：https://pan.quark.cn/s/c9546131dcce
+
+#### 《巨像 蚀世之灾（Colossus Eternal Blight）》v2026.7.22 中文版
+
+夸克：https://pan.quark.cn/s/7619d590bbd8
+
 #### 《京都幻都 樱花幻舞（KYOTO XANADU the Blooming Phantom）》v1.03.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/cea6c295345e
@@ -128,7 +152,7 @@
 
 ## 最近更新
 
-#### 《极限竞速：地平线6（Forza Horizon 6）尊享版》vv403.798 全DLC 中文 联机版（更新）
+#### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v403.798 全DLC 中文 联机版（更新）
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
@@ -140,6 +164,14 @@
 夸克：https://pan.quark.cn/s/51d73c209195
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
+
+#### 《Slackers Carts of Glory》v0.9992 中文 联机版（懒虫荣耀手推车）
+
+夸克：https://pan.quark.cn/s/fc7fa32c8d49
+
+#### 《瘟疫公司：物竞天择（Plague Inc Evolved）完全版》v1.23.0.12 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/669f4b7d4a07
 
 #### 《落日山丘（Sunset Hills）》v202607_1.2.54 中文版 （绘本风解密游戏）
 
@@ -7576,10 +7608,6 @@ w
 
 夸克：https://pan.quark.cn/s/9198754eb3af
 
-#### 《Slackers Carts of Glory》v0.999 中文 联机版（懒虫荣耀手推车）
-
-夸克：https://pan.quark.cn/s/fc7fa32c8d49
-
 #### 《光环：无限（Halo Infinite）》v6.10020.17952.0 全DLC HD中文 局域网联机版
 
 夸克：https://pan.quark.cn/s/6e405e22ea39
@@ -8059,10 +8087,6 @@ w
 #### 《洞石火（Ignited in Cavern）》v2025.3.2 中文版
 
 夸克：https://pan.quark.cn/s/802c2f1b0616
-
-#### 《瘟疫公司（Plague Inc Evolved）》v1.20.1.1a 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/bf616eb4e66d
 
 #### 《失落的记录：绽放与愤怒（Lost Records Bloom and Rage）》v2.03.131125 全DLC 中文版
 

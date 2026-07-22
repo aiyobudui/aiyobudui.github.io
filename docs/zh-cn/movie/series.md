@@ -87,6 +87,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOuNBUhmmTITvdV6TEtQ1U4JA1?pwd=svri#
 
+#### 《潜伏 系列合集》1080P 1-5部合集 中文字幕（恐怖电影）。
+
+夸克：https://pan.quark.cn/s/24dde937abd0
+
 #### 《咒怨 系列合集》12部 1080P 中字 日版+美版
 
 夸克：https://pan.quark.cn/s/2f1050616209
