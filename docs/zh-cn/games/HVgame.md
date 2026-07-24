@@ -65,10 +65,6 @@
 
 夸克：https://pan.quark.cn/s/40f4612fc7d7
 
-#### 《007初露锋芒（007 First Light）》Build.23388781 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5d2d74be4eca
-
 #### 《无主之地4（Borderlands 4）超级豪华版》v1.5.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/ed1b0b512903

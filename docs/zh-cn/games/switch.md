@@ -52,7 +52,7 @@
 
 夸克：https://pan.quark.cn/s/a973349f072f
 
-#### 《刀剑神域 碎梦边境》v1.7.0.0 NS整合 全DLC 港区中文版
+#### 《刀剑神域 碎梦边境》v1.7.1.0 NS整合 全DLC 港区中文版
 
 夸克：https://pan.quark.cn/s/6c757cc755d2
 
@@ -290,7 +290,7 @@
 
 夸克：https://pan.quark.cn/s/04f93cc69e2d
 
-#### 《潜水员戴夫 DAVE THE DIVER》v1.0.6.1206 NS整合 全DLC 中文版
+#### 《潜水员戴夫 DAVE THE DIVER》v1.0.6.1224 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/287adeaffadc
 
@@ -346,7 +346,7 @@
 
 夸克：https://pan.quark.cn/s/40fd8a33f6f1
 
-#### 《浅红2 Easy Red 2》v1.27 NS整合 全DLC 美区中文版
+#### 《浅红2 Easy Red 2》v1.28 NS整合 全DLC 美区中文版
 
 夸克：https://pan.quark.cn/s/d364c33a52f4
 
@@ -438,7 +438,7 @@
 
 夸克：https://pan.quark.cn/s/31c75e066797
 
-#### 《小小梦魇3 Little Nightmares III》v1.1.0 NS整合 全DLC 中文版
+#### 《小小梦魇3 Little Nightmares III》v1.1.1 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/614a0eba58bc
 

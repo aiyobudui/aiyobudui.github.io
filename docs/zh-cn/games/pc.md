@@ -54,10 +54,6 @@
 
 夸克：https://pan.quark.cn/s/64f0b5deb517
 
-#### 《007初露锋芒（007 First Light）》v1.0.0 全DLC 中文版（非虚拟化）
-
-夸克：https://pan.quark.cn/s/76e705934c3b
-
 #### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/020b7323c7a6
@@ -71,6 +67,10 @@
 夸克：https://pan.quark.cn/s/245d4d2967f0
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
+
+#### 《光环 战役进化（Halo Campaign Evolved）高级版》v1097863 中文版
+
+夸克：https://pan.quark.cn/s/f2203ca7528b
 
 #### 《刺客信条 影（Assassins Creed Shadows）高级版》v1.1.11 全DLC 中文版（非虚拟化）
 #### 《刺客信条 幻景（Assassins Creed Mirage）豪华版》v1.11 全DLC 中文版
@@ -91,6 +91,30 @@
 夸克：https://pan.quark.cn/s/2d419e5f757a
 
 迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/12750d6526a1
+
+#### 《地府有点忙（Reap and Rush）》v1.0072205 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8d894fba3cb0
+
+#### 《午夜轮班（Shift At Midnight）》v1.0.1.0723.2253 中文 联机版（侦探恐怖游戏）
+
+夸克：https://pan.quark.cn/s/5ad72f3f2174
+
+#### 《风暴怕死队（Pass The Fear）》v1.0.431 中文 联机版
+
+夸克：https://pan.quark.cn/s/c69ff092a782
+
+#### 《怪奇漫游指南（Wonderia）》v0.5.8.2102 中文 联机版
+
+夸克：https://pan.quark.cn/s/3cc8a7f7e8e4
+
+#### 《梅莫莉 治愈物语（Memory of Memorie A Chill Story）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/54930ab7bfc3
 
 #### 《失落权柄（Dominion Of The Forgotten）》v1.0.0 中文版
 
@@ -155,6 +179,10 @@
 ---
 
 ## 最近更新
+
+#### 《007初露锋芒（007 First Light）》v1.1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/76e705934c3b
 
 #### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v403.798 全DLC 中文 联机版（更新）
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
