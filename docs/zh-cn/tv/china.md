@@ -999,6 +999,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNrprwfPoV9_MErYnNZyfsNPA1?pwd=u8m3#
 
+#### 《三叉戟》（2020-2025）4K 1-2季全
+
+夸克：https://pan.quark.cn/s/7a6ecd63a319
+
+迅雷：https://pan.xunlei.com/s/VOyIa7lLpS5h2-lHYs_NMVK3A1?pwd=snm3#
+
 #### 《大理寺少卿游》（2024）4K 36集全
 
 夸克：https://pan.quark.cn/s/65b354a7a18e
