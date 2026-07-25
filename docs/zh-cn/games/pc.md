@@ -76,6 +76,10 @@
 
 夸克：https://pan.quark.cn/s/12750d6526a1
 
+#### 《我和她的世界末日（Our End of the World）》v2468235 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/5ffa493a84b3
+
 #### 《Helix Descent N Ascent》v2026.7.25 中文版（黑白漫画风解谜冒险游戏）
 
 夸克：https://pan.quark.cn/s/b46d9f894037
