@@ -81,10 +81,6 @@
 
 夸克：https://pan.quark.cn/s/fe31badceec2
 
-#### 《第一狂战士：卡赞（The First Berserker Khazan）豪华版》Build.22579715 中文版
-
-夸克：https://pan.quark.cn/s/bba1c6a244ac
-
 #### 《乐高蝙蝠侠：黑暗骑士之遗（LEGO Batman Legacy of the Dark Knight）豪华版》Build.23222834 中文版
 
 夸克：https://pan.quark.cn/s/af824a41d719

@@ -50,9 +50,9 @@
 ## 最新添加
 !> 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
-#### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.23514637 全DLC 中文版（非虚拟化）
+#### 《第一狂战士 卡赞（The First Berserker Khazan）豪华版》v565386 全DLC 中文版（非虚拟化）
 
-夸克：https://pan.quark.cn/s/64f0b5deb517
+夸克：https://pan.quark.cn/s/bba1c6a244ac
 
 #### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版（非虚拟化）
 
@@ -72,29 +72,33 @@
 
 夸克：https://pan.quark.cn/s/f2203ca7528b
 
-#### 《刺客信条 影（Assassins Creed Shadows）高级版》v1.1.11 全DLC 中文版（非虚拟化）
-#### 《刺客信条 幻景（Assassins Creed Mirage）豪华版》v1.11 全DLC 中文版
-#### 《刺客信条 叛变（Assassins Creed Rogue）》v1.1.0 全DLC 中文版
-#### 《刺客信条 起源（Assassins Creed Origins）》v1.62 全DLC 中文版
-#### 《刺客信条 兄弟会（Assassins Creed Brotherhood）豪华版》v1.03 中文版
-#### 《刺客信条 英灵殿（Assassins Creed Valhalla）完整版》v1.7.0 全DLC 中文版
-#### 《刺客信条 奥德赛（Assassins Creed Odyssey）最终版》v1.5.3 全DLC 中文版
-#### 《刺客信条 枭雄（Assassin s Creed Syndicate）》v1.51up8 全DLC 中文版
-#### 《刺客信条 编年史 三部曲（Assassins Creed - Chronicles）》v1.01 中文版
-#### 《刺客信条4 黑旗（Assassins Creed IV Black Flag）》v1.08 中文寒鸦版
-#### 《刺客信条3 重制版 和 刺客信条 解放 重制版 二合一》v1.0.3 全DLC 中文版
-#### 《刺客信条2（Assassins Creed II）豪华版》 v1.01 全DLC 汉化版
-#### 《刺客信条1 导演剪辑版》v1.02 v2 汉化版
-#### 《刺客信条大革命》
-#### 《刺客信条启示录》
-
-夸克：https://pan.quark.cn/s/2d419e5f757a
-
-迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
-
 #### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/12750d6526a1
+
+#### 《Helix Descent N Ascent》v2026.7.25 中文版（黑白漫画风解谜冒险游戏）
+
+夸克：https://pan.quark.cn/s/b46d9f894037
+
+#### 《饿死鬼的晚餐（Doomsday Diner）》v2026.7.25 中文版
+
+夸克：https://pan.quark.cn/s/88ad8af202b7
+
+#### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v1.034 中文版
+
+夸克：https://pan.quark.cn/s/30510db4b1e9
+
+#### 《一起来开大商场（Mall Together）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/30fa968c90af
+
+#### 《云霄一刻（High Times）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/127534d97c3f
+
+#### 《消逝殆烬（sinheritance）》v2026.7.25 中文版
+
+夸克：https://pan.quark.cn/s/c7d26730ef5d
 
 #### 《地府有点忙（Reap and Rush）》v1.0072205 全DLC 中文版
 
@@ -172,10 +176,6 @@
 
 夸克：https://pan.quark.cn/s/69289f87b591
 
-#### 《女王的游戏：盛世天下 媚娘篇（Road to Empress）》Build.22921822 全DLC 中文版（真人互动影游）
-
-夸克：https://pan.quark.cn/s/cdd597341b60
-
 ---
 
 ## 最近更新
@@ -196,6 +196,10 @@
 夸克：https://pan.quark.cn/s/51d73c209195
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
+
+#### 《夜族崛起（V Rising）》v1.1.13.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/5a67bba62d22
 
 #### 《Slackers Carts of Glory》v0.9992 中文 联机版（懒虫荣耀手推车）
 
@@ -289,6 +293,10 @@
 ---
 
 ## 顶置游戏
+
+#### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.23514637 全DLC 中文版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/64f0b5deb517
 
 #### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.28.1 全DLC 中文配音 联机版
 #### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版
@@ -451,6 +459,26 @@
 ---
 
 ## 已有游戏
+
+#### 《刺客信条 影（Assassins Creed Shadows）高级版》v1.1.11 全DLC 中文版（非虚拟化）
+#### 《刺客信条 幻景（Assassins Creed Mirage）豪华版》v1.11 全DLC 中文版
+#### 《刺客信条 叛变（Assassins Creed Rogue）》v1.1.0 全DLC 中文版
+#### 《刺客信条 起源（Assassins Creed Origins）》v1.62 全DLC 中文版
+#### 《刺客信条 兄弟会（Assassins Creed Brotherhood）豪华版》v1.03 中文版
+#### 《刺客信条 英灵殿（Assassins Creed Valhalla）完整版》v1.7.0 全DLC 中文版
+#### 《刺客信条 奥德赛（Assassins Creed Odyssey）最终版》v1.5.3 全DLC 中文版
+#### 《刺客信条 枭雄（Assassin s Creed Syndicate）》v1.51up8 全DLC 中文版
+#### 《刺客信条 编年史 三部曲（Assassins Creed - Chronicles）》v1.01 中文版
+#### 《刺客信条4 黑旗（Assassins Creed IV Black Flag）》v1.08 中文寒鸦版
+#### 《刺客信条3 重制版 和 刺客信条 解放 重制版 二合一》v1.0.3 全DLC 中文版
+#### 《刺客信条2（Assassins Creed II）豪华版》 v1.01 全DLC 汉化版
+#### 《刺客信条1 导演剪辑版》v1.02 v2 汉化版
+#### 《刺客信条大革命》
+#### 《刺客信条启示录》
+
+夸克：https://pan.quark.cn/s/2d419e5f757a
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
 
 #### 《伯吉的温馨厨房（Burgie's Cozy Kitchen）》v1.11 中文版
 
@@ -5364,10 +5392,6 @@ w
 #### 《无双大蛇2 + 无双大蛇3》最新 全DLC 简中 终极版
 
 夸克：https://pan.quark.cn/s/006cca925f8e
-
-#### 《夜族崛起（V Rising）》v1.1.10.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/5a67bba62d22
 
 #### 《猫娘小厨（Cuisineer）》v1.2.14794 中文版
 
@@ -12886,6 +12910,10 @@ w
 ---
 ## 互动影游
 > 靠前的是新添加的
+
+#### 《女王的游戏：盛世天下 媚娘篇（Road to Empress）》Build.22921822 全DLC 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/cdd597341b60
 
 #### 《怦然心动的她们 / 怦然心动的瞬间（Charming Hearts）》v0.2.1 全DLC 中文版（真人互动影游）附安卓版
 
