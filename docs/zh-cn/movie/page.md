@@ -1,4 +1,4 @@
-## **电影目录：**
+# **电影目录：**
 
 <div class="game-nav">
   <a href="#/zh-cn/movie/popular" class="game-nav-btn">热门电影</a>
@@ -19,7 +19,7 @@
 
 ----
 
-## 一些教程
+# 一些教程
 
 > [影迷的一些小知识：命名规则，切换音轨字幕等,第三方手机、电视播放器](https://kdocs.cn/l/cuGz94pStZT5)  
 
