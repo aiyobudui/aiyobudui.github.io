@@ -34,6 +34,12 @@
 
 ## 已完结的
 
+#### 《识骨寻踪》（2005-2017）蓝光1080P 1-12季全 中英字幕
+
+夸克：https://pan.quark.cn/s/048ca4b17c4d
+
+迅雷：https://pan.xunlei.com/s/VOyPFL0c3wECMmppKldE7rkmA1?pwd=86ew#
+
 #### 《政局边缘》（2015）1080P 内封中英字幕
 
 夸克：https://pan.quark.cn/s/083e73173b16

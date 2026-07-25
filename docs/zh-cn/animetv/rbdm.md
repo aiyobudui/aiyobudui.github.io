@@ -128,6 +128,18 @@
 
 ## 近期完结
 
+#### 《头文字D 动漫》（1998-2016）1080P 1-6季全+剧场版+番外篇+特别篇+电影+漫画
+
+夸克：https://pan.quark.cn/s/f3b5d90f443a
+
+迅雷：https://pan.xunlei.com/s/VOyP40L6SF6hoAcGdAt4rGeJA1?pwd=farw#
+
+#### 《极速车魂》（2023-2026）1080P 中字 1-3季全（头文字D 续作）
+
+夸克：https://pan.quark.cn/s/1eb8ac41500c
+
+迅雷：https://pan.xunlei.com/s/VOyP5bgUpS5h2-lHYs_QNZEaA1?pwd=f7by#
+
 #### 《胆大党》（2024-2026）1-2季全+漫画 1080P 中字
 
 夸克：https://pan.quark.cn/s/8a8d53dbb0e5

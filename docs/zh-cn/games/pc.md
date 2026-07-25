@@ -201,6 +201,16 @@
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
+#### 《恐怖黎明（Grim Dawn）终极版》v1.3 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/91d30f5fbea2
+
+迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
+
+#### 《创世理想乡（Craftopia）》v20260402.1159 中文 联机版
+
+夸克：https://pan.quark.cn/s/1b6d61b3aa2a
+
 #### 《夜族崛起（V Rising）》v1.1.13.0 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/5a67bba62d22
@@ -220,6 +230,17 @@
 #### 《毁了的护士（Ruined Nurse）》v1.5.8 中文版
 
 夸克：https://pan.quark.cn/s/5ca7b1940fc3
+
+#### 《欧陆风云5（Europa Universalis V）高级版》v1.3.11 全DLC 中文 联机版
+#### 《欧陆风云4（Europa Universalis IV）终极版》v1.37.5.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4cb951396b5f
+
+#### 《庄园领主（Manor Lords）》v0.8.090 中文版
+
+夸克：https://pan.quark.cn/s/5a5272a9a4ba
+
+迅雷：https://pan.xunlei.com/s/VNwQI4byH3lpIbSUeQ2ABQXCA1?pwd=zjjb#
 
 #### 《玩具熊的五夜后宫：模仿者的秘密（Five Nights at Freddy's Secret of the Mimic）》v1.0.2026 中文版
 #### 《玩具熊的五夜惊魂：陷落球池（Five Nights at Freddys：Into the Pit）》v1.0.11.6a 中文版
@@ -1951,10 +1972,6 @@ w
 #### 《突袭5（Sudden Strike 5）豪华版》v1.03.28630 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/075d317d2cc0
-
-#### 《欧陆风云5（Europa Universalis V）高级版》v1.2.4 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/4cb951396b5f
 
 #### 《Trench Tales》v2026.5.20 英文版（战壕传说）哥特风二战射击
 
@@ -4338,12 +4355,6 @@ w
 #### 《灰雨钢锋（Of Ash and Steel）》v1.05b 中文版
 
 夸克：https://pan.quark.cn/s/9c5a315866f7
-
-#### 《庄园领主（Manor Lords）》v0.8.050 中文版
-
-夸克：https://pan.quark.cn/s/5a5272a9a4ba
-
-迅雷：https://pan.xunlei.com/s/VNwQI4byH3lpIbSUeQ2ABQXCA1?pwd=zjjb#
 
 #### 《史前王国（Prehistoric Kingdom）》v1.16.36 全DLC 中文版（史前动物园建造）
 
@@ -6855,10 +6866,6 @@ w
 
 夸克：https://pan.quark.cn/s/c8b9ed6e6661
 
-#### 《欧陆风云4（Europa Universalis IV）终极版》v1.37.5.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/fcc894524f26
-
 #### 《欧米茄工匠（Omega Crafter）》v1.0.4 中文 联机版
 
 夸克：https://pan.quark.cn/s/b74519485231
@@ -7502,12 +7509,6 @@ w
 #### 《造作海岛（Tinkerlands）》v45822.45 中文 联机版
 
 夸克：https://pan.quark.cn/s/73e4fa411d14
-
-#### 《恐怖黎明（Grim Dawn）》v1.2.1.6 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/91d30f5fbea2
-
-迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
 
 #### 《推币勇者（Coin Push RPG）》v0.1.5.084 中文版
 
@@ -9871,10 +9872,6 @@ w
 #### 《火湖（SULFUR）》v0.9.15 中文版
 
 夸克：https://pan.quark.cn/s/7f9906ee9203
-
-#### 《创世理想乡（Craftopia）》v2024.12.20 中文 联机版
-
-夸克：https://pan.quark.cn/s/1b6d61b3aa2a
 
 #### 《怒之铁拳4（Streets of Rage 4）》v08-s r18163M 中文 联机版
 
