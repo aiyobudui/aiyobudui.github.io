@@ -76,6 +76,14 @@
 
 夸克：https://pan.quark.cn/s/12750d6526a1
 
+#### 《定居点崛起（Settlements Rising）》Build.20250919 中文版
+
+夸克：https://pan.quark.cn/s/2f9d01b0b03b
+
+#### 《恶仙（Aksun）》Build.24317000 中文版
+
+夸克：https://pan.quark.cn/s/1ea1f1252ec1
+
 #### 《我和她的世界末日（Our End of the World）》v2468235 中文版（视觉小说）
 
 夸克：https://pan.quark.cn/s/5ffa493a84b3
@@ -124,62 +132,6 @@
 
 夸克：https://pan.quark.cn/s/54930ab7bfc3
 
-#### 《失落权柄（Dominion Of The Forgotten）》v1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/e0906b4d774b
-
-#### 《红鹿旅馆（Scarlet Deer Inn）》v1.003 中文版
-
-夸克：https://pan.quark.cn/s/62589f3f4b97
-
-#### 《LIFTED》v1.0.8438 中文版（探索 解密 逃脱）
-
-夸克：https://pan.quark.cn/s/22197b97deba
-
-#### 《噩梦边境（Nightmare Frontier）》v1.0.0.1607 中文版
-
-夸克：https://pan.quark.cn/s/128c32c1ccbd
-
-#### 《瞎闹猎车手（Tiny Terry's Turbo Trip）》v1.789.2312 中文版
-
-夸克：https://pan.quark.cn/s/c9546131dcce
-
-#### 《巨像 蚀世之灾（Colossus Eternal Blight）》v2026.7.22 中文版
-
-夸克：https://pan.quark.cn/s/7619d590bbd8
-
-#### 《京都幻都 樱花幻舞（KYOTO XANADU the Blooming Phantom）》v1.03.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/cea6c295345e
-
-#### 《星际迷航 航海家号 - 穿越未知 豪华版》v1.8.25047 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/675a16348d8d
-
-#### 《零度空间（ZeroSpace）》v911.34420 中文版
-
-夸克：https://pan.quark.cn/s/4d731c12550b
-
-#### 《断曲余音（Fading Echo）豪华版》Build.24261641 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5e80fd2027b9
-
-#### 《利润海 增量（Profit Sea Incremental）》v1.11 中文版
-
-夸克：https://pan.quark.cn/s/d6abd972da80
-
-#### 《面面俱盗（Thick As Thieves）》v1.4.148226 中文版
-
-夸克：https://pan.quark.cn/s/d88aba11f71e
-
-#### 《VEIN》v0.023.3 中文 联机版
-
-夸克：https://pan.quark.cn/s/ef2bf0033175
-
-#### 《森灵旅社（Pawsome Resort）》Build.23905079 中文版
-
-夸克：https://pan.quark.cn/s/69289f87b591
-
 ---
 
 ## 最近更新
@@ -200,6 +152,18 @@
 夸克：https://pan.quark.cn/s/51d73c209195
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
+
+#### 《嗜血之王：崛起（Vampires Bloodlord Rising）终极版》v1.6.1.22071 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/a132d017748c
+
+#### 《埃伦加德 升天（Elengard Ascension）》v2.2.2 中文版
+
+夸克：https://pan.quark.cn/s/625470449700
+
+#### 《炼魂之地 神偶剧院（Crisol Theater of Idols）》v1.3 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/05aa97b328b7
 
 #### 《恐怖黎明（Grim Dawn）终极版》v1.3 全DLC 中文 联机版
 
@@ -230,90 +194,6 @@
 #### 《毁了的护士（Ruined Nurse）》v1.5.8 中文版
 
 夸克：https://pan.quark.cn/s/5ca7b1940fc3
-
-#### 《欧陆风云5（Europa Universalis V）高级版》v1.3.11 全DLC 中文 联机版
-#### 《欧陆风云4（Europa Universalis IV）终极版》v1.37.5.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/4cb951396b5f
-
-#### 《庄园领主（Manor Lords）》v0.8.090 中文版
-
-夸克：https://pan.quark.cn/s/5a5272a9a4ba
-
-迅雷：https://pan.xunlei.com/s/VNwQI4byH3lpIbSUeQ2ABQXCA1?pwd=zjjb#
-
-#### 《玩具熊的五夜后宫：模仿者的秘密（Five Nights at Freddy's Secret of the Mimic）》v1.0.2026 中文版
-#### 《玩具熊的五夜惊魂：陷落球池（Five Nights at Freddys：Into the Pit）》v1.0.11.6a 中文版
-#### 《玩具熊的五夜后宫 求救（Five Nights at Freddys：Help Wanted）》1-2部 最新 中文版
-#### 《玩具熊的五夜惊魂》1-4代 最新 英文版
-
-夸克：https://pan.quark.cn/s/610850ab3513
-
-#### 《空之轨迹 the 1st（Sora no Kiseki the 1st）重制版》v1.06.4 全DLC 中文版（空之轨迹FC）
-#### 《英雄传说 闪之轨迹1 改（–Thors Military Academy 1204–）》Build.16251270 全DLC 中文版
-#### 《英雄传说 闪之轨迹2 改（-The Erebonian Civil War-）》Build.16251088 全DLC 中文版
-#### 《英雄传说 闪之轨迹3 改（The Legend of Heroes Trails of Cold Steel III）豪华版》v1.0.6 全DLC 汉化版
-#### 《英雄传说 闪之轨迹4 改（The Legend of Heroes Trails of Cold Steel IV）豪华版》v1.2.1 全DLC 汉化版
-#### 《英雄传说 黎之轨迹（The Legend of Heroes Kuro no Kiseki）》v1.1.0 中文版
-#### 《英雄传说 黎之轨迹2 绯红原罪（Kuro no Kiseki Ⅱ CRIMSON SiN）豪华版》v1.14 全DLC 中文版
-#### 《英雄传说 界之轨迹 -告别塞姆利亚-（Kai no Kiseki Farewell O Zemuria）豪华版》v1.02 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/349ae69a1c46
-
-#### 《废品机械师（Scrap Mechanic）》v0.7.4b 中文 联机版
-
-夸克：https://pan.quark.cn/s/84bfd75a6297
-
-#### 《ZEPHON 完整版》v1.3.9 全DLC 中文版（泽丰 策略游戏）
-
-夸克：https://pan.quark.cn/s/3dff8c669d92
-
-#### 《朝露：境界旅程（Journey of Realm Dawn Dew）》v2026.6.24 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7e8349c0117e
-
-#### 《生存代码（Net Attack）》v1.784 中文版
-
-夸克：https://pan.quark.cn/s/8add1c4c0385
-
-迅雷：https://pan.xunlei.com/s/VOnglr4I5yoJreAETAJ2UUcbA1?pwd=wy63
-
-#### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.1892 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/51ec3310edca
-
-#### 《Go-Go Town!》v1.0.25831 中文版（城市建设和双人协作）
-
-夸克：https://pan.quark.cn/s/1409c59aa866
-
-#### 《海权（Sea Power Naval Combat in the Missile Age）》v0.8.1 中文版
-
-夸克：https://pan.quark.cn/s/af33faba8ec6
-
-#### 《云族裔（inZOI）》v0.9.5 全DLC 中文版（韩国模拟人生）
-
-夸克：https://pan.quark.cn/s/8458e4ca4a38
-
-#### 《终末机兵（NITRO GEN OMEGA）》v1.3.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4a99ffe1a8dc
-
-#### 《哥特王朝 重制版（Gothic 1 Remake）》v170857 中文版
-
-夸克：https://pan.quark.cn/s/6b03eda75ca7
-
-#### 《超英派遣中心（Dispatch）豪华版》v1.0.17912 全DLC 中文版（完整版）
-
-夸克：https://pan.quark.cn/s/afd55c48d634
-
-#### 《霓虹深渊2（Neon Abyss 2）首发珍藏版》build.24160314 中文版
-#### 《霓虹深渊（Neon Abyss）》v1.5.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1ab594a3977a
-
-#### 《双截龙再临（Double Dragon Revive）豪华版》v1.5.0.0 中文版
-
-夸克：https://pan.quark.cn/s/7fac7da65caa
 
 ---
 
@@ -484,6 +364,146 @@
 ---
 
 ## 已有游戏
+
+#### 《欧陆风云5（Europa Universalis V）高级版》v1.3.11 全DLC 中文 联机版
+#### 《欧陆风云4（Europa Universalis IV）终极版》v1.37.5.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4cb951396b5f
+
+#### 《庄园领主（Manor Lords）》v0.8.090 中文版
+
+夸克：https://pan.quark.cn/s/5a5272a9a4ba
+
+迅雷：https://pan.xunlei.com/s/VNwQI4byH3lpIbSUeQ2ABQXCA1?pwd=zjjb#
+
+#### 《玩具熊的五夜后宫：模仿者的秘密（Five Nights at Freddy's Secret of the Mimic）》v1.0.2026 中文版
+#### 《玩具熊的五夜惊魂：陷落球池（Five Nights at Freddys：Into the Pit）》v1.0.11.6a 中文版
+#### 《玩具熊的五夜后宫 求救（Five Nights at Freddys：Help Wanted）》1-2部 最新 中文版
+#### 《玩具熊的五夜惊魂》1-4代 最新 英文版
+
+夸克：https://pan.quark.cn/s/610850ab3513
+
+#### 《空之轨迹 the 1st（Sora no Kiseki the 1st）重制版》v1.06.4 全DLC 中文版（空之轨迹FC）
+#### 《英雄传说 闪之轨迹1 改（–Thors Military Academy 1204–）》Build.16251270 全DLC 中文版
+#### 《英雄传说 闪之轨迹2 改（-The Erebonian Civil War-）》Build.16251088 全DLC 中文版
+#### 《英雄传说 闪之轨迹3 改（The Legend of Heroes Trails of Cold Steel III）豪华版》v1.0.6 全DLC 汉化版
+#### 《英雄传说 闪之轨迹4 改（The Legend of Heroes Trails of Cold Steel IV）豪华版》v1.2.1 全DLC 汉化版
+#### 《英雄传说 黎之轨迹（The Legend of Heroes Kuro no Kiseki）》v1.1.0 中文版
+#### 《英雄传说 黎之轨迹2 绯红原罪（Kuro no Kiseki Ⅱ CRIMSON SiN）豪华版》v1.14 全DLC 中文版
+#### 《英雄传说 界之轨迹 -告别塞姆利亚-（Kai no Kiseki Farewell O Zemuria）豪华版》v1.02 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/349ae69a1c46
+
+#### 《废品机械师（Scrap Mechanic）》v0.7.4b 中文 联机版
+
+夸克：https://pan.quark.cn/s/84bfd75a6297
+
+#### 《ZEPHON 完整版》v1.3.9 全DLC 中文版（泽丰 策略游戏）
+
+夸克：https://pan.quark.cn/s/3dff8c669d92
+
+#### 《朝露：境界旅程（Journey of Realm Dawn Dew）》v2026.6.24 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7e8349c0117e
+
+#### 《生存代码（Net Attack）》v1.784 中文版
+
+夸克：https://pan.quark.cn/s/8add1c4c0385
+
+迅雷：https://pan.xunlei.com/s/VOnglr4I5yoJreAETAJ2UUcbA1?pwd=wy63
+
+#### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.1892 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/51ec3310edca
+
+#### 《Go-Go Town!》v1.0.25831 中文版（城市建设和双人协作）
+
+夸克：https://pan.quark.cn/s/1409c59aa866
+
+#### 《海权（Sea Power Naval Combat in the Missile Age）》v0.8.1 中文版
+
+夸克：https://pan.quark.cn/s/af33faba8ec6
+
+#### 《云族裔（inZOI）》v0.9.5 全DLC 中文版（韩国模拟人生）
+
+夸克：https://pan.quark.cn/s/8458e4ca4a38
+
+#### 《终末机兵（NITRO GEN OMEGA）》v1.3.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4a99ffe1a8dc
+
+#### 《哥特王朝 重制版（Gothic 1 Remake）》v170857 中文版
+
+夸克：https://pan.quark.cn/s/6b03eda75ca7
+
+#### 《超英派遣中心（Dispatch）豪华版》v1.0.17912 全DLC 中文版（完整版）
+
+夸克：https://pan.quark.cn/s/afd55c48d634
+
+#### 《霓虹深渊2（Neon Abyss 2）首发珍藏版》build.24160314 中文版
+#### 《霓虹深渊（Neon Abyss）》v1.5.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1ab594a3977a
+
+#### 《双截龙再临（Double Dragon Revive）豪华版》v1.5.0.0 中文版
+
+夸克：https://pan.quark.cn/s/7fac7da65caa
+
+#### 《失落权柄（Dominion Of The Forgotten）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/e0906b4d774b
+
+#### 《红鹿旅馆（Scarlet Deer Inn）》v1.003 中文版
+
+夸克：https://pan.quark.cn/s/62589f3f4b97
+
+#### 《LIFTED》v1.0.8438 中文版（探索 解密 逃脱）
+
+夸克：https://pan.quark.cn/s/22197b97deba
+
+#### 《噩梦边境（Nightmare Frontier）》v1.0.0.1607 中文版
+
+夸克：https://pan.quark.cn/s/128c32c1ccbd
+
+#### 《瞎闹猎车手（Tiny Terry's Turbo Trip）》v1.789.2312 中文版
+
+夸克：https://pan.quark.cn/s/c9546131dcce
+
+#### 《巨像 蚀世之灾（Colossus Eternal Blight）》v2026.7.22 中文版
+
+夸克：https://pan.quark.cn/s/7619d590bbd8
+
+#### 《京都幻都 樱花幻舞（KYOTO XANADU the Blooming Phantom）》v1.03.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/cea6c295345e
+
+#### 《星际迷航 航海家号 - 穿越未知 豪华版》v1.8.25047 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/675a16348d8d
+
+#### 《零度空间（ZeroSpace）》v911.34420 中文版
+
+夸克：https://pan.quark.cn/s/4d731c12550b
+
+#### 《断曲余音（Fading Echo）豪华版》Build.24261641 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5e80fd2027b9
+
+#### 《利润海 增量（Profit Sea Incremental）》v1.11 中文版
+
+夸克：https://pan.quark.cn/s/d6abd972da80
+
+#### 《面面俱盗（Thick As Thieves）》v1.4.148226 中文版
+
+夸克：https://pan.quark.cn/s/d88aba11f71e
+
+#### 《VEIN》v0.023.3 中文 联机版
+
+夸克：https://pan.quark.cn/s/ef2bf0033175
+
+#### 《森灵旅社（Pawsome Resort）》Build.23905079 中文版
+
+夸克：https://pan.quark.cn/s/69289f87b591
 
 #### 《刺客信条 影（Assassins Creed Shadows）高级版》v1.1.11 全DLC 中文版（非虚拟化）
 #### 《刺客信条 幻景（Assassins Creed Mirage）豪华版》v1.11 全DLC 中文版
@@ -1568,10 +1588,6 @@
 #### 《沃德灵：共生（Voidling Bound）》v76030 中文版
 
 夸克：https://pan.quark.cn/s/3c5de87259a6
-
-#### 《嗜血之王：崛起（Vampires Bloodlord Rising）》v1.5.1.21425 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/a132d017748c
 
 #### 《巫塔战记（Witchspire）》v0.1.0g 全DLC 中文 联机版
 
@@ -3851,10 +3867,6 @@ w
 
 夸克：https://pan.quark.cn/s/0abff95600e6
 
-#### 《炼魂之地：神偶剧院（Crisol Theater of Idols）》Build.21866503 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/05aa97b328b7
-
 #### 《Fingerdance》Build.20257504 中文版（一款让你手指打结的魔性小游戏）
 
 夸克：https://pan.quark.cn/s/344d1c35e7bf
@@ -4059,10 +4071,6 @@ w
 #### 《镜之边缘（Mirrors）Edge）》v1.0.1.0 中文版
 
 夸克：https://pan.quark.cn/s/de53cf630c37
-
-#### 《埃伦加德 升天（Elengard Ascension）》v1.17.7 中文版
-
-夸克：https://pan.quark.cn/s/625470449700
 
 #### 《小小的岛（Tiny Isle）》v2026.1.23 中文版
 
