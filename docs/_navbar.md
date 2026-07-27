@@ -1,7 +1,7 @@
 <!-- _navbar.md -->
 
 
-- [🏠  首 页](home)
+- [🏠  首 页](/home)
 - [🎮  游 戏](/zh-cn/games/page)
   - [💻  电脑游戏](/zh-cn/games/pc)
   - [🎯  虚拟化游戏](/zh-cn/games/HVgame)

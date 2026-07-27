@@ -76,7 +76,7 @@ small {
 - 无套路、海量资源免费分享
 - 有游戏、电影、电视剧、动漫、纪录片、综艺、音乐等等
 
-[进  入](home)
+[进  入](/home)
 [留言板](/zh-cn/bbs)
 [电脑游戏](/zh-cn/games/pc)
 [虚拟化游戏](/zh-cn/games/HVgame)
