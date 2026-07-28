@@ -80,6 +80,14 @@
 
 夸克：https://pan.quark.cn/s/758ce9c32790
 
+#### 《旧日铁锅炖主理人（Kinny and the Cosmic Cauldron）》Build.24432175 中文版
+
+夸克：https://pan.quark.cn/s/bba748cd8fa7
+
+#### 《金子一马的月读（KAZUMA KANEKOS TSUKUYOMI）豪华版》v2026.7.28 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/100b2d384eae
+
 #### 《Skills & Raids》v2026.7.28 中文版（技能与突袭）
 
 夸克：https://pan.quark.cn/s/576d5c069a0e
