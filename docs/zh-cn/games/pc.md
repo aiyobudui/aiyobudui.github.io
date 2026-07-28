@@ -80,6 +80,14 @@
 
 夸克：https://pan.quark.cn/s/758ce9c32790
 
+#### 《Skills & Raids》v2026.7.28 中文版（技能与突袭）
+
+夸克：https://pan.quark.cn/s/576d5c069a0e
+
+#### 《弥助模拟器（Yasuke Simulator）豪华版》Build.24421874 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d6cb756857fd
+
 #### 《定居点崛起（Settlements Rising）》Build.20250919 中文版
 
 夸克：https://pan.quark.cn/s/2f9d01b0b03b
@@ -166,6 +174,10 @@
 夸克：https://pan.quark.cn/s/91d30f5fbea2
 
 迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
+
+#### 《NODE：安塔瑞族的最终馈赠（NODE The Last Favor of the Antarii）》v1.1.314i 中文版
+
+夸克：https://pan.quark.cn/s/38d2ae88ce74
 
 #### 《地球不屈（Terra Invicta）》v1.0.49 全DLC 中文版（新增DLC）
 
@@ -6281,10 +6293,6 @@ w
 #### 《吸血鬼（Vampyr）》v1.1.7 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/fb9375d76737
-
-#### 《NODE：安塔瑞族的最终馈赠（NODE The Last Favor of the Antarii）》v1.0.6 中文版
-
-夸克：https://pan.quark.cn/s/38d2ae88ce74
 
 #### 《主权辛迪加：雾都疑案（Sovereign Syndicate）》v1.1.6 全DLC 中文版
 
