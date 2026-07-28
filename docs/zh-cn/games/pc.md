@@ -76,6 +76,10 @@
 
 夸克：https://pan.quark.cn/s/12750d6526a1
 
+#### 《UNBEATABLE》V2.2.0 全DLC 中文版（音律节奏卡点冒险游戏）
+
+夸克：https://pan.quark.cn/s/758ce9c32790
+
 #### 《定居点崛起（Settlements Rising）》Build.20250919 中文版
 
 夸克：https://pan.quark.cn/s/2f9d01b0b03b
@@ -132,6 +136,10 @@
 
 夸克：https://pan.quark.cn/s/54930ab7bfc3
 
+#### 《河畔之乡（Riverbond）》v0.88 中文 联机版
+
+夸克：https://pan.quark.cn/s/b2865842ecad
+
 ---
 
 ## 最近更新
@@ -153,6 +161,16 @@
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
+#### 《恐怖黎明（Grim Dawn）终极版》v1.3.0.3 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/91d30f5fbea2
+
+迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
+
+#### 《地球不屈（Terra Invicta）》v1.0.49 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/9ca7438200cb
+
 #### 《嗜血之王：崛起（Vampires Bloodlord Rising）终极版》v1.6.1.22071 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/a132d017748c
@@ -164,12 +182,6 @@
 #### 《炼魂之地 神偶剧院（Crisol Theater of Idols）》v1.3 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/05aa97b328b7
-
-#### 《恐怖黎明（Grim Dawn）终极版》v1.3 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/91d30f5fbea2
-
-迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
 
 #### 《创世理想乡（Craftopia）》v20260402.1159 中文 联机版
 
@@ -934,10 +946,6 @@
 #### 《抬头只见天花板（Looking Up I See Only A Ceiling）》v3.0.0.3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7b5b908bf9eb
-
-#### 《地球不屈（Terra Invicta）》v1.0.39 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/9ca7438200cb
 
 #### 《卡牌修仙传（Card Cultivation）》v2.2.0.26 中文版
 
