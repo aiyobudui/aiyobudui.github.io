@@ -68,13 +68,30 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
-#### 《光环 战役进化（Halo Campaign Evolved）高级版》v1097863 中文版
-
-夸克：https://pan.quark.cn/s/f2203ca7528b
-
 #### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/12750d6526a1
+
+#### 《追曙（ZHUISHU）》v2026.7.30 中文版（中式民俗空白游戏）
+
+夸克：https://pan.quark.cn/s/c633d6fa51ab
+
+#### 《蔚蓝反射 Quartet 少女们的奇迹（BLUE REFLECTION Quartet）》v2026.7.30 中文版（4合1）
+#### 《蔚蓝反射：帝（BLUE REFLECTION Second Light）》v1.02 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c36b760071fb
+
+#### 《EX棱光骑士 重制版（EXSTETRA）》v2026.7.30 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d0a8cfb33a90
+
+#### 《Fixer Undercover》v20260717.1348-0235 中文版（卧底维修工）
+
+夸克：https://pan.quark.cn/s/f30b3a4afcb5
+
+#### 《百变提托（Teeto）》v2026.7.14a 中文版
+
+夸克：https://pan.quark.cn/s/ad030323d32f
 
 #### 《UNBEATABLE》V2.2.0 全DLC 中文版（音律节奏卡点冒险游戏）
 
@@ -160,6 +177,10 @@
 
 ## 最近更新
 
+#### 《光环 战役进化（Halo Campaign Evolved）高级版》v1112544 中文 联机版
+
+夸克：https://pan.quark.cn/s/f2203ca7528b
+
 #### 《007初露锋芒（007 First Light）》v1.1.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/76e705934c3b
@@ -176,6 +197,14 @@
 夸克：https://pan.quark.cn/s/51d73c209195
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
+
+#### 《七龙珠 电光炸裂 ZERO（Dragon Ball Sparking Zero）传奇版》v3020.019.003.012.013 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/cfa6067a133d
+
+#### 《莱萨里亚：英雄之歌（Lessaria Fantasy Kingdom Sim）豪华版》v1.0.1464 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/97099532882b
 
 #### 《恐怖黎明（Grim Dawn）终极版》v1.3.0.3 全DLC 中文 联机版
 
@@ -2619,10 +2648,6 @@ w
 #### 《不思议的皇冠（Crown Trick）》v1.2.1.15 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/4525e3048705
-
-#### 《七龙珠 电光炸裂 ZERO（Dragon Ball Sparking Zero）终结版》v2019.018.003.011.012 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/cfa6067a133d
 
 #### 《护核纪元（core keeper）》v1.2.0.7 中文 联机版（地心护核者）
 
@@ -5259,10 +5284,6 @@ w
 #### 《恐惧杀手（Painkiller）豪华版》v224001 中文版
 
 夸克：https://pan.quark.cn/s/127105aa9d46
-
-#### 《莱萨里亚：英雄之歌（Lessaria Fantasy Kingdom Sim）豪华版》v1.0.1034 中文版
-
-夸克：https://pan.quark.cn/s/97099532882b
 
 #### 《神弃之地（GOD FORSAKEN）》v0.2.2 中文版
 
@@ -9665,7 +9686,7 @@ w
 
 夸克：https://pan.quark.cn/s/f61a911c81cd
 
-#### 《渔帆暗涌（DREDGE）完整版》v1.5.3 全DLC 中文版
+#### 《渔帆暗涌（DREDGE）豪华版》v1.5.3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/1a6929cae1a2
 
@@ -10420,10 +10441,6 @@ w
 #### 《面包房模拟器（Bakery Simulator）》v1.3.4 中文版
 
 夸克：https://pan.quark.cn/s/d31e4f2c620d
-
-#### 《蔚蓝反射：帝（BLUE REFLECTION Second Light）》v1.02 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c36b760071fb
 
 #### 《塔工厂（Tower Factory）》v0.1.3 中文版
 
