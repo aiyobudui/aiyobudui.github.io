@@ -183,6 +183,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
 
+#### 《世界树的迷宫（Etrian Odyssey HD）》Build.17748882 中文版
+#### 《世界树的迷宫2 诸王的圣杯（Etrian Odyssey II HD）》Build.20414225 中文版
+#### 《世界树的迷宫3 星海的访客（Etrian Odyssey III HD）》Build.17749085 中文版
+
+夸克：https://pan.quark.cn/s/0e3bcab45fbf
+
 #### 《NODE：安塔瑞族的最终馈赠（NODE The Last Favor of the Antarii）》v1.1.314i 中文版
 
 夸克：https://pan.quark.cn/s/38d2ae88ce74
@@ -12859,10 +12865,6 @@ w
 夸克：https://pan.quark.cn/s/7fb0c45ee36a
 
 迅雷：https://pan.xunlei.com/s/VNvhsTug5H8BKN3FfYTQWHq5A1?pwd=s2qe#
-
-#### 《世界树的迷宫》三部曲
-
-夸克：https://pan.quark.cn/s/a3ab30d40c89
 
 #### 《GTA4》mod版本 V1.03
 

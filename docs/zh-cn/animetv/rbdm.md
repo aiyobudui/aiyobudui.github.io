@@ -334,20 +334,17 @@
 
 迅雷：https://pan.xunlei.com/s/VNo25acADfjgkx4DmSC3n04AA1?pwd=2dkp#
 
-
 #### 《杀手寓言》（2024）1080P 25集全 动画版（附 真人电影1-2 4K）
 
 夸克：https://pan.quark.cn/s/877d080afa62
 
 迅雷：https://pan.xunlei.com/s/VO9ORzE9teDq8jY1SYLd6Xj4A1?pwd=gp2u#
 
-#### 《鬼灭之刃》（2019-2024）全篇章合集 4K+1080P 中字 附漫画
+#### 《鬼灭之刃 全篇章合集》（2019-2026）1080P 中字（立志篇、无限列车篇、游郭篇、刀匠村篇、柱训练篇、无限城篇）
 
-夸克：https://pan.quark.cn/s/aa3ac9478dc8
+夸克：https://pan.quark.cn/s/7735e62824b9
 
 迅雷：https://pan.xunlei.com/s/VNsDOl3w-dQZRo0oSLY0sgRnA1?pwd=ehwy#
-
-阿里：https://www.aliyundrive.com/s/ZCWLJqpbnmA
 
 #### 《时不时说一句俄语来掩饰害羞的邻座艾莉同学》（2024）4K+1080P 12集全 中字
 
