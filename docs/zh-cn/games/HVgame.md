@@ -85,10 +85,6 @@
 
 夸克：https://pan.quark.cn/s/af824a41d719
 
-#### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）》v1.0.1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e044dc2f3f3b
-
 #### 《足球经理26（Football Manager 26）》v26.3.0 中文版
 
 夸克：https://pan.quark.cn/s/ba689a73bfa0

@@ -68,6 +68,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）豪华版》v1.1.1.0 全DLC 中文版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/e044dc2f3f3b
+
 #### 《侠影录（xiayinglu）》v1.1.2 中文版
 
 夸克：https://pan.quark.cn/s/ff1b9a0b4c3e
