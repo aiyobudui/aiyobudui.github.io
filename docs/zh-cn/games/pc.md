@@ -68,6 +68,22 @@
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
+#### 《侠影录（xiayinglu）》v1.1.2 中文版
+
+夸克：https://pan.quark.cn/s/ff1b9a0b4c3e
+
+#### 《传颂之物 循白之证（Utawarerumono Past and Present Rediscovered）》v1.06.81606 中文版
+#### 《传颂之物 斩（Utawarerumono ZAN）豪华版》v1.01 全DLC 中文版
+#### 《传颂之物 斩2（Utawarerumono ZAN 2）》v1.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9c59ad032218
+
+迅雷：https://pan.xunlei.com/s/VOmT_XDcqP8F9cbH2PvmbqoGA1?pwd=pstx#
+
+#### 《暴杀残雨之夜（The rainy night）》v2026.7.8 中文版
+
+夸克：https://pan.quark.cn/s/c766481a74d6
+
 #### 《背包闯江湖（Backpack Jianghu）》v1.0.155.1 中文版
 
 夸克：https://pan.quark.cn/s/184faeb2323a
@@ -3705,13 +3721,6 @@ w
 #### 《辐射谷物语（Atomicrops）豪华版》v1.7.0f3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5651b6ecb8e6
-
-#### 《传颂之物 斩（Utawarerumono ZAN）豪华版》v1.01 全DLC 中文版
-#### 《传颂之物 斩2（Utawarerumono ZAN 2）》v1.0.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/9c59ad032218
-
-迅雷：https://pan.xunlei.com/s/VOmT_XDcqP8F9cbH2PvmbqoGA1?pwd=pstx#
 
 #### 《北境之地（Northgard）豪华版》v4.0.19.43315 全DLC 中文 联机版
 

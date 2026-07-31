@@ -21,6 +21,12 @@
 
 **靠前的是最新添加的**
 
+#### 《穿普拉达的女王2》（2026）1080P 内封中字（附第一部）
+
+夸克：https://pan.quark.cn/s/8347fd08b0bf
+
+迅雷：https://pan.xunlei.com/s/VOyt6Cl4_ggxefwM34GgKFNaA1?pwd=sxcd#
+
 #### 《镖人：风起大漠》（2026）4K 国粤 双版本
 
 夸克：https://pan.quark.cn/s/1712f4c2398e
