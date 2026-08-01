@@ -72,6 +72,14 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《渡渡鸭与折叠世界（Dodo Duckie）》v2026.7.30 中文版
+
+夸克：https://pan.quark.cn/s/700737fcb5bc
+
+#### 《Staffer Retro - 异能追忆》Build.24367676 中文版（推理冒险）
+
+夸克：https://pan.quark.cn/s/37ad177bf02f
+
 #### 《侠影录（xiayinglu）》v1.1.2 中文版
 
 夸克：https://pan.quark.cn/s/ff1b9a0b4c3e
@@ -159,6 +167,14 @@
 
 夸克：https://pan.quark.cn/s/f2203ca7528b
 
+#### 《尤卡莱莉：回归（Yooka Replaylee）》v1.07 中文版（开放世界冒险）
+
+夸克：https://pan.quark.cn/s/6758e2260430
+
+#### 《英雄连3（Company of Heroes 3）》v2.5.0.48791 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8d7b365bee6d
+
 #### 《007初露锋芒（007 First Light）》v1.1.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/76e705934c3b
@@ -169,6 +185,10 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《废品机械师（Scrap Mechanic）》v1.0.3 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/84bfd75a6297
 
 #### 《废土之歌（Shambles Sons of Apocalypse）》v1.6.6 全DLC 中文版
 
@@ -524,10 +544,6 @@
 #### 《英雄传说 界之轨迹 -告别塞姆利亚-（Kai no Kiseki Farewell O Zemuria）豪华版》v1.02 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/349ae69a1c46
-
-#### 《废品机械师（Scrap Mechanic）》v0.7.4b 中文 联机版
-
-夸克：https://pan.quark.cn/s/84bfd75a6297
 
 #### 《ZEPHON 完整版》v1.3.9 全DLC 中文版（泽丰 策略游戏）
 
@@ -3878,7 +3894,7 @@ w
 
 夸克：https://pan.quark.cn/s/f584678d169a
 
-#### 《高能人生2（High On Life 2）》v2026.2.20 全DLC 中文版（FPS游戏）
+#### 《高能人生2（High On Life 2）》v2026.2.20 全DLC 中文版（嗨嗨人生 FPS游戏）
 
 夸克：https://pan.quark.cn/s/75206d28a97a
 
@@ -4126,10 +4142,6 @@ w
 #### 《猛将三国（Three Kingdoms Mushouden）豪华版》v2.4.8 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/c41c5c5e9818
-
-#### 《英雄连3（Company of Heroes 3）》v2.2.5.42217 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/8d7b365bee6d
 
 #### 《三国志8 重制版 威力加强版（RTK8R Power Up Kit）豪华版》v1.1.0 全DLC 中文版
 
@@ -4845,10 +4857,6 @@ w
 #### 《超自然车旅（Pacific Drive）豪华版》v1.13.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7d338c911bf5
-
-#### 《尤卡莱莉：回归（Yooka Replaylee）》v1.02 中文版（开放世界冒险）
-
-夸克：https://pan.quark.cn/s/6758e2260430
 
 #### 《困兽之国（Drova - Forsaken Kin）》v1.3.4a 中文版
 

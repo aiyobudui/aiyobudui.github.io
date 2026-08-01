@@ -340,9 +340,13 @@
 
 迅雷：https://pan.xunlei.com/s/VO9ORzE9teDq8jY1SYLd6Xj4A1?pwd=gp2u#
 
-#### 《鬼灭之刃 全篇章合集》（2019-2026）1080P 中字（立志篇、无限列车篇、游郭篇、刀匠村篇、柱训练篇、无限城篇）
+##### 《鬼灭之刃 无限城篇 第一章 猗窝坐再袭》蓝光1080P 国粤日配音 内封中字
 
-夸克：https://pan.quark.cn/s/7735e62824b9
+夸克：https://pan.quark.cn/s/5ccd57e0dff9
+
+#### 《鬼灭之刃 全篇章合集》（2019-2026）1080P 中字（立志篇、无限列车篇、游郭篇、刀匠村篇、柱训练篇）
+
+夸克：https://pan.quark.cn/s/c2780cd04248
 
 迅雷：https://pan.xunlei.com/s/VNsDOl3w-dQZRo0oSLY0sgRnA1?pwd=ehwy#
 

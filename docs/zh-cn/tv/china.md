@@ -25,6 +25,12 @@
 
 夸克：https://pan.quark.cn/s/86ab10c0f527
 
+#### 《莫离》（2026）4K 40集全
+
+夸克：https://pan.quark.cn/s/ea936ba5c110
+
+迅雷：https://pan.xunlei.com/s/VOyxYDFIJUsklpp_tOKtAuJ6A1?pwd=ifee#
+
 #### 《昨夜将至》（2026）4K 12集全
 
 夸克：https://pan.quark.cn/s/8f80d2eca7bb
@@ -67,12 +73,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOtxvdBzBb0onGjAxFR6SexxA1?pwd=2stn#
 
-#### 《良陈美锦》（2026）4K 40集全
-
-夸克：https://pan.quark.cn/s/5446c085c9a4
-
-迅雷：https://pan.xunlei.com/s/VOtHtUwxaa2HnGIwxRpXKowTA1?pwd=b3qk#
-
 ---
 
 ## 已完结的...
@@ -86,6 +86,12 @@
 #### 《我在他乡挺好的》（2021）1080P高码 12集全
 
 夸克：https://pan.quark.cn/s/3cbc95b17c2e
+
+#### 《良陈美锦》（2026）4K 40集全
+
+夸克：https://pan.quark.cn/s/5446c085c9a4
+
+迅雷：https://pan.xunlei.com/s/VOtHtUwxaa2HnGIwxRpXKowTA1?pwd=b3qk#
 
 #### 《低智商犯罪》（2026）4K 24集全
 
