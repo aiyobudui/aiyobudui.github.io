@@ -72,9 +72,25 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《汪汪队立大功：恐龙世界（PAW Patrol Dino World）》v2026.8.1 中文版
+
+夸克：https://pan.quark.cn/s/35316ce1e3a5
+
 #### 《渡渡鸭与折叠世界（Dodo Duckie）》v2026.7.30 中文版
 
 夸克：https://pan.quark.cn/s/700737fcb5bc
+
+#### 《王储杰瑞安的生平与苦难（The Life and Suffering of Prince Jerian）》v2026.7.31 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0d445a83a9d5
+
+#### 《封神演义之黄飞虎归周》v1.0.1 中文版（像素风经典回合制RPG）
+
+夸克：https://pan.quark.cn/s/258644d9a323
+
+#### 《Quasimorph》v1.0.560s 中文版
+
+夸克：https://pan.quark.cn/s/9f16b005d8f9
 
 #### 《Staffer Retro - 异能追忆》Build.24367676 中文版（推理冒险）
 
@@ -149,6 +165,12 @@
 
 夸克：https://pan.quark.cn/s/ad030323d32f
 
+#### 《高能人生（High On Life）》Build.12527950 全DLC 汉化版（嗨嗨人生）
+#### 《高能人生2（High On Life 2）》v2026.2.20 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/75206d28a97a
+
+
 ---
 
 ## 最近更新
@@ -167,6 +189,14 @@
 
 夸克：https://pan.quark.cn/s/f2203ca7528b
 
+#### 《僵尸毁灭工程（Project Zomboid）》v42.20.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/7660a8757ab1
+
+#### 《神探杰克鼠（MOUSE P.I. For Hire）豪华版》v1.2.2.8822 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8b87767ebd52
+
 #### 《尤卡莱莉：回归（Yooka Replaylee）》v1.07 中文版（开放世界冒险）
 
 夸克：https://pan.quark.cn/s/6758e2260430
@@ -174,6 +204,20 @@
 #### 《英雄连3（Company of Heroes 3）》v2.5.0.48791 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8d7b365bee6d
+
+#### 《Life Below 特别版》v1.3.2 全DLC 中文版（水下生命 水下世界）
+
+夸克：https://pan.quark.cn/s/652f5719dfbb
+
+#### 《REPLACED》v1.1.3.0 中文版（替换者）
+
+夸克：https://pan.quark.cn/s/d932e1129e3c
+
+#### 《指挥大师（Master of Command）》v1.5.8 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2f4e6baf45ed
+
+迅雷：https://pan.xunlei.com/s/VOmSr-4oyVwrgMVFQrMKryNVA1?pwd=6crt#
 
 #### 《007初露锋芒（007 First Light）》v1.1.0 全DLC 中文版
 
@@ -480,7 +524,7 @@
 
 夸克：https://pan.quark.cn/s/30510db4b1e9
 
-#### 《一起来开大商场（Mall Together）》v1.0 中文版
+#### 《一起来开大商场（Mall Together）》v1.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/30fa968c90af
 
@@ -1896,10 +1940,6 @@
 
 夸克：https://pan.quark.cn/s/09f58c7970de
 
-#### 《神探杰克鼠（MOUSE P.I. For Hire）豪华版》v1.1.0.8432 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/8b87767ebd52
-
 #### 《装机模拟器2（PC Building Simulator 2）》v1.16.05 中文版（附第一部）
 
 夸克：https://pan.quark.cn/s/b7e47fb90e3d
@@ -2027,10 +2067,6 @@
 #### 《Project Hunt 猎人的收藏版》v2026.5.25 全DLC 中文版（狩猎计划）
 
 夸克：https://pan.quark.cn/s/127d72f8d8ce
-
-#### 《Life Below》v1.0.0w 全DLC 中文版（水下生命 水下世界）
-
-夸克：https://pan.quark.cn/s/652f5719dfbb
 
 #### 《元素重铸（Elemental Reforged）》v1.1 CL61448 全DLC 中文版（策略游戏）
 
@@ -2871,10 +2907,6 @@ w
 
 夸克：https://pan.quark.cn/s/1f31ce2ea25b
 
-#### 《僵尸毁灭工程（Project Zomboid）》v42.17 中文 联机版
-
-夸克：https://pan.quark.cn/s/7660a8757ab1
-
 #### 《狙击手：幽灵战士契约2（Sniper Ghost Warrior Contracts 2）豪华版》Build.05092024 全DLC 中文版
 #### 《狙击手：幽灵战士契约（Sniper Ghost Warrior Contracts）豪华版》v16167732 全DLC 中文版
 #### 《狙击手：幽灵战士3（Sniper Ghost Warrior 3）黄金版》v3.8.6 全DLC 中文版
@@ -3086,10 +3118,6 @@ w
 #### 《播洛森：星原之种（Blossom The Seed of Life）》v1.1.13 中文版
 
 夸克：https://pan.quark.cn/s/5db59f72e2a1
-
-#### 《替换者（REPLACED）》v1.0.1080 中文版
-
-夸克：https://pan.quark.cn/s/d932e1129e3c
 
 #### 《碧屿之下 妮娅与不思议齿轮（Under The Island）》v1.2.0.0 中文版
 
@@ -3788,12 +3816,6 @@ w
 
 夸克：https://pan.quark.cn/s/e7d14ce6636e
 
-#### 《指挥大师（Master of Command）》v1.2.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/2f4e6baf45ed
-
-迅雷：https://pan.xunlei.com/s/VOmSr-4oyVwrgMVFQrMKryNVA1?pwd=6crt#
-
 #### 《她那年98（SHE WAS 98）》v1.0.3 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/e6f1b9bf2274
@@ -3893,10 +3915,6 @@ w
 #### 《soulstice 豪华版》v1.1.0+219971 全DLC 中文版（灵魂之刃、灵界战魂、灵魂之魂）
 
 夸克：https://pan.quark.cn/s/f584678d169a
-
-#### 《高能人生2（High On Life 2）》v2026.2.20 全DLC 中文版（嗨嗨人生 FPS游戏）
-
-夸克：https://pan.quark.cn/s/75206d28a97a
 
 #### 《专业飞行模拟11（X-Plane 11）》v11.55r2 全DLC 中文版（xplane11）
 #### 《专业飞行模拟12（X-Plane 12）》v12.4.0-r2 全DLC 中文版（xplane12）
