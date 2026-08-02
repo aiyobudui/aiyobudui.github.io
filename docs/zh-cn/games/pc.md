@@ -50,23 +50,13 @@
 ## 最新添加
 !> 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
+#### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.5.0 中文版
+
+夸克：https://pan.quark.cn/s/6f0e102663f1
+
 #### 《第一狂战士 卡赞（The First Berserker Khazan）豪华版》v565386 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/bba1c6a244ac
-
-#### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版（非虚拟化）
-
-夸克：https://pan.quark.cn/s/020b7323c7a6
-
-#### 《黑神话：悟空（Black Myth Wukong）豪华版》v1.0.21.23831 中文版（非虚拟化）
-
-夸克：https://pan.quark.cn/s/9aa9720dd675
-
-#### 《剑星（Stellar Blade）完全版》v1.4.1 全DLC 中文配音版（非虚拟化）
-
-夸克：https://pan.quark.cn/s/245d4d2967f0
-
-迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
 
 #### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）豪华版》v1.1.1.0 全DLC 中文版（非虚拟化）
 
@@ -238,51 +228,47 @@
 
 夸克：https://pan.quark.cn/s/e861d9e42918
 
-#### 《七龙珠 电光炸裂 ZERO（Dragon Ball Sparking Zero）传奇版》v3020.019.003.012.013 全DLC 中文 联机版
+#### 《灰雨钢锋（Of Ash and Steel）》v1.08-final2 中文版
 
-夸克：https://pan.quark.cn/s/cfa6067a133d
+夸克：https://pan.quark.cn/s/9c5a315866f7
 
-#### 《满庭芳：宋上繁华（Thriving City Song）豪华版》v1.8.6 中文版（附安卓版）
+#### 《虐杀熔炉（KIBORG）》V2026.7.14 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/b50c765520ca
+夸克：https://pan.quark.cn/s/d590ba9f9318
 
-迅雷：https://pan.xunlei.com/s/VO2PzE-FDmJg-0GgQhQUAGzxA1?pwd=bys5#
+#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）典藏版》v1.7.1.0 全DLC 中文版(更新)
+#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
+#### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
+#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
+#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
 
-#### 《莱萨里亚：英雄之歌（Lessaria Fantasy Kingdom Sim）豪华版》v1.0.1464 全DLC 中文版
+夸克：https://pan.quark.cn/s/bb5134dcb570
 
-夸克：https://pan.quark.cn/s/97099532882b
+#### 《信长之野望·新生 with 威力加強版（NOBUNAGAS AMBITION）Awakening）豪华版》v1.1.7 全DLC 中文版
 
-#### 《恐怖黎明（Grim Dawn）终极版》v1.3.0.3 全DLC 中文 联机版
+夸克：https://pan.quark.cn/s/bb466d8befa8
 
-夸克：https://pan.quark.cn/s/91d30f5fbea2
-
-迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
-
-#### 《世界树的迷宫（Etrian Odyssey HD）》Build.17748882 中文版
-#### 《世界树的迷宫2 诸王的圣杯（Etrian Odyssey II HD）》Build.20414225 中文版
-#### 《世界树的迷宫3 星海的访客（Etrian Odyssey III HD）》Build.17749085 中文版
-
-夸克：https://pan.quark.cn/s/0e3bcab45fbf
-
-#### 《NODE：安塔瑞族的最终馈赠（NODE The Last Favor of the Antarii）》v1.1.314i 中文版
-
-夸克：https://pan.quark.cn/s/38d2ae88ce74
-
-#### 《地球不屈（Terra Invicta）》v1.0.49 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/9ca7438200cb
-
-#### 《杀戮尖塔2（Slay the Spire 2）》v0.109.0b 中文 联机版（附第1部+安卓版）
-
-夸克：https://pan.quark.cn/s/4a575dc211fc
-
-迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
+迅雷：https://pan.xunlei.com/s/VNuDbhANESbDnYppcjQKX6xAA1?pwd=tv3j#
 
 ---
 
-## 顶置游戏
+## 置顶推荐
 
-#### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.23514637 全DLC 中文版（非虚拟化）
+#### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/020b7323c7a6
+
+#### 《黑神话：悟空（Black Myth Wukong）豪华版》v1.0.21.23831 中文版
+
+夸克：https://pan.quark.cn/s/9aa9720dd675
+
+#### 《剑星（Stellar Blade）完全版》v1.4.1 全DLC 中文配音版
+
+夸克：https://pan.quark.cn/s/245d4d2967f0
+
+迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
+
+#### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.23514637 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/64f0b5deb517
 
@@ -447,6 +433,47 @@
 ---
 
 ## 已有游戏
+
+
+#### 《七龙珠 电光炸裂 ZERO（Dragon Ball Sparking Zero）传奇版》v3020.019.003.012.013 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/cfa6067a133d
+
+#### 《满庭芳：宋上繁华（Thriving City Song）豪华版》v1.8.6 中文版（附安卓版）
+
+夸克：https://pan.quark.cn/s/b50c765520ca
+
+迅雷：https://pan.xunlei.com/s/VO2PzE-FDmJg-0GgQhQUAGzxA1?pwd=bys5#
+
+#### 《莱萨里亚：英雄之歌（Lessaria Fantasy Kingdom Sim）豪华版》v1.0.1464 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/97099532882b
+
+#### 《恐怖黎明（Grim Dawn）终极版》v1.3.0.3 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/91d30f5fbea2
+
+迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
+
+#### 《世界树的迷宫（Etrian Odyssey HD）》Build.17748882 中文版
+#### 《世界树的迷宫2 诸王的圣杯（Etrian Odyssey II HD）》Build.20414225 中文版
+#### 《世界树的迷宫3 星海的访客（Etrian Odyssey III HD）》Build.17749085 中文版
+
+夸克：https://pan.quark.cn/s/0e3bcab45fbf
+
+#### 《NODE：安塔瑞族的最终馈赠（NODE The Last Favor of the Antarii）》v1.1.314i 中文版
+
+夸克：https://pan.quark.cn/s/38d2ae88ce74
+
+#### 《地球不屈（Terra Invicta）》v1.0.49 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/9ca7438200cb
+
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.109.0b 中文 联机版（附第1部+安卓版）
+
+夸克：https://pan.quark.cn/s/4a575dc211fc
+
+迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
 #### 《嗜血之王：崛起（Vampires Bloodlord Rising）终极版》v1.6.1.22071 全DLC 中文 联机版
 
@@ -1279,14 +1306,6 @@
 
 夸克：https://pan.quark.cn/s/3c6a02617ff3
 
-#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）典藏版》v1.7.0.0 全DLC 中文版(更新)
-#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
-#### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
-#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
-#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/bb5134dcb570
-
 #### 《尸姬之梦（Dream of Corpse Lady）豪华版》v1.3099 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/0020655e3565
@@ -1448,10 +1467,6 @@
 #### 《生灵重塑（REANIMAL）豪华版》v1.7.1 全DLC 中文 联机版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/fcef91158dcf
-
-#### 《虐杀熔炉（KIBORG）》V2026.6.23 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d590ba9f9318
 
 #### 《焕家物语（Hozy）》v1.2 中文版
 
@@ -4493,10 +4508,6 @@ w
 #### 《线条小狗：动物温泉（Maltese's Fluffy Onsen）豪华版》v1.5b 全DLC 中文版（桌面小游戏）
 
 夸克：https://pan.quark.cn/s/dd64b7e57e0d
-
-#### 《灰雨钢锋（Of Ash and Steel）》v1.05b 中文版
-
-夸克：https://pan.quark.cn/s/9c5a315866f7
 
 #### 《史前王国（Prehistoric Kingdom）》v1.16.36 全DLC 中文版（史前动物园建造）
 
@@ -8006,12 +8017,6 @@ w
 #### 《Eternal Strands》v1.0.14.0600 中文版（永恒之链）
 
 夸克：https://pan.quark.cn/s/71ecb0cb40c0
-
-#### 《信长之野望·新生 with 威力加強版（NOBUNAGAS AMBITION）Awakening）》v1.1.6 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/bb466d8befa8
-
-迅雷：https://pan.xunlei.com/s/VNuDbhANESbDnYppcjQKX6xAA1?pwd=tv3j#
 
 #### 《若不疯魔何言爱过（From Madness With Love）》v2025.6.7 全DLC 中文版
 
