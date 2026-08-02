@@ -62,6 +62,10 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《纵横秘湾（Corsair Cove）》v1.1.1.241792 中文版
+
+夸克：https://pan.quark.cn/s/ab10b3706494
+
 #### 《汪汪队立大功：恐龙世界（PAW Patrol Dino World）》v2026.8.1 中文版
 
 夸克：https://pan.quark.cn/s/35316ce1e3a5
@@ -208,6 +212,14 @@
 夸克：https://pan.quark.cn/s/2f4e6baf45ed
 
 迅雷：https://pan.xunlei.com/s/VOmSr-4oyVwrgMVFQrMKryNVA1?pwd=6crt#
+
+#### 《暗黑破坏神2 重制版（Diablo II Resurrected）终极版》v3.2.93236 全DLC 中文版（附安卓版）
+
+夸克：https://pan.quark.cn/s/379c96e02b6c
+
+#### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）圣剑版》v1.25 全DLC 中文版（魂游）
+
+夸克：https://pan.quark.cn/s/f45144acd21e
 
 #### 《007初露锋芒（007 First Light）》v1.1.0 全DLC 中文版
 
@@ -1645,10 +1657,6 @@
 
 夸克：https://pan.quark.cn/s/e53b0330c930
 
-#### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》v1.23b 全DLC 中文版（魂游）
-
-夸克：https://pan.quark.cn/s/f45144acd21e
-
 #### 《北欧之烬：诸神黄昏幸存者（Nordic Ashes Survivors of Ragnarok）终结版》v3.1.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/88d9eb2ab93c
@@ -1946,10 +1954,6 @@
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
 
 夸克：https://pan.quark.cn/s/68a01dbea110
-
-#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.2.92777 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/379c96e02b6c
 
 #### 《钢铁之种（Steel Seed）》v1.1.0.L 全DLC 中文版
 
