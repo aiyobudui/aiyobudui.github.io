@@ -62,6 +62,14 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《养鱼模拟器（Fish Game）》Build.23879224 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5c85fcc30dc4
+
+#### 《法国小馆儿模拟器（Parisian Brasserie Simulator）》v1.0.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/0546365ababc
+
 #### 《时空叛客（Anomaly Agent）》v1.1.07 中文版
 
 夸克：https://pan.quark.cn/s/1956e975ba5c
