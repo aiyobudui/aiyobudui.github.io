@@ -62,6 +62,38 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《时空叛客（Anomaly Agent）》v1.1.07 中文版
+
+夸克：https://pan.quark.cn/s/1956e975ba5c
+
+#### 《超级市场模拟器（Hypermarket Simulator）》Build.24518577 中文版
+
+夸克：https://pan.quark.cn/s/8aa1fcbc02c6
+
+#### 《雅里夫：诅咒面具（Verho - Curse of Faces）》v1.1.0 中文版
+
+夸克：https://pan.quark.cn/s/001347249b7e
+
+#### 《机械末日（Machinefall）》v260801 中文版
+
+夸克：https://pan.quark.cn/s/93c93a63cd1f
+
+#### 《矮人元祖（First Dwarf）》v0.9.119 中文版
+
+夸克：https://pan.quark.cn/s/0add24d0a9b3
+
+#### 《专注森林（Focus Grove）》v1.0.49 中文版（桌面放置游戏）
+
+夸克：https://pan.quark.cn/s/8c6e3fb7b526
+
+#### 《钢铁之泪（Tears of Metal）》v0.11.57863 中文版
+
+夸克：https://pan.quark.cn/s/e818bab3072f
+
+#### 《账单必须支付（Bills Must Be Paid）》v1.0.3 中文版
+
+夸克：https://pan.quark.cn/s/8480859a75a2
+
 #### 《纵横秘湾（Corsair Cove）》v1.1.1.241792 中文版
 
 夸克：https://pan.quark.cn/s/ab10b3706494
@@ -169,6 +201,16 @@
 
 ## 最近更新
 
+#### 《优米雅的炼金工房 ～追忆之炼金术士与幻创之地～ 豪华版》v1.70 全DLC 中文版（更新）
+#### 《红色的炼金术士和白色的守护者 ～蕾斯莱莉娅娜的炼金工房～ 豪华版》v1.3.0 全DLC 中文版
+#### 《莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX》v1.00 全DLC 中文版
+#### 《莱莎的炼金工房2 ～失落传说与秘密妖精～ DX》v1.00 全DLC 中文版
+#### 《莱莎的炼金工房3 ～终结之炼金术士与秘密钥匙～ DX》v1.00 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/40086dffb3c8
+
+迅雷：https://pan.xunlei.com/s/VO5RjFCQ4nNCH4NXz6k3luXVA1?pwd=z78j#
+
 #### 《幻兽帕鲁（Palworld）》v1.0.2.100993 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/51d73c209195
@@ -182,6 +224,26 @@
 #### 《光环 战役进化（Halo Campaign Evolved）高级版》v1112544 中文 联机版
 
 夸克：https://pan.quark.cn/s/f2203ca7528b
+
+#### 《青岚物语（Tales of Seikyu）》v1.1.13 中文版
+
+夸克：https://pan.quark.cn/s/6a01e57719a5
+
+#### 《风暴怕死队（Pass The Fear）》v1.0.479 中文 联机版
+
+夸克：https://pan.quark.cn/s/c69ff092a782
+
+#### 《涂鸦英雄工厂（ShapeHero Factory）》v1.1.4 中文版（塔防游戏）
+
+夸克：https://pan.quark.cn/s/25332d711357
+
+#### 《酒店建筑师（Hotel Architect）》v1.0.3.4 中文版
+
+夸克：https://pan.quark.cn/s/6bab9fcb80fe
+
+#### 《艾诺提亚：失落之歌（Enotria The Last Song）》v1.010.29335 中文版
+
+夸克：https://pan.quark.cn/s/78488440b96b
 
 #### 《僵尸毁灭工程（Project Zomboid）》v42.20.0 中文 联机版
 
@@ -220,6 +282,14 @@
 #### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）圣剑版》v1.25 全DLC 中文版（魂游）
 
 夸克：https://pan.quark.cn/s/f45144acd21e
+
+#### 《风暴崛起（Tempest Rising）豪华版》v1.9.1.59012 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/c164538c9a59
+
+#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.7.117484 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/2ce76d085b7c
 
 #### 《007初露锋芒（007 First Light）》v1.1.0 全DLC 中文版
 
@@ -582,10 +652,6 @@
 #### 《午夜轮班（Shift At Midnight）》v1.0.1.0723.2253 中文 联机版（侦探恐怖游戏）
 
 夸克：https://pan.quark.cn/s/5ad72f3f2174
-
-#### 《风暴怕死队（Pass The Fear）》v1.0.431 中文 联机版
-
-夸克：https://pan.quark.cn/s/c69ff092a782
 
 #### 《怪奇漫游指南（Wonderia）》v0.5.8.2102 中文 联机版
 
@@ -1310,10 +1376,6 @@
 
 夸克：https://pan.quark.cn/s/4912658febe6
 
-#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.6.115628 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/2ce76d085b7c
-
 #### 《辐射4（Fallout 4）周年版》v1.11.221.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/3c6a02617ff3
@@ -1507,10 +1569,6 @@
 #### 《老婆随手扔了我多年珍藏卡牌（我反手买下整个垃圾场）》v2025.12.22 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/f14480c5c7ca
-
-#### 《青岚物语（Tales of Seikyu）》v1.0.29 中文版
-
-夸克：https://pan.quark.cn/s/6a01e57719a5
 
 #### 《骷髅成群（Skull Horde）》v1.032 中文版
 
@@ -2399,10 +2457,6 @@ w
 #### 《图书管理员：整理魔法图书馆吧！（Librarian Tidy Up the Arcane Library!）》v1.0.8 中文版
 
 夸克：https://pan.quark.cn/s/76458c999b68
-
-#### 《酒店建筑师（Hotel Architect）》v1.0.0.7 中文版
-
-夸克：https://pan.quark.cn/s/6bab9fcb80fe
 
 #### 《落难航船 诅咒之岛的探险者（Stranded Sails）》v1.48 中文版
 
@@ -3414,10 +3468,6 @@ w
 夸克：https://pan.quark.cn/s/ff4c31dc365a
 
 迅雷：https://pan.xunlei.com/s/VNpu4vGgV5tOoEsI5Z5YPsxLA1?pwd=eja9#
-
-#### 《风暴崛起（Tempest Rising）》v1.7.1.55792 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/c164538c9a59
 
 #### 《杀手 暗杀世界（HITMAN World of Assassination）豪华版》v3.260.1 全DLC 中文版（杀手1 杀手2 杀手3)
 
@@ -4547,10 +4597,6 @@ w
 
 夸克：https://pan.quark.cn/s/dbc5648e077e
 
-#### 《红色的炼金术士和白色的守护者 ～蕾斯莱莉娅娜的炼金工房～ 豪华版》v1.3.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1116a514fb72
-
 #### 《战争号令 地狱之门：东线（Call to Arms Gates of Hell Ostfront）》v1.060.0 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/ddf763743c13
@@ -4898,20 +4944,6 @@ w
 #### 《怪物猎人物语（Monster Hunter Stories）》V1.1.1 全DLC 中文版（电脑版）
 
 夸克：https://pan.quark.cn/s/a9adb075c61f
-
-#### 《莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX》v1.00 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a287f80efc9d
-
-#### 《莱莎的炼金工房２ ～失落传说与秘密妖精～ DX》v1.00 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a287f80efc9d
-
-#### 《莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～ DX》v1.00 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a287f80efc9d
-
-迅雷：https://pan.xunlei.com/s/VO5RjFCQ4nNCH4NXz6k3luXVA1?pwd=z78j#
 
 #### 《我的26岁女房客：在云端（My 26-Year-Old Female Tenant）》Build.20772825 中文版
 
@@ -5822,10 +5854,6 @@ w
 #### 《战争机器：重装上阵（Gears of War Reloaded）》v1.0.1.3816947 中文版（经典重制）
 
 夸克：https://pan.quark.cn/s/8a83ac5f92b0
-
-#### 《优米雅的炼金工房 ～追忆之炼金术士与幻创之地～》v1.5.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/40086dffb3c8
 
 #### 《网吧模拟器2（Internet Cafe Simulator 2）》v1.2.5 中文版（附第一部）
 
@@ -10522,10 +10550,6 @@ w
 
 夸克：https://pan.quark.cn/s/e4ac3b61dbbd
 
-#### 《涂鸦英雄工厂（ShapeHero Factory）》v0.8.6.2 中文版（塔防游戏）
-
-夸克：https://pan.quark.cn/s/25332d711357
-
 #### 《超次元游戏海王星：重生3 v世代（Hyperdimension Neptunia ReBirth3）》v.gog3_32411 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/816a14b0acce
@@ -11003,10 +11027,6 @@ w
 #### 《编曲家角色谜题冒险（Arranger：A Role-Puzzling Adventure）》v1.1.13 中文版
 
 夸克：https://pan.quark.cn/s/ba24f63426e0
-
-#### 《艾诺提亚：失落之歌（Enotria The Last Song）》v1.005.26769 中文版（新游 类魂游戏）
-
-夸克：https://pan.quark.cn/s/78488440b96b
 
 #### 《宇宙汉堡王（Godlike Burger）》v1.0.7 全DLC 中文版
 
