@@ -16,27 +16,39 @@
 
 ## 正在更新中的...
 
-#### 《金特务：本色回归》（2026）1080P 10集更新中..
+#### 《杀手妈咪》（2026）1080P 14集 周六周日 更新中...
 
-夸克：https://pan.quark.cn/s/2de6e07086cb
+夸克：https://pan.quark.cn/s/8678df5690d1
 
-迅雷：https://pan.xunlei.com/s/VOwEp7VDwy-XAWSSTfUC-q9aA1?pwd=nbzi
+迅雷：https://pan.xunlei.com/s/VOzBYrlxE8NieAbl9mIEZr37A1?pwd=uuds#
 
 ---
 
 ## 已完结的...
 
+#### 《金特务：本色回归》（2026）1080P 中字 10集全
+
+夸克：https://pan.quark.cn/s/2de6e07086cb
+
+迅雷：https://pan.xunlei.com/s/VOwEp7VDwy-XAWSSTfUC-q9aA1?pwd=nbzi
+
 #### 《母亲游戏 她们的阶级》（2025）720P 中字 10集全
 
 夸克：https://pan.quark.cn/s/c30f1fb7f39d
+
+迅雷：https://pan.xunlei.com/s/VOzBgIfQsZmqVw_axc2uqLriA1?pwd=y6gm#
 
 #### 《金科长 김과장》（2017）1080P高码 中字 20集全
 
 夸克：https://pan.quark.cn/s/dd2b1c498e4f
 
-#### 《铁拳教育》（2026）1080P 内封中字 10集全
+迅雷：https://pan.xunlei.com/s/VOzBdGpX6pyNwxgkJG8lWUezA1?pwd=evqi#
+
+#### 《铁拳教育》（2026）1080P 内封中字 10集全（漫画改编）
 
 夸克：https://pan.quark.cn/s/c59079072e52
+
+迅雷：https://pan.xunlei.com/s/VOzBhHOHTbDMK32hMF4e6vXIA1?pwd=zkpz#
 
 #### 《21世纪大君夫人》（2026）1080P 16集全
 
@@ -50,13 +62,17 @@
 
 迅雷：https://pan.xunlei.com/s/VOt2MSA8C2t7X7a2rqynK4a3A1?pwd=bmaw#
 
-#### 《幸福 해피니스》 （2021）1080P 中字（惊悚 丧尸）
+#### 《幸福 해피니스》 （2021）1080P 中字 12集全（惊悚丧尸）
 
 夸克：https://pan.quark.cn/s/d0fa61cde50f
 
-#### 《苏里南》（2022）1080P 中字
+迅雷：https://pan.xunlei.com/s/VOzBiVv1LeVaCYrU3KJWYf1kA1?pwd=5nwf#
+
+#### 《苏里南》（2022）1080P 中字 6集全
 
 夸克：https://pan.quark.cn/s/8d522d3a0d22
+
+迅雷：https://pan.xunlei.com/s/VOzBjZw6CD4lQ7qAI7jpsGoDA1?pwd=ekfs#
 
 #### 《鬼客》 (2018）1080P高码 中字
 
@@ -98,29 +114,43 @@
 
 夸克：https://pan.quark.cn/s/9fe4ea4071f2
 
-#### 《爱情怎么翻译？》（2025）1080P 高码 中字 12集全
+迅雷：https://pan.xunlei.com/s/VOzBkFt5GdlrCC6QojxZj_OzA1?pwd=maij#
+
+#### 《爱情怎么翻译？》（2025）1080P 高码 中字 中英韩配音 12集全
 
 夸克：https://pan.quark.cn/s/64a126fb2f8e
 
-#### 《模范出租车3》（2021-2025）1-3季全 1080P 中字
+迅雷：https://pan.xunlei.com/s/VOzBl3lIGXQOGBCrRK1kIcwFA1?pwd=shfn#
+
+#### 《模范出租车》（2021-2025）1-3季全 1080P 中字
 
 夸克：https://pan.quark.cn/s/cd6307f39ef6
+
+迅雷：https://pan.xunlei.com/s/VOzBndUjsZmqVw_axc2uuv_8A1?pwd=s85h#
 
 #### 《棒球大联盟》(2019) 1080P 内封中字 16集全
 
 夸克：https://pan.quark.cn/s/af3b0ed26ad1
 
+迅雷：https://pan.xunlei.com/s/VOzC56sp9MAdKFrMjf6yWZOzA1?pwd=grbg#
+
 #### 《夏娃》（2020）1080P 中字 16集全
 
 夸克：https://pan.quark.cn/s/00ffe0221b80
 
-#### 《1公升的泪》 (2005) 1080P 内封中繁字幕 11集全+特别篇+电影版（一公升的眼泪）
+迅雷：https://pan.xunlei.com/s/VOzC5cfvqa4A92K8C6HYYjgWA1?pwd=gx86#
+
+#### 《一公升的泪》 (2005) 1080P 内封中繁字幕 11集全+特别篇+电影版（1公升的眼泪）
 
 夸克：https://pan.quark.cn/s/c4f5b5f1e4cf
+
+迅雷：https://pan.xunlei.com/s/VOzC6jqlMLFfOmD78b_LylAyA1?pwd=6e6m#
 
 #### 《孤独的美食家》（2012-2024）1-11季全+特别篇+短片 1080P 高码 内封中字
 
 夸克：https://pan.quark.cn/s/b32138d60b2c
+
+迅雷：https://pan.xunlei.com/s/VOzC7U_yUH-at8zC_L4Bf-urA1?pwd=w2z3#
 
 #### 《弥留之国的爱丽丝》（2020-2025）1-3季全 1080P 中字（末日逃生剧）
 
