@@ -1001,7 +1001,7 @@
 
 百度：<https://pan.baidu.com/s/147YFBJsZshe3j_RSIp1kZw?pwd=0000>
 
-#### 《江河日上》（2024）4K 24集全 》（主演：黄志忠 梅婷 姜武 张国强）
+#### 《江河日上》（2024）4K 24集全（主演：黄志忠 梅婷 姜武 张国强）
 
 夸克：https://pan.quark.cn/s/3210c2011d0a
 
@@ -1139,7 +1139,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNnxEPH3ytdaWorfhUapX-atA1?pwd=jpcy#
 
-#### 《黑土无言》（2024） 4K 12集全 》（陈建斌 胡军）
+#### 《黑土无言》（2024） 4K 12集全（陈建斌 胡军）
 
 夸克：https://pan.quark.cn/s/b505cbf119e7
 
@@ -1291,7 +1291,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNm1DmAwdGWapSrwySqlQ7t6A1?pwd=urke#
 
-#### 《对你不止是喜欢》（2023）24集全
+#### 《对你不止是喜欢》（2023）4K 24集全
 
 夸克：https://pan.quark.cn/s/be83d097d9ba
 
@@ -1319,7 +1319,7 @@
 
 #### 《老大夫小大夫》（2023）4K 40集全（2023）
 
-夸克：<https://pan.quark.cn/s/5d9eb79bb623>
+夸克：https://pan.quark.cn/s/de7b253c9f47
 
 迅雷：https://pan.xunlei.com/s/VNlBiUoHwI1_7ISBwOa3RrqNA1?pwd=cd2r#
 
@@ -1353,7 +1353,7 @@
 
 #### 《宁安如梦》（2023）4K 38集全（花絮+番外+100万个约定）
 
-夸克：https://pan.quark.cn/s/c9758ee18ac7
+夸克：https://pan.quark.cn/s/81a3e1e280f8
 
 迅雷：https://pan.xunlei.com/s/VNnxWFI6QXQ7pJ_0gz9RJs2DA1?pwd=gn7y#
 
@@ -1361,7 +1361,7 @@
 
 夸克：https://pan.quark.cn/s/799ed645ecbb
 
-阿里：https://www.alipan.com/s/hZjAmezgfkg
+迅雷：https://pan.xunlei.com/s/VOzDpUEXl7wiu70zoTMVgSH5A1?pwd=wqh4#
 
 #### 《乐游原》（2023）4K 40集全（许凯 景甜新剧）
 
@@ -1375,7 +1375,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNlBglW08nEPv2UVAhpbVWkwA1?pwd=b9ee#
 
-#### 《以爱为营》（2023）4K 36集全 》（白鹿 王鹤棣）
+#### 《以爱为营》（2023）4K 36集全（白鹿 王鹤棣）
 
 夸克：https://pan.quark.cn/s/45c672406f48
 
@@ -1407,7 +1407,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNoVpmlnGDOn07aiNO5GzonyA1?pwd=jxgu#
 
-#### 《风起西州》（2023）4K 37集全
+#### 《风起西州+风起霓裳》（2023）4K 37集全
 
 夸克：https://pan.quark.cn/s/6695ac498b9e
 
@@ -1422,6 +1422,8 @@
 #### 《我有一个朋友》（2023）1080P 24集全
 
 夸克：https://pan.quark.cn/s/bb58252135c7
+
+迅雷：https://pan.xunlei.com/s/VOzDn9S69MAdKFrMjf6zLjE-A1?pwd=2knt#
 
 #### 《一念花开》（2023）4K 30全
 
@@ -1449,43 +1451,43 @@
 
 迅雷：https://pan.xunlei.com/s/VNlBeWC-CvMeBOKNXl6XftZpA1?pwd=w259#
 
-#### 《岁岁青莲》（2023）4K 36集全 》（何润东 何泓姗 黄圣依 古装剧）
+#### 《岁岁青莲》（2023）4K 36集全（何润东 何泓姗 黄圣依 古装剧）
 
 夸克：https://pan.quark.cn/s/f246c1536f3d
 
 迅雷：https://pan.xunlei.com/s/VNlBe0DZBz0oNSOEv5motbP5A1?pwd=bvmc#
 
-#### 《丁宝桢》（2023）4K 27集全（央八热播剧）
+#### 《丁宝桢》（2023）4K 27集全
 
 夸克：https://pan.quark.cn/s/57610f274624
 
 迅雷：https://pan.xunlei.com/s/VNlC0NQk6Mv7qvqPpIgh8Mn1A1?pwd=ghnz#
 
-#### 《为有暗香来》（2023）1080P 30集全 》（周也 古装 爱情 新剧）
+#### 《为有暗香来》（2023）1080P 30集全
 
-夸克：https://pan.quark.cn/s/e2025963cd17
+夸克：https://pan.quark.cn/s/44431c6f6ee4
 
 迅雷：https://pan.xunlei.com/s/VNlC-fRty0a3E5JNm60ZyDA5A1?pwd=u7s3#
 
-#### 《梅花红桃》（2023）4K 32集全 》（关晓彤 韩东君谍战新剧）
+#### 《梅花红桃》（2023）4K 32集全
 
 夸克：https://pan.quark.cn/s/15a72eee83ee
 
 迅雷：https://pan.xunlei.com/s/VNmvUTtpcC5GDDjZ8yPgdZcyA1?pwd=xvim#
 
-#### 《叠影狙击》（2023）4K  24集全 》（国粤语双音轨）
+#### 《叠影狙击》（2023）4K 24集全（国粤语双音轨）
 
 夸克：https://pan.quark.cn/s/4cb62102106e
 
 迅雷：https://pan.xunlei.com/s/VNmvVrlr1F_aNccBR9bIS7TnA1?pwd=p3t8#
 
-#### 《问心》（2023）4K 38集全（赵又廷 毛晓彤 金世佳）
+#### 《问心》（2023）4K 38集全
 
 夸克：https://pan.quark.cn/s/b7ff8cf8c10b
 
 迅雷：<https://pan.xunlei.com/s/VNlC1J82w2K8PGSz6krXbp3_A1?pwd=suph>
 
-#### 《繁城之下》（2023）4K 12集全 》（悬疑 犯罪 古装 新剧)
+#### 《繁城之下》（2023）4K 12集全
 
 夸克：https://pan.quark.cn/s/596bd351b5c1
 
@@ -1519,7 +1521,7 @@
 
 阿里：<https://www.aliyundrive.com/s/fx2cKurb2kj>
 
-#### 《欢颜》（2023）4K 18集全（抗战送物资发送的事）(张译,张鲁一,佟丽娅)
+#### 《欢颜》（2023）4K 18集全
 
 夸克：https://pan.quark.cn/s/ac344a7fed85
 
@@ -1532,8 +1534,6 @@
 夸克：https://pan.quark.cn/s/30a66f418fb7
 
 迅雷：https://pan.xunlei.com/s/VNlCMRzlt89JuXWy9y6Ckxx3A1?pwd=xrj7#
-
-阿里：https://www.aliyundrive.com/s/utTmH3gHjob
 
 #### 《去有风的地方》（2023）4K 40集全
 
@@ -1549,7 +1549,7 @@
 
 阿里：https://www.alipan.com/s/bpVm7DjyC77
 
-#### 《狂飙》（2023）4K 高码率》（去广告去片头片尾纯享版）
+#### 《狂飙》（2023）4K 高码率（去广告去片头片尾纯享版）
 
 夸克：https://pan.quark.cn/s/d88cee72ad22
 
@@ -1567,7 +1567,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNlCLuNkdffLNkxet53UvQ6mA1?pwd=kaky#
 
-#### 《神探狄仁杰 1-6部全 4K 收藏版》（1部神断狄仁杰）
+#### 《神探狄仁杰》（2004-2017）1-6部全 4K （+一部神断狄仁杰）
 
 夸克：https://pan.quark.cn/s/5aff9cc13396
 
@@ -1583,7 +1583,7 @@
 
 #### 《骄阳伴我》（2023）4K 36集全（肖战 白百何 田雨 朱珠）
 
-夸克：https://pan.quark.cn/s/6127dc9f5d4e
+夸克：https://pan.quark.cn/s/f35d3f073575
 
 迅雷：https://pan.xunlei.com/s/VNnxeR-mDfjgkx4DmSC2k1HlA1?pwd=zryg#
 
@@ -1593,11 +1593,9 @@
 
 迅雷：https://pan.xunlei.com/s/VNmvfjQvFVhSbxM-GlN5ZaTZA1?pwd=hsp5#
 
-阿里：[https://www.aliyundrive.com/s/oJ5eeW1bZ5c
+#### 《山河令》（2021）4K 60帧 36集全（附一大堆相关的）》（收藏版）
 
-#### 《山河令》（2021）4K 60帧 36集全 》（附一大堆相关的）》（收藏版）
-
-夸克：https://pan.quark.cn/s/a1383518223c
+夸克：https://pan.quark.cn/s/5b75ef733cea
 
 迅雷：https://pan.xunlei.com/s/VNmvhKfSaqUbTuaexrblMDReA1?pwd=hp74#
 
@@ -1623,7 +1621,7 @@
 
 阿里：https://www.aliyundrive.com/s/1xNkDCCJaUL
 
-#### 《新三国》（2010）1080P 60帧 高码 》（陈建斌版）【收藏版】
+#### 《新三国》（2010）1080P 60帧 高码 》（陈建斌版）
 
 夸克：https://pan.quark.cn/s/1bcb623bb7b7
 
@@ -1665,7 +1663,7 @@
 
 阿里：https://www.aliyundrive.com/s/D2X2fcq3f4B
 
-#### 《鹊刀门传奇》（2023）4K 全40集
+#### 《鹊刀门传奇》（2023）第一季 4K 全40集
 
 夸克：https://pan.quark.cn/s/37c5ac2f2d71
 
@@ -1757,7 +1755,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNs93Fn5HjHe6Q9w1bTsajOGA1?pwd=susx#
 
-#### 《爱情公寓》（09+11+12+14+20） 4K  1-5季全+番外篇+大电影
+#### 《爱情公寓》（09+11+12+14+20） 4K 1-5季全+番外篇+大电影
 
 夸克：https://pan.quark.cn/s/c9859972bd7b
 
@@ -1765,7 +1763,7 @@
 
 #### 《巡回检查组》（2024）4K 高码 43集全
 
-夸克：https://pan.quark.cn/s/218c5e38dc7c
+夸克：和谐不让添加
 
 迅雷：https://pan.xunlei.com/s/VNxfr-OCIRhnELqCMHx0LBxsA1?pwd=cxtd#
 
@@ -1837,7 +1835,7 @@
 
 #### 《魔幻手机》（2008-2014）HD1080P 1-2部全
 
-夸克：https://pan.quark.cn/s/9e1e36bb123c
+夸克：https://pan.quark.cn/s/af956a316b2f
 
 迅雷：https://pan.xunlei.com/s/VO64ugBFuuS1T4_t2kouSG5KA1?pwd=63z2#
 
@@ -1849,13 +1847,13 @@
 
 #### 《我的团长我的团》（2009）4K 43集全
 
-夸克：https://pan.quark.cn/s/ad2b268041db
+夸克：https://pan.quark.cn/s/0658e7c2713e
 
 迅雷：https://pan.xunlei.com/s/VO9bKuBqgJLExogrdhgV4Ca7A1?pwd=a2eh#
 
 #### 《觉醒年代》（2021）4K 43集全
 
-夸克：https://pan.quark.cn/s/6b8d002c7bc3 只有种子，可以直接添加，夸克和谐不让加
+夸克：https://pan.quark.cn/s/a8007134545e 只有种子，可以直接添加，夸克和谐不让加
 
 迅雷：https://pan.xunlei.com/s/VO9Xdf42ZlpVOEv1-7ybLJV6A1?pwd=xi7v#
 
@@ -1870,12 +1868,6 @@
 夸克：https://pan.quark.cn/s/84f5e598a595
 
 迅雷：https://pan.xunlei.com/s/VO9met1mK-CGeKi96kb96UEmA1?pwd=q5fe#
-
-#### 《天道》（2007）1080P 24集全
-
-夸克：https://pan.quark.cn/s/6fa29ff5cbf3
-
-迅雷：https://pan.xunlei.com/s/VO9mff6MpO42QYCk1-BjWowDA1?pwd=um5g#
 
 #### 《刀锋下的替身》（2018）1080P 38集全
 
@@ -1935,7 +1927,7 @@
 
 夸克：https://pan.quark.cn/s/e6436c4b4db4
 
-#### 《终极一家》 》（2007）55集全
+#### 《终极一家》 （2007）55集全
 
 夸克：https://pan.quark.cn/s/95adce571605
 
@@ -1977,7 +1969,7 @@
 
 #### 《爱的厘米》（2020）1080P 44集全 中字
 
-夸克：https://pan.quark.cn/s/8a568bd70472
+夸克：https://pan.quark.cn/s/279ffa1f4c66
 
 #### 《金枝欲孽》（2004）1-2季全 720P 国粤音轨 中字
 
@@ -1985,7 +1977,9 @@
 
 #### 《黑冰 青瓷 天道》王志文主演三部 1080P修复版
 
-夸克：https://pan.quark.cn/s/cc5c635d7e4c
+夸克：https://pan.quark.cn/s/a7cb8952cedd
+
+迅雷：https://pan.xunlei.com/s/VO9mff6MpO42QYCk1-BjWowDA1?pwd=um5g#
 
 #### 《士兵突击》（2006）4K修复 30集全（王宝强：许三多）
 
@@ -2001,7 +1995,7 @@
 
 #### 《鸡毛飞上天》（2017）1080P 高码 55集全
 
-夸克：https://pan.quark.cn/s/efb355421f08
+夸克：https://pan.quark.cn/s/f00d1296810c
 
 #### 《光荣时代》（2019）1080P高码 46集全
 
@@ -2075,7 +2069,7 @@
 
 夸克：https://pan.quark.cn/s/e8154d11f2ae
 
-### 《特战荣耀》（2022）4K 45集全（杨洋）
+#### 《特战荣耀》（2022）4K 45集全（杨洋）
 
 夸克：https://pan.quark.cn/s/132630138439
 
