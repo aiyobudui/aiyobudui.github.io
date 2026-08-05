@@ -70,6 +70,21 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《速降王者（Descenders）》Build.24473652 中文 联机版（山地自行车极限运动游戏）
+
+夸克：https://pan.quark.cn/s/ae9745ba51a5
+
+#### 《地狱仆从2 神罚降临（HellSlave II）》v1.3.0 中文版
+
+夸克：https://pan.quark.cn/s/de1ac696611c
+
+迅雷：https://pan.xunlei.com/s/VOzHye5JGzlbo0uDRmcOVTOwA1?pwd=y44r#
+
+#### 《网球王子 学园祭的王子们（The Prince of Tennis Sweet School Festival）》v1.1.1 中文版
+#### 《网球王子 心跳求生（The Prince of Tennis Doki Doki Survival）》v1.1.1 中文版
+
+夸克：https://pan.quark.cn/s/406d8cbaf1e6
+
 #### 《养鱼模拟器（Fish Game）》Build.23879224 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5c85fcc30dc4
@@ -146,9 +161,47 @@
 
 ## 最近更新
 
+#### 《我的小柯基（My Little Puppy）》v1.1.2519 中文版（关于死亡来世的温情故事游戏）
+
+夸克：https://pan.quark.cn/s/ae859e640ad1
+
+#### 《无尽爱丽丝（Endless Alice）》v0.3.3 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/df87419d5ca8
+
+#### 《时光之帽（A Hat in Time）终极版》Build.24437107 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/c99292aeb535
+
+#### 《深岩银河：异动核心（Deep Rock Galactic Rogue Core）支持者版》v0.4.148107.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/3ef7d395e397
+
+迅雷：https://pan.xunlei.com/s/VOzIAa-C_Lyt-F237OX3jfywA1?pwd=sb2i#
+
+#### 《亡命迪斯科（Dead as Disco）》v0.1.2.71 全DLC 中文版（死亡迪斯科）
+
+夸克：https://pan.quark.cn/s/a1e3f4d62707
+
+#### 《我在地府打麻将（Demonic Mahjong）》v0.2.57 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d88da55c16aa
+
+迅雷：https://pan.xunlei.com/s/VOr81jS0cIHbp4W2A7J9d-PtA1?pwd=ryuc#
+
+#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.72 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e69d68ac66af
+
+迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
+
 #### 《魔法工艺（Magicraft）》v1.2.34 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/727cfee561c0
+
+#### 《孤岛笔记（Island Notes）》v2026.8.3 中文版
+
+夸克：https://pan.quark.cn/s/94a12e33b31a
 
 #### 《优米雅的炼金工房 ～追忆之炼金术士与幻创之地～ 豪华版》v1.70 全DLC 中文版（更新）
 #### 《红色的炼金术士和白色的守护者 ～蕾斯莱莉娅娜的炼金工房～ 豪华版》v1.3.0 全DLC 中文版
@@ -173,6 +226,18 @@
 #### 《光环 战役进化（Halo Campaign Evolved）高级版》v1112544 中文 联机版
 
 夸克：https://pan.quark.cn/s/f2203ca7528b
+
+#### 《要塞十字军东征：决定版（Stronghold Crusader Definitive Edition）》v2.8 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/6b3dff37f4cb
+
+迅雷：https://pan.xunlei.com/s/VNvC8wNHWGF9CAHzbQ6L-ud0A1?pwd=dqvj#
+
+#### 《东方夜雀食堂（Touhou Mystia's Izakaya）》v4.4.0e 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/326f1b18828c
+
+迅雷：https://pan.xunlei.com/s/VO3Cs9u9pfmsz8T42i9d-WjYA1?pwd=s3xz#
 
 #### 《青岚物语（Tales of Seikyu）》v1.1.13 中文版
 
@@ -201,6 +266,14 @@
 #### 《神探杰克鼠（MOUSE P.I. For Hire）豪华版》v1.2.2.8822 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8b87767ebd52
+
+#### 《帝国时代4（Age of Empires IV）周年纪念版》v16.3.11308.0 全DLC 中文版
+#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（局域网联机）
+#### 《帝国时代2 决定版（Age of Empires II）》v180059 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0c0f7a82ce32
+
+迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
 
 ---
 
@@ -915,14 +988,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNobgwozE59Fjsz1fpjXoN5MA1?pwd=pnbt#
 
-#### 《帝国时代2 决定版（Age of Empires II）》v180059 全DLC 中文版
-#### 《帝国时代4（Age of Empires IV）周年纪念版》v16.2.10604 全DLC 中文版
-#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（局域网联机）
-
-夸克：https://pan.quark.cn/s/0c0f7a82ce32
-
-迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
-
 #### 《绯夜传奇 重制版（Tales of Berseria Remastered）豪华版》v1.0.5 全DLC 中文版（绯夜传说 狂战传说）
 #### 《无尽传奇 重制版（Tales of Xillia Remastered）豪华版》v1.0.2 全DLC 中文版（无尽传说）
 #### 《美德传奇f 重制版（Tales of Graces F Remastered）豪华版》v1.0.2 全DLC 中文版（圣恩传说F）
@@ -1414,12 +1479,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOmy-wR7ZV-w7eoHmU6igqCjA1?pwd=yfzx#
 
-#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.44 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/e69d68ac66af
-
-迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
-
 #### 《深渊之潮（Abyssus）》v1.3.61832 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/d9e794c1e06e
@@ -1840,10 +1899,6 @@
 #### 《沙丘：帝国（Dune Imperium）》v4.0.0.1702 全DLC 中文 联机版（沙丘帝国 桌游）
 
 夸克：https://pan.quark.cn/s/c021a2b6f46a
-
-#### 《亡命迪斯科、死亡迪斯科（Dead as Disco）》v0.8.16 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a1e3f4d62707
 
 #### 《掘地求狗（Pratfall）》v1.2.0.R3791 中文 联机版
 
@@ -2299,10 +2354,6 @@ w
 
 夸克：https://pan.quark.cn/s/4d80fc1f0ee1
 
-#### 《深岩银河：异动核心（Deep Rock Galactic Rogue Core）支持者版》v0.4.143145.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/3ef7d395e397
-
 #### 《迷雾计划（Project Mist）》v0.1.K_2984 中文 联机版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/720836545507
@@ -2451,10 +2502,6 @@ w
 #### 《罪恶装备 奋战（GUILTY GEAR -STRIVE-）》v2.01 全DLC 中文 联机版（圣骑士之战 -奋战-）
 
 夸克：https://pan.quark.cn/s/e94c4d864e27
-
-#### 《要塞十字军东征：决定版（Stronghold Crusader Definitive Edition）》v2.7.1 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/6b3dff37f4cb
 
 #### 《海盗：加勒比海战（Corsairs Battle of the Caribbean）》v2026.5.19 中文版
 
@@ -2889,12 +2936,6 @@ w
 夸克：https://pan.quark.cn/s/e3c16ceb73f7
 
 迅雷：https://pan.xunlei.com/s/VNw0-RA9cghaYl5s1nnp86b-A1?pwd=wg7k#
-
-#### 《我在地府打麻将（Demonic Mahjong）》v0.2.43 中文版
-
-夸克：https://pan.quark.cn/s/d88da55c16aa
-
-迅雷：https://pan.xunlei.com/s/VOr81jS0cIHbp4W2A7J9d-PtA1?pwd=ryuc#
 
 #### 《Toads Soul Hopper》v1.1.0 中文版（灵魂跳跃者）
 
@@ -5079,10 +5120,6 @@ w
 
 夸克：https://pan.quark.cn/s/68d3e578b46a
 
-#### 《我的小柯基（My Little Puppy）》v1.0.2517 中文版（关于死亡来世的温情故事游戏）
-
-夸克：https://pan.quark.cn/s/ae859e640ad1
-
 #### 《最远的边陲（Farthest Frontier）》v1.0.4 中文版
 
 夸克：https://pan.quark.cn/s/e580cf5915b4
@@ -5202,12 +5239,6 @@ w
 #### 《海洋幻想（Sea Fantasy）》v2.6.3 中文版
 
 夸克：https://pan.quark.cn/s/6f60af95df33
-
-#### 《东方夜雀食堂（Touhou Mystia's Izakaya）》v4.3.0c 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/326f1b18828c
-
-迅雷：https://pan.xunlei.com/s/VO3Cs9u9pfmsz8T42i9d-WjYA1?pwd=s3xz#
 
 #### 《古老传说：多米纳斯（Tales of Old Dominus）》v1.0-261025 中文版（RPG开放世界冒险）
 
@@ -6835,10 +6866,6 @@ w
 
 夸克：https://pan.quark.cn/s/7154be00e0c0
 
-#### 《孤岛笔记（Island Notes）》v2025.8.24 中文版
-
-夸克：https://pan.quark.cn/s/94a12e33b31a
-
 #### 《回音点新星（Echo Point Nova）》v2.1 中文版（开发世界射击）
 
 夸克：https://pan.quark.cn/s/6a05fd181d49
@@ -7712,10 +7739,6 @@ w
 #### 《Dolls Nest》v1.1.1 中文版（N+社 机甲少女）
 
 夸克：https://pan.quark.cn/s/792a85f14d6b
-
-#### 《时光之帽（A Hat in Time）终极版》v2025.6.26 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/c99292aeb535
 
 #### 《太阳港（Sun Haven）》v2.5.1E 全DLC 中文 联机版
 
@@ -9883,10 +9906,6 @@ w
 #### 《天堂的杀手（Paradise Killer）》v1.2.04.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/75eeacb27f17
-
-#### 《无尽爱丽丝（Endless Alice）》v2025.1.16 中文版
-
-夸克：https://pan.quark.cn/s/df87419d5ca8
 
 #### 《幻刃奇美拉（BLADE CHIMERA）》v2025.1.16 中文版
 
@@ -12790,12 +12809,6 @@ w
 #### 《小丑牌》 Balatro 最新 中文版 93M
 
 夸克：https://pan.quark.cn/s/5f29228c3f88
-
-#### 《要塞 决定版（Stronghold Definitive Edition）》v1.1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/bc8dbf816c49
-
-迅雷：https://pan.xunlei.com/s/VNvC8wNHWGF9CAHzbQ6L-ud0A1?pwd=dqvj#
 
 #### 《笼中窥梦》v1.06 中文版
 
