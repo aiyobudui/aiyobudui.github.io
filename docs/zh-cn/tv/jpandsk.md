@@ -22,6 +22,14 @@
 
 迅雷：https://pan.xunlei.com/s/VOzBYrlxE8NieAbl9mIEZr37A1?pwd=uuds#
 
+#### 《杀人者的购物中心2》（2024-2026）第二季 1080P 8集 更新中..（附第一季）
+
+夸克：https://pan.quark.cn/s/d9c509582553
+
+迅雷：https://pan.xunlei.com/s/VNoLiEDzpj_e0bpCqYT0Mf-JA1?pwd=k96x#
+
+百度：https://pan.baidu.com/s/1E80-Nqfg293HWNILJYwFpw?pwd=0000
+
 ---
 
 ## 已完结的...
@@ -425,14 +433,6 @@
 迅雷：https://pan.xunlei.com/s/VNnibqX24hki2NCFi9HyY7AXA1?pwd=ubeh#
 
 百度：https://pan.baidu.com/s/1Lya-kH95hesvmZIaEpj_7A?pwd=0000
-
-#### 杀人者的购物中心（2024）1080P 8集全 韩语中字（悬疑 惊悚）
-
-夸克：https://pan.quark.cn/s/d9c509582553
-
-迅雷：https://pan.xunlei.com/s/VNoLiEDzpj_e0bpCqYT0Mf-JA1?pwd=k96x#
-
-百度：https://pan.baidu.com/s/1E80-Nqfg293HWNILJYwFpw?pwd=0000
 
 #### 杀人者的难堪（2024）1080P 8集全 韩语中字（悬疑 惊悚）
 
