@@ -82,6 +82,10 @@
 
 夸克：https://pan.quark.cn/s/6197ec318220
 
+#### 《生死深潜：雨之子民（DIVE or DIE - Children of Rain）》v1.0.4.848 中文版
+
+夸克：https://pan.quark.cn/s/be8a7c238375
+
 #### 《速降王者（Descenders）》Build.24473652 中文 联机版（山地自行车极限运动游戏）
 
 夸克：https://pan.quark.cn/s/ae9745ba51a5
