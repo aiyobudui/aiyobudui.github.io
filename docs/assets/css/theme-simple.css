@@ -1603,34 +1603,10 @@ body .sidebar {
     padding: var(--sidebar-padding);
 }
 
-.sidebar .search {
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
+/* =================== v5 搜索插件样式 =================== */
+/* 基于 docsify@5 搜索插件，保留自定义覆盖 */
 
-.sidebar .search input {
-    padding: 0;
-    line-height: 1;
-    font-size: inherit;
-}
-
-.sidebar .search .clear-button {
-    width: auto;
-}
-
-.sidebar .search .clear-button svg {
-    transform: scale(1);
-}
-
-.sidebar .search .matching-post {
-    border: none;
-}
-
-.sidebar .search p {
-    font-size: inherit;
-}
-
+/* 搜索容器 */
 .sidebar .search {
     order: var(--search-flex-order);
     margin: var(--search-margin);
@@ -1638,32 +1614,18 @@ body .sidebar {
     background: var(--search-background);
 }
 
-.sidebar .search a {
-    color: inherit;
-}
-
-.sidebar .search h2 {
-    margin: var(--search-result-heading-margin);
-    font-size: var(--search-result-heading-font-size);
-    font-weight: var(--search-result-heading-font-weight);
-    color: var(--search-result-heading-color);
-}
-
+/* v5: 输入框容器 — 不覆盖v5的input-wrap定位 */
 .sidebar .search .input-wrap {
     align-items: stretch;
-    margin: var(--search-input-margin);
-    background-color: var(--search-input-background-color);
-    border-width: var(--search-input-border-width, 0);
-    border-style: solid;
-    border-color: var(--search-input-border-color);
-    border-radius: var(--search-input-border-radius);
+    margin: var(--search-input-margin, 0);
 }
 
+/* v5: 输入框 — 保留自定义背景，给 clear-button 预留右侧空间 */
 .sidebar .search input[type="search"] {
     min-width: 0;
     padding: var(--search-input-padding);
-    border: none;
-    background-color: rgba(0, 0, 0, 0);
+    /* v5: 右侧给 clear-button(20px) + 间距(16px) 预留空间 */
+    padding-inline-end: 36px;
     background-image: var(--search-input-background-image);
     background-position: var(--search-input-background-position);
     background-repeat: var(--search-input-background-repeat);
@@ -1677,11 +1639,8 @@ body .sidebar {
     display: none;
 }
 
+.sidebar .search input[type="search"]::placeholder,
 .sidebar .search input[type="search"]::-moz-placeholder {
-    color: var(--search-input-placeholder-color, #808080);
-}
-
-.sidebar .search input[type="search"]::placeholder {
     color: var(--search-input-placeholder-color, #808080);
 }
 
@@ -1690,8 +1649,6 @@ body .sidebar {
 }
 
 .sidebar .search input[type="search"]:focus {
-    background-color: var(--search-input-background-color--focus,
-            var(--search-input-background-color));
     background-image: var(--search-input-background-image--focus,
             var(--search-input-background-image));
     background-position: var(--search-input-background-position--focus,
@@ -1708,6 +1665,82 @@ body .sidebar {
     }
 }
 
+/* v5: 清理按钮 — 恢复v5原生样式（彩色背景X图标）
+   !important 用于覆盖v5插件在head中注入的内联样式 */
+.sidebar .search .clear-button {
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1 !important;
+    cursor: pointer !important;
+    width: 20px !important;
+    height: 20px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    /* 恢复v5默认值：蓝色背景 + 白色X */
+    --plugin-search-reset-bg: var(--theme-color, #18256d);
+    --plugin-search-reset-color: #fff;
+    --plugin-search-reset-border: transparent;
+    --plugin-search-reset-border-radius: 50%;
+}
+
+/* v5: 当输入框有内容时，强制显示清理按钮 */
+.sidebar .search input:valid ~ .clear-button {
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+/* v5: 悬停态变深色 */
+.sidebar .search .clear-button:hover {
+    --plugin-search-reset-bg: color-mix(in srgb, var(--theme-color) 80%, black);
+}
+
+/* v5: 隐藏visually-hidden文字，仅保留伪元素X图标 */
+.sidebar .search .clear-button .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+/* v4兼容: svg图标样式（v4版本使用） */
+.sidebar .search .clear-button svg {
+    transform: scale(1);
+}
+
+.sidebar .search .clear-button svg circle {
+    fill: var(--search-clear-icon-color1, #808080);
+}
+
+.sidebar .search .clear-button svg path {
+    stroke: var(--search-clear-icon-color2, #fff);
+}
+
+/* v5: 键盘快捷键提示 */
+.sidebar .search .kbd-group kbd {
+    font-family: inherit;
+}
+
+/* v5: 搜索结果链接颜色 */
+.sidebar .search a {
+    color: inherit;
+}
+
+/* v5: 搜索结果标题 */
+.sidebar .search .matching-post .title {
+    margin: var(--search-result-heading-margin, 0 0 0.3em);
+    font-size: var(--search-result-heading-font-size, 0.9rem);
+    font-weight: var(--search-result-heading-font-weight, 500);
+    color: var(--search-result-heading-color, inherit);
+}
+
+/* v5: 搜索结果摘要文本截断 */
 .sidebar .search p {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -1720,54 +1753,34 @@ body .sidebar {
     text-align: center;
 }
 
-.sidebar .search .clear-button {
-    margin: 0;
-    padding: 0 10px;
-    border: none;
-    line-height: 1;
-    background: rgba(0, 0, 0, 0);
-    cursor: pointer;
+/* v5: 搜索结果状态 */
+.sidebar .search .results-status {
+    margin: 0 0 0.5em;
+    font-size: 0.8rem;
+    color: var(--color-mono-5, #666);
 }
 
-.sidebar .search .clear-button svg circle {
-    fill: var(--search-clear-icon-color1, #808080);
-}
-
-.sidebar .search .clear-button svg path {
-    stroke: var(--search-clear-icon-color2, #fff);
-}
-
-.sidebar .search.show~*:not(h1) {
+/* v5: 空面板隐藏（v5用:empty，v4兼容用.show） */
+.sidebar .search .results-panel:empty {
     display: none;
-}
-
-.sidebar .search .results-panel {
-    display: none;
-    color: var(--search-result-item-color);
-    font-size: var(--search-result-item-font-size);
-    font-weight: var(--search-result-item-font-weight);
 }
 
 .sidebar .search .results-panel.show {
     display: block;
 }
 
+/* v5: 匹配项样式 */
 .sidebar .search .matching-post {
     margin: var(--search-result-item-margin);
     padding: var(--search-result-item-padding);
-}
-
-.sidebar .search .matching-post,
-.sidebar .search .matching-post:last-child {
-    border-width: var(--search-result-item-border-width, 0) !important;
-    border-style: var(--search-result-item-border-style);
-    border-color: var(--search-result-item-border-color);
+    border: none !important;
 }
 
 .sidebar .search .matching-post p {
     margin: 0;
 }
 
+/* v5: 高亮关键词 */
 .sidebar .search .search-keyword {
     margin: var(--search-result-keyword-margin);
     padding: var(--search-result-keyword-padding);

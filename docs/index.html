@@ -62,10 +62,10 @@
 
     <!-- =================== 外部CSS样式 =================== -->
     <!-- 主题样式--->
-    <link rel="preload" href="./assets/css/theme-simple.css" as="style"
+    <link rel="preload" href="./assets/css/theme-simple.css?v=9" as="style"
         onload="this.onload=null;this.rel='stylesheet'" />
     <noscript>
-        <link rel="stylesheet" href="./assets/css/theme-simple.css" />
+        <link rel="stylesheet" href="./assets/css/theme-simple.css?v=9" />
     </noscript>
 
     <!-- 封面样式 --->
@@ -75,9 +75,9 @@
         <link rel="stylesheet" href="./assets/css/docsify-vite-coverpage.css" />
     </noscript>
 
-    <!-- docsify核心 JS预加载 - 主CDN: jsdelivr -->
-    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" as="script">
-    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" as="script">
+    <!-- docsify核心 JS预加载 - 主CDN: jsdelivr (v5路径: /dist/) -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js" as="script">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js" as="script">
 
     <!-- TOC菜单 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/light.css"
@@ -96,6 +96,8 @@
     <style>
         /* =================== 1. CSS变量定义 =================== */
         :root {
+            --theme-color: #18256d;
+            /* docsify v5 主题色（替代 themeColor 配置） */
             --base-font-size: 0.9375rem;
             /* 基础字体大小 */
             --sidebar-width: 20.5rem;
@@ -560,22 +562,7 @@
         }
 
         /* =================== 9. 搜索框样式 =================== */
-        .search input {
-            width: 100%;
-            /* 全宽 */
-            padding: 0.75rem 1.25rem;
-            /* 内边距 */
-            font-size: 1rem;
-            /* 字体大小 */
-            border: 2px solid #42b983;
-            /* 边框 */
-            border-radius: 8px;
-            /* 圆角 */
-            outline: none;
-            /* 无轮廓 */
-            animation: pulseBorder 2s infinite;
-            /* 脉冲动画 */
-        }
+        /* v5: 移除自定义 input 边框/动画，v5 自带更完善的样式 */
 
         /* 搜索结果分类路径样式（电脑端） */
         .search .results-panel .matching-post .result-category {
@@ -590,33 +577,9 @@
             content: "📁 ";
         }
 
-        /* 搜索框边框脉冲动画 */
-        @keyframes pulseBorder {
-            0% {
-                box-shadow: 0 0 0 0 rgba(4, 47, 236, 0.7);
-            }
-
-            70% {
-                box-shadow: 0 0 0 10px rgba(66, 185, 131, 0);
-            }
-
-            100% {
-                box-shadow: 0 0 0 0 rgba(66, 185, 131, 0);
-            }
-        }
-
-        /* 聚焦时停止动画 */
-        .search input:focus {
-            animation: none;
-            border-color: #267c58;
-            /* 聚焦边框颜色 */
-            box-shadow: 0 0 0 3px rgba(66, 185, 131, 0.5);
-            /* 聚焦阴影 */
-        }
-
-        .matching-post p {
+        /* v5: 隐藏搜索结果中的描述文本（仅保留标题） */
+        .matching-post p.content {
             display: none !important;
-            /* 隐藏搜索结果中的描述 */
         }
 
         /* =================== 10. MD文件内导航按钮 =================== */
@@ -1644,7 +1607,6 @@
             mergeNavbar: true,
             topMargin: 0,  // 顶部边距，让搜索结果跳转后标题显示在页面第一位
             externalLinkTarget: '_blank',
-            themeColor: '#18256d',
             routerMode: 'hash',
             relativePath: false,
 
@@ -1676,7 +1638,6 @@
                 placeholder: '请输入关键词"搜索"',
                 noData: '没有搜到就换个关键词在试试。没有就联系站长让他上资源。',
                 depth: 4,
-                hideOtherSidebarContent: true,
                 namespace: 'web-v2',
                 pathNamespaces: ['/zh-cn'],
             },
@@ -1756,6 +1717,13 @@
 
         // 为搜索结果添加分类路径
         function addCategoryToSearchResults() {
+            // 本地化搜索结果状态文本（v5硬编码了英文"Found X results"）
+            var status = document.querySelector('.search .results-status');
+            if (status) {
+                var m = status.textContent.match(/^Found (\d+) results$/);
+                if (m) status.textContent = '找到 ' + m[1] + ' 个结果';
+            }
+
             var results = document.querySelectorAll('.search .results-panel .matching-post a');
             if (results.length === 0) return;
 
@@ -1769,9 +1737,9 @@
                     var categorySpan = document.createElement('span');
                     categorySpan.className = 'result-category';
                     categorySpan.textContent = category;
-                    var h2 = link.querySelector('h2');
-                    if (h2) {
-                        link.insertBefore(categorySpan, h2);
+                    var titleEl = link.querySelector('p.title') || link.querySelector('h2');
+                    if (titleEl) {
+                        link.insertBefore(categorySpan, titleEl);
                     } else {
                         link.insertBefore(categorySpan, link.firstChild);
                     }
@@ -1825,17 +1793,23 @@
     <script>
         var docsifyLoadStart = performance.now();
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"
+    <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('docsify-core', docsifyLoadStart);"
-        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@4/lib/docsify.min.js'"></script>
+        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@5/dist/docsify.min.js'"></script>
+    <!-- v5兼容补丁：Docsify.dom 被冻结无法添加属性，用getter劫持注入 toggleClass（docsify-plugin-toc 依赖） -->
+    <script>(function(){var orig=window.Docsify.dom,p={};Object.keys(orig).forEach(function(k){p[k]=orig[k]});p.toggleClass=function(e,a,c){if(!e)return;if(a==="add")e.classList.add(c);else if(a==="remove")e.classList.remove(c);else e.classList.toggle(a||c)};Object.defineProperty(window.Docsify,'dom',{get:function(){return p},set:function(v){if(v){Object.keys(v).forEach(function(k){p[k]=v[k]})}},configurable:true})})();</script>
 
     <!-- 搜索 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
         var searchLoadStart = performance.now();
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"
+    <!-- 保存自定义plugins（v5搜索插件会覆盖$docsify.plugins数组） -->
+    <script>var __savedPlugins = window.$docsify.plugins || [];</script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('search-plugin', searchLoadStart);"
-        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'"></script>
+        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@5.0.0/dist/plugins/search.min.js'"></script>
+    <!-- 恢复被v5搜索插件覆盖的自定义plugins -->
+    <script>window.$docsify.plugins = window.$docsify.plugins.concat(__savedPlugins);</script>
 
     <!-- =================== 必要插件JS文件 =================== -->
     <!-- 侧边栏折叠 - 主CDN: jsdelivr, 备用CDN: unpkg -->
@@ -1846,13 +1820,14 @@
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('sidebar-collapse', sidebarCollapseLoadStart);"
         onerror="this.src='https://unpkg.com/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js'"></script>
 
-    <!-- 图片缩放 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <!-- 图片缩放 - 主CDN: jsdelivr, 备用CDN: unpkg
+         注: v5.0.0 实际文件名仍为 zoom-image.min.js（官方文档写的 zoom.min.js 在 5.0.0 中不存在）-->
     <script>
         var zoomImageLoadStart = performance.now();
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"
+    <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/zoom-image.min.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('zoom-image-plugin', zoomImageLoadStart);"
-        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@4/lib/plugins/zoom-image.min.js'"></script>
+        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@5/dist/plugins/zoom-image.min.js'"></script>
 
     <!-- 选项卡 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
