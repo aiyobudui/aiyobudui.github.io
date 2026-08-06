@@ -120,7 +120,7 @@
 
 夸克：https://pan.quark.cn/s/04038f73e14e
 
-#### 《挂姬恶魔 Idle Devils》v1.0.6 NS整合 全DLC 中文版
+#### 《挂姬恶魔 Idle Devils》v1.0.7 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/3c9ba2b8fe42
 
@@ -306,7 +306,7 @@
 
 夸克：https://pan.quark.cn/s/82233b3ad455
 
-#### 《我的世界 Minecraft》v1.26.31 NS整合 美区中文版
+#### 《我的世界 Minecraft》v1.26.40 NS整合 美区中文版
 
 夸克：https://pan.quark.cn/s/e4fc0750a9e0
 

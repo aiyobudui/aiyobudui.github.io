@@ -70,6 +70,10 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《杀死影子（Kill The Shadow）》Build.24566977 中文版
+
+夸克：https://pan.quark.cn/s/b728cd802d3a
+
 #### 《黑夜轮回（Re Night）》v2026.8.5 中文版（肉鸽卡牌）
 
 夸克：https://pan.quark.cn/s/19588caa5dfe
@@ -318,6 +322,10 @@
 
 夸克：https://pan.quark.cn/s/9b34ff6c5281
 
+#### 《多洛可小镇（Doloc Town）》v0.96.08 中文版
+
+夸克：https://pan.quark.cn/s/57ffa54d96a5
+
 ---
 
 ## 置顶推荐
@@ -346,6 +354,7 @@
 
 #### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v403.798 全DLC 中文 联机版
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
+#### 《极限竞速：地平线4（Forza Horizon 6）终极版》v1.477.567 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
@@ -8629,10 +8638,6 @@ w
 
 夸克：https://pan.quark.cn/s/36ba981bcbcb
 
-#### 《多洛可小镇（Doloc Town）》v2025.5.9 中文版
-
-夸克：https://pan.quark.cn/s/57ffa54d96a5
-
 #### 《骰死地牢（Die in the Dungeon）》v4.2.2 中文版
 
 夸克：https://pan.quark.cn/s/f02bf17f7781
@@ -12861,28 +12866,18 @@ w
 夸克：https://pan.quark.cn/s/3f94853e6886
 
 #### 《女鬼桥2：释魂路（The Bridge Curse 2 The Extrication）》v1.7.2.2 中文版（恐怖游戏）
+#### 《女鬼桥：开魂路（The Bridge Curse Road to Salvation）》v1.6.2（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/eac4c8256e11
 
-迅雷：https://pan.xunlei.com/s/VNy0R5Tbqwfi6xY7eyt2Cr__A1?pwd=7i7j#
-
-#### 《女鬼桥：开魂路（The Bridge Curse Road to Salvation）》v1.6.2（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/784d39e24969
-
 迅雷：https://pan.xunlei.com/s/VNrjVQyU7H_QU0Z11ps8Fj-SA1?pwd=nxab#
 
-#### 《纸人：第一章》恐怖游戏
+#### 《纸人：第一章》最新 中文版（恐怖游戏）
+#### 《纸人贰》v1.1.0 中文版（纸人2）
 
 夸克：https://pan.quark.cn/s/f82dfea43151
 
 迅雷：https://pan.xunlei.com/s/VNrkEv4vXYUsRKnHQmys2NJVA1?pwd=3ecn#
-
-#### 《纸人贰》（纸人2）恐怖游戏
-
-夸克：https://pan.quark.cn/s/a2400a6fb324
-
-迅雷：https://pan.xunlei.com/s/VNvwCV5eX7vYJUwlLtaXIW52A1?pwd=jriq#
 
 #### 《图灵完备》最新 中文版 版本号看文件名
 
@@ -12890,17 +12885,13 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNtKsQu8sNFbthGSpYF0yPvOA1?pwd=tnd8#
 
-#### 《逃出生天》 A Way Out v1.2.0.2 汉化中文版
+#### 《逃出生天（A Way Out）》v1.2.0.2 汉化 联机版
 
 夸克：https://pan.quark.cn/s/a9d6ace3df2d
 
 #### 《兄弟：双子传说 重制版》最新 中文版
 
 夸克：https://pan.quark.cn/s/fddb670a4a9b
-
-#### 《极限竞速：地平线4》v1.477.567 终极版 全DLC 附联机补丁
-
-夸克：https://pan.quark.cn/s/0bf8f9ecb1f4
 
 #### 《德国长途客车模拟》最新 中文版
 
