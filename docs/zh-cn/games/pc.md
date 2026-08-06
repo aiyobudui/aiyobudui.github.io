@@ -70,6 +70,18 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《黑夜轮回（Re Night）》v2026.8.5 中文版（肉鸽卡牌）
+
+夸克：https://pan.quark.cn/s/19588caa5dfe
+
+#### 《机械狂欢（Machine Party）》v1.0.7 中文 联机版
+
+夸克：https://pan.quark.cn/s/3ddba0d917df
+
+#### 《吸吸弹弹大乱斗（Jelly Monsters）豪华版》v1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6197ec318220
+
 #### 《速降王者（Descenders）》Build.24473652 中文 联机版（山地自行车极限运动游戏）
 
 夸克：https://pan.quark.cn/s/ae9745ba51a5
@@ -157,9 +169,21 @@
 
 夸克：https://pan.quark.cn/s/ff1b9a0b4c3e
 
+#### 《诺科（NORCO）》v1.5.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/19e17596c807
+
 ---
 
 ## 最近更新
+
+#### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.2018 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/51ec3310edca
+
+#### 《警察模拟器：巡警（Police Simulator Patrol Officers）终极任务版》v22.3.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/22a57b547f78
 
 #### 《我的小柯基（My Little Puppy）》v1.1.2519 中文版（关于死亡来世的温情故事游戏）
 
@@ -172,6 +196,12 @@
 #### 《时光之帽（A Hat in Time）终极版》Build.24437107 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/c99292aeb535
+
+#### 《哈迪斯2（Hades II）》v1.139671 中文版（附第一部）
+
+夸克：https://pan.quark.cn/s/74b6e4cc96f7
+
+迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
 
 #### 《深岩银河：异动核心（Deep Rock Galactic Rogue Core）支持者版》v0.4.148107.0 全DLC 中文 联机版
 
@@ -267,13 +297,22 @@
 
 夸克：https://pan.quark.cn/s/8b87767ebd52
 
+#### 《天外世界2（The Outer Worlds 2）高级版》v1.2.0.1 中文版
+#### 《天外世界：太空人之选（The Outer Worlds Spacer's Choice Edition）重制版》v2.5.9.0 中文版
+
+夸克：https://pan.quark.cn/s/9baad4a27102
+
 #### 《帝国时代4（Age of Empires IV）周年纪念版》v16.3.11308.0 全DLC 中文版
-#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（局域网联机）
+#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（可局域网联机）
 #### 《帝国时代2 决定版（Age of Empires II）》v180059 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/0c0f7a82ce32
 
 迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
+
+#### 《月影杀（Kristala）终结版》v1.1.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9b34ff6c5281
 
 ---
 
@@ -799,10 +838,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOnglr4I5yoJreAETAJ2UUcbA1?pwd=wy63
 
-#### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.1892 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/51ec3310edca
-
 #### 《Go-Go Town!》v1.0.25831 中文版（城市建设和双人协作）
 
 夸克：https://pan.quark.cn/s/1409c59aa866
@@ -954,11 +989,6 @@
 #### 《毁灭战士 永恒（DOOM Eternal）豪华版》Build.23241804 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5d002d83f9e0
-
-#### 《天外世界2（The Outer Worlds 2）高级版》v1.2.0.0 中文版（更新）
-#### 《天外世界：太空人之选（The Outer Worlds Spacer's Choice Edition）重制版》v2.5.9.0 中文版
-
-夸克：https://pan.quark.cn/s/9baad4a27102
 
 #### 《碧蓝幻想Relink 无尽黄昏（Granblue Fantasy Relink）特别版》v2.0.2 全DLC 中文 联机版
 
@@ -1873,12 +1903,6 @@
 #### 《烤串大厨 餐厅模拟器（Kebab Chefs Restaurant Simulator）》v1.0 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/780e085dd9de
-
-#### 《哈迪斯2（Hades II）》v1.138517 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/74b6e4cc96f7
-
-迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
 
 #### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.14.1.19644 中文版
 
@@ -2946,10 +2970,6 @@ w
 夸克：https://pan.quark.cn/s/73983705a9bd
 
 迅雷：https://pan.xunlei.com/s/VOr8-vJv4I201Q6SvZeOJqnLA1?pwd=jz5a#
-
-#### 《月影杀（Kristala）豪华版》v1.0.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/9b34ff6c5281
 
 #### 《晕晕电波症候群（Yunyun Syndrome! Rhythm Psychosis）》v0.88 中文版（节奏冒险）
 
@@ -7135,10 +7155,6 @@ w
 #### 《船舶墓地模拟器2（Ship Graveyard Simulator 2)）》v13512 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/a0efccb4795b
-
-#### 《警察模拟器：巡警（Police Simulator Patrol Officers）》v18.2.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/22a57b547f78
 
 #### 《忍者外传：怒之羁绊（NINJA GAIDEN Ragebound）》v2025.8.12 中文版
 
