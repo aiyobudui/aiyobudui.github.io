@@ -223,10 +223,6 @@
 
 夸克：https://pan.quark.cn/s/a3f4b58391e5
 
-#### 《钢铁之村》v1.1.00 安卓完整版
-
-夸克：https://pan.quark.cn/s/a3f4b58391e5
-
 #### 《铁甲钢拳世界机器人拳击》最新 安卓版（无限金币【断网进入】
 
 夸克：https://pan.quark.cn/s/8cd4067a7bfc

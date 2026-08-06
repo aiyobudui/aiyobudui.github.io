@@ -10862,10 +10862,6 @@ w
 
 夸克：https://pan.quark.cn/s/69e62f1c189e
 
-#### 《bodgcam》v0.00010 20240608 尝鲜版，没有中文
-
-夸克：https://pan.quark.cn/s/20fe722c9977
-
 #### 《游击队1941（Partisans 1941）》v1.1.05 全DLC 中文配音 扩展版
 
 夸克：https://pan.quark.cn/s/fb8aed4d9035
@@ -12437,10 +12433,6 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNzxRx5ZfWH6qARYOVyFAl7kA1?pwd=9g43#
 
-#### 《bodgcam》v0.00010 20240608 尝鲜版，没有中文
-
-夸克：https://pan.quark.cn/s/d159e736beec
-
 #### 《武士零(Katana ZERO)》中文版+英文版
 
 夸克：https://pan.quark.cn/s/7ed32bcff0f9
@@ -12459,7 +12451,7 @@ w
 
 夸克：https://pan.quark.cn/s/e589bc75e492
 
-#### 《重装前哨（Outpost Infinity Siege）》最新 中文联机版
+#### 《重装前哨（Outpost Infinity Siege）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/9525966f480f
 

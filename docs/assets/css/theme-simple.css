@@ -26,7 +26,6 @@ body.ready-transition:after {
     width: var(--spinner-size);
     border: var(--spinner-track-width, 0) solid var(--spinner-track-color);
     border-left-color: var(--theme-color);
-    border-left-color: var(--theme-color);
     border-radius: 50%;
     -webkit-animation: spinner var(--duration-slow) infinite linear;
     animation: spinner var(--duration-slow) infinite linear;
@@ -177,29 +176,16 @@ sup {
     top: -0.5em;
 }
 
-body:not([data-platform="Mac"]) *::-webkit-scrollbar {
+body:not([data-platform^="Mac"]) *::-webkit-scrollbar {
     width: 5px;
     height: 5px;
 }
 
-body:not([data-platform="Mac"]) *::-webkit-scrollbar-thumb {
+body:not([data-platform^="Mac"]) *::-webkit-scrollbar-thumb {
     background: hsla(var(--mono-hue), var(--mono-saturation), 50%, 0.3);
 }
 
-body:not([data-platform="Mac"]) *::-webkit-scrollbar-track {
-    background: hsla(var(--mono-hue), var(--mono-saturation), 50%, 0.1);
-}
-
-body:not([data-platform^="Mac"]) * ::-webkit-scrollbar {
-    width: 5px;
-    height: 5px;
-}
-
-body:not([data-platform^="Mac"]) * ::-webkit-scrollbar-thumb {
-    background: hsla(var(--mono-hue), var(--mono-saturation), 50%, 0.3);
-}
-
-body:not([data-platform^="Mac"]) * ::-webkit-scrollbar-track {
+body:not([data-platform^="Mac"]) *::-webkit-scrollbar-track {
     background: hsla(var(--mono-hue), var(--mono-saturation), 50%, 0.1);
 }
 
@@ -273,13 +259,6 @@ body:not([data-platform^="Mac"]) * ::-webkit-scrollbar-track {
 code[class*="lang-"],
 pre[data-lang] {
     color: var(--code-theme-text);
-}
-
-pre[data-lang]::-moz-selection,
-pre[data-lang] ::-moz-selection,
-code[class*="lang-"]::-moz-selection,
-code[class*="lang-"] ::-moz-selection {
-    background: var(--code-theme-selection, var(--selection-color));
 }
 
 pre[data-lang]::-moz-selection,
@@ -1709,19 +1688,6 @@ body .sidebar {
     border: 0;
 }
 
-/* v4兼容: svg图标样式（v4版本使用） */
-.sidebar .search .clear-button svg {
-    transform: scale(1);
-}
-
-.sidebar .search .clear-button svg circle {
-    fill: var(--search-clear-icon-color1, #808080);
-}
-
-.sidebar .search .clear-button svg path {
-    stroke: var(--search-clear-icon-color2, #fff);
-}
-
 /* v5: 键盘快捷键提示 */
 .sidebar .search .kbd-group kbd {
     font-family: inherit;
@@ -2155,64 +2121,6 @@ body .sidebar {
     --sidebar-nav-link-text-decoration: none;
     --sidebar-nav-link-text-decoration--active: none;
     --sidebar-nav-link-text-decoration--hover: underline;
-    /*侧边栏没有子目录的不显示>
-  --sidebar-nav-pagelink-background: no-repeat 2px calc(50% - 2.5px) / 6px 5px
-      linear-gradient(
-        45deg,
-        transparent 2.75px,
-        var(--mono-tint1) 2.75px 4.25px,
-        transparent 4px
-      ),
-    no-repeat 2px calc(50% + 2.5px) / 6px 5px
-      linear-gradient(
-        135deg,
-        transparent 2.75px,
-        var(--mono-tint1) 2.75px 4.25px,
-        transparent 4px
-      );
-  --sidebar-nav-pagelink-background--active: no-repeat 0px center / 5px 6px
-      linear-gradient(
-        225deg,
-        transparent 2.75px,
-        var(--theme-color) 2.75px 4.25px,
-        transparent 4.25px
-      ),
-    no-repeat 5px center / 5px 6px
-      linear-gradient(
-        135deg,
-        transparent 2.75px,
-        var(--theme-color) 2.75px 4.25px,
-        transparent 4.25px
-      );
-  --sidebar-nav-pagelink-background--collapse: no-repeat 2px calc(50% - 2.5px) /
-      6px 5px
-      linear-gradient(
-        45deg,
-        transparent 2.75px,
-        var(--theme-color) 2.75px 4.25px,
-        transparent 4px
-      ),
-    no-repeat 2px calc(50% + 2.5px) / 6px 5px
-      linear-gradient(
-        135deg,
-        transparent 2.75px,
-        var(--theme-color) 2.75px 4.25px,
-        transparent 4px
-      );
-  --sidebar-nav-pagelink-background--loaded: no-repeat 0px center / 5px 6px
-      linear-gradient(
-        225deg,
-        transparent 2.75px,
-        var(--mono-tint1) 2.75px 4.25px,
-        transparent 4.25px
-      ),
-    no-repeat 5px center / 5px 6px
-      linear-gradient(
-        135deg,
-        transparent 2.75px,
-        var(--mono-tint1) 2.75px 4.25px,
-        transparent 4.25px
-      );*/
     --sidebar-nav-pagelink-padding: 0.25em 0 0.25em 20px;
     --sidebar-nav-pagelink-transition: none;
     --sidebar-toggle-background: var(--sidebar-border-color);

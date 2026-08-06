@@ -62,17 +62,10 @@
 
     <!-- =================== 外部CSS样式 =================== -->
     <!-- 主题样式--->
-    <link rel="preload" href="./assets/css/theme-simple.css?v=9" as="style"
+    <link rel="preload" href="./assets/css/theme-simple.css?v=11" as="style"
         onload="this.onload=null;this.rel='stylesheet'" />
     <noscript>
-        <link rel="stylesheet" href="./assets/css/theme-simple.css?v=9" />
-    </noscript>
-
-    <!-- 封面样式 --->
-    <link rel="preload" href="./assets/css/docsify-vite-coverpage.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript>
-        <link rel="stylesheet" href="./assets/css/docsify-vite-coverpage.css" />
+        <link rel="stylesheet" href="./assets/css/theme-simple.css?v=11" />
     </noscript>
 
     <!-- docsify核心 JS预加载 - 主CDN: jsdelivr (v5路径: /dist/) -->
@@ -108,20 +101,12 @@
             /* 主色调 */
             --secondary-color: #5e72e4;
             /* 次要色调 */
-            --accent-color: #fed24a;
-            /* 强调色 */
             --shadow-color: rgba(50, 50, 93, 0.1);
             /* 阴影颜色 */
             --docsifytabs-border-color: #ededed;
             /* 选项卡边框颜色 */
-            --docsifytabs-tab-highlight-color: purple;
-            /* 选项卡高亮颜色 */
             --heading-color: var(--primary-color);
             /* 标题颜色 */
-            --content-margin-inline: 1.25rem;
-
-            /* Emoji 字体栈 - 确保跨平台一致性 */
-            --emoji-font: "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
             /* 内容最大宽度 - 使用clamp()函数实现响应式宽度 */
             --content-max-width: clamp(60ch, 80vw, 110ch);
         }
@@ -563,6 +548,44 @@
 
         /* =================== 9. 搜索框样式 =================== */
         /* v5: 移除自定义 input 边框/动画，v5 自带更完善的样式 */
+
+        /* =================== 9.1 搜索框脉冲发光动画 =================== */
+        /* 引导用户注意搜索框，点击/聚焦后停止动画 */
+        @keyframes search-pulse-glow {
+            0%, 100% {
+                box-shadow: 0 0 0 0 rgba(65, 85, 196, 0);
+            }
+            50% {
+                box-shadow: 0 0 10px 2px rgba(65, 85, 196, 0.45);
+            }
+        }
+
+        /* 电脑端搜索框：未激活时脉冲发光 */
+        .sidebar .search input[type="search"]:not(.search-activated) {
+            animation: search-pulse-glow 2s ease-in-out infinite;
+        }
+
+        /* 聚焦/激活后停止动画 */
+        .sidebar .search input[type="search"].search-activated,
+        .sidebar .search input[type="search"]:focus {
+            animation: none;
+        }
+
+        /* 手机端搜索按钮脉冲发光 */
+        @keyframes mobile-search-pulse {
+            0%, 100% {
+                transform: scale(1);
+                box-shadow: 0 1px 4px rgba(102, 126, 234, 0.3);
+            }
+            50% {
+                transform: scale(1.08);
+                box-shadow: 0 4px 12px rgba(102, 126, 234, 0.6);
+            }
+        }
+
+        .mobile-nav-search:not(.search-activated) .mobile-nav-icon {
+            animation: mobile-search-pulse 1.5s ease-in-out infinite;
+        }
 
         /* 搜索结果分类路径样式（电脑端） */
         .search .results-panel .matching-post .result-category {
@@ -1144,16 +1167,6 @@
             margin-right: 0.5rem;
         }
 
-        @keyframes spin {
-            from {
-                transform: rotate(0deg);
-            }
-
-            to {
-                transform: rotate(360deg);
-            }
-        }
-
         @media screen and (max-width: 767px) {
             .mobile-nav {
                 display: block;
@@ -1421,13 +1434,17 @@
 
     <!-- =================== 手机菜单修复函数 =================== -->
     <script>
+        // 公共函数：检测是否为移动设备
+        function isMobileDevice() {
+            return window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        }
+
         // 增强的手机菜单显示函数
         function toggleMobileNav() {
             requestAnimationFrame(function() {
                 var mobileNav = document.querySelector('.mobile-nav');
                 if (mobileNav) {
-                    var isMobile = window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-                    if (isMobile) {
+                    if (isMobileDevice()) {
                         mobileNav.classList.add('force-show');
                         document.body.style.paddingBottom = mobileNav.offsetHeight + 'px';
                     } else {
@@ -1436,11 +1453,6 @@
                     }
                 }
             });
-        }
-
-        // 公共函数：检测是否为移动设备
-        function isMobileDevice() {
-            return window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
         }
 
         // 页面加载完成后显示手机菜单
@@ -1643,7 +1655,7 @@
             },
             plugins: [
                 function (hook, vm) {
-                    // 【新增】每次页面切换后执行
+                    // 每次页面切换后执行（包含首次加载）
                     hook.doneEach(function () {
                         // 修复手机菜单显示问题
                         setTimeout(function() {
@@ -1656,15 +1668,6 @@
                         if (typeof initWaline === 'function') {
                             initWaline();
                         }
-                    });
-                    
-                    // 【新增】页面渲染完成后执行
-                    hook.ready(function() {
-                        setTimeout(function() {
-                            if (typeof toggleMobileNav === 'function') {
-                                toggleMobileNav();
-                            }
-                        }, 100);
                     });
                 }
             ]
@@ -1781,11 +1784,48 @@
                 setTimeout(addCategoryToSearchResults, 500);
             });
         }
+    </script>
 
-        setTimeout(function checkLoop() {
-            addCategoryToSearchResults();
-            setTimeout(checkLoop, 2000);
-        }, 2000);
+    <!-- =================== 搜索框脉冲动画控制 =================== -->
+    <script>
+        // 搜索框脉冲动画：用户点击/聚焦后永久停止
+        // 使用全局变量记录状态，防止 SPA 页面切换后搜索框重新渲染导致动画重启
+        window.__searchActivated = false;
+
+        function stopSearchAnimation() {
+            window.__searchActivated = true;
+            var input = document.querySelector('.sidebar .search input[type="search"]');
+            if (input) input.classList.add('search-activated');
+            var mobileSearch = document.getElementById('mobileNavSearch');
+            if (mobileSearch) mobileSearch.classList.add('search-activated');
+        }
+
+        // 页面切换后检查激活状态，已激活则给新渲染的搜索框补上类名
+        function syncSearchAnimationState() {
+            if (window.__searchActivated) {
+                var input = document.querySelector('.sidebar .search input[type="search"]');
+                if (input) input.classList.add('search-activated');
+            }
+        }
+
+        // 电脑端：搜索框聚焦时停止（事件捕获，确保最早触发）
+        document.addEventListener('focus', function (e) {
+            if (e.target && e.target.matches('.sidebar .search input[type="search"]')) {
+                stopSearchAnimation();
+            }
+        }, true);
+
+        // 手机端：搜索按钮点击时停止
+        document.addEventListener('click', function (e) {
+            if (e.target.closest('#mobileNavSearch')) {
+                stopSearchAnimation();
+            }
+        });
+
+        // SPA 页面切换后同步动画状态（hashchange 在 docsify 加载前即可注册）
+        window.addEventListener('hashchange', function () {
+            setTimeout(syncSearchAnimationState, 300);
+        });
     </script>
 
     <!-- =================== 核心JS文件 =================== -->
@@ -1935,7 +1975,6 @@
             }
 
             try {
-                var currentPath = window.location.pathname + window.location.hash;
                 var commentPath = currentPath.includes('#') ? currentPath.split('#')[1] || '/zh-cn/bbs' : currentPath;
                 if (!commentPath.startsWith('/')) commentPath = '/' + commentPath;
                 
