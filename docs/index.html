@@ -61,12 +61,92 @@
     <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
 
     <!-- =================== 外部CSS样式 =================== -->
-    <!-- 主题样式--->
-    <link rel="preload" href="./assets/css/theme-simple.css?v=11" as="style"
+    <!-- v5 官方核心主题 -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/themes/core.min.css" as="style"
         onload="this.onload=null;this.rel='stylesheet'" />
     <noscript>
-        <link rel="stylesheet" href="./assets/css/theme-simple.css?v=11" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/themes/core.min.css" />
     </noscript>
+
+    <!-- 主题样式（基于 docsify v5 官方核心主题 core.min.css 的轻量覆盖层） -->
+    <link rel="stylesheet" href="./assets/css/theme.css?v=2026080735" />
+
+    <!-- 强制内容区卡片化：覆盖核心主题，确保不受缓存影响 -->
+    <style>
+      :root {
+        --theme-color: #3b82f6;                /* 防止 core.min.css 异步加载后把主色覆盖回绿色 */
+        --sidebar-link-color-active: #3b82f6;  /* 侧栏当前页：蓝 */
+        --sidebar-toggle-bg: #dbeafe;          /* 侧边栏切换按钮背景：浅蓝 */
+        --sidebar-toggle-bg-hover: #bfdbfe;    /* hover 背景 */
+        --sidebar-toggle-color: #3b82f6;       /* 三个点：蓝色 */
+        --sidebar-toggle-color-hover: #1d4ed8; /* hover 三个点：深蓝 */
+      }
+      main > .content {
+        display: flex !important;
+        justify-content: center !important;
+        align-items: flex-start !important;
+      }
+      .markdown-section {
+        background: #ffffff !important;
+        border-radius: 0 !important;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06) !important;
+        width: calc(100% - 48px) !important;
+        max-width: 900px !important;
+        margin: 0 0 24px 0 !important;
+        padding: 24px clamp(16px, 4vw, 68px) 32px !important;
+        text-align: left !important;
+        flex-shrink: 0 !important;
+      }
+      /* 手机端：卡片更贴边 + 左右内边距自适应 */
+      @media (max-width: 767px) {
+        .markdown-section {
+          width: calc(100% - 24px) !important;
+          padding: 1rem clamp(12px, 4vw, 24px) !important;
+        }
+      }
+
+      /* docsify-accordion 手风琴颜色与主题统一 */
+      .markdown-section ul.accordion-wrapper > li:not(:first-of-type) {
+        border-top: 1px solid #bfdbfe !important;
+      }
+      .markdown-section .accordion {
+        background: #eff6ff !important;
+      }
+      .markdown-section .accordion.active,
+      .markdown-section .accordion:hover {
+        background: #dbeafe !important;
+        border-left: 3px solid #3b82f6 !important;
+      }
+      .markdown-section .accordion .accordion-content-container {
+        background: #ffffff !important;
+      }
+      .markdown-section .accordion .arrow {
+        border-color: #3b82f6 !important;
+      }
+
+      /* 搜索结果：状态文字加大，摘要里隐藏网盘链接 */
+      .search .results-status {
+        font-size: 1.125rem !important;
+        color: var(--color-text) !important;
+        margin-bottom: 0.5em !important;
+      }
+      .search .matching-post .title {
+        font-size: 1rem !important;
+        margin-bottom: 0.35em !important;
+      }
+      .search .matching-post .content {
+        font-size: 0.875rem !important;
+        line-height: 1.6 !important;
+      }
+      .search .matching-post .content {
+        display: none !important;
+      }
+
+      /* 侧边栏右侧柔和阴影（与主题统一） */
+      .sidebar {
+        box-shadow: 2px 0 10px rgba(30, 64, 175, 0.10) !important;
+      }
+    </style>
 
     <!-- docsify核心 JS预加载 - 主CDN: jsdelivr (v5路径: /dist/) -->
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js" as="script">
@@ -85,1239 +165,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
 
-    <!-- =================== 内联CSS样式 =================== -->
-    <style>
-        /* =================== 1. CSS变量定义 =================== */
-        :root {
-            --theme-color: #18256d;
-            /* docsify v5 主题色（替代 themeColor 配置） */
-            --base-font-size: 0.9375rem;
-            /* 基础字体大小 */
-            --sidebar-width: 20.5rem;
-            /* 侧边栏宽度 */
-            --sidebar-nav-margin: 1rem 0.1rem 0.1rem;
-            /* 侧边栏导航外边距 */
-            --primary-color: #4155c4;
-            /* 主色调 */
-            --secondary-color: #5e72e4;
-            /* 次要色调 */
-            --shadow-color: rgba(50, 50, 93, 0.1);
-            /* 阴影颜色 */
-            --docsifytabs-border-color: #ededed;
-            /* 选项卡边框颜色 */
-            --heading-color: var(--primary-color);
-            /* 标题颜色 */
-            /* 内容最大宽度 - 使用clamp()函数实现响应式宽度 */
-            --content-max-width: clamp(60ch, 80vw, 110ch);
-        }
-
-        /* =================== 滚动偏移量设置 =================== */
-        /* 为所有标题设置滚动偏移量，确保滚动后不会被导航栏遮挡 */
-        .markdown-section h1,
-        .markdown-section h2,
-        .markdown-section h3,
-        .markdown-section h4 {
-            scroll-margin-top: 100px; /* 为导航栏留出空间 */
-        }
-
-        /* 手机端特殊处理 */
-        @media screen and (max-width: 767px) {
-            .markdown-section h1,
-            .markdown-section h2,
-            .markdown-section h3,
-            .markdown-section h4 {
-                scroll-margin-top: 150px; /* 为手机导航栏留出更多空间 */
-            }
-        }
-
-        /* =================== 2. 图片懒加载 =================== */
-        .lazy-load {
-            opacity: 0;
-            /* 初始透明度为0，隐藏图片 */
-            transition: opacity 0.3s ease-in-out;
-            /* 透明度过渡动画 */
-        }
-
-        .lazy-load.loaded {
-            opacity: 1;
-            /* 加载完成后显示图片 */
-        }
-
-        /* =================== 3. 页面加载动画 =================== */
-        #app {
-            display: flex;
-            /* 使用flex布局 */
-            align-items: center;
-            /* 垂直居中 */
-            justify-content: center;
-            /* 水平居中 */
-            min-height: 100vh;
-            /* 最小高度为视口高度 */
-            font-size: clamp(1.5rem, 8vw, 2.375rem);
-            /* 响应式字体大小 */
-        }
-
-        /* Docsify 加载完成后的样式 */
-        #app:not(:has(.loading-text)) {
-            display: block;
-            /* 取消flex布局，让内容正常显示 */
-            min-height: 100vh;
-            /* 最小高度为视口高度 */
-        }
-
-        /* 加载文字点的动画关键帧 */
-        @keyframes dot-animation {
-
-            0%,
-            50% {
-                opacity: 0.2;
-                /* 半透明 */
-            }
-
-            25%,
-            75% {
-                opacity: 1;
-                /* 完全不透明 */
-            }
-
-            100% {
-                opacity: 0.2;
-                /* 回到半透明 */
-            }
-        }
-
-        .loading-text {
-            display: inline-block;
-            /* 行内块元素 */
-            font-weight: bold;
-            /* 加粗字体 */
-        }
-
-        .loading-text span {
-            display: inline-block;
-            animation: dot-animation 1.5s infinite ease-in-out;
-            /* 无限循环动画 */
-            margin: 0 2px;
-            /* 点之间的间距 */
-        }
-
-        /* 每个点的动画延迟，实现波浪效果 */
-        .loading-text span:nth-child(1) {
-            animation-delay: 0.1s;
-        }
-
-        .loading-text span:nth-child(2) {
-            animation-delay: 0.3s;
-        }
-
-        .loading-text span:nth-child(3) {
-            animation-delay: 0.5s;
-        }
-
-        .loading-text span:nth-child(4) {
-            animation-delay: 0.7s;
-        }
-
-        /* =================== 4. 侧边栏样式 =================== */
-        aside.sidebar {
-            border: none;
-            /* 移除边框 */
-            box-shadow: 0 15px 35px var(--shadow-color), 0 5px 15px rgba(0, 0, 0, 0.07);
-            /* 阴影效果 */
-        }
-
-        aside.sidebar li {
-            margin: 0PX;
-            /* 移除外边距 */
-            position: relative;
-            /* 相对定位 */
-            max-width: 56.25rem;
-            /* 最大宽度 */
-        }
-
-        aside.sidebar li p {
-            padding-left: 1.375rem;
-            /* 左内边距 */
-            font-size: 1.375rem;
-            /* 字体大小 */
-            font-weight: normal;
-            /* 正常字重 */
-        }
-
-        aside.sidebar li a {
-            padding: 0.1875rem 0 0.1875rem 1.375rem;
-            /* 内边距 */
-            font-size: var(--base-font-size);
-            /* 使用CSS变量 */
-            line-height: 2.0625rem;
-            /* 行高 */
-            text-decoration: none;
-            /* 移除下划线 */
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-            /* 平滑过渡 */
-            display: block;
-            /* 确保transform生效 */
-        }
-
-        aside.sidebar li a:hover {
-            text-decoration: none !important;
-            /* 悬停时不显示下划线 */
-            color: var(--primary-color);
-            /* 悬停时改变颜色 */
-            transform: translateX(4px);
-            /* 向右滑动代替字体变大 */
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-            /* 平滑缓动 */
-        }
-
-        aside.sidebar li.active>a {
-            font-size: 1.375rem;
-        }
-
-        .sidebar-nav>ul>li>ul>li>ul {
-            margin-left: 1rem;
-            /* 三级菜单缩进 */
-        }
-
-        /* 侧边栏导航链接悬停样式 - 使用更高优先级选择器 */
-        .sidebar-nav li a:hover,
-        .sidebar-nav li a:focus,
-        .sidebar-nav li a:active {
-            text-decoration: none !important;
-            /* 悬停时不显示下划线 */
-            color: var(--primary-color) !important;
-            transform: translateX(4px);
-            /* 向右滑动代替字体变大 */
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-            /* 平滑缓动 */
-        }
-
-
-
-        /* =================== 5. 侧边栏菜单按钮 =================== */
-        .sidebar-toggle .sidebar-toggle-button {
-            width: 4.1rem;
-            /* 按钮宽度 */
-            color: #530daf;
-            /* 文字颜色 */
-            background: rgba(196, 8, 8, 0.27);
-            /* 背景色 */
-            border-radius: 0 8px 8px 0;
-            /* 圆角 */
-            box-shadow: 0 0.155rem 0.25rem rgba(12, 14, 4, 0.075);
-            /* 阴影 */
-            transition: all 0.1s ease;
-            /* 过渡动画 */
-        }
-
-        .sidebar-toggle-button {
-            position: fixed;
-            /* 固定定位 */
-            top: 0.625rem;
-            /* 距离顶部 */
-            left: 0.625rem;
-            /* 距离左侧 */
-            width: auto;
-            height: auto;
-            background: none;
-            /* 无背景 */
-            border: none;
-            /* 无边框 */
-            padding: 0.625rem 0.9375rem;
-            /* 内边距 */
-            cursor: pointer;
-            /* 鼠标指针 */
-            z-index: 99;
-            /* 层级 */
-        }
-
-        .sidebar-toggle-button span {
-            display: none;
-            /* 隐藏span元素 */
-        }
-
-        /* 使用伪元素显示"菜单"文字 */
-        .sidebar-toggle-button::after {
-            content: "菜 单";
-            color: #d12a32;
-            font-size: 0.75rem;
-            font-weight: bold;
-            transition: all 0.3s ease;
-        }
-
-        .sidebar-toggle-button:hover::after {
-            color: #251ab6;
-            /* 悬停颜色 */
-            text-decoration: none;
-            /* 下划线 */
-        }
-
-        body.close .sidebar-toggle-button::after {
-            content: "菜 单";
-        }
-
-        /* =================== 6. 主内容区域 =================== */
-        #main {
-            padding-top: 1.25rem;
-            /* 顶部内边距 */
-            padding-bottom: 1.25rem;
-            /* 底部内边距 */
-            padding-left: 3.950rem;
-            /* 左侧内边距 */
-            padding-right: 3.950rem;
-            /* 右侧内边距 */
-            box-shadow: 0 15px 300px 20px var(--shadow-color), 0 10px 15px rgba(0, 0, 0, 0.07);
-            /* 阴影 */
-            min-height: 100vh;
-            /* 最小高度为视口高度 */
-        }
-
-        article>ul {
-            padding: 0.625rem;
-            /* 内边距 */
-            border: none;
-            /* 无边框 */
-            box-shadow: 0 20px 55px var(--shadow-color), 0 0 1px rgba(0, 0, 0, 0.07);
-            /* 阴影 */
-        }
-
-        p.tip,
-        blockquote {
-            border-radius: 1px !important;
-            /* 圆角 */
-        }
-
-        /* =================== 7. 标题样式 =================== */
-        .markdown-section h1,
-        .markdown-section h2,
-        .markdown-section h3,
-        .markdown-section h4 {
-            position: relative !important;
-            /* 相对定位 */
-            padding: 0 !important;
-            /* 无内边距 */
-            border: none !important;
-            /* 无边框 */
-        }
-
-        .markdown-section h1,
-        .markdown-section h2,
-        .markdown-section h3 {
-            font-weight: 550;
-            /* 字重 */
-        }
-
-        .markdown-section h1 {
-            font-size: 1.70rem;
-            color: #1a73e8;
-        }
-
-        .markdown-section h2 {
-            font-size: 1.55rem;
-            color: #1a73e8;
-        }
-
-        .markdown-section h3 {
-            font-size: 1rem;
-            color: #1a73e8;
-        }
-
-        .markdown-section h4 {
-            margin: 0.8em 0 0.6em !important;
-            padding-top: 1.72rem !important;
-            font-size: 0.9rem;
-            color: #565ecd;
-            /* 字体颜色 - 深蓝 */
-        }
-
-        .markdown-section h4+h4 {
-            padding-top: 0rem !important;
-            margin-top: 0rem !important;
-            /* 连续的H4减少顶部间距 */
-        }
-
-        /* 标题悬停效果 - 仅颜色变化 */
-        .markdown-section h1:hover,
-        .markdown-section h2:hover,
-        .markdown-section h3:hover,
-        .markdown-section h4:hover {
-            color: #0d47a1 !important;
-            /* 悬停颜色 - 深深蓝色 */
-        }
-
-        .markdown-section h1 a,
-        .markdown-section h2 a,
-        .markdown-section h3 a,
-        .markdown-section h4 a {
-            text-decoration: none !important;
-            /* 无下划线 */
-            color: inherit !important;
-            /* 继承父元素颜色 */
-            transition: inherit !important;
-            /* 继承过渡效果 */
-        }
-
-        /* 标题下方的装饰线 */
-        .markdown-section h1:after,
-        .markdown-section h2:after,
-        .markdown-section h3:after,
-        .markdown-section h4:after {
-            content: "" !important;
-            position: absolute !important;
-            bottom: 0 !important;
-            left: -3px !important;
-            display: block !important;
-            border-radius: 15px !important;
-            background: #5e72e4 !important;
-            opacity: 0.5 !important;
-            pointer-events: none !important;
-        }
-
-        .markdown-section h1:after {
-            width: 45px !important;
-            height: 13px !important;
-        }
-
-        .markdown-section h2:after {
-            width: 40px !important;
-            height: 9px !important;
-        }
-
-        .markdown-section h3:after {
-            width: 30px !important;
-            height: 7px !important;
-        }
-
-        .markdown-section h4:after {
-            width: 70px !important;
-            height: 2px !important;
-            background: #f1bcbc !important;
-            opacity: 1 !important;
-        }
-
-        /* =================== 8. 段落样式 =================== */
-        .markdown-section p {
-            margin: 0.8em 0;
-            line-height: 1.6;
-            font-size: 0.900rem;
-            color: #333;
-        }
-
-        /* =================== 9. 链接样式 =================== */
-        .markdown-section p a,
-        .markdown-section ul a,
-        #edit-history a {
-            position: relative;
-            color: #0066cc;
-            /* 链接颜色 */
-            text-decoration: none;
-            /* 无下划线 */
-        }
-
-        .markdown-section a:hover {
-            color: #004499;
-        }
-
-        /* 链接下方的下划线动画 */
-        .markdown-section p a:before,
-        .markdown-section ul a:before,
-        #edit-history a:before {
-            content: "";
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 1px;
-            background-color: var(--secondary-color);
-            /* 下划线颜色 */
-            transform: scaleX(0);
-            /* 初始宽度为0 */
-            transition: transform 0.8s ease;
-            /* 过渡动画 */
-            backface-visibility: hidden;
-            /* 优化性能 */
-        }
-
-        /* 悬停时显示下划线 */
-        .markdown-section p a:hover:before,
-        .markdown-section ul a:hover:before,
-        #edit-history a:hover:before {
-            transform: scaleX(1);
-            /* 宽度变为100% */
-        }
-
-        /* =================== 9. 搜索框样式 =================== */
-        /* v5: 移除自定义 input 边框/动画，v5 自带更完善的样式 */
-
-        /* =================== 9.1 搜索框脉冲发光动画 =================== */
-        /* 引导用户注意搜索框，点击/聚焦后停止动画 */
-        @keyframes search-pulse-glow {
-            0%, 100% {
-                box-shadow: 0 0 0 0 rgba(65, 85, 196, 0);
-            }
-            50% {
-                box-shadow: 0 0 10px 2px rgba(65, 85, 196, 0.45);
-            }
-        }
-
-        /* 电脑端搜索框：未激活时脉冲发光 */
-        .sidebar .search input[type="search"]:not(.search-activated) {
-            animation: search-pulse-glow 2s ease-in-out infinite;
-        }
-
-        /* 聚焦/激活后停止动画 */
-        .sidebar .search input[type="search"].search-activated,
-        .sidebar .search input[type="search"]:focus {
-            animation: none;
-        }
-
-        /* 手机端搜索按钮脉冲发光 */
-        @keyframes mobile-search-pulse {
-            0%, 100% {
-                transform: scale(1);
-                box-shadow: 0 1px 4px rgba(102, 126, 234, 0.3);
-            }
-            50% {
-                transform: scale(1.08);
-                box-shadow: 0 4px 12px rgba(102, 126, 234, 0.6);
-            }
-        }
-
-        .mobile-nav-search:not(.search-activated) .mobile-nav-icon {
-            animation: mobile-search-pulse 1.5s ease-in-out infinite;
-        }
-
-        /* 搜索结果分类路径样式（电脑端） */
-        .search .results-panel .matching-post .result-category {
-            display: block;
-            font-size: 0.7rem;
-            color: #999;
-            margin-bottom: 4px;
-            font-weight: normal;
-        }
-
-        .search .results-panel .matching-post .result-category::before {
-            content: "📁 ";
-        }
-
-        /* v5: 隐藏搜索结果中的描述文本（仅保留标题） */
-        .matching-post p.content {
-            display: none !important;
-        }
-
-        /* =================== 10. MD文件内导航按钮 =================== */
-        .markdown-section .game-nav {
-            display: flex;
-            /* flex布局 */
-            gap: 0.9375rem;
-            /* 按钮间距 */
-            margin: 1.5625rem 0;
-            /* 外边距 */
-            flex-wrap: wrap;
-            /* 允许换行 */
-        }
-
-        .markdown-section .game-nav-btn {
-            padding: 0.625rem 1.25rem;
-            /* 内边距 */
-            box-sizing: border-box;
-            /* 包含padding和border */
-            background: #f0f3f9;
-            /* 背景色 */
-            color: #240e9e;
-            /* 文字颜色 */
-            text-decoration: none;
-            /* 无下划线 */
-            border-radius: 6px;
-            /* 圆角 */
-            border: 1px solid #d0d7de;
-            /* 边框 */
-            font-weight: 600;
-            /* 字重 */
-            font-size: 0.875rem;
-            /* 字体大小 */
-            transition: background-color 0.2s ease, border-color 0.2s ease;
-            /* 过渡动画 */
-            white-space: nowrap;
-            /* 不换行 */
-        }
-
-        .markdown-section .game-nav-btn:hover {
-            background: #e1e7ed;
-            /* 悬停背景色 */
-            border-color: #afb8c1;
-            /* 悬停边框色 */
-        }
-
-        /* =================== 11. 移动端响应式适配 =================== */
-        @media screen and (max-width: 767px) {
-            h1 {
-                font-size: 1.25rem !important;
-            }
-
-            h2 {
-                font-size: 1.125rem !important;
-            }
-
-            h3 {
-                font-size: 1rem !important;
-            }
-
-            h4,
-            p {
-                font-size: 0.8125rem !important;
-            }
-
-            #main {
-                margin-top: 0;
-                /* 去掉顶部空白 */
-                padding: 1rem;
-            }
-
-            #app {
-                min-height: 50vh;
-                /* 最小高度减半 */
-                font-size: clamp(1.125rem, 6vw, 1.5rem);
-            }
-
-            .loading-text span {
-                animation-duration: 1.2s;
-                /* 动画速度加快 */
-                margin: 0 1px;
-            }
-
-            .markdown-section h4+h4 {
-                padding-top: 0.3rem;
-            }
-
-            .markdown-section .game-nav {
-                gap: 0.625rem;
-                margin: 0.9375rem 0;
-                overflow-x: auto;
-                /* 横向滚动 */
-                padding-bottom: 0.5rem;
-                scroll-snap-type: x proximity;
-                /* 滚动吸附 */
-            }
-
-            .markdown-section .game-nav-btn {
-                padding: 0.5rem 0.75rem;
-                font-size: 0.8125rem;
-                scroll-snap-align: start;
-                /* 吸附到开始位置 */
-                flex: 0 0 auto;
-                /* 不伸缩 */
-            }
-
-            .markdown-section .game-nav::-webkit-scrollbar {
-                width: 0;
-                /* 隐藏滚动条 */
-                height: 0;
-            }
-        }
-
-        /* 小屏幕适配 */
-        @media (max-width: 480px) {
-            .markdown-section .game-nav {
-                gap: 0.5rem;
-            }
-
-            .markdown-section .game-nav-btn {
-                padding: 0.5rem 0.625rem;
-            }
-        }
-
-        /* =================== 12. 手机端底部导航栏 =================== */
-        .mobile-nav {
-            display: none;
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: #ffffff;
-            border-top: 1px solid #e0e0e0;
-            z-index: 9999;
-            padding: 0.5rem 0;
-            padding-bottom: max(0.5rem, env(safe-area-inset-bottom));
-            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
-        }
-
-        .mobile-nav.force-show {
-            display: block !important;
-        }
-
-        .mobile-nav-container {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            max-width: 100%;
-            overflow-x: auto;
-            -webkit-overflow-scrolling: touch;
-        }
-
-        .mobile-nav-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 0.375rem 0.25rem;
-            color: #666666;
-            text-decoration: none;
-            font-size: 0.625rem;
-            transition: all 0.2s ease;
-            min-width: 0;
-            flex: 1;
-            white-space: nowrap;
-            background: none;
-            border: none;
-            cursor: pointer;
-            font-family: inherit;
-        }
-
-        .mobile-nav-item:hover,
-        .mobile-nav-item.active {
-            color: #4155c4;
-        }
-
-        /* 搜索按钮高亮样式 */
-        .mobile-nav-item.mobile-nav-search {
-            color: #4155c4;
-        }
-
-        .mobile-nav-item.mobile-nav-search .mobile-nav-icon {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #ffffff;
-            width: 1.375rem;
-            height: 1.375rem;
-            border-radius: 6px;
-            margin-bottom: 1px;
-            box-shadow: 0 1px 4px rgba(102, 126, 234, 0.3);
-        }
-
-        .mobile-nav-item.mobile-nav-search .mobile-nav-icon i {
-            font-size: 0.75rem;
-        }
-
-        .mobile-nav-icon {
-            font-size: 1.125rem;
-            margin-bottom: 0.125rem;
-            height: 1.25rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .mobile-nav-icon i {
-            font-size: 1.125rem;
-        }
-
-        .mobile-nav-icon svg,
-        .mobile-nav-submenu-item svg,
-        .mobile-nav-more-item svg,
-        .mobile-search-btn svg,
-        .mobile-search-close svg,
-        .mobile-search-result-item svg,
-        .mobile-search-loading svg,
-        .mobile-search-no-results svg {
-            width: 1em;
-            height: 1em;
-            fill: currentColor;
-            vertical-align: middle;
-        }
-
-        .icon-spin {
-            animation: spin 1s linear infinite;
-        }
-
-        @keyframes spin {
-            from {
-                transform: rotate(0deg);
-            }
-
-            to {
-                transform: rotate(360deg);
-            }
-        }
-
-        .mobile-nav-more {
-            position: relative;
-        }
-
-        .mobile-nav-more-popup {
-            display: none;
-            position: fixed;
-            bottom: 4.375rem;
-            right: 0.625rem;
-            background: #ffffff;
-            border-radius: 12px;
-            padding: 0.5rem 0;
-            box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.15);
-            min-width: 9.375rem;
-            z-index: 10000;
-            border: 1px solid #e0e0e0;
-        }
-
-        /* 弹出菜单底部小三角 */
-        .mobile-nav-more-popup::after {
-            content: '';
-            position: absolute;
-            bottom: -6px;
-            right: 1.5625rem;
-            width: 0;
-            height: 0;
-            border-left: 6px solid transparent;
-            border-right: 6px solid transparent;
-            border-top: 6px solid #ffffff;
-        }
-
-        .mobile-nav-more-popup.show {
-            display: block;
-            animation: fadeInUp 0.2s ease;
-        }
-
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(10px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .mobile-nav-more-item {
-            display: flex;
-            align-items: center;
-            padding: 0.625rem 0.9375rem;
-            color: #333333;
-            text-decoration: none;
-            font-size: 0.8125rem;
-            border-radius: 8px;
-            transition: all 0.2s ease;
-        }
-
-        .mobile-nav-more-item:hover {
-            background: #f0f0f0;
-            color: #4155c4;
-        }
-
-        .mobile-nav-more-item i {
-            margin-right: 0.5rem;
-            width: 1rem;
-            text-align: center;
-        }
-
-        /* 子菜单样式 */
-        .mobile-nav-submenu {
-            display: none;
-            position: fixed;
-            bottom: 4.375rem;
-            background: #ffffff;
-            border-radius: 0.75rem;
-            padding: 0.5rem 0;
-            box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.15);
-            min-width: 8.75rem;
-            z-index: 10000;
-            border: 1px solid #e0e0e0;
-        }
-
-        .mobile-nav-submenu.show {
-            display: block;
-            animation: fadeInUp 0.2s ease;
-        }
-
-        .mobile-nav-submenu-item {
-            display: flex;
-            align-items: center;
-            padding: 0.625rem 0.9375rem;
-            color: #333333;
-            text-decoration: none;
-            font-size: 0.8125rem;
-            border-radius: 0.5rem;
-            margin: 0 0.3125rem;
-            transition: all 0.2s ease;
-        }
-
-        .mobile-nav-submenu-item:hover {
-            background: #f0f0f0;
-            color: #4155c4;
-        }
-
-        .mobile-nav-submenu-item i {
-            margin-right: 0.5rem;
-            width: 1rem;
-            text-align: center;
-        }
-
-        /* 子菜单位置 - 根据底部导航栏按钮位置精确定位 */
-        /* 游戏按钮在第2个位置 (约21.4%) */
-        #submenu-games {
-            left: 21.4%;
-            margin-left: -4.375rem;
-        }
-
-        /* 电影按钮在第3个位置 (约35.7%) */
-        #submenu-movie {
-            left: 35.7%;
-            margin-left: -4.375rem;
-        }
-
-        /* 剧集按钮在第5个位置 (约64.3%) */
-        #submenu-tv {
-            left: 64.3%;
-            margin-left: -4.375rem;
-        }
-
-        /* 动漫按钮在第6个位置 (约78.6%) */
-        #submenu-animetv {
-            left: 78.6%;
-            margin-left: -4.375rem;
-        }
-
-        /* 搜索遮罩层 */
-        .mobile-search-overlay {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            height: 100dvh;
-            /* 动态视口高度，适配移动端 */
-            background: rgba(0, 0, 0, 0.95);
-            z-index: 999999;
-            padding: 1.25rem;
-            padding-top: 5rem;
-            box-sizing: border-box;
-        }
-
-        .mobile-search-overlay.show {
-            display: block;
-            animation: fadeIn 0.2s ease;
-        }
-
-        /* 搜索遮罩显示时隐藏TOC插件 - 使用更全面的选择器 */
-        body.search-active .page-toc,
-        body.search-active nav.toc-nav,
-        body.search-active .toc,
-        body.search-active aside.toc,
-        body.search-active div[class*="toc"],
-        body.search-active nav[class*="toc"] {
-            display: none !important;
-            visibility: hidden !important;
-            opacity: 0 !important;
-            pointer-events: none !important;
-        }
-
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-            }
-
-            to {
-                opacity: 1;
-            }
-        }
-
-        .mobile-search-container {
-            max-width: 37.5rem;
-            margin: 0 auto;
-            position: relative;
-        }
-
-        .mobile-search-box {
-            display: flex;
-            align-items: center;
-            gap: 0.625rem;
-            background: #ffffff;
-            border-radius: 0.75rem;
-            padding: 0.3125rem;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-        }
-
-        .mobile-search-input {
-            flex: 1;
-            padding: 0.75rem 0.9375rem;
-            border: none;
-            border-radius: 0.5rem;
-            font-size: 1rem;
-            outline: none;
-            background: transparent;
-        }
-
-        .mobile-search-input::placeholder {
-            color: #999;
-        }
-
-        .mobile-search-btn {
-            padding: 0.75rem 1.25rem;
-            background: #4155c4;
-            color: #ffffff;
-            border: none;
-            border-radius: 0.5rem;
-            cursor: pointer;
-            font-size: 1rem;
-            transition: background 0.2s ease;
-        }
-
-        .mobile-search-btn:hover {
-            background: #18256d;
-        }
-
-        .mobile-search-close {
-            position: fixed;
-            top: 1.25rem;
-            right: 1.25rem;
-            color: #ffffff;
-            font-size: 1.75rem;
-            cursor: pointer;
-            padding: 0.625rem;
-            z-index: 10001;
-        }
-
-        /* 搜索结果区域 */
-        .mobile-search-results {
-            margin-top: 1.25rem;
-            max-height: 60vh;
-            overflow-y: auto;
-            background: rgba(255, 255, 255, 0.95);
-            border-radius: 0.75rem;
-            padding: 0;
-            display: none;
-        }
-
-        .mobile-search-results.has-content {
-            display: block;
-            padding: 0.625rem;
-        }
-
-        .mobile-search-result-item {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            padding: 0.75rem 0.9375rem;
-            color: #333333;
-            text-decoration: none;
-            border-radius: 0.5rem;
-            margin-bottom: 0.3125rem;
-            transition: all 0.2s ease;
-            border-bottom: 1px solid #f0f0f0;
-        }
-
-        .mobile-search-result-item:last-child {
-            border-bottom: none;
-            margin-bottom: 0;
-        }
-
-        .mobile-search-result-item:hover {
-            background: #f5f5f5;
-        }
-
-        .mobile-search-result-item i {
-            margin-right: 0.625rem;
-            color: #4155c4;
-            width: 1.25rem;
-            text-align: center;
-        }
-
-        .mobile-search-result-title {
-            flex: 1;
-            font-size: 0.875rem;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-        }
-
-        .mobile-search-result-row {
-            display: flex;
-            align-items: center;
-            width: 100%;
-        }
-
-        .mobile-search-result-category {
-            display: block;
-            width: 100%;
-            font-size: 0.7rem;
-            color: #999;
-            margin-bottom: 4px;
-            font-weight: normal;
-        }
-
-        .mobile-search-result-item p {
-            display: none !important;
-        }
-
-        .mobile-search-no-results {
-            padding: 1.875rem;
-            text-align: center;
-            color: #666;
-            font-size: 0.875rem;
-        }
-
-        .mobile-search-loading {
-            padding: 1.875rem;
-            text-align: center;
-            color: #666;
-            font-size: 0.875rem;
-        }
-
-        .mobile-search-loading i {
-            animation: spin 1s linear infinite;
-            margin-right: 0.5rem;
-        }
-
-        @media screen and (max-width: 767px) {
-            .mobile-nav {
-                display: block;
-            }
-
-            body {
-                padding-bottom: 3rem;
-                /* 减少底部空白 */
-                font-size: 0.875rem;
-            }
-
-            .markdown-section {
-                padding: 1rem;
-                padding-bottom: 1rem;
-                /* 减少底部空白 */
-            }
-
-            /* 隐藏原有的侧边栏切换按钮 */
-            .sidebar-toggle {
-                display: none;
-            }
-
-            /* 隐藏侧边栏 - 最高优先级 */
-            aside.sidebar,
-            body.close aside.sidebar,
-            body:not(.close) aside.sidebar {
-                display: none !important;
-            }
-
-            /* 主内容区域全宽 */
-            .content {
-                position: relative;
-                left: 0;
-                right: 0;
-                margin-left: 0;
-                padding-bottom: 1rem;
-                /* 减少底部空白 */
-                max-width: 100%;
-                width: 100%;
-            }
-
-            /* 确保内容区域容器也全宽 */
-            .content main,
-            .content article {
-                max-width: 100% !important;
-                width: 100% !important;
-            }
-
-            /* 缩小标题字体 */
-            .markdown-section h1 {
-                font-size: 1.360rem;
-                margin: 0.8em 0 0.4em;
-            }
-
-            .markdown-section h2 {
-                font-size: 1.32rem;
-                margin: 0.7em 0 0.35em;
-            }
-
-            .markdown-section h3 {
-                font-size: 1.15em;
-                margin: 0.6em 0 0.3em;
-            }
-
-            .markdown-section h4 {
-                font-size: 0.5625rem;
-                margin: 0.5em 0 0.25em;
-            }
-
-            .markdown-section h5 {
-                font-size: 0.9em;
-                margin: 0.4em 0 0.2em;
-            }
-
-            .markdown-section h6 {
-                font-size: 0.85em;
-                margin: 0.3em 0 0.15em;
-            }
-
-            /* 缩小段落和列表间距 */
-            .markdown-section p {
-                margin: 0.5em 0;
-                line-height: 1.6;
-                font-size: 0.625rem;
-            }
-
-            .markdown-section ul,
-            .markdown-section ol {
-                margin: 0.5em 0;
-                padding-left: 1.5em;
-            }
-
-            .markdown-section li {
-                margin: 0.25em 0;
-            }
-
-            /* 缩小代码块 */
-            .markdown-section pre {
-                font-size: 0.85em;
-                padding: 0.8em;
-                margin: 0.8em 0;
-            }
-
-            .markdown-section code {
-                font-size: 0.9em;
-            }
-
-            /* 缩小表格 */
-            .markdown-section table {
-                font-size: 0.9em;
-            }
-
-            .markdown-section th,
-            .markdown-section td {
-                padding: 0.5em;
-            }
-
-            /* 缩小引用块 */
-            .markdown-section blockquote {
-                font-size: 0.95em;
-                padding: 0.5em 0.8em;
-                margin: 0.8em 0;
-            }
-
-            /* 缩小图片 */
-            .markdown-section img {
-                max-width: 100%;
-                height: auto;
-            }
-
-            /* 缩小分割线 */
-            .markdown-section hr {
-                margin: 1em 0;
-            }
-
-            /* 隐藏自定义导航菜单 */
-            .game-nav,
-            .anime-nav,
-            .movie-nav,
-            .tv-nav {
-                display: none !important;
-            }
-
-            /* =================== Waline 手机端样式 =================== */
-            #waline .wl-card-item {
-                margin-left: 0;
-                padding-left: 0;
-            }
-
-        }
-    </style>
 
     <svg style="display: none;">
         <symbol id="icon-home" viewBox="0 0 576 512">
@@ -1427,10 +274,8 @@
     </svg>
 </head>
 
-<body>
-    <div id="app">
-        <span class="loading-text">正在加载中<span>.</span><span>.</span><span>.</span><span>.</span></span>
-    </div>
+<body class="sidebar-chevron-right loading">
+    <div id="app"></div>
 
     <!-- =================== 手机菜单修复函数 =================== -->
     <script>
@@ -1598,30 +443,36 @@
     <!-- =================== docsify JS配置文件 =================== -->
     <script>
         window.$docsify = {
-            homepage: 'home.md',
-            notFoundPage: '404.md',
-            notFoundTitle: '页面不存在 - 对酒当歌分享',
-            loadFooter: '_footer.md',
-            loadNavbar: false,
-            repo: '',
+            // =================== 基础配置（v5 核心） ===================
             el: '#app',
-            loadSidebar: '_sidebar.md',
-            autoHeader: false,
-            subMaxLevel: 0,
-            maxLevel: 3,
-            auto2top: true,  // 切换页面后自动到顶部
-            coverpage: false,
-            onlyCover: false,
-            logo: '',
+            homepage: 'home.md',
             name: '对酒当歌分享',
             nameLink: '/',
-            noEmoji: true,
+            logo: '',
+            repo: '',
+
+            // =================== 侧边栏配置（v5 核心） ===================
+            loadSidebar: '_sidebar.md',
+            loadNavbar: false,
+            subMaxLevel: 0,
+            maxLevel: 3,
+            autoHeader: false,
             mergeNavbar: true,
-            topMargin: 0,  // 顶部边距，让搜索结果跳转后标题显示在页面第一位
-            externalLinkTarget: '_blank',
+
+            // =================== 页面行为配置（v5 核心） ===================
+            auto2top: false, // 关闭：否则每次切换页面强制回顶，会覆盖搜索结果「定位到标题」的默认跳转（docsify 默认即 false）
+            coverpage: false,
+            onlyCover: false,
+            noEmoji: true,
+            topMargin: 0,
             routerMode: 'hash',
             relativePath: false,
+            externalLinkTarget: '_blank',
 
+            // =================== 404 页面配置（v5 核心） ===================
+            notFoundPage: '404.md',
+
+            // =================== 请求与链接配置（v5 核心） ===================
             requestHeaders: { 'Cache-Control': 'public, max-age=86400' },
             noCompileLinks: [
                 '^https://pan\\.quark\\.cn/s/',
@@ -1629,21 +480,24 @@
                 '^https://pan\\.baidu\\.com/s/',
                 '^https://www\\.aliyundrive\\.com/s/'
             ],
-
             alias: {
                 '/zh-cn/_sidebar.md': '/_sidebar.md',
                 '/.*/_sidebar.md': '/_sidebar.md',
                 '/.*/_navbar.md': '/_navbar.md'
             },
 
+            // =================== 插件配置 ===================
+            // docsify-plugin-toc 插件
             toc: {
                 tocMaxLevel: 2,
                 target: 'h2',
                 ignoreHeaders: []
             },
 
-            sidebarDisplayLevel: 0,
+            // @alertbox/docsify-footer 插件
+            loadFooter: '_footer.md',
 
+            // docsify 搜索插件（v5）
             search: {
                 paths: 'auto',
                 maxAge: 86400000,
@@ -1652,9 +506,16 @@
                 depth: 4,
                 namespace: 'web-v2',
                 pathNamespaces: ['/zh-cn'],
+                // 将搜索框放到标题栏(.app-name)下方，而非默认的侧边栏最顶部
+                insertAfter: '.app-name',
             },
+
+            // =================== 自定义插件 ===================
             plugins: [
                 function (hook, vm) {
+                    // 记录用户已展开的分组（按 href 标识），切换页面后保持展开状态
+                    if (!window.__expandedGroups) window.__expandedGroups = new Set();
+
                     // 每次页面切换后执行（包含首次加载）
                     hook.doneEach(function () {
                         // 修复手机菜单显示问题
@@ -1663,10 +524,61 @@
                                 toggleMobileNav();
                             }
                         }, 100);
-                        
+
                         // 初始化Waline
                         if (typeof initWaline === 'function') {
                             initWaline();
+                        }
+
+                        // 侧边栏分组：默认收起，点击父级链接可展开/折叠
+                        // 用自定义委托处理器（捕获阶段）切换 .collapse 类，
+                        // 避免依赖官方 handler 的结构假设，并阻止其重复触发。
+                        var sidebarNav = document.querySelector('.sidebar-nav');
+                        if (sidebarNav) {
+                            // 全局展开/折叠处理器（只绑一次）
+                            if (!sidebarNav.dataset.collapseBound) {
+                                sidebarNav.dataset.collapseBound = '1';
+                                sidebarNav.addEventListener('click', function (e) {
+                                    var a = e.target.closest('a');
+                                    if (!a) return;
+                                    var li = a.parentElement;
+                                    if (li && li.tagName === 'LI' && li.querySelector(':scope > ul')) {
+                                        e.stopPropagation(); // 阻止官方 collapse 处理器重复切换
+                                        var key = a.getAttribute('href') || a.textContent.trim();
+                                        var willOpen = li.classList.contains('collapse');
+                                        // 手风琴：展开前先收起所有其它父级
+                                        if (willOpen) {
+                                            sidebarNav.querySelectorAll('li').forEach(function (other) {
+                                                if (other !== li && other.tagName === 'LI' && other.querySelector(':scope > ul')) {
+                                                    other.classList.add('collapse');
+                                                }
+                                            });
+                                            window.__expandedGroups.clear();
+                                        }
+                                        if (li.classList.contains('collapse')) {
+                                            li.classList.remove('collapse');
+                                            window.__expandedGroups.add(key);
+                                        } else {
+                                            li.classList.add('collapse');
+                                            window.__expandedGroups.delete(key);
+                                        }
+                                    }
+                                }, true); // 捕获阶段，先于官方冒泡处理器执行
+                            }
+
+                            // 应用折叠状态：已展开的分组保持展开，其余默认收起
+                            sidebarNav.querySelectorAll('li').forEach(function (li) {
+                                var a = li.querySelector(':scope > a');
+                                var hasChildUl = li.querySelector(':scope > ul');
+                                if (a && hasChildUl) {
+                                    var key = a.getAttribute('href') || a.textContent.trim();
+                                    if (window.__expandedGroups.has(key)) {
+                                        li.classList.remove('collapse');
+                                    } else {
+                                        li.classList.add('collapse');
+                                    }
+                                }
+                            });
                         }
                     });
                 }
@@ -1852,14 +764,6 @@
     <script>window.$docsify.plugins = window.$docsify.plugins.concat(__savedPlugins);</script>
 
     <!-- =================== 必要插件JS文件 =================== -->
-    <!-- 侧边栏折叠 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script>
-        var sidebarCollapseLoadStart = performance.now();
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('sidebar-collapse', sidebarCollapseLoadStart);"
-        onerror="this.src='https://unpkg.com/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js'"></script>
-
     <!-- 图片缩放 - 主CDN: jsdelivr, 备用CDN: unpkg
          注: v5.0.0 实际文件名仍为 zoom-image.min.js（官方文档写的 zoom.min.js 在 5.0.0 中不存在）-->
     <script>
@@ -2522,17 +1426,6 @@
         window.addEventListener('beforeunload', function() {
             clearInterval(siteTimeInterval);
         });
-    </script>
-
-    <!-- Vercel Web Analytics -->
-    <script>
-        if (location.hostname.includes('vercel.app') || location.hostname === 'www.haozy.top') {
-            window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
-            var s = document.createElement('script');
-            s.defer = true;
-            s.src = '/_vercel/insights/script.js';
-            document.head.appendChild(s);
-        }
     </script>
 
     <!-- JS插件加载性能监控（仅调试模式启用） -->
