@@ -69,7 +69,7 @@
     </noscript>
 
     <!-- 主题样式（基于 docsify v5 官方核心主题 core.min.css 的轻量覆盖层） -->
-    <link rel="stylesheet" href="./assets/css/theme.css?v=202608071147" />
+    <link rel="stylesheet" href="./assets/css/theme.css?v=202608071921" />
 
     <!-- 主题兜底（仅变量）：卡片/手风琴/搜索/侧栏等全部规则已在 theme.css 中，
          此处仅把核心主题变量再声明一次作为「最终兜底」——
@@ -622,8 +622,8 @@
             setTimeout(initSearchObserver, 1000);
         });
 
-        if (typeof docsify !== 'undefined' && docsify.hooks) {
-            docsify.hooks.doneEach(function() {
+        if (typeof Docsify !== 'undefined' && Docsify.hooks) {
+            Docsify.hooks.doneEach(function() {
                 setTimeout(addCategoryToSearchResults, 500);
             });
         }
@@ -677,10 +677,11 @@
         var docsifyLoadStart = performance.now();
     </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('docsify-core', docsifyLoadStart);"
-        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@5/dist/docsify.min.js'"></script>
+        onload="window.perfMonitor && window.perfMonitor.logJsLoad('docsify-core', docsifyLoadStart);"></script>
+    <!-- CDN同步回退：jsdelivr 失败时用 document.write 写入 unpkg，保证后续脚本阻塞等待 -->
+    <script>if(!window.Docsify){document.write('<script src="https://unpkg.com/docsify@5/dist/docsify.min.js"><\/script>');}</script>
     <!-- v5兼容补丁：Docsify.dom 被冻结无法添加属性，用getter劫持注入 toggleClass（docsify-plugin-toc 依赖） -->
-    <script>(function(){var orig=window.Docsify.dom,p={};Object.keys(orig).forEach(function(k){p[k]=orig[k]});p.toggleClass=function(e,a,c){if(!e)return;if(a==="add")e.classList.add(c);else if(a==="remove")e.classList.remove(c);else e.classList.toggle(a||c)};Object.defineProperty(window.Docsify,'dom',{get:function(){return p},set:function(v){if(v){Object.keys(v).forEach(function(k){p[k]=v[k]})}},configurable:true})})();</script>
+    <script>(function __patchDocsifyDom(){if(!window.Docsify||!window.Docsify.dom){setTimeout(__patchDocsifyDom,10);return}var orig=window.Docsify.dom,p={};Object.keys(orig).forEach(function(k){p[k]=orig[k]});p.toggleClass=function(e,a,c){if(!e)return;if(a==="add")e.classList.add(c);else if(a==="remove")e.classList.remove(c);else e.classList.toggle(a||c)};Object.defineProperty(window.Docsify,'dom',{get:function(){return p},set:function(v){if(v){Object.keys(v).forEach(function(k){p[k]=v[k]})}},configurable:true})})();</script>
 
     <!-- 搜索 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
@@ -690,7 +691,7 @@
     <script>var __savedPlugins = window.$docsify.plugins || [];</script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('search-plugin', searchLoadStart);"
-        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@5.0.0/dist/plugins/search.min.js'"></script>
+        onerror="document.write('<script src=\'https://unpkg.com/docsify@5.0.0/dist/plugins/search.min.js\'><\/script>')"></script>
     <!-- 恢复被v5搜索插件覆盖的自定义plugins -->
     <script>window.$docsify.plugins = window.$docsify.plugins.concat(__savedPlugins);</script>
 
@@ -702,7 +703,7 @@
     </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/zoom-image.min.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('zoom-image-plugin', zoomImageLoadStart);"
-        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@5/dist/plugins/zoom-image.min.js'"></script>
+        onerror="document.write('<script src=\'https://unpkg.com/docsify@5/dist/plugins/zoom-image.min.js\'><\/script>')"></script>
 
     <!-- 选项卡 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
@@ -710,14 +711,14 @@
     </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('tabs-plugin', tabsLoadStart);"
-        onerror="this.src='https://unpkg.com/docsify-tabs@1/dist/docsify-tabs.min.js'"></script>
+        onerror="document.write('<script src=\'https://unpkg.com/docsify-tabs@1/dist/docsify-tabs.min.js\'><\/script>')"></script>
     <!-- TOC插件 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
         var tocLoadStart = performance.now();
     </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('toc-plugin', tocLoadStart);"
-        onerror="this.src='https://unpkg.com/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js'"></script>
+        onerror="document.write('<script src=\'https://unpkg.com/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js\'><\/script>')"></script>
 
     <!-- 页脚 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
@@ -725,7 +726,7 @@
     </script>
     <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('footer-plugin', footerLoadStart);"
-        onerror="this.src='https://unpkg.com/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js'"></script>
+        onerror="document.write('<script src=\'https://unpkg.com/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js\'><\/script>')"></script>
 
     <!-- Docsify手风琴 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
@@ -733,7 +734,7 @@
     </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-accordion/src/index.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('accordion-plugin', accordionLoadStart);"
-        onerror="this.src='https://unpkg.com/docsify-accordion/src/index.js'"></script>
+        onerror="document.write('<script src=\'https://unpkg.com/docsify-accordion/src/index.js\'><\/script>')"></script>
 
     <!-- 警报图标样式 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
@@ -741,7 +742,7 @@
     </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('alerts-plugin', alertsLoadStart);"
-        onerror="this.src='https://unpkg.com/docsify-plugin-flexible-alerts'"></script>
+        onerror="document.write('<script src=\'https://unpkg.com/docsify-plugin-flexible-alerts\'><\/script>')"></script>
 
     <!-- =================== 功能JS脚本 =================== -->
     <!-- 留言板Waline - 延迟加载，只在留言板页面使用 -->
@@ -1303,8 +1304,8 @@
             window.addEventListener('popstate', updateActiveNav);
             window.addEventListener('hashchange', updateActiveNav);
 
-            if (typeof docsify !== 'undefined' && docsify.hooks) {
-                docsify.hooks.doneEach(function () {
+            if (typeof Docsify !== 'undefined' && Docsify.hooks) {
+                Docsify.hooks.doneEach(function () {
                     updateActiveNav();
                 });
             }

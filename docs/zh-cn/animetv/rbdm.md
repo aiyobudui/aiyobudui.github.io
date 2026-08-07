@@ -65,14 +65,6 @@
 
 阿里：<https://www.alipan.com/s/92HVZUomaKu>
 
-#### 《石纪元》（2019-2026）第4季 Part.3 更新中..（1-4季全 1080P 中字 +漫画）
-
-夸克：https://pan.quark.cn/s/c2b55d462e0f
-
-迅雷：https://pan.xunlei.com/s/VNlg6E334ZYTUpq0twplRvx1A1?pwd=bb4m#
-
-阿里：<https://www.aliyundrive.com/s/MmR1PnARnHe>
-
 ----
 
 ## 周四
@@ -87,11 +79,9 @@
 
 ## 周五
 
-#### 《JOJO的奇妙冒险》（1993-2026）飙马野郎 更新中.. 附1-7季全+外传 4K高码 中日字幕 （附漫画 ）
+#### 《感谢对战～大小姐才不玩格斗游戏～》（2026）1080P 12集 更新中..
 
-夸克：https://pan.quark.cn/s/a18779e4bd58
-
-迅雷：https://pan.xunlei.com/s/VNlmPri1ldJCKkypev9QPnI_A1?pwd=qvsn#
+夸克：https://pan.quark.cn/s/be16550b7553
 
 ----
 
@@ -129,6 +119,20 @@
 ---
 
 ## 近期完结
+
+#### 《石纪元》（2019-2026）1-4季全 1080P 中字 +漫画
+
+夸克：https://pan.quark.cn/s/c2b55d462e0f
+
+迅雷：https://pan.xunlei.com/s/VNlg6E334ZYTUpq0twplRvx1A1?pwd=bb4m#
+
+阿里：<https://www.aliyundrive.com/s/MmR1PnARnHe>
+
+#### 《JOJO的奇妙冒险》（1993-2026）1-7季全+外传+飙马野郎 4K高码 中日字幕 （附漫画）
+
+夸克：https://pan.quark.cn/s/a18779e4bd58
+
+迅雷：https://pan.xunlei.com/s/VNlmPri1ldJCKkypev9QPnI_A1?pwd=qvsn#
 
 #### 《头文字D 动漫》（1998-2016）1080P 1-6季全+剧场版+番外篇+特别篇+电影+漫画
 
