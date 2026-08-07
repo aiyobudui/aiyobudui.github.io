@@ -60,6 +60,10 @@
 
 夸克：https://pan.quark.cn/s/d208d115f5ef
 
+#### 《茶杯头》v1.4.0 安卓 全DLC 中文版（附PC版）
+
+夸克：https://pan.quark.cn/s/87346be0bb4d
+
 ---
 
 

@@ -12989,7 +12989,7 @@ w
 
 夸克：https://pan.quark.cn/s/d72caad88526
 
-#### 《茶杯头》全DLC 中文版
+#### 《茶杯头》最新 全DLC 中文版（附安卓版）
 
 夸克：https://pan.quark.cn/s/87346be0bb4d
 
