@@ -69,82 +69,21 @@
     </noscript>
 
     <!-- 主题样式（基于 docsify v5 官方核心主题 core.min.css 的轻量覆盖层） -->
-    <link rel="stylesheet" href="./assets/css/theme.css?v=2026080735" />
+    <link rel="stylesheet" href="./assets/css/theme.css?v=2026080779" />
 
-    <!-- 强制内容区卡片化：覆盖核心主题，确保不受缓存影响 -->
+    <!-- 主题兜底（仅变量）：卡片/手风琴/搜索/侧栏等全部规则已在 theme.css 中，
+         此处仅把核心主题变量再声明一次作为「最终兜底」——
+         core.min.css 经 preload 异步加载，极端情况下可能晚于 theme.css 注入并覆盖 :root，
+         这里确保蓝色主题不被覆盖回 Vue 绿。请勿在此重复具体规则，避免双份维护。 -->
     <style>
       :root {
-        --theme-color: #3b82f6;                /* 防止 core.min.css 异步加载后把主色覆盖回绿色 */
-        --sidebar-link-color-active: #3b82f6;  /* 侧栏当前页：蓝 */
-        --sidebar-toggle-bg: #dbeafe;          /* 侧边栏切换按钮背景：浅蓝 */
-        --sidebar-toggle-bg-hover: #bfdbfe;    /* hover 背景 */
-        --sidebar-toggle-color: #3b82f6;       /* 三个点：蓝色 */
-        --sidebar-toggle-color-hover: #1d4ed8; /* hover 三个点：深蓝 */
-      }
-      main > .content {
-        display: flex !important;
-        justify-content: center !important;
-        align-items: flex-start !important;
-      }
-      .markdown-section {
-        background: #ffffff !important;
-        border-radius: 0 !important;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06) !important;
-        width: calc(100% - 48px) !important;
-        max-width: 900px !important;
-        margin: 0 0 24px 0 !important;
-        padding: 24px clamp(16px, 4vw, 68px) 32px !important;
-        text-align: left !important;
-        flex-shrink: 0 !important;
-      }
-      /* 手机端：卡片更贴边 + 左右内边距自适应 */
-      @media (max-width: 767px) {
-        .markdown-section {
-          width: calc(100% - 24px) !important;
-          padding: 1rem clamp(12px, 4vw, 24px) !important;
-        }
-      }
-
-      /* docsify-accordion 手风琴颜色与主题统一 */
-      .markdown-section ul.accordion-wrapper > li:not(:first-of-type) {
-        border-top: 1px solid #bfdbfe !important;
-      }
-      .markdown-section .accordion {
-        background: #eff6ff !important;
-      }
-      .markdown-section .accordion.active,
-      .markdown-section .accordion:hover {
-        background: #dbeafe !important;
-        border-left: 3px solid #3b82f6 !important;
-      }
-      .markdown-section .accordion .accordion-content-container {
-        background: #ffffff !important;
-      }
-      .markdown-section .accordion .arrow {
-        border-color: #3b82f6 !important;
-      }
-
-      /* 搜索结果：状态文字加大，摘要里隐藏网盘链接 */
-      .search .results-status {
-        font-size: 1.125rem !important;
-        color: var(--color-text) !important;
-        margin-bottom: 0.5em !important;
-      }
-      .search .matching-post .title {
-        font-size: 1rem !important;
-        margin-bottom: 0.35em !important;
-      }
-      .search .matching-post .content {
-        font-size: 0.875rem !important;
-        line-height: 1.6 !important;
-      }
-      .search .matching-post .content {
-        display: none !important;
-      }
-
-      /* 侧边栏右侧柔和阴影（与主题统一） */
-      .sidebar {
-        box-shadow: 2px 0 10px rgba(30, 64, 175, 0.10) !important;
+        --theme-color: #3b82f6;                /* 主色：蓝（兜底，防 core.min.css 异步覆盖回绿） */
+        --heading-color: #3b82f6;              /* 标题色：蓝（兜底） */
+        --sidebar-link-color-active: #3b82f6;  /* 侧栏当前页：蓝（兜底） */
+        --sidebar-toggle-bg: #dbeafe;          /* 侧边栏切换按钮背景：浅蓝（兜底） */
+        --sidebar-toggle-bg-hover: #bfdbfe;    /* hover 背景（兜底） */
+        --sidebar-toggle-color: #3b82f6;       /* 三个点：蓝色（兜底） */
+        --sidebar-toggle-color-hover: #1d4ed8; /* hover 三个点：深蓝（兜底） */
       }
     </style>
 
@@ -246,14 +185,6 @@
         <symbol id="icon-baby" viewBox="0 0 448 512">
             <path fill="currentColor"
                 d="M224 0c-17.7 0-32 14.3-32 32V49.7C119.5 61.4 64 124.2 64 200v33.4c0 45.4-15.5 89.5-43.8 124.9L5.3 377c-9.6 11.5-7.5 28.6 4.5 37.3c5.9 4.3 12.9 6.1 19.7 5.5L64 416v32c0 35.3 28.7 64 64 64h192c35.3 0 64-28.7 64-64V416l34.5 3.8c6.8 .6 13.8-1.2 19.7-5.5c12-8.7 14.1-25.8 4.5-37.3l-14.9-18.6C399.5 322.9 384 278.8 384 233.4V200c0-75.8-55.5-138.6-128-150.3V32c0-17.7-14.3-32-32-32zM176 208a32 32 0 1 1 0 64 32 32 0 1 1 0-64zm128 32a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z" />
-        </symbol>
-        <symbol id="icon-graduation-cap" viewBox="0 0 640 512">
-            <path fill="currentColor"
-                d="M320 32c-8.1 0-16.1 1.4-23.7 4.1L15.8 137.4C6.3 140.9 0 149.9 0 160s6.3 19.1 15.8 22.6l57.9 20.9C57.3 229.3 48 259.8 48 291.9v28.1c0 28.4-10.8 57.7-22.3 80.8c-6.5 13-13.9 25.8-22.5 37.6C0 442.7-.9 448.3 .9 453.4s6 8.9 11.2 10.2l64 16c4.2 1.1 8.7 .3 12.4-2s6.3-6.1 7.1-10.4c8.6-42.8 4.3-81.2-2.1-108.7C90.3 344.3 86 329.8 80 316.5V291.9c0-30.2 10.2-58.7 27.9-81.5c12.9-15.5 29.6-28 49.2-35.7l157-61.7c8.2-3.2 17.5 .8 20.7 9s-.8 17.5-9 20.7l-157 61.7c-12.4 4.9-23.3 12.4-32.2 21.6l159.6 57.6c7.6 2.7 15.6 4.1 23.7 4.1s16.1-1.4 23.7-4.1L624.2 182.6c9.5-3.4 15.8-12.5 15.8-22.6s-6.3-19.1-15.8-22.6L343.7 36.1C336.1 33.4 328.1 32 320 32zM128 408c0 35.3 86 72 192 72s192-36.7 192-72L512 256.9 343.7 314.1c-7.6 2.7-15.6 4.1-23.7 4.1s-16.1-1.4-23.7-4.1L128 256.9V408z" />
-        </symbol>
-        <symbol id="icon-plus-circle" viewBox="0 0 512 512">
-            <path fill="currentColor"
-                d="M256 0a256 256 0 1 0 0 512A256 256 0 1 0 256 0zM232 344V280H168c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V168c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H280v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z" />
         </symbol>
         <symbol id="icon-spinner" viewBox="0 0 512 512">
             <path fill="currentColor"
@@ -889,7 +820,6 @@
                     path: commentPath,
                     meta: ['nick', 'mail'],
                     requiredMeta: ['nick'],
-                    avatar: 'none',
                     pageSize: 6,
                     commentSorting: 'latest',
                     imageUploader: false,
@@ -946,6 +876,7 @@
                 console.error('Waline 初始化失败:', error);
             }
         }
+
     </script>
 
     <!-- 处理哈希路由滚动 -->

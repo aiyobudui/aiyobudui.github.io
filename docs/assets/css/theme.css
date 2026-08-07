@@ -5,7 +5,7 @@
  * ------------------------------------------------------------
  * 基于 docsify v5 官方「Vue 主题」(themes/addons/vue.min.css) 重写。
  * Vue 主题本身就是在官方 core.min.css 之上的轻量覆盖层，本文件沿用同一思路：
- *   1. 沿用 Vue 主题的变量体系与视觉语言：Source Sans 3 字体、Vue 绿主色
+ *   1. 沿用 Vue 主题的变量体系与视觉语言：Source Sans 3 字体、主题蓝主色
  *      (#3b82f6)、--content-max-width:85ch、优雅的代码高亮配色、侧边栏激活项
  *      3px 右侧色条指示器。
  *   2. 在 Vue 主题基础上做少量「中文长文阅读」友好的微调：略放大 font-size /
@@ -58,7 +58,7 @@
   /* 导航链接——字号独立，不随正文 --font-size 变化 */
   --sidebar-font-size: 1.0625rem;              /* 17px（子级菜单链接） */
   --sidebar-link-color: var(--color-text);     /* 链接文字色 */
-  --sidebar-link-color-active: #3b82f6;  /* 当前页：蓝色 */
+  --sidebar-link-color-active: var(--theme-color);  /* 当前页：主题蓝 */
   --sidebar-link-color-hover: #60a5fa;          /* hover：浅蓝色 */
   --sidebar-link-spacing: 1.1em;               /* 链接上下间距（更透气） */
 
@@ -75,11 +75,11 @@
   /* 侧边栏展开/收起切换按钮（右侧竖条）颜色 */
   --sidebar-toggle-bg: #dbeafe;              /* 按钮背景：浅蓝 */
   --sidebar-toggle-bg-hover: #bfdbfe;        /* hover 背景：稍深浅蓝 */
-  --sidebar-toggle-color: #3b82f6;           /* 三个点：蓝色 */
+  --sidebar-toggle-color: var(--theme-color);           /* 三个点：主题蓝 */
   --sidebar-toggle-color-hover: #1d4ed8;     /* hover 三个点：深蓝 */
 
   /* ---- 标题颜色：独立变量，改这一处即可统一调整 H1~H6 颜色 ---- */
-  --heading-color: #3b82f6;          /* 琉璃蓝（所有标题默认色） */
+  --heading-color: var(--theme-color);          /* 主题蓝（与 --theme-color 统一） */
   --heading-color-hover: #1d4ed8;     /* 标题 hover：深蓝 */
 
   /* ---- 代码：Vue 主题的优雅高亮配色 ---- */
@@ -110,7 +110,6 @@
 .mobile-nav svg,
 .mobile-nav-more-item svg,
 .mobile-nav-submenu-item svg,
-.mobile-search svg,
 .mobile-search-result-item svg {
   width: 1.25rem !important;
   height: 1.25rem !important;
@@ -293,7 +292,7 @@
   right: 0;
   bottom: -1px;
   height: 1px;
-  background-color: #3b82f6;
+  background-color: var(--theme-color);
   transform: scaleX(0);
   transform-origin: center;          /* 从中间开始 */
   transition: transform 1s ease;
@@ -301,7 +300,7 @@
 
 .markdown-section a:not(.game-nav-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a):hover {
   text-decoration: none;
-  color: #3b82f6;                     /* hover 变蓝 */
+  color: var(--theme-color);                     /* hover 变主题蓝 */
 }
 
 .markdown-section a:not(.game-nav-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a):hover::after {
@@ -369,7 +368,7 @@ main > .content {
 .markdown-section .accordion.active,
 .markdown-section .accordion:hover {
   background: #dbeafe !important;
-  border-left: 3px solid #3b82f6 !important;
+  border-left: 3px solid var(--theme-color) !important;
 }
 
 /* 标题行（summary）文字颜色 */
@@ -387,7 +386,7 @@ main > .content {
 
 /* 右侧箭头：蓝色 */
 .markdown-section .accordion .arrow {
-  border-color: #3b82f6 !important;
+  border-color: var(--theme-color) !important;
 }
 
 /* =================== 搜索框动画（参考 aiyobudui 仓库 theme-simple.css） =================== */
@@ -460,6 +459,11 @@ main > .content {
   }
 }
 
+/* 搜索框脉冲：用户首次聚焦/点击后永久停止（配合 index.html 的 stopSearchAnimation 给 input 加 .search-activated） */
+.sidebar .search input.search-activated {
+  animation: none !important;
+}
+
 /* =================== 搜索结果面板样式覆盖 ===================
    docsify 搜索插件默认把 "找到 X 个结果" 和摘要设成 var(--font-size-s)，
    在中文站点上几乎看不清；且摘要里会原样显示网盘链接 URL，显得杂乱。 */
@@ -478,13 +482,7 @@ main > .content {
   margin-bottom: 0.35em !important;
 }
 
-.search .matching-post .content {
-  font-size: 0.875rem !important;   /* 摘要 14px（原 var(--font-size-s) 约 9px） */
-  line-height: 1.6 !important;
-  color: var(--color-mono-5, #6b7280) !important;
-}
-
-/* 搜索结果只保留标题，隐藏摘要里的网盘 URL 等杂乱内容 */
+/* 搜索结果只保留标题，隐藏摘要（含网盘 URL 等杂乱内容）；标题已足够，无需字体/颜色设置 */
 .search .matching-post .content {
   display: none !important;
 }
@@ -643,13 +641,6 @@ main > .content {
 .mobile-nav-submenu-item:focus {
   background: #f5f5f5;
   color: var(--theme-color);
-}
-
-.mobile-nav-more-item i,
-.mobile-nav-submenu-item i {
-  margin-right: 0.5rem;
-  width: 1rem;
-  text-align: center;
 }
 
 /* 子菜单位置（按底部导航按钮位置精确定位） */
@@ -936,7 +927,7 @@ body.search-active nav[class*="toc"] {
 .sidebar-nav li:has(> ul):not(.collapse) > a::after,
 .sidebar-nav li:has(> ul):not(.collapse) > p > a::after {
   transform: rotate(45deg);           /* 指向下 */
-  border-color: #3b82f6;              /* 展开：蓝 */
+  border-color: var(--theme-color);              /* 展开：主题蓝 */
 }
 
 /* =================== 侧边栏分组折叠（自定义 JS 控制 .collapse 类） =================== */
@@ -1013,4 +1004,205 @@ body.search-active nav[class*="toc"] {
   text-decoration: none;
   font-weight: 700;
   color: var(--sidebar-link-color-active);   /* 蓝色（与选中态一致） */
+}
+
+/* ============================================================
+   Waline 留言板样式覆盖
+   ------------------------------------------------------------
+   Waline 从 CDN 异步加载，官方样式在某些尺寸/字号上与站点
+   视觉不统一，这里用 !important 兜底覆盖。
+   ============================================================ */
+
+/* 0. 主题色统一（官方推荐：覆盖 --waline-* 变量，一处改全站生效）
+      绿 → 站点蓝，避免到处写硬编码色值 */
+:root {
+  --waline-theme-color: #3b82f6;     /* 主色：提交按钮/链接/激活 */
+  --waline-active-color: #1d4ed8;    /* 激活/悬停深蓝 */
+  --waline-border-color: #ddd;       /* 边框色（仅无边框项才需另覆盖） */
+  --waline-color: #444;              /* 正文文字色 */
+}
+
+/* 1. 缩小底部工具栏按钮（表情 / 预览），避免占位过大（去边框/背景见第 7 组统一规则） */
+.wl-actions .wl-action,
+.wl-actions .wl-action:hover,
+.wl-actions .wl-action:active,
+.wl-actions .wl-action:focus {
+  width: 1.75rem !important;
+  height: 1.75rem !important;
+  padding: 0.25rem !important;
+  border-radius: 0.375rem !important;
+}
+
+.wl-actions .wl-action svg {
+  width: 1.25rem !important;
+  height: 1.25rem !important;
+}
+
+/* 2. 隐藏图片上传按钮（黄色/图片图标）—— 站点已关闭 imageUploader，
+      但 Waline 实际用 label.wl-action（无 .wl-image 类）渲染该按钮，
+      直接隐藏工具栏第一个 action 最稳妥，同时保留类名兜底 */
+.wl-actions .wl-action:first-child,
+.wl-actions label.wl-action,
+.wl-action[for="wl-image-upload"],
+.wl-actions .wl-image,
+.wl-action.wl-image {
+  display: none !important;
+}
+
+/* 3. 增大昵称 / 邮箱输入框字号，避免填写后文字过小 */
+.wl-header .wl-header-item .wl-input {
+  font-size: 0.9375rem !important;
+  padding: 0.5rem 0.625rem !important;
+}
+
+.wl-header .wl-header-item label {
+  font-size: 0.875rem !important;
+}
+
+/* 4. 提交按钮也同步略小一号，避免与输入区比例失调 */
+.wl-form .wl-btn {
+  font-size: 0.875rem !important;
+  padding: 0.375rem 0.875rem !important;
+}
+
+/* 5. 统一留言板背景与主题色，去掉零散浅灰背景 */
+/* 面板 / 编辑器聚焦 / 昵称·邮箱·IP 等元信息标签：去掉默认浅灰背景，
+   与站点卡片（白底）保持一致，不再出现突兀的灰色块 */
+.wl-panel {
+  background: transparent !important;
+}
+
+.wl-editor:focus {
+  background-color: #f8fafc !important;   /* 聚焦仅极淡蓝灰，便于辨识输入区 */
+}
+
+/* 浏览器 / 系统 / 地址 标签：去掉默认灰底、padding，统一字号颜色 */
+.wl-card .wl-meta > span {
+  background: transparent !important;
+  color: #6b7280 !important;
+  font-size: 0.875rem !important;
+  padding: 0 !important;                /* 去掉默认 2px 上下 padding */
+}
+
+/* 主题色已由顶部 :root 的 --waline-theme-color / --waline-active-color 变量统一控制，
+   提交按钮与激活态自动变蓝，无需在此硬编码覆盖。 */
+
+/* 表情 / 动图 选择弹窗内部元素去描边去背景（与留言板按钮同款无边框风格）
+   覆盖：表情 hover 灰底、预览框、激活分类标签、标签分隔线、动图输入框与缩略图
+   （弹窗容器本身保留背景、只用阴影浮起，见下方 .wl-emoji-popup / .wl-gif-popup） */
+.wl-emoji-popup button:hover,
+.wl-emoji-popup .wl-emoji-preview,
+.wl-emoji-popup .wl-tab.active,
+.wl-emoji-popup .wl-tabs::before,
+.wl-gif-popup input,
+.wl-gif-popup img,
+.wl-gif-popup img:hover {
+  background: transparent !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* 表情 / 动图 弹窗容器：需要背景、不要边框，用阴影替代边框做浮起效果 */
+.wl-emoji-popup,
+.wl-emoji-popup:hover,
+.wl-gif-popup,
+.wl-gif-popup:hover {
+  background: #ffffff !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: 0 4px 16px rgba(30, 64, 175, 0.12) !important;
+  border-radius: 0.5rem !important;
+}
+
+/* 6. 评论元信息（浏览器 / 系统版本）横向排列
+   版本信息保持在昵称/时间下方独立一行，但内部横向排列，
+   避免 Baidu13.74 / Android 15 上下堆叠 */
+.wl-card .wl-meta {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  gap: 0.25rem 0.6rem !important;
+}
+
+/* 昵称：深蓝 + 粗体 + 加大 */
+.wl-card .wl-head .wl-nick,
+.wl-card .wl-head .wl-nick:hover,
+.wl-card .wl-head .wl-nick:visited {
+  color: #1d4ed8 !important;        /* 深蓝 */
+  font-weight: 700 !important;      /* 加粗 */
+  font-size: 1.1rem !important;     /* 加大（默认约 0.875rem） */
+}
+
+/* 头部行高也收一点，减少昵称/时间与版本行之间的空白 */
+.wl-card .wl-head {
+  line-height: 1.2 !important;
+  margin-bottom: -0.5rem !important;
+}
+
+.wl-card .wl-meta > * {
+  display: inline-flex !important;
+  align-items: center !important;
+}
+
+/* 7. 统一：所有非主按钮（工具栏表情/预览、评论操作、关闭、回复框取消/登录）
+       去背景、去描边、去浏览器默认 focus 轮廓，并覆盖全部交互态。
+       主按钮 .wl-btn.primary（提交）保留蓝色，不在此列。
+       注：.wl-operation button（更多...）不在此规则，保留 Waline 默认边框/背景，避免看不见。 */
+.wl-actions .wl-action,
+.wl-actions .wl-action:hover,
+.wl-actions .wl-action:active,
+.wl-actions .wl-action:focus,
+.wl-actions .wl-action:focus-visible,
+.wl-comment-actions button,
+.wl-comment-actions a,
+.wl-comment-actions button:hover,
+.wl-comment-actions a:hover,
+.wl-comment-actions button:active,
+.wl-comment-actions a:active,
+.wl-comment-actions button:focus,
+.wl-comment-actions a:focus,
+.wl-comment-actions button:focus-visible,
+.wl-comment-actions a:focus-visible,
+.wl-close,
+.wl-close:hover,
+.wl-close:active,
+.wl-close:focus,
+.wl-close:focus-visible,
+.wl-info .wl-btn:not(.primary),
+.wl-info .wl-btn:not(.primary):hover,
+.wl-info .wl-btn:not(.primary):active,
+.wl-info .wl-btn:not(.primary):focus,
+.wl-info .wl-btn:not(.primary):focus-visible {
+  background: transparent !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* 取消回复的 X 按钮加大，避免太小难点击 */
+.wl-close {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+  font-size: 1.5rem !important;
+  line-height: 1 !important;
+}
+
+/* 「取消回复」文字按钮加大，便于点击 */
+.wl-info .wl-btn:not(.primary) {
+  font-size: 1rem !important;
+  padding: 0.5rem 1rem !important;
+  min-height: 2.25rem !important;
+}
+
+/* 「更多...」加载按钮：不要灰色边框，但要浅蓝背景（站点浅蓝）让按钮清晰可点 */
+.wl-operation button {
+  border: none !important;
+  background: #dbeafe !important;
+  color: var(--theme-color) !important;
+  font-weight: 600 !important;
+  border-radius: 0.375rem !important;
+  padding: 0.5rem 1rem !important;
+  box-shadow: none !important;
+  outline: none !important;
 }
