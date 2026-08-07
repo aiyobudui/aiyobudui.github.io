@@ -474,18 +474,85 @@ main > .content {
 }
 
 .search .matching-post {
-  padding: 0.85em 0 1em 0 !important;
+  padding: 0 0 0.9em 0.3em !important;
 }
 
-.search .matching-post .title {
-  font-size: 1rem !important;       /* 结果标题 16px */
-  margin-bottom: 0.35em !important;
+/* 结果项链接：仅去掉下划线，标题显示默认蓝 */
+.search .matching-post a,
+.search .matching-post a:hover,
+.search .matching-post a:focus,
+.search .matching-post a:active,
+.search .matching-post a:visited,
+.search .matching-post.current a {
+  text-decoration: none !important;
 }
 
-/* 搜索结果只保留标题，隐藏摘要（含网盘 URL 等杂乱内容）；标题已足够，无需字体/颜色设置 */
-.search .matching-post .content {
+/* 搜索结果标题：取消单行截断，转行显示 */
+.search .matching-post .title.clamp-1 {
+  display: block !important;
+  -webkit-line-clamp: unset !important;
+  overflow: visible !important;
+  white-space: normal !important;
+  word-break: break-word !important;
+}
+
+/* 搜索结果标题：粗体蓝，hover/focus/current 变深蓝 */
+.search .matching-post a .title {
+  font-size: 0.9rem !important;
+  font-weight: 700 !important;
+  color: #3b82f6 !important;
+}
+.search .matching-post a:hover .title,
+.search .matching-post a:focus .title,
+.search .matching-post.current a .title {
+  color: #1d4ed8 !important;
+}
+
+/* 搜索结果面包屑（自定义注入 .result-category）：前加 📁 图标 */
+.search .matching-post a .result-category {
+  display: block !important;
+  font-size: 12px !important;      /* 比标题小、可读 */
+  font-weight: 400 !important;
+  color: #9ca3af !important;       /* 浅灰 */
+  letter-spacing: 0.02em !important;
+  margin: 0 0 0.3em 0 !important;
+}
+
+.search .matching-post a .result-category::before {
+  content: '📁';
+  display: inline-block;
+  margin-right: 0.35em;
+  font-size: 1em;
+  line-height: 1;
+}
+
+/* 鼠标移到结果项/面包屑上：面包屑保持浅灰不变蓝 */
+.search .matching-post:hover a .result-category,
+.search .matching-post:focus a .result-category,
+.search .matching-post a:hover .result-category,
+.search .matching-post.current a .result-category,
+.search .matching-post a .result-category:hover {
+  color: #9ca3af !important;
+}
+
+/* 搜索结果正文摘录（docsify 真实 DOM 是 <p class="content clamp-2">）：隐藏 */
+.search .matching-post .content,
+.search .matching-post p:not(.empty) {
   display: none !important;
 }
+
+/* =================== 正文 H1~H4 标题字号（集中设置） =================== */
+/* 只需修改下面 4 个变量即可统一调整文档标题大小；删除本段即恢复 docsify 默认 */
+:root {
+  --doc-h1-size: 2.0rem;    /* ≈ 32px */
+  --doc-h2-size: 1.6rem;    /* ≈ 26px */
+  --doc-h3-size: 1.1rem;    /* ≈ 18px */
+  --doc-h4-size: 0.95rem;   /* ≈ 15px */
+}
+.markdown-section h1 { font-size: var(--doc-h1-size) !important; }
+.markdown-section h2 { font-size: var(--doc-h2-size) !important; }
+.markdown-section h3 { font-size: var(--doc-h3-size) !important; }
+.markdown-section h4 { font-size: var(--doc-h4-size) !important; }
 
 /* =================== 正文内的导航按钮（.game-nav 等） =================== */
 .markdown-section .game-nav {
