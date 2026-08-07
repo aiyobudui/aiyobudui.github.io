@@ -2,65 +2,25 @@
 <html lang="zh-cn">
 
 <head>
-    <!-- =================== 性能监控 - 必须在最前面 =================== -->
-    <script>
-        // 性能监控数据收集
-        window.perfMonitor = {
-            data: {
-                jsLoadTimes: {},
-                navigationStart: performance.now()
-            },
-            // 记录JS加载时间
-            logJsLoad: function(name, startTime) {
-                var duration = performance.now() - startTime;
-                this.data.jsLoadTimes[name] = duration;
-                console.log('[性能监控] ' + name + ' 加载时间: ' + duration.toFixed(2) + 'ms');
-            },
-            // 输出报告
-            report: function() {
-                console.log('========== 性能监控报告 ==========');
-                console.log('JS加载时间:', this.data.jsLoadTimes);
-                console.log('页面总耗时:', (performance.now() - this.data.navigationStart).toFixed(2) + 'ms');
-                console.log('==================================');
-            }
-        };
 
-        // 监控各阶段加载时间
-        window.addEventListener('load', function() {
-            setTimeout(function() {
-                var timing = performance.timing;
-                console.log('[性能监控] 页面加载时间统计:');
-                console.log('  DNS查询: ' + (timing.domainLookupEnd - timing.domainLookupStart) + 'ms');
-                console.log('  TCP连接: ' + (timing.connectEnd - timing.connectStart) + 'ms');
-                console.log('  请求响应: ' + (timing.responseEnd - timing.requestStart) + 'ms');
-                console.log('  DOM解析: ' + (timing.domComplete - timing.domLoading) + 'ms');
-                console.log('  总加载时间: ' + (timing.loadEventEnd - timing.navigationStart) + 'ms');
-            }, 0);
-        });
-    </script>
-
-    <!-- =================== 元数据 =================== -->
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="renderer" content="webkit" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="referrer" content="no-referrer-when-downgrade">
 
     <title>对酒当歌分享 - 海量免费资源分享</title>
 
-    <!-- DNS预解析 -->
     <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
     <link rel="dns-prefetch" href="//unpkg.com">
     <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
     <link rel="preconnect" href="https://unpkg.com" crossorigin>
 
-    <!-- 网站图标 -->
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
     <link rel="icon" href="./favicon.ico" type="image/vnd.microsoft.icon">
     <link rel="apple-touch-icon" href="./favicon.ico">
     <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
 
-    <!-- =================== 外部CSS样式 =================== -->
     <!-- v5 官方核心主题 -->
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/themes/core.min.css" as="style"
         onload="this.onload=null;this.rel='stylesheet'" />
@@ -69,35 +29,12 @@
     </noscript>
 
     <!-- 主题样式（基于 docsify v5 官方核心主题 core.min.css 的轻量覆盖层） -->
-    <link rel="stylesheet" href="./assets/css/theme.css?v=202608071921" />
+    <link rel="stylesheet" href="./assets/css/theme.css?v=202608072230" />
 
-    <!-- 主题兜底（仅变量）：卡片/手风琴/搜索/侧栏等全部规则已在 theme.css 中，
-         此处仅把核心主题变量再声明一次作为「最终兜底」——
-         core.min.css 经 preload 异步加载，极端情况下可能晚于 theme.css 注入并覆盖 :root，
-         这里确保蓝色主题不被覆盖回 Vue 绿。请勿在此重复具体规则，避免双份维护。 -->
-    <style>
-      :root {
-        --theme-color: #3b82f6;                /* 主色：蓝（兜底，防 core.min.css 异步覆盖回绿） */
-        --heading-color: #3b82f6;              /* 标题色：蓝（兜底） */
-        --sidebar-link-color-active: #3b82f6;  /* 侧栏当前页：蓝（兜底） */
-        --sidebar-toggle-bg: #dbeafe;          /* 侧边栏切换按钮背景：浅蓝（兜底） */
-        --sidebar-toggle-bg-hover: #bfdbfe;    /* hover 背景（兜底） */
-        --sidebar-toggle-color: #3b82f6;       /* 三个点：蓝色（兜底） */
-        --sidebar-toggle-color-hover: #1d4ed8; /* hover 三个点：深蓝（兜底） */
-      }
-    </style>
 
     <!-- docsify核心 JS预加载 - 主CDN: jsdelivr (v5路径: /dist/) -->
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js" as="script">
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js" as="script">
-
-    <!-- TOC菜单 -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/light.css"
-        onerror="this.href='https://unpkg.com/docsify-plugin-toc@1/dist/light.css'" />
-
-    <!-- Docsify手风琴 -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-accordion/src/style.css"
-        onerror="this.href='https://unpkg.com/docsify-accordion/src/style.css'" />
 
     <!-- Emoji 字体支持 - 确保所有系统都能显示 -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -208,38 +145,6 @@
 <body class="sidebar-chevron-right loading">
     <div id="app"></div>
 
-    <!-- =================== 手机菜单修复函数 =================== -->
-    <script>
-        // 公共函数：检测是否为移动设备
-        function isMobileDevice() {
-            return window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-        }
-
-        // 增强的手机菜单显示函数
-        function toggleMobileNav() {
-            requestAnimationFrame(function() {
-                var mobileNav = document.querySelector('.mobile-nav');
-                if (mobileNav) {
-                    if (isMobileDevice()) {
-                        mobileNav.classList.add('force-show');
-                        document.body.style.paddingBottom = mobileNav.offsetHeight + 'px';
-                    } else {
-                        mobileNav.classList.remove('force-show');
-                        document.body.style.paddingBottom = '';
-                    }
-                }
-            });
-        }
-
-        // 页面加载完成后显示手机菜单
-        window.addEventListener('load', toggleMobileNav);
-        window.addEventListener('resize', function() {
-            setTimeout(toggleMobileNav, 100);
-        });
-        window.addEventListener('pageshow', toggleMobileNav);
-    </script>
-
-    <!-- 手机端底部导航栏 -->
     <nav class="mobile-nav">
         <div class="mobile-nav-container">
             <a href="/" class="mobile-nav-item" data-path="/">
@@ -287,7 +192,6 @@
         </div>
     </nav>
 
-    <!-- 搜索遮罩和弹窗 -->
     <div class="mobile-search-overlay" id="mobileSearchOverlay">
         <div class="mobile-search-container">
             <div class="mobile-search-box">
@@ -296,7 +200,6 @@
                         <use href="#icon-search" />
                     </svg></button>
             </div>
-            <!-- 搜索结果显示区域 -->
             <div class="mobile-search-results" id="mobileSearchResults"></div>
         </div>
         <div class="mobile-search-close" id="mobileSearchClose"><svg>
@@ -304,7 +207,6 @@
             </svg></div>
     </div>
 
-    <!-- 游戏子菜单 -->
     <div class="mobile-nav-submenu" id="submenu-games">
         <a href="#/zh-cn/games/pc" class="mobile-nav-submenu-item"><svg>
                 <use href="#icon-desktop" />
@@ -319,7 +221,6 @@
                 <use href="#icon-mobile-alt" />
             </svg> 安卓游戏</a>
     </div>
-    <!-- 电影子菜单 -->
     <div class="mobile-nav-submenu" id="submenu-movie">
         <a href="#/zh-cn/movie/popular" class="mobile-nav-submenu-item"><svg>
                 <use href="#icon-fire" />
@@ -334,7 +235,6 @@
                 <use href="#icon-magic" />
             </svg> 动画电影</a>
     </div>
-    <!-- 电视剧子菜单 -->
     <div class="mobile-nav-submenu" id="submenu-tv">
         <a href="#/zh-cn/tv/china" class="mobile-nav-submenu-item"><svg>
                 <use href="#icon-flag" />
@@ -346,7 +246,6 @@
                 <use href="#icon-yin-yang" />
             </svg> 日韩剧</a>
     </div>
-    <!-- 动漫子菜单 -->
     <div class="mobile-nav-submenu" id="submenu-animetv">
         <a href="#/zh-cn/animetv/gcdm" class="mobile-nav-submenu-item"><svg>
                 <use href="#icon-dragon" />
@@ -361,7 +260,6 @@
                 <use href="#icon-baby" />
             </svg> 小朋友动画</a>
     </div>
-    <!-- 更多菜单 -->
     <div class="mobile-nav-more-popup" id="mobileNavPopup">
         <a href="#/zh-cn/documentary" class="mobile-nav-more-item">纪录片</a>
         <a href="#/zh-cn/books" class="mobile-nav-more-item">书籍、漫画、有声读物</a>
@@ -371,10 +269,10 @@
         <a href="#/zh-cn/dashang" class="mobile-nav-more-item">打 赏</a>
     </div>
 
-    <!-- =================== docsify JS配置文件 =================== -->
+    <!-- docsify 配置 -->
     <script>
         window.$docsify = {
-            // =================== 基础配置（v5 核心） ===================
+            // 基础配置
             el: '#app',
             homepage: 'home.md',
             name: '对酒当歌分享',
@@ -382,29 +280,26 @@
             logo: '',
             repo: '',
 
-            // =================== 侧边栏配置（v5 核心） ===================
+            // 侧边栏配置
             loadSidebar: '_sidebar.md',
-            loadNavbar: false,
             subMaxLevel: 0,
             maxLevel: 3,
             autoHeader: false,
-            mergeNavbar: true,
 
-            // =================== 页面行为配置（v5 核心） ===================
+            // 页面行为
             auto2top: false, // 关闭：否则每次切换页面强制回顶，会覆盖搜索结果「定位到标题」的默认跳转（docsify 默认即 false）
             coverpage: false,
             onlyCover: false,
             noEmoji: true,
-            topMargin: 0,
             routerMode: 'hash',
             relativePath: false,
             externalLinkTarget: '_blank',
+            catchPluginErrors: true,
 
-            // =================== 404 页面配置（v5 核心） ===================
+            // 404 页面
             notFoundPage: '404.md',
 
-            // =================== 请求与链接配置（v5 核心） ===================
-            requestHeaders: { 'Cache-Control': 'public, max-age=86400' },
+            // 请求与链接
             noCompileLinks: [
                 '^https://pan\\.quark\\.cn/s/',
                 '^https://pan\\.xunlei\\.com/s/',
@@ -413,17 +308,10 @@
             ],
             alias: {
                 '/zh-cn/_sidebar.md': '/_sidebar.md',
-                '/.*/_sidebar.md': '/_sidebar.md',
-                '/.*/_navbar.md': '/_navbar.md'
+                '/.*/_sidebar.md': '/_sidebar.md'
             },
 
-            // =================== 插件配置 ===================
-            // docsify-plugin-toc 插件
-            toc: {
-                tocMaxLevel: 2,
-                target: 'h2',
-                ignoreHeaders: []
-            },
+            // 插件配置
 
             // @alertbox/docsify-footer 插件
             loadFooter: '_footer.md',
@@ -441,7 +329,7 @@
                 insertAfter: '.app-name',
             },
 
-            // =================== 自定义插件 ===================
+            // 自定义插件
             plugins: [
                 function (hook, vm) {
                     // 记录用户已展开的分组（按 href 标识），切换页面后保持展开状态
@@ -450,7 +338,7 @@
                     // 每次页面切换后执行（包含首次加载）
                     hook.doneEach(function () {
                         // 修复手机菜单显示问题
-                        setTimeout(function() {
+                        setTimeout(function () {
                             if (typeof toggleMobileNav === 'function') {
                                 toggleMobileNav();
                             }
@@ -511,923 +399,42 @@
                                 }
                             });
                         }
+
+                        // 正文内 TOC：抓取当前页 h2，注入「本页目录」卡片到正文顶部
+                        buildInContentToc();
+
                     });
                 }
             ]
         }
     </script>
 
-    <!-- =================== 搜索结果分类路径（电脑端） =================== -->
-    <script>
-        // URL → 侧边栏分类路径映射表
-        var searchCategoryMap = {
-            '/zh-cn/games/pc': '游戏 > 电脑游戏',
-            '/zh-cn/games/HVgame': '游戏 > 虚拟化游戏',
-            '/zh-cn/games/switch': '游戏 > Switch游戏',
-            '/zh-cn/games/android': '游戏 > 安卓游戏',
-            '/zh-cn/games/page': '游戏',
-            '/zh-cn/movie/popular': '电影 > 热门电影',
-            '/zh-cn/movie/classic': '电影 > 经典电影',
-            '/zh-cn/movie/series': '电影 > 系列电影',
-            '/zh-cn/movie/animefilms': '电影 > 动画电影',
-            '/zh-cn/movie/page': '电影',
-            '/zh-cn/tv/china': '电视剧 > 国产剧',
-            '/zh-cn/tv/occident': '电视剧 > 欧美剧',
-            '/zh-cn/tv/jpandsk': '电视剧 > 日韩剧',
-            '/zh-cn/tv/page': '电视剧',
-            '/zh-cn/animetv/gcdm': '动画剧集 > 国产动漫',
-            '/zh-cn/animetv/rbdm': '动画剧集 > 日本动漫',
-            '/zh-cn/animetv/omdm': '动画剧集 > 欧美动漫',
-            '/zh-cn/animetv/xpy': '动画剧集 > 小朋友动画',
-            '/zh-cn/animetv/page': '动画剧集',
-            '/zh-cn/documentary': '纪录片',
-            '/zh-cn/books': '书籍、漫画、有声读物',
-            '/zh-cn/music': '音乐、演唱会、MV',
-            '/zh-cn/others': '综艺、教学视频、其他',
-            '/zh-cn/bbs': '留言板',
-            '/zh-cn/dashang': '打赏'
-        };
-
-        // 获取URL对应的分类路径
-        function getCategoryPath(url) {
-            if (!url) return '';
-            var cleanUrl = url.replace(/^#/, '').split('?')[0];
-            var longestMatch = '';
-            for (var path in searchCategoryMap) {
-                if (cleanUrl.indexOf(path) === 0 && path.length > longestMatch.length) {
-                    longestMatch = path;
-                }
-            }
-            return longestMatch ? searchCategoryMap[longestMatch] : '';
-        }
-
-        // 为搜索结果添加分类路径
-        function addCategoryToSearchResults() {
-            // 本地化搜索结果状态文本（v5硬编码了英文"Found X results"）
-            var status = document.querySelector('.search .results-status');
-            if (status) {
-                var m = status.textContent.match(/^Found (\d+) results$/);
-                if (m) status.textContent = '找到 ' + m[1] + ' 个结果';
-            }
-
-            var results = document.querySelectorAll('.search .results-panel .matching-post a');
-            if (results.length === 0) return;
-
-            results.forEach(function(link) {
-                if (link.querySelector('.result-category')) return;
-
-                var href = link.getAttribute('href');
-                var category = getCategoryPath(href);
-
-                if (category) {
-                    var categorySpan = document.createElement('span');
-                    categorySpan.className = 'result-category';
-                    categorySpan.textContent = category;
-                    var titleEl = link.querySelector('p.title') || link.querySelector('h2');
-                    if (titleEl) {
-                        link.insertBefore(categorySpan, titleEl);
-                    } else {
-                        link.insertBefore(categorySpan, link.firstChild);
-                    }
-                }
-            });
-        }
-
-        // 监听搜索框输入
-        function initSearchObserver() {
-            var searchInput = document.querySelector('.search input[type="search"]');
-            if (searchInput) {
-                searchInput.addEventListener('input', function() {
-                    setTimeout(addCategoryToSearchResults, 300);
-                });
-                searchInput.addEventListener('focus', function() {
-                    setTimeout(addCategoryToSearchResults, 300);
-                });
-            }
-
-            var searchArea = document.querySelector('.search');
-            if (searchArea) {
-                var observer = new MutationObserver(function(mutations) {
-                    mutations.forEach(function(mutation) {
-                        if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
-                            setTimeout(addCategoryToSearchResults, 200);
-                        }
-                    });
-                });
-                observer.observe(searchArea, { childList: true, subtree: true });
-            }
-        }
-
-        document.addEventListener('DOMContentLoaded', function() {
-            setTimeout(initSearchObserver, 1000);
-        });
-
-        if (typeof Docsify !== 'undefined' && Docsify.hooks) {
-            Docsify.hooks.doneEach(function() {
-                setTimeout(addCategoryToSearchResults, 500);
-            });
-        }
-    </script>
-
-    <!-- =================== 搜索框脉冲动画控制 =================== -->
-    <script>
-        // 搜索框脉冲动画：用户点击/聚焦后永久停止
-        // 使用全局变量记录状态，防止 SPA 页面切换后搜索框重新渲染导致动画重启
-        window.__searchActivated = false;
-
-        function stopSearchAnimation() {
-            window.__searchActivated = true;
-            var input = document.querySelector('.sidebar .search input[type="search"]');
-            if (input) input.classList.add('search-activated');
-            var mobileSearch = document.getElementById('mobileNavSearch');
-            if (mobileSearch) mobileSearch.classList.add('search-activated');
-        }
-
-        // 页面切换后检查激活状态，已激活则给新渲染的搜索框补上类名
-        function syncSearchAnimationState() {
-            if (window.__searchActivated) {
-                var input = document.querySelector('.sidebar .search input[type="search"]');
-                if (input) input.classList.add('search-activated');
-            }
-        }
-
-        // 电脑端：搜索框聚焦时停止（事件捕获，确保最早触发）
-        document.addEventListener('focus', function (e) {
-            if (e.target && e.target.matches('.sidebar .search input[type="search"]')) {
-                stopSearchAnimation();
-            }
-        }, true);
-
-        // 手机端：搜索按钮点击时停止
-        document.addEventListener('click', function (e) {
-            if (e.target.closest('#mobileNavSearch')) {
-                stopSearchAnimation();
-            }
-        });
-
-        // SPA 页面切换后同步动画状态（hashchange 在 docsify 加载前即可注册）
-        window.addEventListener('hashchange', function () {
-            setTimeout(syncSearchAnimationState, 300);
-        });
-    </script>
-
-    <!-- =================== 核心JS文件 =================== -->
-    <!-- docsify核心 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script>
-        var docsifyLoadStart = performance.now();
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('docsify-core', docsifyLoadStart);"></script>
+    <!-- 核心 JS -->
     <!-- CDN同步回退：jsdelivr 失败时用 document.write 写入 unpkg，保证后续脚本阻塞等待 -->
-    <script>if(!window.Docsify){document.write('<script src="https://unpkg.com/docsify@5/dist/docsify.min.js"><\/script>');}</script>
-    <!-- v5兼容补丁：Docsify.dom 被冻结无法添加属性，用getter劫持注入 toggleClass（docsify-plugin-toc 依赖） -->
-    <script>(function __patchDocsifyDom(){if(!window.Docsify||!window.Docsify.dom){setTimeout(__patchDocsifyDom,10);return}var orig=window.Docsify.dom,p={};Object.keys(orig).forEach(function(k){p[k]=orig[k]});p.toggleClass=function(e,a,c){if(!e)return;if(a==="add")e.classList.add(c);else if(a==="remove")e.classList.remove(c);else e.classList.toggle(a||c)};Object.defineProperty(window.Docsify,'dom',{get:function(){return p},set:function(v){if(v){Object.keys(v).forEach(function(k){p[k]=v[k]})}},configurable:true})})();</script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js"></script>
+    <script>if (!window.Docsify) { document.write('<script src="https://unpkg.com/docsify@5/dist/docsify.min.js"><\/script>'); }</script>
 
-    <!-- 搜索 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script>
-        var searchLoadStart = performance.now();
-    </script>
-    <!-- 保存自定义plugins（v5搜索插件会覆盖$docsify.plugins数组） -->
+    <!-- 保存自定义plugins(v5搜索插件会覆盖$docsify.plugins数组) -->
     <script>var __savedPlugins = window.$docsify.plugins || [];</script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('search-plugin', searchLoadStart);"
         onerror="document.write('<script src=\'https://unpkg.com/docsify@5.0.0/dist/plugins/search.min.js\'><\/script>')"></script>
     <!-- 恢复被v5搜索插件覆盖的自定义plugins -->
     <script>window.$docsify.plugins = window.$docsify.plugins.concat(__savedPlugins);</script>
 
-    <!-- =================== 必要插件JS文件 =================== -->
-    <!-- 图片缩放 - 主CDN: jsdelivr, 备用CDN: unpkg
-         注: v5.0.0 实际文件名仍为 zoom-image.min.js（官方文档写的 zoom.min.js 在 5.0.0 中不存在）-->
-    <script>
-        var zoomImageLoadStart = performance.now();
-    </script>
+    <!-- 插件 JS -->
+    <!-- 图片缩放 --v5.0.0 实际文件名仍为 zoom-image.min.js-->
     <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/zoom-image.min.js"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('zoom-image-plugin', zoomImageLoadStart);"
         onerror="document.write('<script src=\'https://unpkg.com/docsify@5/dist/plugins/zoom-image.min.js\'><\/script>')"></script>
-
-    <!-- 选项卡 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script>
-        var tabsLoadStart = performance.now();
-    </script>
+    <!-- tab选项卡 -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('tabs-plugin', tabsLoadStart);"
         onerror="document.write('<script src=\'https://unpkg.com/docsify-tabs@1/dist/docsify-tabs.min.js\'><\/script>')"></script>
-    <!-- TOC插件 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script>
-        var tocLoadStart = performance.now();
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('toc-plugin', tocLoadStart);"
-        onerror="document.write('<script src=\'https://unpkg.com/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js\'><\/script>')"></script>
-
-    <!-- 页脚 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script>
-        var footerLoadStart = performance.now();
-    </script>
+    <!-- 页脚 -->
     <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('footer-plugin', footerLoadStart);"
         onerror="document.write('<script src=\'https://unpkg.com/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js\'><\/script>')"></script>
 
-    <!-- Docsify手风琴 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script>
-        var accordionLoadStart = performance.now();
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-accordion/src/index.js"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('accordion-plugin', accordionLoadStart);"
-        onerror="document.write('<script src=\'https://unpkg.com/docsify-accordion/src/index.js\'><\/script>')"></script>
-
-    <!-- 警报图标样式 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script>
-        var alertsLoadStart = performance.now();
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"
-        onload="window.perfMonitor && window.perfMonitor.logJsLoad('alerts-plugin', alertsLoadStart);"
-        onerror="document.write('<script src=\'https://unpkg.com/docsify-plugin-flexible-alerts\'><\/script>')"></script>
-
-    <!-- =================== 功能JS脚本 =================== -->
-    <!-- 留言板Waline - 延迟加载，只在留言板页面使用 -->
-    <script>
-        // 动态加载Waline资源
-        function loadWalineResources() {
-            return new Promise(function (resolve, reject) {
-                var cssLink = document.createElement('link');
-                cssLink.rel = 'stylesheet';
-                cssLink.href = 'https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css';
-                cssLink.onerror = function () {
-                    this.href = 'https://unpkg.com/@waline/client@v3/dist/waline.css';
-                };
-                document.head.appendChild(cssLink);
-
-                var script = document.createElement('script');
-                var walineLoadStart = performance.now();
-                script.src = 'https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js';
-                script.onload = function () {
-                    if (window.perfMonitor) {
-                        window.perfMonitor.logJsLoad('waline-client', walineLoadStart);
-                    }
-                    resolve();
-                };
-                script.onerror = function () {
-                    this.src = 'https://unpkg.com/@waline/client@v3/dist/waline.umd.js';
-                    this.onload = function () {
-                        resolve();
-                    };
-                    this.onerror = function () {
-                        reject();
-                    };
-                };
-                document.body.appendChild(script);
-            });
-        }
-
-        // Waline初始化函数
-        function initWaline() {
-            var currentPath = window.location.pathname + window.location.hash;
-            var isBbsPage = currentPath.includes('/zh-cn/bbs') || currentPath.includes('/bbs') || currentPath === '/bbs.html' || currentPath.includes('#/bbs');
-
-            if (!isBbsPage) {
-                return;
-            }
-
-            if (typeof Waline === 'undefined') {
-                loadWalineResources().then(function () {
-                    initWaline();
-                }).catch(function () {
-                    console.error('Waline 资源加载失败');
-                });
-                return;
-            }
-
-            var container = document.querySelector('#waline');
-
-            if (!container) {
-                console.error('未找到 #waline 容器');
-                return;
-            }
-
-            // 检查是否已初始化
-            if (container.hasAttribute('data-waline-initialized')) {
-                return;
-            }
-
-            try {
-                var commentPath = currentPath.includes('#') ? currentPath.split('#')[1] || '/zh-cn/bbs' : currentPath;
-                if (!commentPath.startsWith('/')) commentPath = '/' + commentPath;
-                
-                Waline.init({
-                    el: '#waline',
-                    serverURL: 'https://waline.haozy.top',
-                    lang: 'zh-CN',
-                    path: commentPath,
-                    meta: ['nick', 'mail'],
-                    requiredMeta: ['nick'],
-                    pageSize: 6,
-                    commentSorting: 'latest',
-                    imageUploader: false,
-                    noCopyright: false,
-                    search: false,
-                    login: 'disable',
-                    reaction: false,
-                    recordIP: false,
-                    pageview: false,
-                    emoji: [
-                        'https://cdn.jsdelivr.net/npm/@waline/emojis@1.4.0/qq',
-                        'https://cdn.jsdelivr.net/npm/@waline/emojis@1.4.0/bilibili',
-                    ],
-
-                    locale: {
-                        nickRequired: "请输入昵称",
-                        nick: '昵称',
-                        nickError: '昵称不能小于2字符',
-                        mail: '邮箱',
-                        mailError: '邮件地址不正确',
-                        word: '字',
-                        wordHint: '评论字数应在 $0 到 $1 字之间！\n当前字数：$2',
-                        anonymous: '匿名',
-                        placeholder: '留言请说明资源类型、重名资源太多，也方便站长寻找。',
-                        spam: '评论内容包含广告或垃圾信息，已被删除',
-                        submit: '提交',
-                        reply: '回复',
-                        cancelReply: '取消回复',
-                        level0: '潜水',
-                        level1: '冒泡',
-                        level2: '吐槽',
-                        level3: '活跃',
-                        level4: '话痨',
-                        level5: '传说',
-                        refresh: '刷新',
-                        more: '更多...',
-                        preview: '预览',
-                        emoji: '表情',
-                        seconds: '秒前',
-                        minutes: '分钟前',
-                        hours: '小时前',
-                        days: '天前',
-                        now: '刚刚',
-                        sticky: '置顶',
-                        required: '必填项',
-                        empty: '留言不能为空',
-                        comment: '条留言',
-                    },
-                    highlighter: false,
-                    texRenderer: false,
-                });
-                container.setAttribute('data-waline-initialized', 'true');
-            } catch (error) {
-                console.error('Waline 初始化失败:', error);
-            }
-        }
-
-    </script>
-
-    <!-- 处理哈希路由滚动 -->
-    <script>
-        // 处理哈希路由滚动
-        function handleHashScroll() {
-            var hash = window.location.hash;
-            if (hash && hash.startsWith('#')) {
-                // 提取查询参数中的id
-                var targetId = '';
-                
-                // 查找查询参数部分
-                var queryIndex = hash.indexOf('?');
-                if (queryIndex > -1) {
-                    // 从查询参数中提取id
-                    var queryString = hash.substring(queryIndex + 1);
-                    if (queryString) {
-                        // 手动解析查询参数，处理URL编码
-                        var params = {};
-                        queryString.split('&').forEach(function(param) {
-                            var parts = param.split('=');
-                            if (parts.length === 2) {
-                                params[parts[0]] = decodeURIComponent(parts[1]);
-                            }
-                        });
-                        targetId = params.id;
-                    }
-                } else {
-                    // 直接使用哈希值作为id
-                    targetId = hash.substring(1);
-                }
-                
-                if (targetId) {
-                    // 多次尝试查找元素，确保DOM完全加载
-                    var findElementAttempts = 0;
-                    var maxAttempts = 5;
-                    
-                    function findAndScroll() {
-                        findElementAttempts++;
-                        
-                        // 尝试查找目标元素
-                        var targetElement = null;
-                        
-                        // 1. 直接使用id查找
-                        if (!targetElement) {
-                            targetElement = document.getElementById(targetId);
-                        }
-                        
-                        // 2. 使用name属性查找
-                        if (!targetElement) {
-                            targetElement = document.querySelector('a[name="' + targetId + '"]');
-                        }
-                        
-                        // 3. 查找标题元素（h1-h6）
-                        if (!targetElement) {
-                            var headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
-                            for (var i = 0; i < headings.length; i++) {
-                                var heading = headings[i];
-                                if (heading.id === targetId || heading.getAttribute('name') === targetId) {
-                                    targetElement = heading;
-                                    break;
-                                }
-                            }
-                        }
-                        
-                        // 4. 查找所有带id的元素
-                        if (!targetElement) {
-                            var allElements = document.querySelectorAll('[id]');
-                            for (var j = 0; j < allElements.length; j++) {
-                                var element = allElements[j];
-                                if (element.id === targetId) {
-                                    targetElement = element;
-                                    break;
-                                }
-                            }
-                        }
-                        
-                        if (targetElement) {
-                            // 等待一小段时间确保元素完全渲染
-                            setTimeout(function() {
-                                // 强制滚动到元素顶部
-                                var rect = targetElement.getBoundingClientRect();
-                                var scrollPosition = window.pageYOffset + rect.top;
-                                
-                                // 立即滚动到目标位置
-                                window.scrollTo(0, scrollPosition);
-                                
-                                // 再次修正滚动位置
-                                setTimeout(function() {
-                                    var newRect = targetElement.getBoundingClientRect();
-                                    if (newRect.top !== 0) {
-                                        window.scrollBy(0, -newRect.top);
-                                    }
-                                }, 200);
-                            }, 100);
-                        } else if (findElementAttempts < maxAttempts) {
-                            // 继续尝试查找元素
-                            setTimeout(findAndScroll, 1000);
-                        }
-                    }
-                    
-                    // 开始查找元素
-                    findAndScroll();
-                }
-            }
-        }
-
-        // 只在搜索结果点击时处理哈希滚动
-        // 移除了全局哈希变化和页面加载时的调用，避免干扰微前端路由
-    </script>
-
-    <!-- 手机端底部导航栏交互 -->
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            var mobileNavMore = document.getElementById('mobileNavMore');
-            var mobileNavPopup = document.getElementById('mobileNavPopup');
-            var mobileNavSearch = document.getElementById('mobileNavSearch');
-            var mobileSearchInput = document.getElementById('mobileSearchInput');
-            var mobileSearchBtn = document.getElementById('mobileSearchBtn');
-            var submenuItems = document.querySelectorAll('.mobile-nav-has-submenu');
-
-            // 关闭所有菜单的通用函数
-            function closeAllMenus(exclude) {
-                document.querySelectorAll('.mobile-nav-submenu, .mobile-nav-more-popup, .mobile-nav-search-popup').forEach(function (menu) {
-                    if (menu !== exclude) menu.classList.remove('show');
-                });
-            }
-
-            // 点击更多按钮切换弹出菜单
-            if (mobileNavMore && mobileNavPopup) {
-                mobileNavMore.onclick = function (e) {
-                    e.stopPropagation();
-                    closeAllMenus(mobileNavPopup);
-                    mobileNavPopup.classList.toggle('show');
-                };
-
-                // 使用事件委托处理弹出菜单中的链接点击
-                mobileNavPopup.addEventListener('click', function (e) {
-                    if (e.target.tagName === 'A' || e.target.closest('a')) {
-                        mobileNavPopup.classList.remove('show');
-                    }
-                });
-            }
-
-            // 点击搜索按钮
-            var mobileSearchOverlay = document.getElementById('mobileSearchOverlay');
-            var mobileSearchClose = document.getElementById('mobileSearchClose');
-            var mobileSearchResults = document.getElementById('mobileSearchResults');
-
-            // HTML转义
-            function escapeHtml(text) {
-                var div = document.createElement('div');
-                div.textContent = text;
-                return div.innerHTML;
-            }
-
-            // 显示搜索结果
-            function displaySearchResults(results, keyword) {
-                if (!mobileSearchResults) return;
-
-                if (!results || results.length === 0) {
-                    mobileSearchResults.innerHTML = '<div class="mobile-search-no-results"><svg><use href="#icon-inbox"/></svg> 没有找到相关结果</div>';
-                    mobileSearchResults.classList.add('has-content');
-                    return;
-                }
-
-                var html = '';
-                results.forEach(function (result) {
-                    var path = result.path || result.url || '#';
-                    var title = result.title || '未命名';
-                    var category = getCategoryPath(path);
-
-                    var hashPath = path;
-                    if (!hashPath.startsWith('#')) {
-                        if (!hashPath.startsWith('/')) {
-                            hashPath = '/' + hashPath;
-                        }
-                        hashPath = '#' + hashPath;
-                    }
-
-                    html += '<a href="' + escapeHtml(hashPath) + '" class="mobile-search-result-item" data-search-result>';
-                    if (category) {
-                        html += '<span class="mobile-search-result-category">' + escapeHtml(category) + '</span>';
-                    }
-                    html += '<span class="mobile-search-result-row">';
-                    html += '<svg><use href="#icon-file-alt"/></svg>' +
-                        '<span class="mobile-search-result-title">' + escapeHtml(title) + '</span>' +
-                        '<svg style="color: #ccc; font-size: 0.75rem;"><use href="#icon-chevron-right"/></svg>';
-                    html += '</span>';
-                    html += '</a>';
-                });
-                mobileSearchResults.innerHTML = html;
-                mobileSearchResults.classList.add('has-content');
-
-                // 搜索结果点击事件处理
-                document.querySelectorAll('[data-search-result]').forEach(function (link) {
-                    link.addEventListener('click', function (e) {
-                        // 关闭搜索遮罩和清空输入框
-                        closeSearchOverlay();
-                        mobileSearchInput.value = '';
-                        
-                        // 延迟执行哈希滚动处理，确保页面已经切换
-                        setTimeout(function() {
-                            handleHashScroll();
-                        }, 300);
-                    });
-                });
-
-
-            }
-
-            // 侧边栏搜索 - 遍历侧边栏链接查找匹配项
-            function doSidebarSearch(keyword) {
-                var lowerKeyword = keyword.toLowerCase();
-                var results = [];
-
-                try {
-                    var links = document.querySelectorAll('.sidebar-nav a, .sidebar a');
-
-                    links.forEach(function (link) {
-                        var text = (link.textContent || '').toLowerCase();
-                        var href = link.getAttribute('href') || '';
-
-                        if (text.indexOf(lowerKeyword) !== -1 && href && href !== '#') {
-                            var rawTitle = link.textContent.trim();
-
-                            var downloadStartIdx = rawTitle.indexOf('夸克');
-                            if (downloadStartIdx === -1) downloadStartIdx = rawTitle.indexOf('http://');
-                            if (downloadStartIdx === -1) downloadStartIdx = rawTitle.indexOf('https://');
-                            if (downloadStartIdx !== -1) {
-                                rawTitle = rawTitle.substring(0, downloadStartIdx).trim();
-                            }
-
-                            var categoryPath = getCategoryPath(href);
-                            if (categoryPath && rawTitle.indexOf(categoryPath) === 0) {
-                                rawTitle = rawTitle.substring(categoryPath.length).trim();
-                            }
-                            results.push({
-                                title: rawTitle,
-                                path: href
-                            });
-                        }
-                    });
-
-                    if (results.length > 0) {
-                        displaySearchResults(results, keyword);
-                    } else {
-                        mobileSearchResults.innerHTML = '<div class="mobile-search-no-results"><svg><use href="#icon-inbox"/></svg> 没有找到相关结果</div>';
-                        mobileSearchResults.classList.add('has-content');
-                    }
-                } catch (e) {
-                    mobileSearchResults.innerHTML = '<div class="mobile-search-no-results"><svg><use href="#icon-inbox"/></svg> 搜索出错</div>';
-                    mobileSearchResults.classList.add('has-content');
-                }
-            }
-
-            // 执行搜索 - 手机端搜索实现
-            function doSearch(keyword) {
-                // 步骤1: 触发 Docsify 搜索框（展开侧边栏显示匹配标题）
-                try {
-                    var searchInput = document.querySelector('.search input[type="search"]');
-                    if (searchInput) {
-                        searchInput.value = keyword;
-                        searchInput.dispatchEvent(new Event('input', { bubbles: true }));
-                    }
-                } catch (e) {
-                    // 搜索框触发失败，静默处理
-                }
-
-                // 步骤2: 延迟后搜索侧边栏（给时间让搜索框展开侧边栏）
-                setTimeout(function () {
-                    doSidebarSearch(keyword);
-                }, 500);
-            }
-
-            // 搜索功能
-            function performSearch(keyword) {
-                if (!keyword || !mobileSearchResults) return;
-
-                // 显示加载中
-                mobileSearchResults.innerHTML = '<div class="mobile-search-loading"><svg class="icon-spin"><use href="#icon-spinner"/></svg> 搜索中...</div>';
-
-                // 延迟执行，确保DOM就绪
-                setTimeout(function () {
-                    doSearch(keyword);
-                }, 100);
-            }
-
-            // 关闭搜索遮罩
-            function closeSearchOverlay() {
-                if (mobileSearchOverlay) {
-                    mobileSearchOverlay.classList.remove('show');
-                }
-                if (mobileSearchResults) {
-                    mobileSearchResults.innerHTML = '';
-                    mobileSearchResults.classList.remove('has-content');
-                }
-                // 移除body上的search-active类，恢复TOC显示
-                document.body.classList.remove('search-active');
-            }
-
-            if (mobileNavSearch && mobileSearchOverlay) {
-                mobileNavSearch.onclick = function (e) {
-                    e.stopPropagation();
-                    closeAllMenus();
-                    mobileSearchOverlay.classList.add('show');
-                    document.body.classList.add('search-active');
-                    if (mobileSearchInput) {
-                        mobileSearchInput.focus();
-                    }
-                    if (mobileSearchResults) {
-                        mobileSearchResults.innerHTML = '';
-                        mobileSearchResults.classList.remove('has-content');
-                    }
-                };
-
-                if (mobileSearchClose) {
-                    mobileSearchClose.onclick = function (e) {
-                        e.stopPropagation();
-                        closeSearchOverlay();
-                    };
-                }
-
-                // 点击遮罩背景阻止事件冒泡
-                if (mobileSearchOverlay) {
-                    mobileSearchOverlay.onclick = function (e) {
-                        if (e.target.closest('.mobile-search-close')) return;
-                        if (e.target === mobileSearchOverlay) {
-                            closeSearchOverlay();
-                        }
-                        e.stopPropagation();
-                    };
-                }
-
-                // 搜索按钮点击事件
-                if (mobileSearchBtn) {
-                    mobileSearchBtn.onclick = function (e) {
-                        e.stopPropagation();
-                        var keyword = mobileSearchInput ? mobileSearchInput.value.trim() : '';
-                        if (keyword) {
-                            performSearch(keyword);
-                        }
-                    };
-                }
-
-                // 输入框事件（支持回车搜索）
-                if (mobileSearchInput) {
-                    mobileSearchInput.onkeydown = function (e) {
-                        if (e.key === 'Enter') {
-                            var keyword = mobileSearchInput.value.trim();
-                            if (keyword) {
-                                performSearch(keyword);
-                            }
-                        }
-                        // ESC键关闭
-                        if (e.key === 'Escape') {
-                            closeSearchOverlay();
-                        }
-                    };
-                }
-            }
-
-            // 点击有子菜单的项
-            submenuItems.forEach(function (item) {
-                item.onclick = function (e) {
-                    e.stopPropagation();
-                    var submenuId = 'submenu-' + item.getAttribute('data-submenu');
-                    var submenu = document.getElementById(submenuId);
-
-                    if (submenu) {
-                        closeAllMenus(submenu);
-                        submenu.classList.toggle('show');
-                    }
-                };
-            });
-
-            // 点击其他地方关闭所有菜单
-            document.addEventListener('click', function (e) {
-                // 如果搜索遮罩显示
-                if (mobileSearchOverlay && mobileSearchOverlay.classList.contains('show')) {
-                    // 如果点击的是关闭按钮，允许关闭
-                    if (e.target.closest('.mobile-search-close')) {
-                        closeSearchOverlay();
-                        return;
-                    }
-                    // 如果点击遮罩外部，阻止事件
-                    if (!e.target.closest('.mobile-search-overlay')) {
-                        e.preventDefault();
-                        e.stopPropagation();
-                        return false;
-                    }
-                    return;
-                }
-
-                if (!e.target.closest('.mobile-nav') && !e.target.closest('.mobile-search-overlay')) {
-                    closeAllMenus();
-                }
-            }, true);
-
-            // 使用事件委托处理子菜单中的链接点击
-            document.addEventListener('click', function (e) {
-                if (e.target.closest('.mobile-nav-submenu a')) {
-                    closeAllMenus();
-                }
-            });
-
-            // 更新当前激活的导航项
-            function updateActiveNav() {
-                var currentPath = window.location.pathname;
-                var navItems = document.querySelectorAll('.mobile-nav-item[data-path]');
-
-                navItems.forEach(function (item) {
-                    var itemPath = item.getAttribute('data-path');
-                    if (currentPath === itemPath || currentPath.startsWith(itemPath + '/')) {
-                        item.classList.add('active');
-                    } else {
-                        item.classList.remove('active');
-                    }
-                });
-            }
-
-            updateActiveNav();
-
-            window.addEventListener('popstate', updateActiveNav);
-            window.addEventListener('hashchange', updateActiveNav);
-
-            if (typeof Docsify !== 'undefined' && Docsify.hooks) {
-                Docsify.hooks.doneEach(function () {
-                    updateActiveNav();
-                });
-            }
-        });
-    </script>
-
-
-
-    <script type="text/javascript">
-        // 更精确的时间计算函数
-        function calculateRunTime() {
-            var startDate = new Date(2024, 3, 3, 21, 0, 0);
-            var now = new Date();
-            var diff = now - startDate;
-
-            var seconds = Math.floor(diff / 1000) % 60;
-            var minutes = Math.floor(diff / (1000 * 60)) % 60;
-            var hours = Math.floor(diff / (1000 * 60 * 60)) % 24;
-            var days = Math.floor(diff / (1000 * 60 * 60 * 24));
-            var years = Math.floor(days / 365);
-            var remainingDays = days % 365;
-            return {
-                years: years,
-                days: remainingDays,
-                hours: hours,
-                minutes: minutes,
-                seconds: seconds
-            };
-        }
-
-        function updateSiteTime() {
-            var timeInfo = calculateRunTime();
-            var timeElement = document.getElementById("sitetime");
-
-            if (timeElement) {
-                timeElement.innerHTML = '本网站已运行 ' + timeInfo.years + '年 ' + timeInfo.days + '天 ' + timeInfo.hours + '时 ' + timeInfo.minutes + '分 ' + timeInfo.seconds + '秒';
-            }
-        }
-
-        var siteTimeInterval = setInterval(updateSiteTime, 1000);
-
-        if (document.readyState === "complete") {
-            updateSiteTime();
-        } else {
-            window.addEventListener("load", function() {
-                updateSiteTime();
-            });
-        }
-
-        window.addEventListener('beforeunload', function() {
-            clearInterval(siteTimeInterval);
-        });
-    </script>
-
-    <!-- JS插件加载性能监控（仅调试模式启用） -->
-    <script>
-        if (location.search.includes('debug')) {
-            (function () {
-                window.scriptLoadTimes = {};
-
-                var originalAppendChild = Element.prototype.appendChild;
-                Element.prototype.appendChild = function (element) {
-                    if (element.tagName === 'SCRIPT' && element.src) {
-                        var scriptName = element.src.split('/').pop() || element.src;
-                        var startTime = performance.now();
-
-                        console.log('[性能监控] 开始加载: ' + scriptName);
-
-                        element.addEventListener('load', function () {
-                            var loadTime = (performance.now() - startTime).toFixed(2);
-                            window.scriptLoadTimes[scriptName] = loadTime;
-                            console.log('[性能监控] 加载完成: ' + scriptName + ' - ' + loadTime + 'ms');
-                        });
-
-                        element.addEventListener('error', function () {
-                            console.error('[性能监控] 加载失败: ' + scriptName);
-                        });
-                    }
-                    return originalAppendChild.apply(this, arguments);
-                };
-
-                window.addEventListener('load', function () {
-                    setTimeout(function () {
-                        console.log('%c[性能监控] JS插件加载时间汇总:', 'color: #2196F3; font-size: 14px; font-weight: bold;');
-
-                        var sortedScripts = Object.entries(window.scriptLoadTimes)
-                            .sort(function (a, b) { return b[1] - a[1]; });
-
-                        if (sortedScripts.length === 0) {
-                            console.log('[性能监控] 未检测到动态加载的脚本');
-                        } else {
-                            sortedScripts.forEach(function (item) {
-                                var time = parseFloat(item[1]);
-                                var color = time > 1000 ? '#f44336' : time > 500 ? '#ff9800' : '#4caf50';
-                                console.log('%c  ' + item[0] + ': ' + item[1] + 'ms', 'color: ' + color);
-                            });
-                        }
-
-                        if (window.performance && window.performance.getEntriesByType) {
-                            var resources = window.performance.getEntriesByType('resource');
-                            var scripts = resources.filter(function (r) {
-                                return r.initiatorType === 'script' || r.name.endsWith('.js');
-                            });
-
-                            if (scripts.length > 0) {
-                                console.log('%c[性能监控] 所有JS资源加载时间 (Performance API):', 'color: #2196F3; font-size: 14px; font-weight: bold;');
-
-                                scripts.sort(function (a, b) { return b.duration - a.duration; });
-
-                                scripts.forEach(function (script) {
-                                    var name = script.name.split('/').pop();
-                                    var time = script.duration.toFixed(2);
-                                    var color = script.duration > 1000 ? '#f44336' : script.duration > 500 ? '#ff9800' : '#4caf50';
-                                    console.log('%c  ' + name + ': ' + time + 'ms', 'color: ' + color);
-                                });
-                            }
-                        }
-                    }, 1000);
-                });
-            })();
-        }
-    </script>
+    <!-- 站点自定义脚本 -->
+    <script src="./assets/js/site.js"></script>
+    <script src="./assets/js/waline.js"></script>
 
 </body>
 

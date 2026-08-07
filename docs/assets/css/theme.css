@@ -3,7 +3,7 @@
  * ------------------------------------------------------------
  * 基于 docsify v5 官方「Vue 主题」(themes/addons/vue.min.css) 重写。
  * Vue 主题本身就是在官方 core.min.css 之上的轻量覆盖层，本文件沿用同一思路：
- *   1. 沿用 Vue 主题的变量体系与视觉语言：Source Sans 3 字体、主题蓝主色
+ *   1. 沿用 Vue 主题的变量体系与视觉语言：主题蓝主色（字体已改为零加载的系统原生栈）
  *      (#3b82f6)、--content-max-width:85ch、优雅的代码高亮配色、侧边栏激活项
  *      3px 右侧色条指示器。
  *   2. 在 Vue 主题基础上做少量「中文长文阅读」友好的微调：略放大 font-size /
@@ -33,11 +33,13 @@
   /* ---- UI 通用过渡时长：统一，一处可调（覆盖所有 transition / animation 的 0.2s） ---- */
   --ui-transition: 0.2s ease;
 
-  /* ---- 标题字号：对齐参考站的模块化字号阶梯（--modular-scale: 1.333，锚点 1rem=16px） ---- */
-  --font-size-xxxl: 1.9rem;   /* 标题1 ≈ 30.4px（再次缩小） */
-  --font-size-xxl: 1.777rem;  /* 标题2 ≈ 28.4px（ms-3） */
-  --font-size-xl: 1.333rem;   /* 标题3 ≈ 21.3px（ms-2） */
-  --font-size-l: 1rem;        /* 标题4 = 16px（ms-1，与正文同大） */
+  /* ---- 标题字号：docsify v5 原生模块化字号阶梯（--modular-scale: 1.333，锚点 1rem=16px） ----
+     直接用官方变量控制 H1~H6，不要再另造 --doc-h* 变量 + !important 覆盖。
+     H1~H4 的实际值在这里调即可（H5/H6 用 --font-size-m/-s）。 */
+  --font-size-xxxl: 2.0rem;   /* 标题1 ≈ 32px */
+  --font-size-xxl: 1.6rem;    /* 标题2 ≈ 26px */
+  --font-size-xl: 1.1rem;     /* 标题3 ≈ 18px */
+  --font-size-l: 0.95rem;     /* 标题4 ≈ 15px */
   --font-size-m: 0.75rem;     /* 标题5 ≈ 12px（ms--1） */
   --font-size-s: 0.563rem;    /* 标题6 ≈ 9px（ms--2） */
 
@@ -68,7 +70,7 @@
 
   /* 侧边栏展开/折叠箭头（chevron）颜色 */
   --sidebar-chevron-collapsed-color: var(--color-mono-3); /* 折叠时：灰 */
-  --sidebar-chevron-expanded-color: var(--theme-color);   /* 展开时：主题绿 */
+  --sidebar-chevron-expanded-color: var(--theme-color);   /* 展开时：主题蓝 */
 
   /* 侧边栏展开/收起切换按钮（右侧竖条）颜色 */
   --sidebar-toggle-bg: #dbeafe;              /* 按钮背景：浅蓝 */
@@ -279,7 +281,7 @@
 .markdown-section a:not(.game-nav-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a) {
   position: relative;
   text-decoration: none;
-  color: #60a5fa;                    /* 默认浅蓝色 */
+  color: #60a5fa;                    
   transition: color 1s ease;
 }
 
@@ -292,17 +294,17 @@
   height: 1px;
   background-color: var(--theme-color);
   transform: scaleX(0);
-  transform-origin: center;          /* 从中间开始 */
+  transform-origin: center;          
   transition: transform 1s ease;
 }
 
 .markdown-section a:not(.game-nav-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a):hover {
   text-decoration: none;
-  color: var(--theme-color);                     /* hover 变主题蓝 */
+  color: var(--theme-color);                     
 }
 
 .markdown-section a:not(.game-nav-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a):hover::after {
-  transform: scaleX(1);              /* 向左右展开 */
+  transform: scaleX(1);              
 }
 
 /* =================== 加载动画（轻量） =================== */
@@ -327,65 +329,22 @@ body {
 /* 让正文卡片在内容区里水平居中（避免 margin:auto 在绝对定位父容器下失效） */
 main > .content {
   display: flex !important;
-  justify-content: center !important;   /* 水平居中 */
-  align-items: flex-start !important;   /* 顶部对齐 */
+  justify-content: center !important;   
+  align-items: flex-start !important;   
 }
 
 .markdown-section {
-  background: #ffffff !important;      /* 正文卡片白底 */
+  background: #ffffff !important;      
   border-radius: 0 !important;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06) !important;
-  width: calc(100% - 48px) !important;  /* 占满父容器，左右各留 24px */
-  max-width: 900px !important;           /* 限制最大宽度，卡片更窄 */
-  margin: 0 0 24px 0 !important;        /* 顶部贴齐，底部留 24px 间距 */
+  width: calc(100% - 48px) !important;  
+  max-width: 900px !important;           
+  margin: 0 0 24px 0 !important;        
   padding: 24px clamp(16px, 4vw, 68px) 32px !important;  /* 左右内边距随屏宽自适应：宽屏68px → 窄屏自动收到16px */
   text-align: left !important;         /* 防止继承 main 的 text-align:center */
   flex-shrink: 0 !important;             /* 防止 flex 容器把它压窄 */
 }
 
-/* =================== docsify-accordion 手风琴颜色与主题统一 =================== */
-.markdown-section ul.accordion-wrapper {
-  list-style: none;
-  padding: 0;
-  margin: var(--margin-block) 0;
-}
-
-/* 手风琴项之间的分隔线：浅蓝 */
-.markdown-section ul.accordion-wrapper > li:not(:first-of-type) {
-  border-top: 1px solid #bfdbfe !important;
-}
-
-/* 单个手风琴项：浅蓝底 */
-.markdown-section .accordion {
-  background: #eff6ff !important;
-  border-radius: 0 !important;
-  transition: background var(--ui-transition), border-color var(--ui-transition);
-}
-
-/* 展开态 + hover：稍深一点的浅蓝，左侧蓝色竖条 */
-.markdown-section .accordion.active,
-.markdown-section .accordion:hover {
-  background: #dbeafe !important;
-  border-left: 3px solid var(--theme-color) !important;
-}
-
-/* 标题行（summary）文字颜色 */
-.markdown-section .accordion .accordion-title {
-  color: var(--color-text) !important;
-  font-weight: 600;
-}
-
-/* 内容区容器：保持白底，与正文卡片融合 */
-.markdown-section .accordion .accordion-content-container {
-  background: #ffffff !important;
-  margin: 0 20px 20px 20px;
-  padding: 0 15px 20px;
-}
-
-/* 右侧箭头：蓝色 */
-.markdown-section .accordion .arrow {
-  border-color: var(--theme-color) !important;
-}
 
 /* =================== 搜索框动画（参考 aiyobudui 仓库 theme-simple.css） =================== */
 /* 仅作用于搜索插件注入的输入框 .sidebar .search input（独立插件元素，
@@ -395,8 +354,8 @@ main > .content {
    --search-input-* 变量与 :focus 切换搜索图标背景的做法。 */
 .sidebar .search input {
   min-width: 0;
-  min-height: 52px;                          /* 再加高搜索框 */
-  padding: 0.9em 1em;                        /* 上下内边距加大 → 更高 */
+  min-height: 52px;                          
+  padding: 0.9em 1em;                        
   padding-inline-end: 40px;                  /* 给 clear-button 预留空间 */
   background-image: var(--search-input-background-image);
   background-position: var(--search-input-background-position);
@@ -435,7 +394,7 @@ main > .content {
 }
 
 .sidebar .search input:focus::placeholder {
-  color: rgba(59, 130, 246, 0.6);   /* 站点蓝，与主题统一 */
+  color: rgba(59, 130, 246, 0.6);   
 }
 
 @keyframes search-in {
@@ -457,10 +416,6 @@ main > .content {
   }
 }
 
-/* 搜索框脉冲：用户首次聚焦/点击后永久停止（配合 index.html 的 stopSearchAnimation 给 input 加 .search-activated） */
-.sidebar .search input.search-activated {
-  animation: none !important;
-}
 
 /* =================== 搜索结果面板样式覆盖 ===================
    docsify 搜索插件默认把 "找到 X 个结果" 和摘要设成 var(--font-size-s)，
@@ -511,7 +466,7 @@ main > .content {
   display: block !important;
   font-size: 12px !important;      /* 比标题小、可读 */
   font-weight: 400 !important;
-  color: #9ca3af !important;       /* 浅灰 */
+  color: #9ca3af !important;       
   letter-spacing: 0.02em !important;
   margin: 0 0 0.3em 0 !important;
 }
@@ -539,18 +494,6 @@ main > .content {
   display: none !important;
 }
 
-/* =================== 正文 H1~H4 标题字号（集中设置） =================== */
-/* 只需修改下面 4 个变量即可统一调整文档标题大小；删除本段即恢复 docsify 默认 */
-:root {
-  --doc-h1-size: 2.0rem;    /* ≈ 32px */
-  --doc-h2-size: 1.6rem;    /* ≈ 26px */
-  --doc-h3-size: 1.1rem;    /* ≈ 18px */
-  --doc-h4-size: 0.95rem;   /* ≈ 15px */
-}
-.markdown-section h1 { font-size: var(--doc-h1-size) !important; }
-.markdown-section h2 { font-size: var(--doc-h2-size) !important; }
-.markdown-section h3 { font-size: var(--doc-h3-size) !important; }
-.markdown-section h4 { font-size: var(--doc-h4-size) !important; }
 
 /* =================== 正文内的导航按钮（.game-nav 等） =================== */
 .markdown-section .game-nav {
@@ -563,21 +506,21 @@ main > .content {
 .markdown-section .game-nav-btn {
   padding: 0.625rem 1.25rem;
   box-sizing: border-box;
-  background: #eff6ff;          /* 浅蓝背景 */
-  color: #1d4ed8;               /* 深蓝文字 */
+  background: #eff6ff;          
+  color: #1d4ed8;               
   text-decoration: none;
   border-radius: 8px;
-  border: 1px solid #bfdbfe;    /* 浅蓝边框 */
-  font-weight: 700;             /* 按钮字体加粗 */
+  border: 1px solid #bfdbfe;    
+  font-weight: 700;             
   font-size: 0.875rem;
   transition: background-color var(--ui-transition), border-color var(--ui-transition), color var(--ui-transition), box-shadow var(--ui-transition);
   white-space: nowrap;
 }
 
 .markdown-section .game-nav-btn:hover {
-  background: #dbeafe;          /* hover 背景稍深 */
-  border-color: #60a5fa;        /* hover 边框更亮 */
-  color: #1e40af;               /* hover 文字再深一点 */
+  background: #dbeafe;          
+  border-color: #60a5fa;        
+  color: #1e40af;               
 }
 
 /* =================== 手机端底部导航栏（自定义，不可删除） =================== */
@@ -784,7 +727,7 @@ main > .content {
   border-radius: 0.5rem;
   cursor: pointer;
   font-size: 1rem;
-  font-weight: 700;             /* 按钮字体加粗 */
+  font-weight: 700;             
   transition: filter var(--ui-transition);
 }
 
@@ -893,6 +836,65 @@ main > .content {
   font-size: 0.875rem;
 }
 
+/* 手机搜索结果：直接搬运官方 .matching-post，镜像官方外观（官方样式 scoped 在 .search，clone 后需重定义） */
+.mobile-search-results-list .matching-post {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+.mobile-search-results-list .matching-post:last-child {
+  border-bottom: none;
+}
+.mobile-search-results-list .matching-post a {
+  display: block;
+  padding: clamp(10px, 3vw, 14px) clamp(12px, 4vw, 18px);
+  color: #333;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  transition: background var(--ui-transition);
+}
+.mobile-search-results-list .matching-post a:hover,
+.mobile-search-results-list .matching-post a:active,
+.mobile-search-results-list .matching-post a:focus {
+  background: #f5f5f5;
+}
+/* 手机搜索结果与 PC 端保持一致：标题可换行，不截断省略 */
+.mobile-search-results-list .matching-post .title,
+.mobile-search-results-list .matching-post .title.clamp-1 {
+  display: block !important;
+  font-weight: 600;
+  font-size: clamp(0.8125rem, 3.8vw, 0.9375rem);
+  line-height: 1.4;
+  margin: 0;
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  -webkit-line-clamp: unset !important;
+  word-break: break-word !important;
+}
+/* 手机搜索结果与 PC 端保持一致：不显示正文摘要 */
+.mobile-search-results-list .matching-post .content,
+.mobile-search-results-list .matching-post p.content,
+.mobile-search-results-list .matching-post p:not(.title):not(.result-category) {
+  display: none !important;
+}
+.mobile-search-results-list .matching-post .result-category {
+  display: block;
+  font-size: clamp(0.6875rem, 2.8vw, 0.75rem);
+  color: #9ca3af !important;
+  margin-bottom: 2px;
+}
+/* 与 PC 端一致：分类前加 📁 图标 */
+.mobile-search-results-list .matching-post .result-category::before {
+  content: '\1F4C1';
+  display: inline-block;
+  margin-right: 0.35em;
+  font-size: 1em;
+  line-height: 1;
+}
+.mobile-search-results-list .matching-post a:hover .result-category,
+.mobile-search-results-list .matching-post a:focus .result-category {
+  color: #9ca3af !important;
+}
+
 .icon-spin {
   animation: spin 1s linear infinite;
 }
@@ -924,6 +926,7 @@ body.search-active nav[class*="toc"] {
   .markdown-section {
     width: calc(100% - 24px) !important;                    /* 手机端卡片更贴边：左右各留 12px（原 24px） */
     padding: 1rem clamp(12px, 4vw, 24px) !important;        /* 上下 1rem；左右内边距随屏宽自适应 */
+    padding-top: 2.5rem !important;                            /* 手机端顶部留出足够呼吸空间，避免页面刚加载时内容紧贴屏幕边缘 */
   }
 
   .markdown-section h1 { font-size: 1.6rem; margin: 0.8em 0 0.4em; }
@@ -984,15 +987,15 @@ body.search-active nav[class*="toc"] {
   height: 0.5em;
   border-right: 2px solid #6b7280;   /* 收起：中灰（浅底清晰可见） */
   border-bottom: 2px solid #6b7280;
-  transform: rotate(-45deg);          /* 指向右 */
+  transform: rotate(-45deg);          
   transition: transform var(--ui-transition), border-color var(--ui-transition);
 }
 
 /* 展开态（li 不带 .collapse）：下向 chevron，变蓝 */
 .sidebar-nav li:has(> ul):not(.collapse) > a::after,
 .sidebar-nav li:has(> ul):not(.collapse) > p > a::after {
-  transform: rotate(45deg);           /* 指向下 */
-  border-color: var(--theme-color);              /* 展开：主题蓝 */
+  transform: rotate(45deg);           
+  border-color: var(--theme-color);              
 }
 
 /* =================== 侧边栏分组折叠（自定义 JS 控制 .collapse 类） =================== */
@@ -1061,7 +1064,7 @@ body.search-active nav[class*="toc"] {
 .sidebar-nav a.active,
 .sidebar-nav li.active > a {
   font-weight: 700;
-  color: var(--sidebar-link-color-active);   /* 蓝色 */
+  color: var(--sidebar-link-color-active);   
 }
 
 /* 鼠标移上去：加粗 + 无下划线 + 蓝色（与选中态统一为同一蓝色） */
@@ -1082,9 +1085,9 @@ body.search-active nav[class*="toc"] {
       绿 → 站点蓝，避免到处写硬编码色值 */
 :root {
   --waline-theme-color: #3b82f6;     /* 主色：提交按钮/链接/激活 */
-  --waline-active-color: #1d4ed8;    /* 激活/悬停深蓝 */
+  --waline-active-color: #1d4ed8;    
   --waline-border-color: #ddd;       /* 边框色（仅无边框项才需另覆盖） */
-  --waline-color: #444;              /* 正文文字色 */
+  --waline-color: #444;              
 }
 
 /* 1. 缩小底部工具栏按钮（表情 / 预览），避免占位过大（去边框/背景见第 7 组统一规则） */
@@ -1194,8 +1197,8 @@ body.search-active nav[class*="toc"] {
 .wl-card .wl-head .wl-nick,
 .wl-card .wl-head .wl-nick:hover,
 .wl-card .wl-head .wl-nick:visited {
-  color: #1d4ed8 !important;        /* 深蓝 */
-  font-weight: 700 !important;      /* 加粗 */
+  color: #1d4ed8 !important;        
+  font-weight: 700 !important;      
   font-size: 1.1rem !important;     /* 加大（默认约 0.875rem） */
 }
 
@@ -1270,4 +1273,112 @@ body.search-active nav[class*="toc"] {
   padding: 0.5rem 1rem !important;
   box-shadow: none !important;
   outline: none !important;
+}
+
+/* ============================================================
+   正文内 TOC（由 index.html 的 buildInContentToc() 注入）
+   抓取当前页 h2 生成「本页目录」卡片，置于正文顶部
+   ============================================================ */
+.in-content-toc {
+  margin: 1.25rem 0 1.75rem;
+  padding: 0.85rem 1.1rem;
+  border: 1px solid var(--border-color, #eaecef);
+  border-left: 3px solid var(--theme-color, #3b82f6);
+  border-radius: 8px;
+  background: rgba(59, 130, 246, 0.06); /* 浅蓝兜底（color-mix 不支持时） */
+  background: color-mix(in srgb, var(--theme-color, #3b82f6) 6%, transparent);
+  font-size: 0.9rem;
+}
+.in-content-toc__title {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: var(--theme-color, #3b82f6);
+}
+.in-content-toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.in-content-toc li {
+  position: relative;
+  margin: 0.35rem 0;
+  padding-left: 0.95rem;
+}
+.in-content-toc li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.62em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--theme-color, #3b82f6);
+  opacity: 0.55;
+}
+.in-content-toc a {
+  color: var(--color-text, #34495e);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+.in-content-toc a:hover,
+.in-content-toc a:focus {
+  color: var(--theme-color, #3b82f6);
+}
+/* 取消正文链接的扫光下划线动画（TOC 链接不需要） */
+.in-content-toc a::after {
+  display: none !important;
+}
+
+/* 手机端（窄屏）彻底隐藏本页目录：屏幕窄，侧边栏主导航已足够，
+   不生成 DOM 已在 JS 中处理，这里再加 CSS 兜底防缓存残留 */
+@media (max-width: 767px) {
+  .in-content-toc {
+    display: none !important;
+  }
+}
+
+/* ============================================================
+   宽屏：正文内 TOC 变为右侧固定目录（类似 docsify-plugin-toc）
+   仅在屏幕足够宽、右侧不会覆盖正文时启用；不够宽时回退到
+   上面的顶部卡片样式，保证功能不丢。
+   ============================================================ */
+@media (min-width: 1600px) {
+  /* 所有宽屏页都给正文卡片右侧让出空间（即使本页无目录也留位），
+     保证切换页面时正文位置恒定、不跳动 */
+  .markdown-section {
+    margin-right: 15rem !important;
+  }
+
+  .in-content-toc {
+    position: fixed;
+    top: 7rem;
+    right: 7rem;
+    width: 13rem;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+    z-index: 20;
+    margin: 0;
+    padding: 0.75rem 1rem;
+    background: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    font-size: 1.1rem;
+  }
+
+  .in-content-toc__title {
+    margin: 0 0 0.4rem;
+    font-size: 0.9rem;
+  }
+
+  .in-content-toc li {
+    margin: 0.25rem 0;
+    padding-left: 0.85rem;
+  }
+
+  .in-content-toc li::before {
+    top: 0.58em;
+    width: 4px;
+    height: 4px;
+  }
 }

@@ -8,15 +8,18 @@
 </div>
 
 ---
+> [!WARNING]
 > **领取夸克1T容量**  
   打开夸克APP用**手机**保存资源，这样会获得**1T**的容量。过期可以使用新手机号  
   手机端打开链接保存获取**1T容量**：https://pan.quark.cn/s/78b837bcdd7f
 
-> [!TIP|style:callout|label:怎么搜索|iconvisibility:hidden]
-  1、资源过多，左侧有搜索框 🔍**搜索** 能快速定位到需要的资源，可模糊搜索，别精确到标点符号  
-  2、新添加的资源可能暂时搜索不到，可在分类里面使用浏览器的搜索功能 **CTRL+F** 弹出查找搜索
+> [!WARNING]
+> **怎么搜索**  
+> 1、资源过多，左侧有搜索框 🔍**搜索** 能快速定位到需要的资源，可模糊搜索，别精确到标点符号  
+> 2、新添加的资源可能暂时搜索不到，可在分类里面使用浏览器的搜索功能 **CTRL+F** 弹出查找搜索
 
-> [!note|style:callout|label:用户须知|iconVisibility:hidden]
+> [!NOTE]
+> **用户须知**  
 > 1、**求资源、求更新、链接失效、打不开等问题可以进群@群主 帮你解决**  
 > 2、不会解压打开报错看你下载文件夹中的 “[**《新手必看(解压、游戏问题解答).txt》点击查看**](/zh-cn/games/page)”  
 > 3、怎么启动游戏、中文设置等，看 “**游戏启动说明(必看).txt**”  
@@ -25,9 +28,12 @@
 > 6、大型游戏基本上都会做 **精简处理**（不影响游戏性能），降低占用硬盘的容量  
 > 7、游戏都是测试好才会上传的，不能玩是不会添加的，有问题读读第2条，99%能解决。
 
-> [!info|style:callout|label:信息|iconVisibility:hidden]所有游戏都亲测、无毒，不捆绑任何隐藏广告，绿色不安装，个别游戏会被防火墙阻挡，所以防火墙添加信任即可。
+> [!NOTE]
+> **提示**  
+> 所有游戏亲测无毒、不捆绑任何隐藏广告，绿色不安装，个别游戏会被防火墙阻挡，所以防火墙添加信任即可。
 
-?> 如发现链接里面没有资源就是被和谐了，请 [**留言**](/zh-cn/bbs) 告知，会重补资源 [**《点击这打赏站长》**](/zh-cn/dashang)
+> [!TIP]
+> 如发现链接里面没有资源就是被和谐了，请 [**留言**](/zh-cn/bbs) 告知，会重补资源 [**《点击这打赏站长》**](/zh-cn/dashang)
 
 ---
 
@@ -47,8 +53,9 @@
 
 ---
 
-## 最新添加
-!> 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
+## 最新添加 
+> [!IMPORTANT]
+> 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
 #### 《阿凡达：潘多拉边境（Avatar Frontiers of Pandora）完整版》v2.7 全DLC 中文版
 
@@ -69,6 +76,22 @@
 #### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）豪华版》v1.1.1.0 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
+
+#### 《古神之呼唤（Call of the Elder Gods）豪华版》v0.1.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5c7a77073fcb
+
+#### 《梦塔比（Montabi）豪华版》v1.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c74fdad965c5
+
+#### 《维修物语（ReStory）支持者版》v1.0.005r 中文版
+
+夸克：https://pan.quark.cn/s/4b5ae5c414f2
+
+#### 《鼠鼠餐厅（Restaurats）》v0.20.5.9 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/fac4067d45fb
 
 #### 《三国朋克 爱与破坏之神（tk punk）》v0.260805.1 全DLC 中文版
 
@@ -112,6 +135,22 @@
 ---
 
 ## 最近更新
+
+#### 《原子之心（Atomic Heart）黄金版》Build.24534183 全DLC 中文配音版
+
+夸克：https://pan.quark.cn/s/b17d3da70047
+
+#### 《多洛可小镇（Doloc Town）》v1.00.02 中文版
+
+夸克：https://pan.quark.cn/s/57ffa54d96a5
+
+#### 《氧气列车（Oxygen Train）》v0.9.810 中文版
+
+夸克：https://pan.quark.cn/s/868dcb5abdaa
+
+#### 《旧世界（Old World）完整版》v1.0.84365 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/a8a099d39d1f
 
 #### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.2018 全DLC 中文版
 
@@ -371,10 +410,6 @@
 
 夸克：https://pan.quark.cn/s/90391fdabda9
 
-#### 《原子之心（Atomic Heart）终结版》Build.23005793 全DLC 中文配音版
-
-夸克：https://pan.quark.cn/s/b17d3da70047
-
 ---
 
 ## 已有游戏
@@ -445,10 +480,6 @@
 #### 《月影杀（Kristala）终结版》v1.1.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9b34ff6c5281
-
-#### 《多洛可小镇（Doloc Town）》v0.96.08 中文版
-
-夸克：https://pan.quark.cn/s/57ffa54d96a5
 
 #### 《养鱼模拟器（Fish Game）》Build.23879224 全DLC 中文版
 
@@ -1555,10 +1586,6 @@
 夸克：https://pan.quark.cn/s/25886713fa22
 
 迅雷：https://pan.xunlei.com/s/VNvHiC360_dT43mM0F5eQ9UkA1?pwd=vcf3#
-
-#### 《氧气列车（Oxygen Train）》v0.9.330 中文版
-
-夸克：https://pan.quark.cn/s/868dcb5abdaa
 
 #### 《韩国街头美食经营模拟器（POJANGMACHA）》v1.2.0 中文版
 
@@ -7744,10 +7771,6 @@ w
 #### 《乐客萌途（Locomoto）》v1.0.5 中文版（火车生活模拟冒险）
 
 夸克：https://pan.quark.cn/s/5609dd9e0a88
-
-#### 《旧世界（Old World）》v1.0.78617 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/a8a099d39d1f
 
 #### 《铁路帝国2（Railway Empire 2）》v1.7.1.64144 全DLC 豪华中文版
 
