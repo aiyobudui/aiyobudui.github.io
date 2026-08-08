@@ -83,6 +83,35 @@ function buildInContentToc() {
     }
 }
 
+// 2.5 中等宽度下悬浮 TOC 的展开/收起（768px–1599px 点击按钮展开，点标题或外部收起）
+document.addEventListener('click', function (e) {
+    var toc = document.querySelector('.in-content-toc');
+    if (!toc) return;
+
+    // 非悬浮区间：确保不残留 is-open
+    if (window.innerWidth < 768 || window.innerWidth >= 1600) {
+        toc.classList.remove('is-open');
+        return;
+    }
+
+    if (toc.contains(e.target)) {
+        var title = toc.querySelector('.in-content-toc__title');
+        var clickedTitle = title && (e.target === title || title.contains(e.target));
+        if (toc.classList.contains('is-open')) {
+            // 展开状态下点标题则收起；点链接由链接自己的监听器处理，这里不干预
+            if (clickedTitle) {
+                toc.classList.remove('is-open');
+                e.preventDefault();
+            }
+        } else {
+            toc.classList.add('is-open');
+            e.preventDefault();
+        }
+    } else {
+        toc.classList.remove('is-open');
+    }
+});
+
 // 3. 搜索结果分类路径（电脑端）
 
 var searchCategoryMap = {
