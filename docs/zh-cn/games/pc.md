@@ -153,6 +153,10 @@
 
 夸克：https://pan.quark.cn/s/7cd3766e113d
 
+#### 《赛菲莉娅（Sephiria）》v1.0.25 中文 联机版
+
+夸克：https://pan.quark.cn/s/c2d1f77aaf7f
+
 #### 《多洛可小镇（Doloc Town）》v1.00.02 中文版
 
 夸克：https://pan.quark.cn/s/57ffa54d96a5
@@ -6810,10 +6814,6 @@ w
 #### 《地心归途（Return From Core）》v1.0.8a 中文版
 
 夸克：https://pan.quark.cn/s/928967e35f84
-
-#### 《赛菲莉娅（Sephiria）》v0.8.3 中文 联机版
-
-夸克：https://pan.quark.cn/s/c2d1f77aaf7f
 
 #### 《恐怖奶奶 重制版（Granny Remake）》v3.6.3 中文版（恐怖游戏）
 

@@ -141,8 +141,7 @@
 .sidebar svg,
 .app-nav svg,
 .search svg,
-.results-panel svg,
-.mobile-search-result-item svg {
+.results-panel svg {
   width: 1.25rem !important;
   height: 1.25rem !important;
   flex-shrink: 0 !important;
@@ -197,12 +196,7 @@
 .mobile-search a:hover,
 .mobile-search a:active,
 .mobile-search a:focus,
-.mobile-search a:visited,
-.mobile-search-result-item,
-.mobile-search-result-item:hover,
-.mobile-search-result-item:active,
-.mobile-search-result-item:focus,
-.mobile-search-result-item:visited {
+.mobile-search a:visited {
   text-decoration: none !important;
 }
 
@@ -212,8 +206,7 @@
 .results-panel *,
 .mobile-nav-item *,
 .mobile-nav-more-item *,
-.mobile-nav-submenu-item *,
-.mobile-search-result-item * {
+.mobile-nav-submenu-item * {
   text-decoration: none !important;
 }
 
@@ -507,16 +500,6 @@ main>.content {
 
 .search .matching-post {
   padding: 0 0 0.9em 0.3em !important;
-}
-
-/* 结果项链接：仅去掉下划线，标题显示默认蓝 */
-.search .matching-post a,
-.search .matching-post a:hover,
-.search .matching-post a:focus,
-.search .matching-post a:active,
-.search .matching-post a:visited,
-.search .matching-post.current a {
-  text-decoration: none !important;
 }
 
 /* 搜索结果标题：取消单行截断，转行显示 */
@@ -901,58 +884,6 @@ main>.content {
   padding: clamp(8px, 2.5vw, 12px);
 }
 
-.mobile-search-result-item {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  padding: clamp(10px, 3vw, 14px) clamp(12px, 4vw, 18px);
-  color: #333;
-  border-radius: 0.5rem;
-  margin-bottom: 8px;
-  transition: background var(--ui-transition);
-}
-
-.mobile-search-result-item:last-child {
-  margin-bottom: 0;
-}
-
-.mobile-search-result-item:hover,
-.mobile-search-result-item:active,
-.mobile-search-result-item:focus {
-  background: #f5f5f5;
-}
-
-.mobile-search-result-row {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  /* 图标与标题间距（原写在 svg 上，统一后改用容器 gap） */
-  min-width: 0;
-  width: 100%;
-}
-
-.mobile-search-result-title {
-  flex: 1;
-  min-width: 0;
-  font-size: clamp(0.8125rem, 3.8vw, 0.9375rem);
-  line-height: 1.4;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.mobile-search-result-category {
-  display: block;
-  width: 100%;
-  font-size: clamp(0.6875rem, 2.8vw, 0.75rem);
-  color: #999;
-  margin-bottom: 2px;
-}
-
-.mobile-search-result-item p {
-  display: none !important;
-}
-
 .mobile-search-no-results,
 .mobile-search-loading {
   padding: 1.875rem;
@@ -1093,10 +1024,7 @@ body.search-active nav[class*="toc"] {
   /* 手机端单独设字号；间距对齐 PC 端 h4（含 h4+h4 margin-top:0），避免小于正文 p(14px) 且层级一致 */
 
   /* 隐藏正文内的自定义导航菜单（改用底部导航栏） */
-  .game-nav,
-  .anime-nav,
-  .movie-nav,
-  .tv-nav {
+  .game-nav {
     display: none !important;
   }
 }
