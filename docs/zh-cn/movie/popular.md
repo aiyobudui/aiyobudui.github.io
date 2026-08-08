@@ -23,6 +23,26 @@
 
 **靠前的是最新添加的**
 
+#### 《群体》 (2026）1080P 中字（韩国新丧尸电影）
+
+夸克：https://pan.quark.cn/s/0909825bd6c9
+
+#### 《鬼玩人6：炼狱》（2026）4K（剩下的5部在 最佳恐怖片Top100部 中）
+
+夸克：https://pan.quark.cn/s/13b33bbf0952
+
+#### 《痴迷》 （2025）4K (恐怖电脑)
+
+夸克：https://pan.quark.cn/s/0cc129613e6e
+
+#### 《消失的人》 (2026）4K 60帧
+
+夸克：https://pan.quark.cn/s/f158262d694a
+
+#### 《10间敢死队》 (2026）4K
+
+夸克：https://pan.quark.cn/s/6cde299b898c
+
 #### 《火遮眼》（2025）1080P 中字
 
 夸克：https://pan.quark.cn/s/ce459fb3ffa3

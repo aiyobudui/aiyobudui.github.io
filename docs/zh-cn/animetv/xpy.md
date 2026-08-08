@@ -105,7 +105,7 @@
 
 夸克：https://pan.quark.cn/s/3b9ca936bd98
 
-#### 小猪佩奇 4K 1-9季 + 英语课堂 中英双配音 中字
+#### 《小猪佩奇》4K 1-9季 + 英语课堂 中英双配音 中字
 
 夸克：https://pan.quark.cn/s/246d0dde557d
 
@@ -123,15 +123,14 @@
 
 夸克：https://pan.quark.cn/s/a0ba44cfda11
 
-#### 10部影响孩子一辈子的好电影
+#### 《影响孩子一辈子的好电影》11部 1080P 国语配音 中英字幕
+（阿甘正传、艾琳娜、风雨哈佛路、狐狸与我、叫我第一名、奇迹男孩、听见天堂、海蒂和爷爷、小鞋子、佐贺的超级阿嬷、仙境之桥）
 
 夸克：https://pan.quark.cn/s/ef555d29cc08
 
 #### 加菲猫的幸福生活 1-5季全 中文配音
 
 夸克：https://pan.quark.cn/s/da65b97476e2
-
-阿里：<https://www.alipan.com/s/KnbUtPiTHrU>
 
 #### 叶罗丽精灵梦 1-12季.1080P
 
@@ -229,22 +228,33 @@
 
 阿里：<https://www.aliyundrive.com/s/FuSQdHLQs2R>
 
-#### 史努比大合集 动画剧集+大电影.国配.英配.双语中字（小朋友片推荐）
+#### 《史努比》大合集 1080P 动画剧集+大电影 国英英规 中英字幕
+
+夸克：https://pan.quark.cn/s/8d44b638e445
 
 阿里：<https://www.aliyundrive.com/s/oE2F35BBFZV>
 
-#### 嗨！道奇 hey duggee.BBC英语(中文.英语多版本.少儿学英语启蒙动画)（推荐）
+#### 《嗨！道奇 Hey Duggee》1080P 中文英语多版本（BBC英语少儿英语启蒙动画）
+
+夸克：https://pan.quark.cn/s/894986dd80c5
 
 阿里：<https://www.aliyundrive.com/s/2qRHYodpnQw>
+
+#### 《趣趣知知鸟 Twirlywoos》1080P 中英双版（BBC经典英语启蒙动画）
+
+夸克：https://pan.quark.cn/s/957db7ec3fab
+
+阿里：<https://www.aliyundrive.com/s/Bf53breuwTS>
+
+#### 《尼尔斯骑鹅旅行记》中配动画版52集+有声音频+电子书
+
+夸克：https://pan.quark.cn/s/ff0baa75cf98
+
+阿里：<https://www.aliyundrive.com/s/KehEbrFMhBg>
 
 #### 儿童教育故事(三字经)+(弟子规)+(成语故事)+(千字文)+(寓言故事)
 
 阿里：<https://www.aliyundrive.com/s/niV1hBzGbMM>
 
-#### 尼尔斯骑鹅旅行记.72集
 
-阿里：<https://www.aliyundrive.com/s/KehEbrFMhBg>
 
-#### 趣趣知知鸟（2015）52集全 720P 中字
-
-阿里：<https://www.aliyundrive.com/s/Bf53breuwTS>
