@@ -986,8 +986,24 @@ body.search-active nav[class*="toc"] {
     font-size: 0.9375rem;
   }
 
+  /* 手机端底部导航：用媒体查询锁定显示，不再依赖 JS 切换 display 的时序。
+     否则滚动触发浏览器地址栏伸缩(resize)时，force-show 可能被瞬间移除而闪没。
+     JS 的 .force-show 仍保留，作为 iPad 横屏等 UA 匹配的兜底。 */
+  .mobile-nav {
+    display: block !important;
+  }
+
+  /* 手机端取消内容容器左右内边距，让白色卡片真正贴边铺满（否则右侧露背景底色） */
+  main > .content {
+    padding: 0 !important;
+  }
+
   .markdown-section {
     width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
     /* 手机端白色卡片占满整个界面，无左右间隙 */
     padding: 1rem clamp(12px, 4vw, 24px) !important;
     /* 上下 1rem；左右内边距随屏宽自适应（文字不贴边） */

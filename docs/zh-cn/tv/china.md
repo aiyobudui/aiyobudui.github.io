@@ -26,6 +26,10 @@
 
 夸克：https://pan.quark.cn/s/86ab10c0f527
 
+#### 《凛冬下的罪恶》（2026）4K 26集全
+
+夸克：https://pan.quark.cn/s/ff8e0b944876
+
 #### 《莫得闲》 (2026) 1080P 3集全
 
 夸克：https://pan.quark.cn/s/bd8f47d575e1
