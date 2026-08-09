@@ -139,6 +139,14 @@
 
 ## 最近更新
 
+#### 《宗门起源（Eastern Era）》v1.1.9 中文版
+
+夸克：https://pan.quark.cn/s/6d75f2fd231d
+
+#### 《HumanitZ》v1.09.A 中文 联机版（丧尸生存游戏）
+
+夸克：https://pan.quark.cn/s/0fcd0ac081da
+
 #### 《生灵重塑（REANIMAL）豪华版》v367303 全DLC 中文 联机版（类似小小梦魇恐怖解密）
 
 夸克：https://pan.quark.cn/s/fcef91158dcf
@@ -3270,10 +3278,6 @@ w
 
 夸克：https://pan.quark.cn/s/e12bc6f40d9b
 
-#### 《宗门起源（Eastern Era）》v1.0.28 中文版
-
-夸克：https://pan.quark.cn/s/6d75f2fd231d
-
 #### 《筑城记：中世纪（City Tales Medieval Era）》v1.2.0.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/448eca526561
@@ -4207,10 +4211,6 @@ w
 #### 《Fingerdance》Build.20257504 中文版（一款让你手指打结的魔性小游戏）
 
 夸克：https://pan.quark.cn/s/344d1c35e7bf
-
-#### 《HumanitZ》v1.0XZ 中文 联机版（丧尸生存游戏）
-
-夸克：https://pan.quark.cn/s/0fcd0ac081da
 
 #### 《桃源村日志（Halcyon Days at Taoyuan）》v1.0.7 全DLC 中文版
 

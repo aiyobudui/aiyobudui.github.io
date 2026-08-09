@@ -220,7 +220,7 @@
 
 夸克：https://pan.quark.cn/s/13b193798f5a
 
-#### 《终极幸运之塔 Lucky Tower Ultimate》v1.0.13 NS整合 美区中文版
+#### 《终极幸运之塔 Lucky Tower Ultimate》v1.1.1 NS整合 美区中文版
 
 夸克：https://pan.quark.cn/s/14736cf1d8ae
 
@@ -306,7 +306,7 @@
 
 夸克：https://pan.quark.cn/s/04f93cc69e2d
 
-#### 《潜水员戴夫 DAVE THE DIVER》v1.0.6.1224 NS整合 全DLC 中文版
+#### 《潜水员戴夫 DAVE THE DIVER》v1.0.6.1243 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/287adeaffadc
 
