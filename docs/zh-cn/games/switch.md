@@ -318,7 +318,7 @@
 
 夸克：https://pan.quark.cn/s/82233b3ad455
 
-#### 《我的世界 Minecraft》v1.26.40 NS整合 美区中文版
+#### 《我的世界 Minecraft》v1.26.41 NS整合 美区中文版
 
 夸克：https://pan.quark.cn/s/e4fc0750a9e0
 

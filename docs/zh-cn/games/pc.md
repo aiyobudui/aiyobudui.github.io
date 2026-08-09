@@ -64,10 +64,6 @@
 
 夸克：https://pan.quark.cn/s/8f8e4c92e22e
 
-#### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.5.0 中文版
-
-夸克：https://pan.quark.cn/s/6f0e102663f1
-
 #### 《第一狂战士 卡赞（The First Berserker Khazan）豪华版》v565386 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/bba1c6a244ac
@@ -75,6 +71,18 @@
 #### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）豪华版》v1.1.1.0 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
+
+#### 《黑暗地带 Dark Sector》v1.0 英文版
+
+夸克：https://pan.quark.cn/s/cc38f7ce94bf
+
+#### 《掠夺之剑 暗影大陆 Ravensword Shadowlands》v2.1 汉化版(附安卓版)
+
+夸克：https://pan.quark.cn/s/debfaa42c4e9
+
+#### 《遗忘国度：瓦林的召唤 Forsaken Realms Vahrin's Call》v1.0.19 英文版
+
+夸克：https://pan.quark.cn/s/c00f21cafc83
 
 #### 《棉花小魔女 和你一起摇滚（COTTOn RockWithYou -ORIENTAL NIGHT DREAMS-）》v2.01 中文版
 
@@ -138,6 +146,14 @@
 ---
 
 ## 最近更新
+
+#### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.6.0 全dlc 中文版
+
+夸克：https://pan.quark.cn/s/6f0e102663f1
+
+#### 《星之海洋2 第二个故事 重制版（STAR OCEAN THE SECOND STORY R）》v1.10 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0b636b6357ce
 
 #### 《宗门起源（Eastern Era）》v1.1.9 中文版
 
@@ -5811,7 +5827,7 @@ w
 
 夸克：https://pan.quark.cn/s/8c1d759f649f
 
-#### 《Blood of Mehran》v1.0.16 中文版
+#### 《梅赫兰之血（Blood of Mehran）》v1.0.16 中文版
 
 夸克：https://pan.quark.cn/s/2a623d45e1ba
 
@@ -9260,10 +9276,6 @@ w
 
 夸克：https://pan.quark.cn/s/8b694c46c52f
 
-#### 《星之海洋2 重制版（STAR OCEAN THE SECOND STORY R）》v1.10 中文版
-
-夸克：https://pan.quark.cn/s/0b636b6357ce
-
 #### 《黑荆棘角斗场 重制版（Blackthorn Arena Reforged）》v2.6 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/20790439f237
@@ -11078,7 +11090,7 @@ w
 
 迅雷：https://pan.xunlei.com/s/VO8WqhZlgjZe0lbTlbwggv7IA1?pwd=aqpw#
 
-#### 《血源诅咒（Bloodborne）》港版v1.09 PS4模拟器 整合版（只支持手柄）
+#### 《血源诅咒（Bloodborne）》港版v1.09 PS4模拟器 整合版（只支持手柄无PC版）
 
 夸克：https://pan.quark.cn/s/1de3114429a7
 
