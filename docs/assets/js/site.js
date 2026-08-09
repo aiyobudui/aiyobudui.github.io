@@ -519,3 +519,157 @@ if (document.readyState === "complete") {
 window.addEventListener('beforeunload', function () {
     clearInterval(siteTimeInterval);
 });
+
+// 8. PC 端网盘链接转二维码（点击展开）
+// 识别夸克 / 迅雷 / 百度 / 阿里 网盘链接，默认隐藏原始链接，只显示「XX二维码」按钮，点击展开二维码。
+// 仅 PC 端执行（手机端由 isMobileDevice() 拦截，且 CSS 媒体查询双保险隐藏）。
+
+function netdiskType(href) {
+    if (/quark/i.test(href)) return '夸克';
+    if (/xunlei/i.test(href)) return '迅雷';
+    if (/baidu/i.test(href)) return '百度';
+    if (/aliyun|alipan/i.test(href)) return '阿里';
+    return null;
+}
+
+// 不转换二维码、保留原始链接的页面：home.md（根路径 #/）与各分类 page.md（/xxx/page）
+function isQrExcludedRoute() {
+    var hash = (location.hash || '').replace(/^#/, '');
+    hash = hash.split('?')[0]; // 去掉 ?id= 等查询参数
+    if (hash === '' || hash === '/') return true; // 根路径 = home.md
+    var seg = hash.split('/').filter(Boolean);
+    var last = seg[seg.length - 1] || '';
+    // page.md 落地页 或 home.md（#/home 在 docsify 中也会解析为 home.md）
+    return last === 'page' || last === 'home';
+}
+
+// 全局点击：点击二维码区域外的任意位置，自动关闭所有已展开的二维码（只绑定一次）
+if (!window.__qrOutsideCloseBound) {
+    document.addEventListener('click', function (e) {
+        // 点击发生在某个二维码按钮/弹出区域内时不处理，交由按钮自身逻辑负责
+        if (e.target.closest && e.target.closest('.netdisk-qr')) return;
+        document.querySelectorAll('.netdisk-qr.is-open').forEach(function (openWrap) {
+            openWrap.classList.remove('is-open');
+            var openBtn = openWrap.querySelector('.netdisk-qr__btn');
+            if (openBtn) openBtn.setAttribute('aria-expanded', 'false');
+        });
+    });
+    window.__qrOutsideCloseBound = true;
+}
+
+function renderNetdiskQrcodes() {
+    // 各网盘类型对应的 accent 类名（用于按钮配色）
+    var accentMap = { '夸克': 'quark', '迅雷': 'xunlei', '百度': 'baidu', '阿里': 'aliyun' };
+
+    // home.md / page.md 落地页不转换二维码，链接保持原样显示
+    if (isQrExcludedRoute()) return;
+
+    var content = document.querySelector('.markdown-section');
+    if (!content) return;
+
+    var isMobile = isMobileDevice();
+
+    // PC 端依赖二维码库，未就绪则跳过；移动端只生成按钮、点击直接跳转，不依赖 QRCode
+    if (!isMobile && typeof QRCode === 'undefined') return;
+
+    var links = content.querySelectorAll('a[href]');
+    links.forEach(function (link) {
+        var href = link.getAttribute('href') || '';
+        // 只处理 http(s) 外部网盘链接
+        if (!/^https?:\/\//i.test(href)) return;
+        var type = netdiskType(href);
+        if (!type) return;
+        // 避免对已经包裹过的链接重复处理
+        if (link.dataset.qrBound === '1') return;
+        link.dataset.qrBound = '1';
+
+        var accent = accentMap[type] || 'quark';
+
+        var label = type + '网盘';
+        var wrap = document.createElement('span');
+        wrap.className = 'netdisk-qr';
+
+        var btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'netdisk-qr__btn netdisk-qr__btn--' + accent;
+        btn.textContent = label;
+        btn.setAttribute('aria-expanded', 'false');
+
+        // 移动端：按钮点击在新窗口打开网盘链接（不生成二维码、不创建弹层、不占用当前页）
+        if (isMobile) {
+            btn.addEventListener('click', function (e) {
+                e.preventDefault();
+                var a = document.createElement('a');
+                a.href = href;
+                a.target = '_blank';
+                a.rel = 'noopener noreferrer';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            });
+        } else {
+            btn.setAttribute('aria-expanded', 'false');
+
+            var box = document.createElement('div');
+            box.className = 'netdisk-qr__box';
+
+            // 二维码上方提示文案（按网盘类型动态生成：夸克网盘APP扫码获取 / 迅雷网盘APP扫码获取 …）
+            var hint = document.createElement('div');
+            hint.className = 'netdisk-qr__hint';
+            hint.textContent = type + '网盘APP扫码获取';
+            box.appendChild(hint);
+
+            btn.addEventListener('click', function (e) {
+                e.preventDefault();
+
+                // 互斥：展开当前前先关闭页面上其他已展开的二维码
+                document.querySelectorAll('.netdisk-qr.is-open').forEach(function (openWrap) {
+                    if (openWrap !== wrap) {
+                        openWrap.classList.remove('is-open');
+                        var openBtn = openWrap.querySelector('.netdisk-qr__btn');
+                        if (openBtn) openBtn.setAttribute('aria-expanded', 'false');
+                    }
+                });
+
+                if (wrap.dataset.rendered !== '1') {
+                    // 懒生成：首次点击才真正绘制二维码，避免页面一次性绘制几十个
+                    try {
+                        new QRCode(box, {
+                            text: href,
+                            width: 160,
+                            height: 160,
+                            colorDark: '#000000',
+                            colorLight: '#ffffff',
+                            correctLevel: QRCode.CorrectLevel.M
+                        });
+                        wrap.dataset.rendered = '1';
+                    } catch (err) {
+                        return;
+                    }
+                }
+                var open = wrap.classList.toggle('is-open');
+                btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+            });
+
+            wrap.appendChild(box);
+        }
+
+        wrap.appendChild(btn);
+        if (link.nextSibling) {
+            link.parentNode.insertBefore(wrap, link.nextSibling);
+        } else {
+            link.parentNode.appendChild(wrap);
+        }
+
+        // 默认隐藏原始网盘链接（长 URL），只显示「XX二维码」按钮
+        link.style.display = 'none';
+        // 同时隐藏链接前面的「夸克：」「迅雷：」「百度：」「阿里：」等网盘类型前缀
+        var prevNode = link.previousSibling;
+        if (prevNode && prevNode.nodeType === Node.TEXT_NODE) {
+            var prevText = prevNode.textContent || '';
+            if (/^\s*(夸克|迅雷|百度|阿里)\s*[：:]?\s*$/i.test(prevText)) {
+                prevNode.textContent = '';
+            }
+        }
+    });
+}

@@ -402,6 +402,9 @@ main>.content {
   /* 防止继承 main 的 text-align:center */
   flex-shrink: 0 !important;
   /* 防止 flex 容器把它压窄 */
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+  /* 防止正文长 URL / 表格把卡片撑宽，进而撑宽 body 导致底部导航溢出 */
 }
 
 
@@ -593,13 +596,15 @@ main>.content {
   position: fixed;
   bottom: 0;
   left: 0;
-  right: 0;
+  width: 100vw;
+  max-width: 100vw;
   background: #fff;
   border-top: 1px solid var(--border-color, #eee);
   z-index: 9999;
   padding: 0.5rem 0;
   padding-bottom: max(0.5rem, env(safe-area-inset-bottom));
   box-shadow: 0 -2px 12px rgba(0, 0, 0, 0.06);
+  box-sizing: border-box;
 }
 
 .mobile-nav.force-show {
@@ -984,6 +989,8 @@ body.search-active nav[class*="toc"] {
   body {
     padding-bottom: 3.5rem;
     font-size: 0.9375rem;
+    overflow-x: hidden;
+    /* 防止正文长链接/表格把 body 撑宽，导致底部导航一起溢出视口 */
   }
 
   /* 手机端底部导航：用媒体查询锁定显示，不再依赖 JS 切换 display 的时序。
@@ -991,6 +998,34 @@ body.search-active nav[class*="toc"] {
      JS 的 .force-show 仍保留，作为 iPad 横屏等 UA 匹配的兜底。 */
   .mobile-nav {
     display: block !important;
+    overflow-x: hidden; /* 防止任何子项溢出导致整页横向滚动 */
+  }
+
+  /* 手机端底部导航有 7 个按钮，较挤；收紧图标/字号/内边距，
+     避免标签在窄屏(≤390px)下溢出、挤到相邻按钮 */
+  .mobile-nav-container {
+    padding: 0 0.25rem;
+  }
+
+  .mobile-nav-item {
+    padding: 0.35rem 0.05rem;
+    font-size: 12px;
+    overflow: hidden; /* 标签万一仍超出则截断，不再视觉溢出 */
+  }
+
+  .mobile-nav svg {
+    width: 1.25rem !important;
+    height: 1.25rem !important;
+  }
+
+  .mobile-nav-item.mobile-nav-search .mobile-nav-icon svg {
+    width: 1.4rem !important;
+    height: 1.4rem !important;
+  }
+
+  .mobile-nav-icon {
+    font-size: 1.15rem;
+    height: 1.1rem;
   }
 
   /* 手机端取消内容容器左右内边距，让白色卡片真正贴边铺满（否则右侧露背景底色） */
@@ -1032,7 +1067,7 @@ body.search-active nav[class*="toc"] {
   }
 
   .markdown-section h4 {
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-top: 2.8em;
     margin-bottom: 0.5em;
   }
@@ -1607,6 +1642,165 @@ body.search-active nav[class*="toc"] {
   .in-content-toc {
     right: 7.5rem;
     width: 14rem;
+  }
+}
+
+/* ============================================================
+   PC 端网盘链接转二维码（点击展开）
+   - 仅 PC 端（JS 判定 + 此处媒体查询双保险）显示
+   - 每个夸克/迅雷/百度/阿里链接默认隐藏，只显示「XX二维码」按钮，点击展开二维码
+   ============================================================ */
+.netdisk-qr {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0.35em 1em 0.7em 0;
+  line-height: 1.4;
+  position: relative;
+}
+
+/* 把只包含二维码按钮的段落改成 inline-block，让连续多个网盘链接横向排列 */
+.markdown-section p:has(> .netdisk-qr) {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+}
+
+.markdown-section .netdisk-qr__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #3b82f6;
+  background: rgba(59, 130, 246, 0.12);
+  border: 1px solid rgba(59, 130, 246, 0.4);
+  border-radius: 6px;
+  padding: 0.3em 0.7em;
+  cursor: pointer;
+  outline: none;
+  /* 按钮下方柔和阴影，提升层次感 */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.12);
+  transition: background 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+/* 四种网盘类型使用不同主题色（文字/图标/边框/底色跟随类型） */
+.markdown-section .netdisk-qr__btn--quark {
+  color: #ea580c;
+  background: rgba(234, 88, 12, 0.12);
+  border-color: rgba(234, 88, 12, 0.4);
+}
+.markdown-section .netdisk-qr__btn--xunlei {
+  color: #0ea5e9;
+  background: rgba(14, 165, 233, 0.12);
+  border-color: rgba(14, 165, 233, 0.4);
+}
+.markdown-section .netdisk-qr__btn--baidu {
+  color: #4f46e5;
+  background: rgba(79, 70, 229, 0.12);
+  border-color: rgba(79, 70, 229, 0.4);
+}
+.markdown-section .netdisk-qr__btn--aliyun {
+  color: #e11d48;
+  background: rgba(225, 29, 72, 0.12);
+  border-color: rgba(225, 29, 72, 0.4);
+}
+
+.markdown-section .netdisk-qr__btn:hover,
+.markdown-section .netdisk-qr__btn:focus,
+.markdown-section .netdisk-qr__btn:focus-visible,
+.markdown-section .netdisk-qr__btn:active {
+  background: rgba(59, 130, 246, 0.22);
+  border-color: rgba(59, 130, 246, 0.55);
+  outline: none;
+  /* 保持我们的阴影（覆盖 docsify core 的 focus 光环），并加深以反馈 hover */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.16);
+}
+
+/* 各类型 hover 时背景/边框加深为对应色相 */
+.markdown-section .netdisk-qr__btn--quark:hover,
+.markdown-section .netdisk-qr__btn--quark:focus {
+  background: rgba(234, 88, 12, 0.22);
+  border-color: rgba(234, 88, 12, 0.55);
+}
+.markdown-section .netdisk-qr__btn--xunlei:hover,
+.markdown-section .netdisk-qr__btn--xunlei:focus {
+  background: rgba(14, 165, 233, 0.22);
+  border-color: rgba(14, 165, 233, 0.55);
+}
+.markdown-section .netdisk-qr__btn--baidu:hover,
+.markdown-section .netdisk-qr__btn--baidu:focus {
+  background: rgba(79, 70, 229, 0.22);
+  border-color: rgba(79, 70, 229, 0.55);
+}
+.markdown-section .netdisk-qr__btn--aliyun:hover,
+.markdown-section .netdisk-qr__btn--aliyun:focus {
+  background: rgba(225, 29, 72, 0.22);
+  border-color: rgba(225, 29, 72, 0.55);
+}
+
+.netdisk-qr__btn::before {
+  content: '';
+  width: 0.9em;
+  height: 0.9em;
+  background: currentColor;
+  /* 简易二维码图标（方块网格），避免引入额外资源 */
+  background-image:
+    linear-gradient(45deg, transparent 45%, currentColor 45%, currentColor 55%, transparent 55%),
+    conic-gradient(from 0deg, currentColor 25%, transparent 0 75%, currentColor 0);
+  -webkit-mask: none;
+  opacity: 0.85;
+  border-radius: 2px;
+}
+
+/* 二维码上方提示文案 */
+.netdisk-qr__hint {
+  font-size: 0.75rem;
+  color: #6b7280;
+  text-align: center;
+  white-space: nowrap;
+  margin-bottom: 0.45em;
+  line-height: 1.3;
+}
+
+.netdisk-qr__box {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 0.5em;
+  display: none;
+  width: max-content;
+  z-index: 10;
+  /* 弹出块白色底 + 边框 + 阴影，保证 hint 与二维码清晰可见 */
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 0.6em;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16);
+}
+
+.netdisk-qr.is-open .netdisk-qr__box {
+  display: block;
+}
+
+/* qrcodejs 渲染出的 canvas / img 统一尺寸与圆角，并水平居中 */
+.netdisk-qr__box img,
+.netdisk-qr__box canvas {
+  display: block;
+  margin: 0 auto;
+  width: 160px !important;
+  height: 160px !important;
+  border: 1px solid var(--border-color, #e6e6e6);
+  border-radius: 8px;
+  background: #fff;
+  padding: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+/* 手机端显示网盘按钮（点击直接跳转），但坚决不显示二维码弹层（PC 端功能，双保险） */
+@media (max-width: 767px) {
+  .netdisk-qr__box {
+    display: none !important;
   }
 }
 

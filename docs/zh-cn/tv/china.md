@@ -22,17 +22,25 @@
 
 夸克：https://pan.quark.cn/s/c977197bad6f
 
-#### 《兵自风中来》（2026）4K 36集更新中..
+迅雷：https://pan.xunlei.com/s/VOz_u1OnlIzXh_bX3c_JNULhA1?pwd=92cx#
+
+#### 《兵自风中来》（2026）4K 36集全
 
 夸克：https://pan.quark.cn/s/86ab10c0f527
+
+迅雷：https://pan.xunlei.com/s/VOz_tGyqQks1nlyS2x08vs_gA1?pwd=ic2h#
 
 #### 《凛冬下的罪恶》（2026）4K 26集全
 
 夸克：https://pan.quark.cn/s/ff8e0b944876
 
+迅雷：https://pan.xunlei.com/s/VOz_sjuhiGP3pHAXU-orCFi0A1?pwd=8hch#
+
 #### 《莫得闲》 (2026) 1080P 3集全
 
 夸克：https://pan.quark.cn/s/bd8f47d575e1
+
+迅雷：https://pan.xunlei.com/s/VOz_t0lvz1b4VwXv7anSLPa8A1?pwd=wayz#
 
 #### 《莫离》（2026）4K 40集全
 

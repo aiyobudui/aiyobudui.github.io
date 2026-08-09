@@ -315,6 +315,9 @@
                         // 正文内 TOC：抓取当前页 h2，注入「本页目录」卡片到正文顶部
                         buildInContentToc();
 
+                        // PC 端网盘链接转二维码（点击展开）：夸克 / 迅雷 / 百度 / 阿里
+                        renderNetdiskQrcodes();
+
                     });
                 }
             ]
@@ -343,6 +346,9 @@
     <!-- 页脚 -->
     <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"
         onerror="document.write('<script src=\'https://unpkg.com/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js\'><\/script>')"></script>
+
+    <!-- 二维码生成库（PC端网盘链接转二维码：davidshimjs/qrcodejs，本地副本） -->
+    <script src="./assets/js/qrcode.min.js"></script>
 
     <!-- 站点自定义脚本 -->
     <script src="./assets/js/site.js"></script>

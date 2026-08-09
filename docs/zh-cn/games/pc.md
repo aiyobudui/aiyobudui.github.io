@@ -4360,10 +4360,6 @@ w
 
 夸克：https://pan.quark.cn/s/c41c5c5e9818
 
-#### 《三国志8 重制版 威力加强版（RTK8R Power Up Kit）豪华版》v1.1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/8e85211fbc49
-
 #### 《戴森球计划（Dyson Sphere Program）》v0.10.34.28326 中文 联机版
 
 夸克：https://pan.quark.cn/s/695816605aeb
@@ -5749,7 +5745,7 @@ w
 
 夸克：https://pan.quark.cn/s/54a985e3d4f6
 
-#### 《三国志 系列合集 威力加强版》最新 中文版
+#### 《三国志 系列合集 威力加强版》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/791c98f684de
 

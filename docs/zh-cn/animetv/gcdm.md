@@ -129,7 +129,7 @@
 
 #### 《完美世界》（2024）4K 周五 更新中..
 
-夸克：https://pan.quark.cn/s/a086e93e6548
+夸克：https://pan.quark.cn/s/30f3e4d87ea4
 
 迅雷：https://pan.xunlei.com/s/VNl7gMz6RajsUgWO5aRp45iYA1?pwd=8yf3#
 
