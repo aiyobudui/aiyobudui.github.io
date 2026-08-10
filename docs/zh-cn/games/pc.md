@@ -72,6 +72,10 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《汤姆克兰西：鹰击长空2（Tom Clancys H.A.W.X）》v1.01 中文 联机版
+
+夸克：https://pan.quark.cn/s/b3153d42d91d
+
 #### 《黑暗地带 Dark Sector》v1.0 英文版
 
 夸克：https://pan.quark.cn/s/cc38f7ce94bf
@@ -116,33 +120,6 @@
 
 夸克：https://pan.quark.cn/s/19588caa5dfe
 
-#### 《机械狂欢（Machine Party）》v1.0.7 中文 联机版
-
-夸克：https://pan.quark.cn/s/3ddba0d917df
-
-#### 《吸吸弹弹大乱斗（Jelly Monsters）豪华版》v1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/6197ec318220
-
-#### 《生死深潜：雨之子民（DIVE or DIE - Children of Rain）》v1.0.4.848 中文版
-
-夸克：https://pan.quark.cn/s/be8a7c238375
-
-#### 《速降王者（Descenders）》Build.24473652 中文 联机版（山地自行车极限运动游戏）
-
-夸克：https://pan.quark.cn/s/ae9745ba51a5
-
-#### 《地狱仆从2 神罚降临（HellSlave II）》v1.3.0 中文版
-
-夸克：https://pan.quark.cn/s/de1ac696611c
-
-迅雷：https://pan.xunlei.com/s/VOzHye5JGzlbo0uDRmcOVTOwA1?pwd=y44r#
-
-#### 《网球王子 学园祭的王子们（The Prince of Tennis Sweet School Festival）》v1.1.1 中文版
-#### 《网球王子 心跳求生（The Prince of Tennis Doki Doki Survival）》v1.1.1 中文版
-
-夸克：https://pan.quark.cn/s/406d8cbaf1e6
-
 ---
 
 ## 最近更新
@@ -151,9 +128,21 @@
 
 夸克：https://pan.quark.cn/s/6f0e102663f1
 
+#### 《潜渊症（Barotrauma）》v1.13.4.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/33b94fd8f90d
+
+#### 《熔炉密林（Rotwood）》v739860 中文 联机版
+
+夸克：https://pan.quark.cn/s/959e46636cd2
+
 #### 《星之海洋2 第二个故事 重制版（STAR OCEAN THE SECOND STORY R）》v1.10 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/0b636b6357ce
+
+#### 《帝国的陨落 Fall of an Empire》v2.05.4 全DLC 中文版（帝国陨落，策略）
+
+夸克：https://pan.quark.cn/s/e1dc6c4cb73f
 
 #### 《宗门起源（Eastern Era）》v1.1.9 中文版
 
@@ -166,6 +155,10 @@
 #### 《生灵重塑（REANIMAL）豪华版》v367303 全DLC 中文 联机版（类似小小梦魇恐怖解密）
 
 夸克：https://pan.quark.cn/s/fcef91158dcf
+
+#### 《无名九使：觉醒（Unknown 9 Awakening）豪华版》Build.16687288 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e116ed4f56b8
 
 #### 《原子之心（Atomic Heart）黄金版》Build.24534183 全DLC 中文配音版
 
@@ -192,79 +185,6 @@
 #### 《旧世界（Old World）完整版》v1.0.84365 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/a8a099d39d1f
-
-#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v14.0.0.1 全DLC 中文版（更新）
-#### 《战锤40K：机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版
-#### 《战锤40K 星际战士 大师锻造版》v1.0.156.0 全DLC 汉化版
-#### 《战锤40K 星际战士（Warhammer 40000 Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
-#### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
-#### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
-#### 《战锤40K 战争黎明 终极版（Warhammer 40000 Dawn of War）终极版》v2025.8.15 中文版
-#### 《战锤40K 角斗士之战争圣器（Warhammer 40000 Gladius Relics of War）》v1.16.2 全DLC 中文版
-#### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
-#### 《战锤40K 爆矢枪（Warhammer 40000 Boltgun）》v1.22.68871.3 全DLC 豪华中文版
-#### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）》v1.14.0 全DLC 豪华中文版
-#### 《战锤 末世鼠疫2（Warhammer Vermintide 2）》v5.5.7 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/42d400d7daa0
-
-迅雷：https://pan.xunlei.com/s/VO66AjKFj2GlFllW69pKVBa8A1?pwd=uerd#
-
-#### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.2018 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/51ec3310edca
-
-#### 《警察模拟器：巡警（Police Simulator Patrol Officers）终极任务版》v22.3.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/22a57b547f78
-
-#### 《我的小柯基（My Little Puppy）》v1.1.2519 中文版（关于死亡来世的温情故事游戏）
-
-夸克：https://pan.quark.cn/s/ae859e640ad1
-
-#### 《无尽爱丽丝（Endless Alice）》v0.3.3 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/df87419d5ca8
-
-#### 《时光之帽（A Hat in Time）终极版》Build.24437107 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/c99292aeb535
-
-#### 《哈迪斯2（Hades II）》v1.139671 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/74b6e4cc96f7
-
-迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
-
-#### 《深岩银河：异动核心（Deep Rock Galactic Rogue Core）支持者版》v0.4.148107.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/3ef7d395e397
-
-迅雷：https://pan.xunlei.com/s/VOzIAa-C_Lyt-F237OX3jfywA1?pwd=sb2i#
-
-#### 《亡命迪斯科（Dead as Disco）》v0.1.2.71 全DLC 中文版（死亡迪斯科）
-
-夸克：https://pan.quark.cn/s/a1e3f4d62707
-
-#### 《我在地府打麻将（Demonic Mahjong）》v0.2.57 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d88da55c16aa
-
-迅雷：https://pan.xunlei.com/s/VOr81jS0cIHbp4W2A7J9d-PtA1?pwd=ryuc#
-
-#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.72 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e69d68ac66af
-
-迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
-
-#### 《魔法工艺（Magicraft）》v1.2.34 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/727cfee561c0
-
-#### 《孤岛笔记（Island Notes）》v2026.8.3 中文版
-
-夸克：https://pan.quark.cn/s/94a12e33b31a
 
 ---
 
@@ -465,6 +385,106 @@
 ---
 
 ## 已有游戏
+
+#### 《机械狂欢（Machine Party）》v1.0.7 中文 联机版
+
+夸克：https://pan.quark.cn/s/3ddba0d917df
+
+#### 《吸吸弹弹大乱斗（Jelly Monsters）豪华版》v1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6197ec318220
+
+#### 《生死深潜：雨之子民（DIVE or DIE - Children of Rain）》v1.0.4.848 中文版
+
+夸克：https://pan.quark.cn/s/be8a7c238375
+
+#### 《速降王者（Descenders）》Build.24473652 中文 联机版（山地自行车极限运动游戏）
+
+夸克：https://pan.quark.cn/s/ae9745ba51a5
+
+#### 《地狱仆从2 神罚降临（HellSlave II）》v1.3.0 中文版
+
+夸克：https://pan.quark.cn/s/de1ac696611c
+
+迅雷：https://pan.xunlei.com/s/VOzHye5JGzlbo0uDRmcOVTOwA1?pwd=y44r#
+
+#### 《网球王子 学园祭的王子们（The Prince of Tennis Sweet School Festival）》v1.1.1 中文版
+#### 《网球王子 心跳求生（The Prince of Tennis Doki Doki Survival）》v1.1.1 中文版
+
+夸克：https://pan.quark.cn/s/406d8cbaf1e6
+
+#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v14.0.0.1 全DLC 中文版（更新）
+#### 《战锤40K：机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版
+#### 《战锤40K 星际战士 大师锻造版》v1.0.156.0 全DLC 汉化版
+#### 《战锤40K 星际战士（Warhammer 40000 Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
+#### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
+#### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
+#### 《战锤40K 战争黎明 终极版（Warhammer 40000 Dawn of War）终极版》v2025.8.15 中文版
+#### 《战锤40K 角斗士之战争圣器（Warhammer 40000 Gladius Relics of War）》v1.16.2 全DLC 中文版
+#### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
+#### 《战锤40K 爆矢枪（Warhammer 40000 Boltgun）》v1.22.68871.3 全DLC 豪华中文版
+#### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）》v1.14.0 全DLC 豪华中文版
+#### 《战锤 末世鼠疫2（Warhammer Vermintide 2）》v5.5.7 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/42d400d7daa0
+
+迅雷：https://pan.xunlei.com/s/VO66AjKFj2GlFllW69pKVBa8A1?pwd=uerd#
+
+#### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.2018 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/51ec3310edca
+
+#### 《警察模拟器：巡警（Police Simulator Patrol Officers）终极任务版》v22.3.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/22a57b547f78
+
+#### 《我的小柯基（My Little Puppy）》v1.1.2519 中文版（关于死亡来世的温情故事游戏）
+
+夸克：https://pan.quark.cn/s/ae859e640ad1
+
+#### 《无尽爱丽丝（Endless Alice）》v0.3.3 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/df87419d5ca8
+
+#### 《时光之帽（A Hat in Time）终极版》Build.24437107 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/c99292aeb535
+
+#### 《哈迪斯2（Hades II）》v1.139671 中文版（附第一部）
+
+夸克：https://pan.quark.cn/s/74b6e4cc96f7
+
+迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
+
+#### 《深岩银河：异动核心（Deep Rock Galactic Rogue Core）支持者版》v0.4.148107.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/3ef7d395e397
+
+迅雷：https://pan.xunlei.com/s/VOzIAa-C_Lyt-F237OX3jfywA1?pwd=sb2i#
+
+#### 《亡命迪斯科（Dead as Disco）》v0.1.2.71 全DLC 中文版（死亡迪斯科）
+
+夸克：https://pan.quark.cn/s/a1e3f4d62707
+
+#### 《我在地府打麻将（Demonic Mahjong）》v0.2.57 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d88da55c16aa
+
+迅雷：https://pan.xunlei.com/s/VOr81jS0cIHbp4W2A7J9d-PtA1?pwd=ryuc#
+
+#### 《太吾绘卷 天幕心帷（The Scroll Of Taiwu）》v1.0.72 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e69d68ac66af
+
+迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
+
+#### 《魔法工艺（Magicraft）》v1.2.34 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/727cfee561c0
+
+#### 《孤岛笔记（Island Notes）》v2026.8.3 中文版
+
+夸克：https://pan.quark.cn/s/94a12e33b31a
 
 #### 《优米雅的炼金工房 ～追忆之炼金术士与幻创之地～ 豪华版》v1.70 全DLC 中文版（更新）
 #### 《红色的炼金术士和白色的守护者 ～蕾斯莱莉娅娜的炼金工房～ 豪华版》v1.3.0 全DLC 中文版
@@ -3409,10 +3429,6 @@ w
 
 夸克：https://pan.quark.cn/s/3f523ff18fd5
 
-#### 《潜渊症（Barotrauma）》v1.12.6.2 全DLC 中文 联机版（潜艇模拟游戏）
-
-夸克：https://pan.quark.cn/s/33b94fd8f90d
-
 #### 《土豆兄弟（Brotato）》v1.1.14.6 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5c72c5f33cf5
@@ -3651,10 +3667,6 @@ w
 夸克：https://pan.quark.cn/s/0438add948ea
 
 迅雷：https://pan.xunlei.com/s/VOoOdIzn1bn3OsVbosyx-VybA1?pwd=3fdz#
-
-#### 《Fall of an Empire》v1.243 中文版（帝国陨落 帝国的陨落，策略）
-
-夸克：https://pan.quark.cn/s/e1dc6c4cb73f
 
 #### 《风屿奇航（Everwind）》v0.4.404 中文 联机版
 
@@ -8104,10 +8116,6 @@ w
 
 夸克：https://pan.quark.cn/s/1059667c287f
 
-#### 《熔炉密林（Rotwood）》v665148 中文 联机版
-
-夸克：https://pan.quark.cn/s/959e46636cd2
-
 #### 《恐龙世界（Dinosaur World）》v2025.6.9 中文 联机版
 
 夸克：https://pan.quark.cn/s/39232b187481
@@ -10485,10 +10493,6 @@ w
 #### 《觉醒异刃（AWAKEN Astral Blade）》v202411181541 中文版
 
 夸克：https://pan.quark.cn/s/002eb474a9d1
-
-#### 《无名九使：觉醒（Unknown 9 Awakening）》v2024.11.21 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e116ed4f56b8
 
 #### 《无尽塔防：活下去（Endless Defense）》v1.0.1 中文版
 
