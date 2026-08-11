@@ -72,6 +72,18 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《IL2捍卫雄鹰：朝鲜战争 Korea. IL-2 Series 豪华版》v1.002 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5e3268c9829e
+
+#### 《混乱斗士 Mayhem Brawler》v2.3.1 中文版
+
+夸克：https://pan.quark.cn/s/aaefdbf347e9
+
+#### 《热血硬派国夫君外传 热血少女2 River City Girls 2》V1.1.34 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d21a601e4f8f
+
 #### 《汤姆克兰西：鹰击长空2（Tom Clancys H.A.W.X）》v1.01 中文 联机版
 
 夸克：https://pan.quark.cn/s/b3153d42d91d

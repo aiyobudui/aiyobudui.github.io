@@ -18,8 +18,6 @@
      [https://www.haozy.top](https://www.haozy.top)  
      [https://alyp.eu.org](https://alyp.eu.org)  
      [https://aiyyds.cn.eu.org](https://aiyyds.cn.eu.org)  
-     [https://hao.netlify.app](https://hao.netlify.app)  
-
 
  **在线资源文档**（每日更新）  
     腾讯：<https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY>  

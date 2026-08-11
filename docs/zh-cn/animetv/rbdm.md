@@ -19,7 +19,7 @@
 
 ### 《日本动画 总目录》如果下面的动漫被和谐，请访问总目录
 
-夸克：和谐了，待补
+夸克：和谐了
 
 迅雷：https://pan.xunlei.com/s/VNnO3anlmb272iAKujLPfrHtA1?pwd=5reg#
 

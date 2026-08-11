@@ -67,9 +67,22 @@
 
 阿里：<https://www.aliyundrive.com/s/r1G6hvSKquu>
 
+#### 《李熊猫》（2026）4K 周二、六 更新中..
+
+夸克：https://pan.quark.cn/s/c6417e322e85
+
+迅雷：https://pan.xunlei.com/s/VOzlIWM7UpqeSt4W6Q1dU-lGA1?pwd=v59c#
+
+
 ---
 
 ## 周三
+
+#### 《一念永恒》（2024-2026）4K 最终季 更新中..（附1-3季）
+
+夸克：https://pan.quark.cn/s/57db727f4a34
+
+迅雷：https://pan.xunlei.com/s/VNnmDGg4z5Qug3ia-FvETfHoA1?pwd=23vy#
 
 #### 《全职法师》 （2016-2026）4K 第7季更新中..（附1-6季+特别篇+漫画）
 
@@ -320,12 +333,6 @@
 夸克：https://pan.quark.cn/s/55af858bbfba
 
 迅雷：https://pan.xunlei.com/s/VNlmCjkO3Xd3IJVvyYImdJEsA1?pwd=s2va#
-
-#### 《一念永恒》（2024）4K 1-3季全
-
-夸克：https://pan.quark.cn/s/57db727f4a34
-
-迅雷：https://pan.xunlei.com/s/VNnmDGg4z5Qug3ia-FvETfHoA1?pwd=23vy#
 
 #### 《鬼吹灯之南海归墟》（2024）4K 17集全（动画版）
 

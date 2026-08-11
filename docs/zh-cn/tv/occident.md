@@ -16,25 +16,27 @@
 
 ---
 
-### 《欧美剧 总目录含每日更新中的 以及已经完结的
+### 《欧美剧 总目录》含每日更新中的以及已经完结的
 
-夸克：https://pan.quark.cn/s/db2f9f60eb01
+夸克：和谐
 
-迅雷：
+迅雷：https://pan.xunlei.com/s/VOzlOBjvZAdZc_4OirnL3TWjA1?pwd=imin#
 
 ---
 
 ## 正在更新中的..
 
-#### 《龙之家族》（2022-2026）1080P 第三季 更新中..（附1-2集全 4K）
 
-夸克：https://pan.quark.cn/s/7e5804e26d47
-
-迅雷：https://pan.xunlei.com/s/VNnsz3T9NZr5eynMHur8Q8aqA1?pwd=dzvv#
 
 ---
 
 ## 已完结的
+
+#### 《龙之家族》（2022-2026）4K 中字 1-3季全
+
+夸克：https://pan.quark.cn/s/7e5804e26d47
+
+迅雷：https://pan.xunlei.com/s/VOzlVa4B4VDJcR9SBlDZ7mpWA1?pwd=uj2c#
 
 #### 《识骨寻踪》（2005-2017）蓝光1080P 1-12季全 中英字幕
 
@@ -54,15 +56,17 @@
 
 迅雷：https://pan.xunlei.com/s/VOvvWwpUzveNMfe9B8FjQe-2A1?pwd=447p#
 
-#### 《亢奋》（2019-2022）1080P 1-3季全+特别篇
+#### 《亢奋》（2019-2026）1080P 中字 1-3季全+特别篇
 
 夸克：https://pan.quark.cn/s/4522695a8c08
 
 迅雷：https://pan.xunlei.com/s/VNy0SWGNad5Z1gEgyF4UjQfFA1?pwd=6ssf#
 
-#### 《暗影蜘蛛侠》（2026）1080P 中字 黑白+彩色版
+#### 《暗影蜘蛛侠》（2026）4K 中字 黑白+彩色版
 
 夸克：https://pan.quark.cn/s/47624d9d36e2
+
+迅雷：https://pan.xunlei.com/s/VOzlejadxF6s5WPZU6Bc8EgxA1?pwd=w23x#
 
 #### 《黑袍纠察队》（2019-2026）4K HDR 1-5季全+劣迹
 
@@ -75,6 +79,8 @@
 #### 《反派 Heels》（2021-2023）1080P 中字 1-2季全（又名 卑鄙小人）
 
 夸克：https://pan.quark.cn/s/96efc7d41174
+
+迅雷：https://pan.xunlei.com/s/VOzldhc0AENXy9Zq5r4rr1BBA1?pwd=xmtj#
 
 #### 《安多 星球大战外传》（2022-2025）1-2季全 4K+1080P 中字（第一季有国语配音）
 
@@ -91,6 +97,8 @@
 #### 《老练律师》（2024-2025）1080P 中英字幕 1-2季全
 
 夸克：https://pan.quark.cn/s/b5ae8073db91
+
+迅雷：https://pan.xunlei.com/s/VOzlavSchUSOpQ0sGLaFI9ctA1?pwd=hscw#
 
 #### 《七王国的骑士》（2026）第一季 4K 6集全（权力的游戏衍生剧）
 
@@ -128,13 +136,19 @@
 
 夸克：https://pan.quark.cn/s/9502fa0d4aa5
 
-#### 《猫头鹰谋杀案 喜鹊谋杀案》（2022-2024）2部 1080P 中字(美版+英版)
+迅雷：https://pan.xunlei.com/s/VOzljJbeCUz7tSz4qsur-jkxA1?pwd=pn9c#
+
+#### 《猫头鹰谋杀案+喜鹊谋杀案》（2022-2024）2部 1080P 中字(美版+英版)
 
 夸克：https://pan.quark.cn/s/2ea5b0ded606
+
+迅雷：https://pan.xunlei.com/s/VOzllIjsyGbPYcxiznOQkzPMA1?pwd=rtxi#
 
 #### 《陆海之战》（2025）1080P 中字 5集全（神秘博士 衍生剧)
 
 夸克：https://pan.quark.cn/s/ba5ed862cfcc
+
+迅雷：https://pan.xunlei.com/s/VOzln6yNWJmlip0DbF5pyChTA1?pwd=pxyf#
 
 #### 《斯巴达克斯：亚述家族》（2025）1080P 10集全
 

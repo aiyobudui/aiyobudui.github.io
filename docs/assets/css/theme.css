@@ -278,9 +278,9 @@
   margin-top: 0.5em;
 }
 
-/* 统一 H4 上下间距：顶部 2.5em，底部 0.3em */
+/* 统一 H4 上下间距：顶部 2.2em，底部 0.3em */
 .markdown-section h4 {
-  margin-top: 2.5em;
+  margin-top: 2.2em;
   margin-bottom: 0.3em;
 }
 
@@ -1068,7 +1068,7 @@ body.search-active nav[class*="toc"] {
 
   .markdown-section h4 {
     font-size: 1rem;
-    margin-top: 2.8em;
+    margin-top: 2.5em;
     margin-bottom: 0.5em;
   }
 
