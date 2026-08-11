@@ -41,12 +41,6 @@
 
 ## 周二
 
-#### 《仙剑奇侠传叁 动画版》（2026）4K 26集 更新中..（仙剑奇侠传3 仙剑奇侠传三）
-
-夸克：https://pan.quark.cn/s/b6794c5ea3e6
-
-迅雷：https://pan.xunlei.com/s/VOtZmnum8ylOW1_esVtHFESQA1?pwd=hx3f#
-
 #### 《遮天》（2024）4K 周三 更新中..
 
 夸克：https://pan.quark.cn/s/a3d10e4f78b0
@@ -73,7 +67,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOzlIWM7UpqeSt4W6Q1dU-lGA1?pwd=v59c#
 
-
 ---
 
 ## 周三
@@ -83,14 +76,6 @@
 夸克：https://pan.quark.cn/s/57db727f4a34
 
 迅雷：https://pan.xunlei.com/s/VNnmDGg4z5Qug3ia-FvETfHoA1?pwd=23vy#
-
-#### 《全职法师》 （2016-2026）4K 第7季更新中..（附1-6季+特别篇+漫画）
-
-夸克：https://pan.quark.cn/s/a511122bd652
-
-#### 《紫川》（2021-2025）4K 周三 更新中..
-
-夸克：https://pan.quark.cn/s/7915edbcba01
 
 ---
 
@@ -102,17 +87,11 @@
 
 迅雷：https://pan.xunlei.com/s/VNm9axELHxKie2GFFXpIfxiUA1?pwd=rg86#
 
-#### 《镖人》（2023-2026）4K 第二季 周四更新中..（附第一季）
-
-夸克：https://pan.quark.cn/s/8d49546a3e44
-
-迅雷：https://pan.xunlei.com/s/VNnmEeW66ZrPX4la_Jd-xbWJA1?pwd=i6mq#
-
-阿里：<https://www.aliyundrive.com/s/rF4BJBNcWjB>
-
 #### 《搜神记》（2026）4K 周四 更新中..
 
 夸克：https://pan.quark.cn/s/44411d300812
+
+迅雷：https://pan.xunlei.com/s/VOzmhOis8x5YqRe0nOYFQchPA1?pwd=mbts#
 
 #### 《斩神之凡尘神域》（2024）4K 第二季 周四 更新中..（附第一季）15集全（我在神经病院学斩神）
 
@@ -123,6 +102,8 @@
 #### 《将夜》（2026）4K 周四 更新中..
 
 夸克：https://pan.quark.cn/s/6ed80329bbcb
+
+迅雷：https://pan.xunlei.com/s/VOzmi5RrH2Vk1AD_BWVsleElA1?pwd=hgax#
 
 #### 《逆天邪神》（2023-2026）4K 第二季 周四更新中..（附第一季）
 
@@ -146,11 +127,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNl7gMz6RajsUgWO5aRp45iYA1?pwd=8yf3#
 
-#### 《神墓》（2025）4K 周五 更新中..
-
-夸克：https://pan.quark.cn/s/9e1348e469e6
-
-#### 《大主宰》（2023-2026）年番2 4K 更新中.. （附第一季）
+#### 《大主宰》（2023-2026）年番2 4K 更新中..（附第一季）
 
 夸克：https://pan.quark.cn/s/ee63e9c958fb
 
@@ -180,12 +157,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNlbNf2226IuEY5n_XEDN2lcA1?pwd=k8b9#
 
-#### 《择天记》（2026）4K 周六 更新中..
-
-夸克：https://pan.quark.cn/s/40c180924fe3
-
-迅雷：https://pan.xunlei.com/s/VOsIIrKKJj-8EUh4KI3Ih8HWA1?pwd=cs4v#
-
 ---
 
 ## 周日
@@ -206,9 +177,49 @@
 
 夸克：https://pan.quark.cn/s/04be3106ee7b
 
+迅雷：https://pan.xunlei.com/s/VOzmYFwsTflI5-9tjNSBGP3VA1?pwd=2jmb#
+
 ---
 
 ## 暂时完结
+
+#### 《仙剑奇侠传叁 动画版》（2026）4K 26集全（仙剑奇侠传3 仙剑奇侠传三）
+
+夸克：https://pan.quark.cn/s/b6794c5ea3e6
+
+迅雷：https://pan.xunlei.com/s/VOtZmnum8ylOW1_esVtHFESQA1?pwd=hx3f#
+
+#### 《紫川》（2021-2025）4K 1-2季全
+
+夸克：https://pan.quark.cn/s/7915edbcba01
+
+迅雷：https://pan.xunlei.com/s/VOzmlSnrggI_Cshjn1GKrFehA1?pwd=vqri#
+
+#### 《镖人》（2023-2026）4K 1-2季全
+
+夸克：https://pan.quark.cn/s/8d49546a3e44
+
+迅雷：https://pan.xunlei.com/s/VNnmEeW66ZrPX4la_Jd-xbWJA1?pwd=i6mq#
+
+阿里：<https://www.aliyundrive.com/s/rF4BJBNcWjB>
+
+#### 《神墓》（2025-2026）4K 1-3季全
+
+夸克：https://pan.quark.cn/s/9e1348e469e6
+
+迅雷：https://pan.xunlei.com/s/VOzmg_hQmdgNIA3EXUv2a0XPA1?pwd=4h5i#
+
+#### 《择天记》（2026）4K 26集全
+
+夸克：https://pan.quark.cn/s/40c180924fe3
+
+迅雷：https://pan.xunlei.com/s/VOsIIrKKJj-8EUh4KI3Ih8HWA1?pwd=cs4v#
+
+#### 《全职法师》 （2016-2026）4K 1-7季+特别篇+漫画
+
+夸克：https://pan.quark.cn/s/a511122bd652
+
+迅雷：https://pan.xunlei.com/s/VOzmWy5FggI_Cshjn1GKlw39A1?pwd=tk9g#
 
 #### 《一人之下》（2026）4K 1-6季+番外篇+剧场版
 
@@ -246,7 +257,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNyGBGY-qwfi6xY7eyt6uu69A1?pwd=nbdd#
 
-#### 《星辰变》（2018-2025）4K 1-7季全
+#### 《星辰变》（2018-2026）4K 1-7季全
 
 夸克：https://pan.quark.cn/s/6723d755291a
 
