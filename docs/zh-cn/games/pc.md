@@ -72,6 +72,10 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《廖添丁：绝代凶贼之末日 The Legend of Tianding 豪华版》Build.14077673 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c9cda074a46b
+
 #### 《IL2捍卫雄鹰：朝鲜战争 Korea. IL-2 Series 豪华版》v1.002 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5e3268c9829e
