@@ -172,6 +172,14 @@
 
 ## 最近更新
 
+#### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v420.696 全DLC 中文 联机版
+#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
+#### 《极限竞速：地平线4（Forza Horizon 6）终极版》v1.477.567 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7c5fdf0323c4
+
+迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
 #### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.6.0 全dlc 中文版
 
 夸克：https://pan.quark.cn/s/6f0e102663f1
@@ -287,14 +295,6 @@
 #### 《007初露锋芒（007 First Light）》v1.1.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/76e705934c3b
-
-#### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v403.798 全DLC 中文 联机版
-#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
-#### 《极限竞速：地平线4（Forza Horizon 6）终极版》v1.477.567 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7c5fdf0323c4
-
-迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
 #### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.6 全DLC 中文版
 #### 《天国拯救（Kingdom Come Deliverance）HD皇家版》v1.9.8 全DLC 中文版
