@@ -72,9 +72,41 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《小小烘焙坊 Tiny Bakery》v0.9.10 中文版
+
+夸克：https://pan.quark.cn/s/b7b76874b603
+
+迅雷：https://pan.xunlei.com/s/VOzrOK4Cj5Dhrsv8-6tdBtRXA1?pwd=int6#
+
+#### 《断神 The Severed Gods》v0.2.54 中文版
+
+夸克：https://pan.quark.cn/s/63a598a4b397
+
+迅雷：https://pan.xunlei.com/s/VOzrMAfYu5R28ttLfjQKhnx3A1?pwd=7aa7#
+
+#### 《秘奥法师 Echoes of Mystralia》Build.24662307 中文版（肉鸽动作）
+
+夸克：https://pan.quark.cn/s/e7de6671fb97
+
+迅雷：https://pan.xunlei.com/s/VOzrJb3q-AqSm9XRkoGrjKERA1?pwd=n3eq#
+
 #### 《廖添丁：绝代凶贼之末日 The Legend of Tianding 豪华版》Build.14077673 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/c9cda074a46b
+
+迅雷：https://pan.xunlei.com/s/VOzqy082nY2QAiah1tJUpwX-A1?pwd=73qu#
+
+#### 《鲸腹之城：一则纯属虚构的故事》Build.23910724 中文版
+
+夸克：https://pan.quark.cn/s/74e81ef86145
+
+迅雷：https://pan.xunlei.com/s/VOzr3l1-Wqf0p4dxwfYMH0VrA1?pwd=yn6v#
+
+#### 《Cult of PiN》v1.0.1 中文版（肉鸽版三维弹球）
+
+夸克：https://pan.quark.cn/s/b5f42845f158
+
+迅雷：https://pan.xunlei.com/s/VOzr4-RB4-KZu09qVFMdouZgA1?pwd=u2ha#
 
 #### 《IL2捍卫雄鹰：朝鲜战争 Korea. IL-2 Series 豪华版》v1.002 全DLC 中文版
 
@@ -159,6 +191,20 @@
 #### 《帝国的陨落 Fall of an Empire》v2.05.4 全DLC 中文版（帝国陨落，策略）
 
 夸克：https://pan.quark.cn/s/e1dc6c4cb73f
+
+#### 《心之眼（MindsEye）豪华版》v8121192 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1d8bcee97d85
+
+#### 《恐怖黎明（Grim Dawn）终极版》v1.3.0.6 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/91d30f5fbea2
+
+迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
+
+#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.567 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4912658febe6
 
 #### 《宗门起源（Eastern Era）》v1.1.9 中文版
 
@@ -796,12 +842,6 @@
 #### 《莱萨里亚：英雄之歌（Lessaria Fantasy Kingdom Sim）豪华版》v1.0.1464 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/97099532882b
-
-#### 《恐怖黎明（Grim Dawn）终极版》v1.3.0.3 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/91d30f5fbea2
-
-迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
 
 #### 《世界树的迷宫（Etrian Odyssey HD）》Build.17748882 中文版
 #### 《世界树的迷宫2 诸王的圣杯（Etrian Odyssey II HD）》Build.20414225 中文版
@@ -1621,10 +1661,6 @@
 
 夸克：https://pan.quark.cn/s/f4faa9506d28
 
-#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.490 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4912658febe6
-
 #### 《辐射4（Fallout 4）周年版》v1.11.221.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/3c6a02617ff3
@@ -2006,10 +2042,6 @@
 #### 《缺氧（Oxygen Not Included）完整版》v59-736649 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/608fc7dd1539
-
-#### 《心之眼（MindsEye）豪华版》v7608873 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1d8bcee97d85
 
 #### 《烤串大厨 餐厅模拟器（Kebab Chefs Restaurant Simulator）》v1.0 全DLC 中文 联机版
 

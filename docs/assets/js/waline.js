@@ -91,7 +91,7 @@ function initWaline() {
                 word: '字',
                 wordHint: '评论字数应在 $0 到 $1 字之间！\n当前字数：$2',
                 anonymous: '匿名',
-                placeholder: '留言请说明资源类型、重名资源太多，也方便站长寻找。',
+                placeholder: '留言请说明资源类型、重名资源太多，也方便站长寻找。填写邮箱可以获取头像哦',
                 spam: '评论内容包含广告或垃圾信息，已被删除',
                 submit: '提交',
                 reply: '回复',
