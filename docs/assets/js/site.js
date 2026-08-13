@@ -213,12 +213,6 @@ document.addEventListener('DOMContentLoaded', function () {
     setTimeout(initSearchObserver, 1000);
 });
 
-if (typeof Docsify !== 'undefined' && Docsify.hooks) {
-    Docsify.hooks.doneEach(function () {
-        setTimeout(addCategoryToSearchResults, 500);
-    });
-}
-
 
 // 4. 手机端底部导航栏交互
 document.addEventListener('DOMContentLoaded', function () {
@@ -450,12 +444,25 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     function updateActiveNav() {
-        var currentPath = window.location.pathname;
-        var navItems = document.querySelectorAll('.mobile-nav-item[data-path]');
+        // 站点用 hash 路由（routerMode:'hash'），location.pathname 恒为 '/'，
+        // 必须解析 location.hash 的路由前缀才能正确高亮底部导航。
+        var hash = (window.location.hash || '').replace(/^#/, '');
+        hash = hash.split('?')[0]; // 去掉 ?id= 等查询参数
+        var seg = hash.split('/').filter(Boolean); // ['zh-cn','games','pc']
+        // 底部「游戏/电影/剧集/动漫」为子菜单触发器，按路由第二段前缀匹配高亮
+        var prefixBySub = { games: 'games', movie: 'movie', tv: 'tv', animetv: 'animetv' };
 
+        var navItems = document.querySelectorAll('.mobile-nav-item[data-path], .mobile-nav-item[data-submenu]');
         navItems.forEach(function (item) {
-            var itemPath = item.getAttribute('data-path');
-            if (currentPath === itemPath || currentPath.startsWith(itemPath + '/')) {
+            var active = false;
+            if (item.hasAttribute('data-path')) {
+                var p = (item.getAttribute('data-path') || '').replace(/^\//, '');
+                active = (hash === '' || hash === '/' || hash.replace(/^\//, '') === p);
+            } else if (item.hasAttribute('data-submenu')) {
+                var sub = item.getAttribute('data-submenu');
+                active = seg[1] === prefixBySub[sub];
+            }
+            if (active) {
                 item.classList.add('active');
             } else {
                 item.classList.remove('active');
@@ -467,12 +474,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     window.addEventListener('popstate', updateActiveNav);
     window.addEventListener('hashchange', updateActiveNav);
-
-    if (typeof Docsify !== 'undefined' && Docsify.hooks) {
-        Docsify.hooks.doneEach(function () {
-            updateActiveNav();
-        });
-    }
 });
 
 // 5. 站点运行时间统计

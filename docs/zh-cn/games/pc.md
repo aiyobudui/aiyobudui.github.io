@@ -72,6 +72,18 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《时夜渐明（Duskfade）》Build24680987 中文版（长日将尽）
+
+夸克：https://pan.quark.cn/s/13493d128158
+
+迅雷：https://pan.xunlei.com/s/VOzwwlE9Af3S4-tI6VKq0IJAA1?pwd=9bsy#
+
+#### 《放置之路：古神复苏（Path of Idle Old Gods Rising）》v1.0.1.1 中文版
+
+夸克：https://pan.quark.cn/s/e0c2ac096d50
+
+迅雷：https://pan.xunlei.com/s/VOzwSv_D2pX0zuT8O6KTCAm3A1?pwd=myh8#
+
 #### 《战火英雄 Strike Force Heroes 豪华版》v1.29 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/0f161ad61ef8
@@ -192,6 +204,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《食人鲨（Maneater）巅峰版》v2026.8.13 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8bfae2f42cbb
+
+迅雷：https://pan.xunlei.com/s/VOzwQt9B05nq69AH1-6rR0UGA1?pwd=7ef9#
+
 #### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.6.0 全dlc 中文版
 
 夸克：https://pan.quark.cn/s/6f0e102663f1
@@ -211,6 +229,8 @@
 #### 《PAGUI打鬼（PAGUI）豪华版》Build22273686 全DLC 中文版（1+2章完整版 恐怖游戏）
 
 夸克：https://pan.quark.cn/s/276b3f0ee192
+
+迅雷：https://pan.xunlei.com/s/VOzwUonwpaeX8naDRDr8oiKjA1?pwd=4yyf#
 
 #### 《帝国的陨落 Fall of an Empire》v2.05.4 全DLC 中文版（帝国陨落，策略）
 
@@ -13029,7 +13049,7 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNq79nkHBHHQz9f2CVXliypkA1?pwd=tksb#
 
-#### 《ATRL -Mydearmoment-）》DARKSiDERS 亚托莉我的挚爱时光
+#### 《ATRL -Mydearmoment-》DARKSiDERS 亚托莉我的挚爱时光
 
 迅雷：https://pan.xunlei.com/s/VNq3kZYl9dh83vEbcVItEr4eA1?pwd=p8p5#
 
@@ -13172,10 +13192,6 @@ w
 #### 《钓鱼：北大西洋》最新 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/5787497a65b9
-
-#### 《食人鲨》Maneater 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/8bfae2f42cbb
 
 #### 《归家异途2》v1.0.3f0.2 全DLC 豪华中文收藏版
 

@@ -1928,7 +1928,7 @@
 
 夸克：https://pan.quark.cn/s/7fd6a0c7f2bc
 
-#### 《少帅》（2015)）1080P 48集全
+#### 《少帅》（2015）1080P 48集全
 
 夸克：https://pan.quark.cn/s/55c37104ea2b
 

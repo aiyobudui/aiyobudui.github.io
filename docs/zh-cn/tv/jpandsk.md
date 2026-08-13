@@ -306,7 +306,7 @@
 
 迅雷：https://pan.xunlei.com/s/VO3W7rCIOMu70_3uUFPkGLEjA1?pwd=w89b#
 
-#### 《黑社会的我成为了高中生》（2024)）1080P 中字 8集全
+#### 《黑社会的我成为了高中生》（2024）1080P 中字 8集全
 
 夸克：https://pan.quark.cn/s/b57d9ec10dda
 
