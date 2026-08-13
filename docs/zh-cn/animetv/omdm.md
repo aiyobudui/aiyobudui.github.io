@@ -28,17 +28,25 @@
 ---
 ## 更新中..
 
-#### 《瑞克和莫蒂》（2013-2026）第9季 更新中..（附1-8季全）
+
+
+---
+
+## 暂时完结
+
+#### 《瑞克和莫蒂》（2013-2026）1-9季全
 
 夸克：https://pan.quark.cn/s/022f16dd50e3
 
 迅雷：https://pan.xunlei.com/s/VOp0oWsvBxsM2Xga-PoUgEW8A1?pwd=b8sm#
 
-阿里1-5季：<https://www.aliyundrive.com/s/pRctPZveBuy>
+阿里1-5季：https://www.aliyundrive.com/s/pRctPZveBuy
 
----
+#### 《暴力监狱 Superjail》（2011-2014）720P 中字（超级监狱）
 
-## 暂时完结
+夸克：https://pan.quark.cn/s/da22566ed9b9
+
+迅雷：https://pan.xunlei.com/s/VOzvRJxL2n_7lz3mzM_a6AW7A1?pwd=y6hd#
 
 #### 《蜘蛛侠1994 国语 + 终极蜘蛛侠2012 + 神奇蜘蛛侠2008 》动画版 合集
 

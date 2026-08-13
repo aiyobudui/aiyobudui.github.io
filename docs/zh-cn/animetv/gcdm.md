@@ -93,12 +93,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOzmhOis8x5YqRe0nOYFQchPA1?pwd=mbts#
 
-#### 《斩神之凡尘神域》（2024）4K 第二季 周四 更新中..（附第一季）15集全（我在神经病院学斩神）
-
-夸克：https://pan.quark.cn/s/1efccfc24666
-
-迅雷：https://pan.xunlei.com/s/VO6L1qf_DE-Xj4knMXHDXEp3A1?pwd=zvz4#
-
 #### 《将夜》（2026）4K 周四 更新中..
 
 夸克：https://pan.quark.cn/s/6ed80329bbcb
@@ -182,6 +176,12 @@
 ---
 
 ## 暂时完结
+
+#### 《斩神之凡尘神域》（2024）4K 1-2季全（我在神经病院学斩神）
+
+夸克：https://pan.quark.cn/s/5b7c35e5467d
+
+迅雷：https://pan.xunlei.com/s/VO6L1qf_DE-Xj4knMXHDXEp3A1?pwd=zvz4#
 
 #### 《仙剑奇侠传叁 动画版》（2026）4K 26集全（仙剑奇侠传3 仙剑奇侠传三）
 

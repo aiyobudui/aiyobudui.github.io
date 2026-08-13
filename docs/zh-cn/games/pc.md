@@ -72,6 +72,12 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《生存日志（Survival Log）》v1.0.13791 中文版
+
+夸克：https://pan.quark.cn/s/a54c3a2346f1
+
+迅雷：https://pan.xunlei.com/s/VOzvLOC805nq69AH1-6qQbV1A1?pwd=c3jx#
+
 #### 《小小烘焙坊 Tiny Bakery》v0.9.10 中文版
 
 夸克：https://pan.quark.cn/s/b7b76874b603
