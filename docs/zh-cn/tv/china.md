@@ -1024,7 +1024,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNsDbBOvdAFp5siPQoylEXxrA1?pwd=yi98#
 
-#### 《唐人街探案 剧版 4K 1-2季全
+#### 《唐人街探案 剧版 4K 1-2季全》
 
 夸克：https://pan.quark.cn/s/917d14804009
 
@@ -1168,7 +1168,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNni4BUaODf49V87gagUJ2h3A1?pwd=q3jk#
 
-#### 《大江大河 1-3部全 4K
+#### 《大江大河 1-3部全 4K》
 
 夸克：https://pan.quark.cn/s/e85a5ba85c26
 

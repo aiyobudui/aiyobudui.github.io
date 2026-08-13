@@ -66,7 +66,7 @@
 
 夸克：https://pan.quark.cn/s/c7d051632884
 
-#### 《Photoshop入门到精通（视频+课件）
+#### 《Photoshop入门到精通（视频+课件）》
 
 夸克：https://pan.quark.cn/s/512e18c74d52
 

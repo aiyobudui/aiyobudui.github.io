@@ -273,7 +273,7 @@
 
 夸克：https://pan.quark.cn/s/57432651d755
 
-#### 《神国之上）（2025）4K 17集全
+#### 《神国之上》（2025）4K 17集全
 
 夸克：https://pan.quark.cn/s/7a9c6882ee1f
 
@@ -511,7 +511,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNmzYJviNkQmvJ8HW9A5D9VCA1?pwd=r583#
 
-#### 《恶魔法则（2023）24集全（异世界转生中世纪题材）
+#### 《恶魔法则》（2023）24集全（异世界转生中世纪题材）
 
 夸克：https://pan.quark.cn/s/dbd05c7e0b40
 

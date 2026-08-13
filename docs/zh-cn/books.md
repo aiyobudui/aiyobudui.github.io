@@ -270,7 +270,7 @@
 
 阿里：<https://www.alipan.com/s/XrsgYeHBxFk>
 
-#### 《百科知识全书 外国卷10册)
+#### 《百科知识全书 外国卷10册》
 
 阿里：<https://www.alipan.com/s/oJrEFMwSRdw>
 
@@ -278,7 +278,7 @@
 
 阿里：<https://www.alipan.com/s/TeLjejhZwV9>
 
-#### 《九州·天地人文丛（套装共五册）)
+#### 《九州·天地人文丛（套装共五册）》
 
 阿里：<https://www.alipan.com/s/HhcngXQMWxi>
 

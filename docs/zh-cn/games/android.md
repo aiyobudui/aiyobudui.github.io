@@ -427,7 +427,7 @@
 
 夸克：https://pan.quark.cn/s/6fe3d84d5a04
 
-#### 《沙盒勇者(ArbitraryLands) 》v1.47 安卓游戏 无限资源版
+#### 《沙盒勇者（ArbitraryLands）》v1.47 安卓游戏 无限资源版
 
 夸克：https://pan.quark.cn/s/f6be89927a64
 

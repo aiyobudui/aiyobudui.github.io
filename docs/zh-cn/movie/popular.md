@@ -731,7 +731,7 @@
 
 迅雷：<https://pan.xunlei.com/s/VNq6GgtN_hcxDqQpR_OxlYdcA1?pwd=wh72#>
 
-#### 《年会不能停！(2023) 4K HDR 60帧 多版本
+#### 《年会不能停！》（2023）4K HDR 60帧 多版本
 
 夸克：<https://pan.quark.cn/s/f8485ef97156>
 
@@ -905,13 +905,13 @@
 
 迅雷：<https://pan.xunlei.com/s/VNnUiQwnqUd9zSr5Bh9t-jXoA1?pwd=wc4q#>
 
-#### 《绝境盟约（2023）4K 冒险 惊悚 灾难
+#### 《绝境盟约》（2023）4K 冒险 惊悚 灾难
 
 夸克：<https://pan.quark.cn/s/54e4e7438739>
 
 迅雷：<https://pan.xunlei.com/s/VNnJnu41jSaVuEAXXnU2N2EBA1?pwd=iq89#>
 
-#### 《飞来横财（2024）4K（小沈阳）
+#### 《飞来横财》（2024）4K（小沈阳）
 
 夸克：<https://pan.quark.cn/s/0498409bf540>
 
@@ -935,7 +935,7 @@
 
 迅雷：<https://pan.xunlei.com/s/VNn3NxTydVlJSNvTRSkD5d0hA1?pwd=unp3#>
 
-#### 《无价之宝 (2023) 4K (张译 潘斌龙) 喜剧
+#### 《无价之宝》（2023）4K（张译 潘斌龙） 喜剧
 
 夸克：<https://pan.quark.cn/s/e66b5cbfa6c6>
 
@@ -977,7 +977,7 @@
 
 迅雷：<https://pan.xunlei.com/s/VNmBY-1e4NoBZ_Ywx3M4chzhA1?pwd=ej56#>
 
-#### 《我爸没说的那件事（2023）4K
+#### 《我爸没说的那件事》（2023）4K
 
 夸克：<https://pan.quark.cn/s/ad0055bfc37b>
 
@@ -1001,7 +1001,7 @@
 
 迅雷：<https://pan.xunlei.com/s/VNmB6vsqSMfwMQPgfm375t0XA1?pwd=uw7f#>
 
-#### 《好像也没那么热血沸腾（2023）4K 喜剧
+#### 《好像也没那么热血沸腾》（2023）4K 喜剧
 
 夸克：<https://pan.quark.cn/s/d98d17d7114c>
 
@@ -1013,7 +1013,7 @@
 
 迅雷：<https://pan.xunlei.com/s/VNlwNMNeN7Ady-qrf4TdGJCkA1?pwd=mg2y#>
 
-#### 《饥饿游戏.1-5部.蓝光4K HDR.中英配音.内封特效
+#### 《饥饿游戏.1-5部.蓝光4K HDR.中英配音.内封特效》
 
 夸克：<https://pan.quark.cn/s/1902d5412750>
 
@@ -1027,7 +1027,7 @@
 
 迅雷：<https://pan.xunlei.com/s/VNlcHYMoXeGcU5gR8ELW6wFDA1?pwd=gn2y#>
 
-#### 《前任4：英年早婚 (2023) 附1-3部
+#### 《前任4：英年早婚》（2023）附1-3部
 
 夸克：<https://pan.quark.cn/s/d3f4a675bafb>
 
@@ -1303,7 +1303,7 @@
 
 阿里：<https://www.aliyundrive.com/s/riAAR6AzBX9>
 
-#### 《芭比 Barbie (2023) 4K HDR 外挂中字+国英多音轨 中文字幕
+#### 《芭比 Barbie》（2023）4K HDR 外挂中字+国英多音轨 中文字幕
 
 夸克：<https://pan.quark.cn/s/4f63ee978c67>
 
@@ -1339,7 +1339,7 @@
 
 阿里：<https://www.aliyundrive.com/s/gmWyP6kpdX1>
 
-#### 《忍者神龟：变种大乱斗.真人版和动画版大合集.蓝光4K.中英双配音音轨.中英特效字幕
+#### 《忍者神龟：变种大乱斗.真人版和动画版大合集.蓝光4K.中英双配音音轨.中英特效字幕》
 
 夸克：<https://pan.quark.cn/s/8551a4acbf75>
 
@@ -1415,7 +1415,7 @@
 
 迅雷：<https://pan.xunlei.com/s/VNqpR6C636Cm_iJigvlCqLrxA1?pwd=bajs#>
 
-#### 《完美的日子 (2023) 1080P 日语中字
+#### 《完美的日子》（2023）1080P 日语中字
 
 夸克：<https://pan.quark.cn/s/58031668f4b6>
 

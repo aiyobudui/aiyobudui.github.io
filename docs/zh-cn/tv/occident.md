@@ -688,7 +688,7 @@
 
 阿里：<https://www.alipan.com/s/UcwHnXDFbdD>
 
-#### 《鸡皮疙瘩 剧版 4K HDR 10集全+电影+系列丛书
+#### 《鸡皮疙瘩 剧版 4K HDR 10集全+电影+系列丛书》
 
 夸克：https://pan.quark.cn/s/503daaa7d31d
 
@@ -816,7 +816,7 @@
 
 阿里：<https://www.aliyundrive.com/s/5mmLXuLHqnL>
 
-#### 《幻术大师.1-5季.Jonathan Creek.外挂中字（BBC经典英剧）独家
+#### 《幻术大师.1-5季.Jonathan Creek.外挂中字》（BBC经典英剧）独家
 
 阿里：<https://www.aliyundrive.com/s/GRYt3hzWGFA>
 
@@ -898,7 +898,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNlUD_X_Zy2WKWOFNUmNdqdcA1?pwd=jh5z#
 
-#### 《真爱不死.1-3季.1080P.中英字幕（另类喜剧类丧尸剧）
+#### 《真爱不死.1-3季.1080P.中英字幕》（另类喜剧类丧尸剧）
 
 阿里：<https://www.aliyundrive.com/s/iUcPS6BqSLF>
 

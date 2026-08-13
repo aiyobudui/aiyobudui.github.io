@@ -148,7 +148,7 @@
 
 夸克：https://pan.quark.cn/s/976f4fda4fc3
 
-#### 《夜间飞行）（2014）720P 中字 导演剪辑版
+#### 《夜间飞行》（2014）720P 中字 导演剪辑版
 
 夸克：https://pan.quark.cn/s/7aaff97fa16b
 

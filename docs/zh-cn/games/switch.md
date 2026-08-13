@@ -450,7 +450,7 @@
 
 夸克：https://pan.quark.cn/s/ba0fbf9a5d1f
 
-#### 《海珂 北境极光 HYKE Northern Light(s)》v1.1.2 NS整合 中文版
+#### 《海珂 北境极光 HYKE Northern Light（s）》v1.1.2 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/31c75e066797
 
@@ -700,7 +700,7 @@
 
 夸克：https://pan.quark.cn/s/0ac9a6c31fd1
 
-#### 《怪物猎人物语(MONSTER HUNTER STORIES)》v1.01 NS整合 全DLC 中文版
+#### 《怪物猎人物语（MONSTER HUNTER STORIES）》v1.01 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a2f52b615e6a
 
@@ -708,7 +708,7 @@
 
 夸克：https://pan.quark.cn/s/9b49cf07eade
 
-#### 《路易吉洋馆3（Luigi s Mansion 3）v1.4 NS整合 全DLC 中文版 附60帧补丁和修复补丁
+#### 《路易吉洋馆3（Luigi s Mansion 3）》v1.4 NS整合 全DLC 中文版 附60帧补丁和修复补丁
 
 夸克：https://pan.quark.cn/s/35af675b6d40
 
@@ -784,7 +784,7 @@
 
 夸克：https://pan.quark.cn/s/55195c139bfd
 
-#### 《暗黑地牢（Darkest Dungeon）v1.2.1 +4DLC NS中文版
+#### 《暗黑地牢（Darkest Dungeon）》v1.2.1 +4DLC NS中文版
 
 夸克：https://pan.quark.cn/s/44eedbd78fa3
 
@@ -1012,11 +1012,11 @@
 
 夸克：https://pan.quark.cn/s/b4ee076adc84
 
-#### 《超级马里奥兄弟 惊奇(Super Mario Bros Wonder)》v1.2.1 NS整合 中文版
+#### 《超级马里奥兄弟 惊奇（Super Mario Bros Wonder）》v1.2.1 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/b679b56ce522
 
-#### 《超级马里奥 3D世界＋狂怒世界(Super Mario 3D World+Bowsers Fury)》v1.1.0 NS整合 中文版
+#### 《超级马里奥 3D世界＋狂怒世界（Super Mario 3D World+Bowsers Fury）》v1.1.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/c1eb1b903f72
 
