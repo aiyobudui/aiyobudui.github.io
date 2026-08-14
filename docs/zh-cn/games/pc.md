@@ -72,6 +72,11 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《恶魔城主宰合集（Castlevania Dominus Collection）》v1.003.001 汉化版
+#### 《恶魔城Advance合集（Castlevania Advance Collection）》v1.0.0 汉化版
+
+夸克：https://pan.quark.cn/s/93e7b2756032
+
 #### 《鬼子母（Hariti）》v2.10.1 中文版（心理恐怖游戏 特恐怖）
 
 夸克：https://pan.quark.cn/s/1a891f24fca2
