@@ -53,7 +53,7 @@
 
 迅雷：https://pan.xunlei.com/s/VO9OggcxSkPSdjWkObGKyERoA1?pwd=zpyv#
 
-#### 《欢迎来到实力至上主义教室》（2017-2026）1080P 中字 第四季更新中 ..（附1-3季全）
+#### 《欢迎来到实力至上主义教室》（2017-2026）1080P 中字 第四季更新中 ..（附1-3季全+小说）
 
 夸克：https://pan.quark.cn/s/472a93441870
 
@@ -354,7 +354,7 @@
 
 迅雷：https://pan.xunlei.com/s/VO9ORzE9teDq8jY1SYLd6Xj4A1?pwd=gp2u#
 
-##### 《鬼灭之刃 无限城篇 第一章 猗窝坐再袭》蓝光1080P 国粤日配音 内封中字
+#### 《鬼灭之刃 无限城篇 第一章 猗窝坐再袭》蓝光1080P 国粤日配音 内封中字
 
 夸克：https://pan.quark.cn/s/5ccd57e0dff9
 
