@@ -24,7 +24,7 @@
 
 迅雷：https://pan.xunlei.com/s/VOzBYrlxE8NieAbl9mIEZr37A1?pwd=uuds#
 
-#### 《杀人者的购物中心2》（2024-2026）第二季 1080P 8集 更新中..（附第一季）
+#### 《杀人者的购物中心2》（2024-2026）1-2季全 1080P 中字
 
 夸克：https://pan.quark.cn/s/d9c509582553
 

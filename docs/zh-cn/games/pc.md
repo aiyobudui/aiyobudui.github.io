@@ -156,6 +156,12 @@
 
 ## 最近更新
 
+#### 《幻兽帕鲁（Palworld）》v1.0.3.101283 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/51d73c209195
+
+迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
+
 #### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.9 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/12750d6526a1
@@ -237,12 +243,6 @@
 夸克：https://pan.quark.cn/s/245d4d2967f0
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
-
-#### 《幻兽帕鲁（Palworld）》v1.0.2.100993 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/51d73c209195
-
-迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
 #### 《光环 战役进化（Halo Campaign Evolved）高级版》v1112544 中文 联机版
 
