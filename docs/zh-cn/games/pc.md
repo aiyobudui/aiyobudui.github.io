@@ -72,6 +72,12 @@
 
 夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
+#### 《多少兄弟？（How Many Dudes）》Build.24577528 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9f6036938498
+
+迅雷：https://pan.xunlei.com/s/VP-2v-3iDlwlMP3877HynTRRA1?pwd=sjkp#
+
 #### 《恶魔城主宰合集（Castlevania Dominus Collection）》v1.003.001 汉化版
 #### 《恶魔城Advance合集（Castlevania Advance Collection）》v1.0.0 汉化版
 
