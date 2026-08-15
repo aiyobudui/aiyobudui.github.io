@@ -1,0 +1,48 @@
+name: Bump docsify search namespace
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'docs/zh-cn/**'
+
+permissions:
+  contents: write
+
+jobs:
+  bump-namespace:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Bump namespace in docs/index.html
+        run: |
+          python3 - <<'PY'
+          import re
+          import datetime
+          import pathlib
+
+          f = pathlib.Path('docs/index.html')
+          s = f.read_text(encoding='utf-8')
+          new_ns = 'web-' + datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%d%H%M%S%f')
+          s2 = re.sub(r"(namespace[:=]\s*['\"])[^'\"]*(['\"])", r"\1" + new_ns + r"\2", s, count=1)
+          if s2 == s:
+              print('namespace pattern not found, skip')
+              raise SystemExit(0)
+          f.write_text(s2, encoding='utf-8')
+          print('bumped search namespace ->', new_ns)
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html
+          if git diff --cached --quiet; then
+            echo "No change to commit"
+          else
+            git commit -m "chore: bump docsify search namespace"
+            git push
+          fi
