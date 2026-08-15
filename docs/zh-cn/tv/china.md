@@ -20,9 +20,15 @@
 
 #### 《九门》（2026）4K 30集 更新中..（老九门2 附第一部）
 
-夸克：https://pan.quark.cn/s/c977197bad6f
+夸克：https://pan.quark.cn/s/d5737425a43d
 
 迅雷：https://pan.xunlei.com/s/VOz_u1OnlIzXh_bX3c_JNULhA1?pwd=92cx#
+
+#### 《南部档案》（2026）4K 33集全
+
+夸克：https://pan.quark.cn/s/d5737425a43d
+
+迅雷：https://pan.xunlei.com/s/VP-0qbym-KKIY0r7jcXAKH3bA1?pwd=56b6#
 
 #### 《兵自风中来》（2026）4K 36集全
 
@@ -2162,9 +2168,13 @@
 
 夸克：https://pan.quark.cn/s/d2074032cafd
 
+迅雷：https://pan.xunlei.com/s/VP-2KKbPEUUK4APNyow5pu0yA1?pwd=j7tw#
+
 #### 《滚石爱情故事》（2016）1080P 20集全（台剧）
 
 夸克：https://pan.quark.cn/s/6329bb820fd6
+
+迅雷：https://pan.xunlei.com/s/VP-2JZvuuLgbr2uYGG2fwF9tA1?pwd=6wk8#
 
 #### 《珠帘玉幕》（2024）4K高码 40集全
 
@@ -2182,13 +2192,25 @@
 
 夸克：https://pan.quark.cn/s/ffd040ad8ab2
 
+迅雷：https://pan.xunlei.com/s/VP-2IQRcAf3S4-tI6VKuVWDLA1?pwd=34qh#
+
 #### 《神话 电视剧》（2010）1080P 无台标水印 50集全（胡歌 白冰 任泉）
 
 夸克：https://pan.quark.cn/s/175b6a4ccca2
 
-#### 《武则天（刘晓庆版）》（1995）1080P 中字
+迅雷：https://pan.xunlei.com/s/VP-2FjKULRUp42cUPdEsWONvA1?pwd=akg5#
+
+#### 《武则天（刘晓庆版）》（1995）1080P 中字 30集全
 
 夸克：https://pan.quark.cn/s/11b21fdbe77a
+
+迅雷：https://pan.xunlei.com/s/VP-2EoN3cvqiuxoUIlQYnP-VA1?pwd=hqrj#
+
+#### 《省委书记》 （2002）1080P 中字 18集全
+
+夸克：https://pan.quark.cn/s/e8d485a93e6b
+
+迅雷：https://pan.xunlei.com/s/VP-206X8vHkrv2Y8rMe7zsU5A1?pwd=mxjm#
 
 #### 《破冰行动》（2019）4K 48集全
 

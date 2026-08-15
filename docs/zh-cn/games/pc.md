@@ -179,6 +179,18 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《PEAK》v2.1.a 中文 联机版（多人合作生存与攀登游戏）
+
+夸克：https://pan.quark.cn/s/f56bd5be8765
+
+迅雷：https://pan.xunlei.com/s/VP-22bQp46nX8Yb2XnPL8KvmA1?pwd=umsc#
+
+#### 《十字军之王3（Crusader Kings III）皇家版》v1.19.0.6 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/ba0201495df1
+
+迅雷：https://pan.xunlei.com/s/VP-233a61nnRCwssIxoKGvv3A1?pwd=bb2m#
+
 #### 《食人鲨（Maneater）巅峰版》v2026.8.13 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8bfae2f42cbb
@@ -1945,10 +1957,6 @@
 #### 《Until Then 豪华版》Build.23785927 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/be8f3d05c804
-
-#### 《PEAK》v1.63a 中文 联机版（多人联机爬山）
-
-夸克：https://pan.quark.cn/s/f56bd5be8765
 
 #### 《巫火之火（Witchfire）》v0.9.0 中文版
 
@@ -5509,10 +5517,6 @@ w
 #### 《恶霸鲁尼：奖学金版（Bully Scholarship Edition）》v1.200 汉化版
 
 夸克：https://pan.quark.cn/s/0804c822043e
-
-#### 《十字军之王3（Crusader Kings III）》v1.18.0.1 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/ba0201495df1
 
 #### 《动物栏：桌面牧场（Tiny Pasture）》v1.7.1 全DLC 中文版
 
