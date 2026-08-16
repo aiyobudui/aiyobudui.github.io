@@ -1,3 +1,4 @@
+<!-- {docsify-ignore-all} -->
 > [!TIP]
 > **用户须知**  
 > 1、如果没有你想要的资源或分享的链接失效 [留言](/zh-cn/bbs) 或进 **[QQ群](https://qm.qq.com/q/UmxU9PvGsS)** 告知，会补资源，谢谢！  
@@ -10,7 +11,7 @@
 > 2、手机端打开链接保存获取**1T**：https://pan.quark.cn/s/78b837bcdd7f  
 
 <!-- tabs:start -->
-#### **网址**
+### **网址**
 
  **永久防失联页**（请收藏到书签）  
     <https://link3.cc/hack>  
@@ -23,7 +24,7 @@
  **在线资源文档**（每日更新）  
     腾讯：<https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY>  
 
-#### **QQ群**
+### **QQ群**
 
 **点击后直接添加**  
     QQ群1：[61899799](https://qm.qq.com/q/f2jmRzToUS)  
@@ -33,7 +34,7 @@
     QQ群5：[228043257](https://qm.qq.com/q/DWO2PqVEDQ)  
     QQ频道：[pd.qq.com/s/7conjnpx7](https://pd.qq.com/s/7conjnpx7)  
 
-#### **夸克群**
+### **夸克群**
     内部群（影视资源）：https://pan.quark.cn/g/d4bc3462ba  
     内部群（游戏资源）：https://pan.quark.cn/g/840f376205  
 

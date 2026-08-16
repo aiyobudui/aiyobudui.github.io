@@ -1,4 +1,5 @@
-# **动画剧集目录：**
+<!-- {docsify-ignore-all} -->
+# 动画剧集目录：
 
 <div class="game-nav">
   <a href="#/zh-cn/animetv/gcdm" class="game-nav-btn">国产动漫</a>

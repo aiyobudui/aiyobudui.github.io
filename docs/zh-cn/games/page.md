@@ -1,4 +1,5 @@
-# **游戏目录：**
+<!-- {docsify-ignore-all} -->
+# 游戏目录：
 
 <div class="game-nav">
   <a href="#/zh-cn/games/pc" class="game-nav-btn">电脑游戏</a>

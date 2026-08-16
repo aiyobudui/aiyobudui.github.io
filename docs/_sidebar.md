@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
-- [🏠  首 页](/home)
-- [🎮  游 戏](/zh-cn/games/page)
+- [🏠  首 页](/ "首页 - 海量资源分享 www.haozy.top")
+- [🎮  游 戏](/zh-cn/games/page "游 戏 - 游戏分享")
   - [💻  电脑游戏](/zh-cn/games/pc)
   - [🎯  虚拟化游戏](/zh-cn/games/HVgame)
   - [🎮  switch游戏](/zh-cn/games/switch)

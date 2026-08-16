@@ -1,4 +1,5 @@
-# **电影目录：**
+<!-- {docsify-ignore-all} -->
+# 电影目录：
 
 <div class="game-nav">
   <a href="#/zh-cn/movie/popular" class="game-nav-btn">热门电影</a>

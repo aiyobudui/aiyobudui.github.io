@@ -185,12 +185,66 @@ function addCategoryToSearchResults() {
     });
 }
 
+// 桌面端搜索改为「回车 / 点击搜索按钮才搜索」：官方 search 插件只支持 input 即时搜索（100ms 防抖），
+// 每次 input 都触发全量索引遍历 + 正则匹配，索引量大时边打字边卡。这里在 document 捕获阶段拦截官方搜索框
+// （.search input[type=search]）的真实 input 事件，阻止官方即时搜索；仅在用户按 Enter 或点击我们注入的搜索
+// 按钮时，派发一次带 __bypass 标志的放行 input 事件让官方执行搜索。该模式下不再需要防抖（回车/点击只发生一次）。
+// 不修改官方 CDN 文件，纯前端、可撤销；__bypass 标志区分「用户真实输入」与「我们主动派发的放行事件」。
+function enhanceSearchEnterTrigger() {
+    if (window.__searchEnterEnhanced) return;
+    // 注意：不在这里立即置标志，等搜索框确实出现并完成注入后再置，避免「假完成」导致后续不再重试。
+
+    // 1) document 级拦截监听直接安装（不依赖搜索框是否存在）：捕获阶段先于官方监听器，
+    //    仅当事件目标确为官方搜索框时才拦截/放行，其它 input 不受影响。
+    document.addEventListener('input', function (e) {
+        var t = e.target;
+        if (!t || !t.matches || !t.matches('.search input[type="search"]')) return;
+        if (e.__bypass) return;        // 我们自己派发的放行事件（按钮/回车/手机端）：继续传播到官方监听器
+        e.stopPropagation();           // 拦截：不让官方在每次输入时搜索
+    }, true);
+
+    document.addEventListener('keydown', function (e) {
+        var t = e.target;
+        if (!t || !t.matches || !t.matches('.search input[type="search"]')) return;
+        if (e.key === 'Enter') {
+            var evt = new Event('input', { bubbles: true });
+            evt.__bypass = true;
+            t.dispatchEvent(evt);
+        }
+    });
+
+    // 2) 注入搜索按钮（若尚未注入）：等待官方 .search input 出现后注入，最多重试 ~5s。
+    function injectSubmitBtn(retry) {
+        var searchInput = document.querySelector('.search input[type="search"]');
+        if (!searchInput) {
+            if (retry > 0) return setTimeout(function () { injectSubmitBtn(retry - 1); }, 200);
+            return; // 超时仍无搜索框，放弃注入（回车仍可搜）
+        }
+        window.__searchEnterEnhanced = true; // 标志仅在搜索框确实出现并设置完成后置位
+        var inputWrap = searchInput.closest('.input-wrap');
+        if (inputWrap && !inputWrap.querySelector('.search-submit-btn')) {
+            var btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = 'search-submit-btn';
+            btn.textContent = '🔍';
+            inputWrap.appendChild(btn);
+            btn.addEventListener('click', function () {
+                var evt = new Event('input', { bubbles: true });
+                evt.__bypass = true;
+                searchInput.dispatchEvent(evt);
+            });
+        }
+    }
+    injectSubmitBtn(25);
+}
+
 function initSearchObserver() {
+    enhanceSearchEnterTrigger();
+
     var searchInput = document.querySelector('.search input[type="search"]');
     if (searchInput) {
-        searchInput.addEventListener('input', function () {
-            setTimeout(addCategoryToSearchResults, 300);
-        });
+        // 真实 input 事件已被 enhanceSearchEnterTrigger 拦截（不再触发官方即时搜索），
+        // 分类标签改由下方 MutationObserver 在结果渲染后兜底添加。
         searchInput.addEventListener('focus', function () {
             setTimeout(addCategoryToSearchResults, 300);
         });
@@ -318,7 +372,9 @@ document.addEventListener('DOMContentLoaded', function () {
             var searchInput = document.querySelector('.search input[type="search"]');
             if (searchInput) {
                 searchInput.value = keyword;
-                searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+                var evt = new Event('input', { bubbles: true });
+                evt.__bypass = true; // 标记为放行事件，跳过 enhanceSearchEnterTrigger 的拦截（否则手机端搜索被吞）
+                searchInput.dispatchEvent(evt);
             }
         } catch (e) {
             // 搜索框触发失败，静默处理
@@ -520,6 +576,62 @@ if (document.readyState === "complete") {
 window.addEventListener('beforeunload', function () {
     clearInterval(siteTimeInterval);
 });
+
+// 7.5 搜索索引定制：只索引 H4 标题，排除 H1~H3，H4 不含正文
+// 背景：docsify v5 官方 search 插件只有 depth（最大标题层级）选项，无法"只取某一级"。
+// 其 genIndex() 内部用 window.marked.lexer(content) 解析页面（search.js 源码实锤）；
+// 而核心页面渲染走 marked 实例内部 lexer（compiler.js 已核实），不调用全局 window.marked.lexer。
+// 因此包装 window.marked.lexer 只影响搜索索引生成，不破坏正文显示。
+// 过滤逻辑：检测到调用来自 search 脚本时，将 depth<4 的 heading 降级为 html（不建条目）、
+// 清空所有非 heading token 的 text（H4 条目 body 置空）→ 结果仅剩 H4 标题且不含正文。
+function patchSearchIndexToH4Only() {
+    if (typeof window.marked === 'undefined' || typeof window.marked.lexer !== 'function') return;
+    if (window.__searchH4Patched) return;
+    window.__searchH4Patched = true;
+
+    var originalLexer = window.marked.lexer.bind(window.marked);
+
+    function isFromSearchScript() {
+        var e = new Error();
+        var stack = e.stack || '';
+        // 调用栈中出现 search 插件脚本即判定为搜索索引调用
+        return /search(\.min)?\.js/i.test(stack);
+    }
+
+    window.marked.lexer = function (src) {
+        var tokens = originalLexer(src);
+        if (!isFromSearchScript()) return tokens; // 非搜索场景一律原样返回
+
+        var filtered = [];
+        tokens.forEach(function (tok) {
+            if (tok.type === 'heading') {
+                if (tok.depth === 4) {
+                    tok.body = '';
+                    filtered.push(tok); // 仅保留 H4 作为索引条目
+                }
+                // depth<4 的 heading：丢弃，不进索引
+                return;
+            }
+            // 非 heading token（段落/列表/表格/代码等）：清空 text，使 H4 条目 body 为空
+            if (tok && 'text' in tok) tok.text = '';
+            return; // 不推入过滤结果，彻底排除正文
+        });
+        return filtered;
+    };
+}
+
+// site.js 在 docsify + search 插件之后同步加载，window.marked 已存在，立即 patch
+// 避免搜索插件在 DOMContentLoaded 时抢先建索引，导致 H1~H3/正文漏进 IndexedDB
+patchSearchIndexToH4Only();
+
+// 兜底：若 site.js 被延迟加载或 marked 尚未就绪，再次尝试
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function () {
+        patchSearchIndexToH4Only();
+    });
+} else {
+    patchSearchIndexToH4Only();
+}
 
 // 8. PC 端网盘链接转二维码（点击展开）
 // 识别夸克 / 迅雷 / 百度 / 阿里 网盘链接，默认隐藏原始链接，只显示「XX二维码」按钮，点击展开二维码。
