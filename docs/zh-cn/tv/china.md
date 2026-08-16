@@ -20,7 +20,7 @@
 
 #### 《九门》（2026）4K 30集 更新中..（老九门2 附第一部）
 
-夸克：https://pan.quark.cn/s/d5737425a43d
+夸克：https://pan.quark.cn/s/c977197bad6f
 
 迅雷：https://pan.xunlei.com/s/VOz_u1OnlIzXh_bX3c_JNULhA1?pwd=92cx#
 
