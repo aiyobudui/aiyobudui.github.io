@@ -41,10 +41,6 @@
 
 夸克：https://pan.quark.cn/s/12ba1138c169
 
-#### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》v1.0.2 中文版
-
-夸克：https://pan.quark.cn/s/02ea9cc893a7
-
 #### 《地产大亨 狂乐派对（Monopoly Madness）》V5.8 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/339aaeb912cb
