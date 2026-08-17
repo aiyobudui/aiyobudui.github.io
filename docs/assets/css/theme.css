@@ -499,8 +499,7 @@ main>.content {
 }
 
 /* 输入框有内容时（与 X 按钮显隐机制一致），显示搜索按钮 */
-.sidebar .search:has(input[type="search"]:not(:placeholder-shown)) .search-submit-btn,
-.sidebar .search .search-submit-btn.has-value {
+.sidebar .search:has(input[type="search"]:not(:placeholder-shown)) .search-submit-btn {
   visibility: visible;
   opacity: 1;
 }

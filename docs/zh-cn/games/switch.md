@@ -2,6 +2,7 @@
 
 <div class="game-nav">
   <a href="#/zh-cn/games/pc" class="game-nav-btn">电脑游戏</a>
+  <a href="#/zh-cn/games/fmvgame" class="game-nav-btn">互动影游</a>
   <a href="#/zh-cn/games/HVgame" class="game-nav-btn">虚拟化游戏</a>
   <a href="#/zh-cn/games/switch" class="game-nav-btn">switch游戏</a>
   <a href="#/zh-cn/games/android" class="game-nav-btn">安卓游戏</a>
@@ -55,6 +56,10 @@
 ## 已有游戏
 > [!IMPORTANT]
 > 靠前的是新添加的，求资源、求更新、链接失效、打不开等问题可以进群@群主帮你解决.
+
+#### 《一起来玩吧！Oink Games》v9.2.0 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/adb95f7f4a4f
 
 #### 《茶杯头 Cuphead》v1.3.7 NS整合 全DLC 中文版
 

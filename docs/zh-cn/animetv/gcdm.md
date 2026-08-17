@@ -173,6 +173,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOzmYFwsTflI5-9tjNSBGP3VA1?pwd=2jmb#
 
+#### 《财神窦占龙》（2026）4K 16集 周日 更新中..
+
+夸克：https://pan.quark.cn/s/dfbd22961165
+
+迅雷：https://pan.xunlei.com/s/VP-ClRBjc1MQYFdC91SuMqiWA1?pwd=u4nk#
+
 ---
 
 ## 暂时完结

@@ -2,6 +2,7 @@
 - [🏠  首 页](/ "首页 - 海量资源分享 www.haozy.top")
 - [🎮  游 戏](/zh-cn/games/page "游戏")
   - [💻  电脑游戏](/zh-cn/games/pc  "电脑游戏")
+  - [🕺  互动影游](/zh-cn/games/fmvgame "真人互动影游")
   - [🎯  虚拟化游戏](/zh-cn/games/HVgame "虚拟化游戏")
   - [🎮  switch游戏](/zh-cn/games/switch "switch游戏")
   - [📱  安卓游戏](/zh-cn/games/android "安卓游戏")

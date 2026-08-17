@@ -2,7 +2,10 @@
 // 仅在留言板(/zh-cn/bbs)页面初始化，其余页面直接 return。
 
 function loadWalineResources() {
-    return new Promise(function (resolve, reject) {
+    // 幂等守卫：防止在 CDN 脚本 onload 之前 doneEach 被多次触发时，
+    // 重复往 DOM 注入相同的 <link>/<script> 标签（Waline 去重）。
+    if (window.__walineLoading) return window.__walineLoading;
+    window.__walineLoading = new Promise(function (resolve, reject) {
         var cssLink = document.createElement('link');
         cssLink.rel = 'stylesheet';
         cssLink.href = 'https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css';
@@ -26,7 +29,15 @@ function loadWalineResources() {
             };
         };
         document.body.appendChild(script);
+    }).then(function (v) {
+        // 加载成功：Promise 已 resolved，保留为单例，避免后续重复注入相同标签
+        return v;
+    }, function (e) {
+        // 加载失败：清除标志，允许下次进入 bbs 时重新尝试，而不是永久卡死
+        window.__walineLoading = null;
+        throw e;
     });
+    return window.__walineLoading;
 }
 
 function initWaline() {

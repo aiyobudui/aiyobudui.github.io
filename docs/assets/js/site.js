@@ -278,7 +278,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var submenuItems = document.querySelectorAll('.mobile-nav-has-submenu');
 
     function closeAllMenus(exclude) {
-        document.querySelectorAll('.mobile-nav-submenu, .mobile-nav-more-popup, .mobile-nav-search-popup').forEach(function (menu) {
+        document.querySelectorAll('.mobile-nav-submenu, .mobile-nav-more-popup').forEach(function (menu) {
             if (menu !== exclude) menu.classList.remove('show');
         });
     }
@@ -483,7 +483,6 @@ document.addEventListener('DOMContentLoaded', function () {
             if (!e.target.closest('.mobile-search-overlay')) {
                 e.preventDefault();
                 e.stopPropagation();
-                return false;
             }
             return;
         }
