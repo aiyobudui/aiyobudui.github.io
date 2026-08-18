@@ -76,6 +76,10 @@
 
 夸克：https://pan.quark.cn/s/a3682965a994
 
+#### 《恶校游戏（Evil School）》Build.24732893 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/7b7b7fe590f5
+
 #### 《苏菲的炼金工房 ～不可思议书的炼金术士～ DX》v1.02 中文版
 #### 《菲利丝的炼金工房 ～不可思议旅的炼金术士～ DX》v1.02 中文版
 #### 《莉迪＆苏瑞的炼金工房 ～不可思议绘画的炼金术士～ DX》v1.01 中文版
@@ -84,9 +88,25 @@
 
 夸克：https://pan.quark.cn/s/9b850819d647
 
-#### 《恶校游戏（Evil School）》Build.24732893 中文版（真人互动影游）
+#### 《超进化精灵2（EvoCreo 2）》v2.4.0 中文版（附安卓版1+2）
 
-夸克：https://pan.quark.cn/s/7b7b7fe590f5
+夸克：https://pan.quark.cn/s/60798b84928e
+
+#### 《打工火柴人（Stick it to the Stickman）》v0.9 中文版（可双人游玩）
+
+夸克：https://pan.quark.cn/s/ba7f9cea5bfc
+
+#### 《领主争锋（Rising Lords）》v1.5.6 中文版
+
+夸克：https://pan.quark.cn/s/61fb53ba3b99
+
+#### 《无限的迷宫城（Rustil Eternal Labyrinth Castle）》v1.2.3 中文版
+
+夸克：https://pan.quark.cn/s/ec509ff1f7dd
+
+#### 《鲜花与众神（Flowers and Deities）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/01c615572da7
 
 #### 《我们曾到此探险：友谊考验（We Were Here Expeditions The Friendship）》v1.0.3 中文 联机版
 #### 《我们曾永在此（We Were Here Forever）》v1.2.3 全DLC 中文 联机版（我们永远在这里）
@@ -179,6 +199,28 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《星砂岛（StarSand Island）豪华版》v1.0.0.13838 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4e45aaaed917
+
+#### 《空中帝国（Airborne Empire）豪华版》v1.2.00 中文版
+
+夸克：https://pan.quark.cn/s/eb3956114e31
+
+#### 《小小模拟世界（Little Sim World）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/f0f018bcb2ae
+
+#### 《月下之癫（Lunacid）》v2.2.0 中文版
+
+夸克：https://pan.quark.cn/s/2cf63aae8596
+
+#### 《放血医师（BLOODLETTER）》1.0 中文版
+
+夸克：https://pan.quark.cn/s/2c6d507b4571
+
+迅雷：https://pan.xunlei.com/s/VOpBC7WDCVolMOsrbE0vHo9AA1?pwd=uauj#
 
 #### 《碧蓝幻想Relink 无尽黄昏（Granblue Fantasy Relink）特别版》v2.0.4 全DLC 中文 联机版
 
@@ -697,18 +739,17 @@
 
 夸克：https://pan.quark.cn/s/406d8cbaf1e6
 
-#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v14.0.0.1 全DLC 中文版（更新）
-#### 《战锤40K：机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版
-#### 《战锤40K 星际战士 大师锻造版》v1.0.156.0 全DLC 汉化版
+#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v14.0.0.1 全DLC 中文版
+#### 《战锤40K 机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版
+#### 《战锤40K 星际战士 大师锻造版》v1.0.1041.4326 全DLC 汉化版
 #### 《战锤40K 星际战士（Warhammer 40000 Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
 #### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
 #### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
 #### 《战锤40K 战争黎明 终极版（Warhammer 40000 Dawn of War）终极版》v2025.8.15 中文版
-#### 《战锤40K 角斗士之战争圣器（Warhammer 40000 Gladius Relics of War）》v1.16.2 全DLC 中文版
 #### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
-#### 《战锤40K 爆矢枪（Warhammer 40000 Boltgun）》v1.22.68871.3 全DLC 豪华中文版
-#### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）》v1.14.0 全DLC 豪华中文版
-#### 《战锤 末世鼠疫2（Warhammer Vermintide 2）》v5.5.7 全DLC 豪华中文 联机版
+#### 《战锤40K 爆矢枪（Warhammer 40000 Boltgun）豪华版》v1.22.68871.3 全DLC 中文版
+#### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）完整版》v1.18.3 全DLC 中文版
+#### 《战锤 末世鼠疫2（Warhammer Vermintide 2）豪华版》v5.5.7 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/42d400d7daa0
 
@@ -1653,10 +1694,6 @@
 #### 《裁缝模拟器（Tailor Simulator）》v0.3.2406.1 中文版
 
 夸克：https://pan.quark.cn/s/fd5a8b67c20e
-
-#### 《小小模拟世界（Little Sim World）》v0.60.0 中文版
-
-夸克：https://pan.quark.cn/s/f0f018bcb2ae
 
 #### 《花艺师普妮（Puni the Florist）》v1.0.6.3 中文版
 
@@ -3450,10 +3487,6 @@ w
 
 夸克：https://pan.quark.cn/s/edf9fa477b41
 
-#### 《空中帝国（Airborne Empire）》v1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/eb3956114e31
-
 #### 《恐龙牧场（Paleo Pines）》v1.5.22 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a85787ea9599
@@ -3757,12 +3790,6 @@ w
 #### 《魔咒之地（Forspoken）豪华版》v1.23 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/e52b2c3ce2d1
-
-#### 《放血医师（BLOODLETTER）》v0.1.016 中文版
-
-夸克：https://pan.quark.cn/s/2c6d507b4571
-
-迅雷：https://pan.xunlei.com/s/VOpBC7WDCVolMOsrbE0vHo9AA1?pwd=uauj#
 
 #### 《浣熊推币机（RACCOIN Coin Pusher Roguelike）》v1.0.8 中文版
 
@@ -4129,10 +4156,6 @@ w
 夸克：https://pan.quark.cn/s/6ebbd43de752
 
 迅雷：https://pan.xunlei.com/s/VNrANXUqoXh0FhgZXKSMSQKKA1?pwd=ww8t#
-
-#### 《星砂岛（StarSand Island）豪华版》v1.0.0.6982 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4e45aaaed917
 
 #### 《永恒天空（Forever Skies）豪华版》v1.2.2 全DLC 中文 联机版
 
@@ -10375,10 +10398,6 @@ w
 #### 《爪性损伤（Pawperty Damage）》v1.5.1 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/0478015c41b4
-
-#### 《月下之癫（Lunacid）》v2.1.2 中文版
-
-夸克：https://pan.quark.cn/s/2cf63aae8596
 
 #### 《天道奇谈（Heavenly Way Legend）》v2024.12.20 中文版
 

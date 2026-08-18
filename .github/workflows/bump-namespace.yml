@@ -10,6 +10,12 @@ on:
 permissions:
   contents: write
 
+# 防止快速连续 push 时两个 bump 运行并发 push 互相 rejected（non-fast-forward）。
+# 同一分支上的运行排队串行执行，而非同时跑。
+concurrency:
+  group: bump-namespace-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   bump-namespace:
     runs-on: ubuntu-latest

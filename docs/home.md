@@ -27,11 +27,11 @@
 ### **QQ群**
 
 **点击后直接添加**  
-    QQ群1：[61899799](https://qm.qq.com/q/f2jmRzToUS)  
-    QQ群2：[906966228](https://qm.qq.com/q/UmxU9PvGsS)  
-    QQ群3：[436413013](https://qm.qq.com/q/hP5WgeAyeO)  
-    QQ群4：[960193110](https://qm.qq.com/q/5Ot1tSCePK)  
-    QQ群5：[228043257](https://qm.qq.com/q/DWO2PqVEDQ)  
+    QQ群1：[61899799](https://qm.qq.com/q/ynFI2QA9UI)  
+    QQ群2：[906966228](https://qm.qq.com/q/GFkhoRMQYs)  
+    QQ群3：[436413013](https://qm.qq.com/q/G2E79nrukW)  
+    QQ群4：[960193110](https://qm.qq.com/q/zVa4WQvtsW)  
+    QQ群5：[228043257](https://qm.qq.com/q/rgEjKuJIhU)  
     QQ频道：[pd.qq.com/s/7conjnpx7](https://pd.qq.com/s/7conjnpx7)  
 
 ### **夸克群**
