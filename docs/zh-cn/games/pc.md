@@ -71,17 +71,21 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
-#### 《红色沙漠（Crimson Desert）豪华版》v1.14.00 全DLC 中文版
+#### 《致命躯壳2（Mortal Shell II）豪华版》vCL92086 中文版
+#### 《致命躯壳（Mortal Shell）》v1.014707 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/8f8e4c92e22e
+夸克：https://pan.quark.cn/s/a3682965a994
 
-#### 《第一狂战士 卡赞（The First Berserker Khazan）豪华版》v565386 全DLC 中文版（非虚拟化）
+#### 《恶校游戏（Evil School）》Build.24732893 中文版（真人互动影游）
 
-夸克：https://pan.quark.cn/s/bba1c6a244ac
+夸克：https://pan.quark.cn/s/7b7b7fe590f5
 
-#### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）豪华版》v1.1.1.0 全DLC 中文版（非虚拟化）
+#### 《我们曾到此探险：友谊考验（We Were Here Expeditions The Friendship）》v1.0.3 中文 联机版
+#### 《我们曾永在此（We Were Here Forever）》v1.2.3 全DLC 中文 联机版
+#### 《我们曾一起在这里（We Were Here Together）》v1.7.6 全DLC 中文 联机版
+#### 《我们也曾在此（We Were Here Too）》v1.2.0 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/e044dc2f3f3b
+夸克：https://pan.quark.cn/s/4a9da53b8bcd
 
 #### 《illWill》v1.2 中文版（肉鸽射击）
 
@@ -257,6 +261,18 @@
 #### 《光环 战役进化（Halo Campaign Evolved）高级版》v1112544 中文 联机版
 
 夸克：https://pan.quark.cn/s/f2203ca7528b
+
+#### 《红色沙漠（Crimson Desert）豪华版》v1.14.00 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8f8e4c92e22e
+
+#### 《第一狂战士 卡赞（The First Berserker Khazan）豪华版》v565386 全DLC 中文版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/bba1c6a244ac
+
+#### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）豪华版》v1.1.1.0 全DLC 中文版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/e044dc2f3f3b
 
 #### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.23514637 全DLC 中文版
 
@@ -7377,10 +7393,6 @@ w
 #### 《罗马陨落（Yield! Fall of Rome）》v1.0.5 中文版（回合制策略游戏）
 
 夸克：https://pan.quark.cn/s/719cf5a80fdf
-
-#### 《致命躯壳（Mortal Shell）》v1.014707 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a3682965a994
 
 #### 《记忆边境（Thymesia）豪华版》v21.24723 全DLC 中文版
 

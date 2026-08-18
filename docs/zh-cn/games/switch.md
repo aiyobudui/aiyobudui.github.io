@@ -57,6 +57,10 @@
 > [!IMPORTANT]
 > 靠前的是新添加的，求资源、求更新、链接失效、打不开等问题可以进群@群主帮你解决.
 
+#### 《晃晃人生 Wobbly Life》v1.0.0.3 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/9b0da7a9bf7b
+
 #### 《一起来玩吧！Oink Games》v9.2.0 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/adb95f7f4a4f
@@ -949,6 +953,14 @@
 
 夸克：https://pan.quark.cn/s/cfc52e9ca10e
 
+#### 《塞尔达 节奏海拉鲁》v1.5.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/3d6b30b63281
+
+#### 《塞尔达传说：天空之剑HD》v1.0.1 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/90244b76890d
+
 #### 《塞尔达无双：灾厄启示录》v1.3.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/574c305de97d
@@ -956,6 +968,14 @@
 #### 《塞尔达传说：织梦岛》v1.1.0 NS 中文版
 
 夸克：https://pan.quark.cn/s/7fd3247a082c
+
+#### 《塞尔达传说 众神的三角力量》最新 NS整合 汉化版（只适合NS实机）
+
+夸克：https://pan.quark.cn/s/5cd97f4b1f6e
+
+#### 《塞尔达无双 海拉鲁全明星DX》最新 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/9be7c2f313e8
 
 ---
 
