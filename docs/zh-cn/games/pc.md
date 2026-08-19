@@ -80,6 +80,18 @@
 
 夸克：https://pan.quark.cn/s/7b7b7fe590f5
 
+#### 《井域：喀洛之血（The World Well-Blood of Caro）》v2026.8.19 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/dcb355772e6a
+
+#### 《堆叠妖怪（Stackmon）》v9.0.67 中文版
+
+夸克：https://pan.quark.cn/s/908259f5135c
+
+#### 《Exark》v1.00 中文版
+
+夸克：https://pan.quark.cn/s/4b43bea5a5c8
+
 #### 《苏菲的炼金工房 ～不可思议书的炼金术士～ DX》v1.02 中文版
 #### 《菲利丝的炼金工房 ～不可思议旅的炼金术士～ DX》v1.02 中文版
 #### 《莉迪＆苏瑞的炼金工房 ～不可思议绘画的炼金术士～ DX》v1.01 中文版
@@ -200,6 +212,14 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《消防模拟：火苗燃动（Firefighting Simulator Ignite）首年版》v1.0062.35120.105417 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/faa672a22730
+
+#### 《零 ～红蝶～ REMAKE（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.04.00 全DLC 中文版（零红蝶）
+
+夸克：https://pan.quark.cn/s/aeefdbc4c143
+
 #### 《劫后公司（After Inc REVIVAL）完整版》v1.0.0.6 全DLC 中文版（末日生存策略游戏）
 
 夸克：https://pan.quark.cn/s/9fd45fb8e46c
@@ -215,6 +235,13 @@
 #### 《鲁特里一家死了（The Roottrees are Dead）》vc639817 中文版
 
 夸克：https://pan.quark.cn/s/572c3c7faf90
+
+#### 《暗黑地牢（Darkest Dungeon）Ancestral Edition版》Build.27760 全DLC 中文版
+#### 《暗黑地牢2（Darkest Dungeon II）遗忘版》v2.04.85095 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d1967a877a18
+
+迅雷：https://pan.xunlei.com/s/VNxlYnRzg09qEUhCXyYTrdBnA1?pwd=daqh#
 
 #### 《星砂岛（StarSand Island）豪华版》v1.0.0.13838 全DLC 中文版
 
@@ -2466,12 +2493,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOpfA6L6tvULfjpoL9vVF8MWA1?pwd=3muq#
 
-#### 《暗黑地牢2（Darkest Dungeon II）遗忘版》v2.04.85095 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d1967a877a18
-
-迅雷：https://pan.xunlei.com/s/VNxlYnRzg09qEUhCXyYTrdBnA1?pwd=daqh#
-
 #### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）豪华版》v1.5.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/49dd6d0d10cf
@@ -3862,10 +3883,6 @@ w
 夸克：https://pan.quark.cn/s/3bcefbd60e6e
 
 迅雷：https://pan.xunlei.com/s/VOoRP5POn1th0-UTLK0vtcZSA1?pwd=stn2#
-
-#### 《零红蝶 重制版（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.02.01 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/aeefdbc4c143
 
 #### 《扬帆起航（Ascendum）》Build.12983918 中文版
 
@@ -5817,10 +5834,6 @@ w
 #### 《遗忘之城（The Forgotten City）收藏家版》v1.3.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9af4ea40ed9c
-
-#### 《消防模拟：火苗燃动（Firefighting Simulator Ignite）》v1.0918.28966.89171 中文版
-
-夸克：https://pan.quark.cn/s/faa672a22730
 
 #### 《传说与战术自走棋（Tales Tactics）》v1.13 中文版
 
@@ -12931,12 +12944,6 @@ w
 #### 《超级炸弹人R2》最新 中文版
 
 夸克：https://pan.quark.cn/s/1b4df9f10ad1
-
-#### 《暗黑地牢》最新 全DLC 豪华中文联机版
-
-夸克：https://pan.quark.cn/s/2b2e69404166
-
-迅雷：https://pan.xunlei.com/s/VNxlbJuJGOdmO8hqVDaW6MQOA1?pwd=u7gr#
 
 #### 《熊猫跳跳》最新 中文版
 
