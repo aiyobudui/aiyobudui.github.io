@@ -200,6 +200,22 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《劫后公司（After Inc REVIVAL）完整版》v1.0.0.6 全DLC 中文版（末日生存策略游戏）
+
+夸克：https://pan.quark.cn/s/9fd45fb8e46c
+
+#### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v1.056 中文 联机版
+
+夸克：https://pan.quark.cn/s/30510db4b1e9
+
+#### 《米斯特里亚牧场（Fields of Mistria）》v1.0.3 中文版
+
+夸克：https://pan.quark.cn/s/2dd0cd52d441
+
+#### 《鲁特里一家死了（The Roottrees are Dead）》vc639817 中文版
+
+夸克：https://pan.quark.cn/s/572c3c7faf90
+
 #### 《星砂岛（StarSand Island）豪华版》v1.0.0.13838 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/4e45aaaed917
@@ -1204,10 +1220,6 @@
 #### 《饿死鬼的晚餐（Doomsday Diner）》v2026.7.25 中文版
 
 夸克：https://pan.quark.cn/s/88ad8af202b7
-
-#### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v1.034 中文版
-
-夸克：https://pan.quark.cn/s/30510db4b1e9
 
 #### 《一起来开大商场（Mall Together）》v1.0 中文 联机版
 
@@ -4519,10 +4531,6 @@ w
 
 夸克：https://pan.quark.cn/s/b7038b41d30a
 
-#### 《劫后公司（After Inc REVIVAL）》v2026.2.3 中文版（末日生存策略游戏）
-
-夸克：https://pan.quark.cn/s/9fd45fb8e46c
-
 #### 《恐惧轮回（Fear The Timeloop）》v1.0.4 中文版（循环死境 恐怖游戏）
 
 夸克：https://pan.quark.cn/s/8a2b8fae94c3
@@ -4825,10 +4833,6 @@ w
 #### 《无主之地2（Borderlands 2）年度版》Build.9218157 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/75df078cc085
-
-#### 《鲁特里一家死了（The Roottrees are Dead）》v2025.12.19 中文版
-
-夸克：https://pan.quark.cn/s/572c3c7faf90
 
 #### 《粉红谷》最新 汉化版（电脑+手机版）
 
@@ -8352,10 +8356,6 @@ w
 #### 《我是小鱼儿（I am fish）》v1.1.13 中文版
 
 夸克：https://pan.quark.cn/s/a703f06036d4
-
-#### 《米斯特里亚牧场（Fields of Mistria）》v0.13.3 英文版（暂无中文）
-
-夸克：https://pan.quark.cn/s/2dd0cd52d441
 
 #### 《预先号令（WARNO）》v150731 全DLC 中文版
 
