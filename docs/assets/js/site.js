@@ -754,6 +754,14 @@ function renderNetdiskQrcodes() {
                             colorLight: '#ffffff',
                             correctLevel: QRCode.CorrectLevel.M
                         });
+                        // 清除 qrcodejs 给容器设置的 title（=真实链接），
+                        // 否则鼠标移上去会弹出原生 tooltip 显示真实链接
+                        box.removeAttribute('title');
+                        // 同时清除内部 img 的 title/alt（防御：某些构建可能设置）
+                        box.querySelectorAll('img').forEach(function (img) {
+                            img.removeAttribute('title');
+                            img.removeAttribute('alt');
+                        });
                         wrap.dataset.rendered = '1';
                     } catch (err) {
                         return;
