@@ -80,6 +80,22 @@
 
 夸克：https://pan.quark.cn/s/7b7b7fe590f5
 
+#### 《挖油吧！爸爸（Fuel Harvest Together）》v1.1.0 中文版
+
+夸克：https://pan.quark.cn/s/6664f10ffb87
+
+#### 《破晓之墟（Ruins of Dawn）》v1.0.8 中文 联机版
+
+夸克：https://pan.quark.cn/s/19a488b083bd
+
+#### 《章鱼奶爸：致命捕捉（Octodad Dadliest Catch）》v1.2.19338 中文 联机版
+
+夸克：https://pan.quark.cn/s/ab7f7089bcbe
+
+#### 《蒸汽世界（Vapor World Over The Mind）》v0.5.4f2 中文版
+
+夸克：https://pan.quark.cn/s/f2051ab8be12
+
 #### 《井域：喀洛之血（The World Well-Blood of Caro）》v2026.8.19 中文版（视觉小说）
 
 夸克：https://pan.quark.cn/s/dcb355772e6a
@@ -127,72 +143,15 @@
 
 夸克：https://pan.quark.cn/s/4a9da53b8bcd
 
-#### 《illWill》v1.2 中文版（肉鸽射击）
-
-夸克：https://pan.quark.cn/s/3590edb97c6a
-
-#### 《湖之仆从（Servant of the Lake）》v1.5.6 中文版（锈湖新作）
-#### 《锈湖 作品集（Rusty Lake）绣湖 + 逃离方块》14部 最新 中文版
-
-夸克：https://pan.quark.cn/s/08deb6f35ca9
-
-迅雷：https://pan.xunlei.com/s/VO0ERTrFyY8UpmIDS4ESBo0rA1?pwd=3y6m#
-
-#### 《篝火2：未知海岸（The Bonfire 2 Uncharted Shores）》Build.13028893 中文版
-
-夸克：https://pan.quark.cn/s/f338503efb09
-
-迅雷：https://pan.xunlei.com/s/VP-Cx6U2vII4u41UZnshs64BA1?pwd=vkwj#
-
-#### 《斯金尼与弗兰克：暴力之拳（Skinny & Franko Fists of Violence）》v2.0.2 中文版（横屏通关格斗）
-
-夸克：https://pan.quark.cn/s/7809458a277d
-
-迅雷：https://pan.xunlei.com/s/VP-85fpGLRUp42cUPdEx8Y5bA1?pwd=99us#
-
-#### 《柏拉图深空（PLATONICA SPACE）》v1.0.1 中文版
-
-夸克：https://pan.quark.cn/s/c3abbb03df47
-
-迅雷：https://pan.xunlei.com/s/VP-7YpFffGFP8yTfI7tlEVDbA1?pwd=ddyh#
-
-#### 《炽天使之拥（Flock of the Seraphim）》v1.0.0 中文版（肉鸽FPS）
-
-夸克：https://pan.quark.cn/s/eee1c3e81396
-
-迅雷：https://pan.xunlei.com/s/VP-7Tbrkf7WkPekYTZmqk69FA1?pwd=e52v#
-
-#### 《雪葬（Snowed Under）》v1.0.6 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/344f44d69518
-
-迅雷：https://pan.xunlei.com/s/VP-7OZTnc1MQYFdC91SqADw1A1?pwd=t3ei#
-
-#### 《多少兄弟？（How Many Dudes）》Build.24577528 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/9f6036938498
-
-迅雷：https://pan.xunlei.com/s/VP-2v-3iDlwlMP3877HynTRRA1?pwd=sjkp#
-
-#### 《静默恐惧：阿瑞斯深渊劫（Static Dread The Submarine）》v20260814 全DLC 中文版
-#### 《静默恐惧：老灯塔十五夜（Static Dread）》v1.2.1 全DLC 中文版（恐怖解密）
-
-夸克：https://pan.quark.cn/s/6deca0e36190
-
-迅雷：https://pan.xunlei.com/s/VOnHWAHd5FqS2M3NKcjRiaBJA1?pwd=kx4v
-
-#### 《恶魔城主宰合集（Castlevania Dominus Collection）》v1.003.001 汉化版
-#### 《恶魔城Advance合集（Castlevania Advance Collection）》v1.0.0 汉化版
-
-夸克：https://pan.quark.cn/s/93e7b2756032
-
-#### 《鬼子母（Hariti）》v2.10.1 中文版（心理恐怖游戏 特恐怖）
-
-夸克：https://pan.quark.cn/s/1a891f24fca2
-
 ---
 
 ## 最近更新
+
+#### 《仁王3（Nioh 3）豪华版》v2.00.01 全DLC 中文 联机版
+#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
+#### 《仁王（Nioh）完全版》v1.24.08 中文版
+
+夸克：https://pan.quark.cn/s/be850af09c63
 
 #### 《幻兽帕鲁（Palworld）》v1.0.3.101283 全DLC 中文 联机版
 
@@ -212,6 +171,32 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
+#### 《灵境修仙界（Spirit Realm）》v0.7.3.9.1 中文版
+
+夸克：https://pan.quark.cn/s/f517933cc043
+
+#### 《深海迷航2：异星水域（Subnautica 2）》v0.1.2.0-123362 中文 联机版
+#### 《深海迷航（Subnautica）终极收藏版》v82304 中文版
+#### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
+
+夸克：https://pan.quark.cn/s/68a01dbea110
+
+#### 《俏皮脸（Sally Face）》v1.5.51 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/474c3e79bc07
+
+#### 《最后的加油站（The Last Gas Station）》v1.1.6.526 中文版
+
+夸克：https://pan.quark.cn/s/25fa4bbb3c9c
+
+#### 《降妖散记（Yao-Guai Hunter）》v1.2.10 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8272826eda10
+
+#### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.16.1.20783 中文版
+
+夸克：https://pan.quark.cn/s/652d7102951b
+
 #### 《消防模拟：火苗燃动（Firefighting Simulator Ignite）首年版》v1.0062.35120.105417 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/faa672a22730
@@ -219,6 +204,12 @@
 #### 《零 ～红蝶～ REMAKE（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.04.00 全DLC 中文版（零红蝶）
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
+
+#### 《桥梁建筑师3（Poly Bridge 3）》v1.5.16 中文版
+#### 《桥梁建筑师2（Poly Bridge 2）》v1.6.3 全DLC 中文版
+#### 《桥梁建筑师（Poly Bridge）》v1.1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e7a38d40056a
 
 #### 《劫后公司（After Inc REVIVAL）完整版》v1.0.0.6 全DLC 中文版（末日生存策略游戏）
 
@@ -264,70 +255,6 @@
 夸克：https://pan.quark.cn/s/2c6d507b4571
 
 迅雷：https://pan.xunlei.com/s/VOpBC7WDCVolMOsrbE0vHo9AA1?pwd=uauj#
-
-#### 《碧蓝幻想Relink 无尽黄昏（Granblue Fantasy Relink）特别版》v2.0.4 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/9af2972b02d7
-
-迅雷：https://pan.xunlei.com/s/VNy69t1End8_Ts7us0ZDNtHOA1?pwd=yb72#
-
-#### 《法外枭雄：滚石城（Crime Boss Rockay City）》v1.21.2.0 中文 联机版（法外狂徒）
-
-夸克：https://pan.quark.cn/s/54c0aaad57e2
-
-#### 《末日准备狂（Mr. Prepper）完整版》v1.43g 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/81f218540dd4
-
-迅雷：https://pan.xunlei.com/s/VP-D2vntfGFP8yTfI7tpXhoPA1?pwd=9bcm#
-
-#### 《奥咕和秘密森林（Ogu and the Secret Forest）》v1.4 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/183ab0127f54
-
-迅雷：https://pan.xunlei.com/s/VP-8GVyMaSAUaH732f6h_M1_A1?pwd=x7ts#
-
-#### 《大侠立志传：碧血丹心（Heros Adventure）》v1.2.081275 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1a4fa103227f
-
-迅雷：https://pan.xunlei.com/s/VO0IhA8LA2R6D1dn8o2sLjcoA1?pwd=d7si#
-
-#### 《旅者之憩（Travellers Rest）》v0.7.6.5.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/1f31ce2ea25b
-
-迅雷：https://pan.xunlei.com/s/VP-8AhEV4mQzlkk3Eir4Y-NAA1?pwd=u85j#
-
-#### 《鳄鱼侦探布罗格（BROK the InvestiGator）豪华版》v1.5.6 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/34be69fe9932
-
-迅雷：https://pan.xunlei.com/s/VP-82Yp5Xz55AIbXFe2LbqmgA1?pwd=w3a9#
-
-#### 《苏丹的游戏（Sultan's Game）》Build.24704220 中文版
-
-夸克：https://pan.quark.cn/s/41c184b7bd72
-
-迅雷：https://pan.xunlei.com/s/VOpBI7QtZ6grVZoY6gPF8HWcA1?pwd=8s6y#
-
-#### 《超级变色龙（MECCHA CHAMELEON）》v3.7.3 中文 联机版(躲猫猫游戏)
-
-夸克：https://pan.quark.cn/s/258c1f8479d8
-
-迅雷：https://pan.xunlei.com/s/VP-7MKFA2pX0zuT8O6KahTe-A1?pwd=xak9#
-
-#### 《苍翼：混沌效应（BlazBlue Entropy Effect）豪华版》v1.1.1.144942.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/dffcc45a56c8
-
-迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
-
-#### 《PEAK》v2.1.a 中文 联机版（多人合作生存与攀登游戏）
-
-夸克：https://pan.quark.cn/s/f56bd5be8765
-
-迅雷：https://pan.xunlei.com/s/VP-22bQp46nX8Yb2XnPL8KvmA1?pwd=umsc#
 
 ---
 
@@ -403,12 +330,6 @@
 #### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d1d00e8c72d5
-
-#### 《仁王3（Nioh 3）豪华版》v1.07 全DLC 中文 联机版
-#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
-#### 《仁王（Nioh）完全版》v1.24.08 中文版
-
-夸克：https://pan.quark.cn/s/be850af09c63
 
 #### 《小小梦魇3（Little Nightmares 3）豪华版》v2026.6.12 全DLC 中文 联机版（新增DLC）
 #### 《小小梦魇2（Little Nightmares 2）增强版》v1165 全DLC 中文版
@@ -532,6 +453,133 @@
 ---
 
 ## 已有游戏
+
+#### 《illWill》v1.2 中文版（肉鸽射击）
+
+夸克：https://pan.quark.cn/s/3590edb97c6a
+
+#### 《湖之仆从（Servant of the Lake）》v1.5.6 中文版（锈湖新作）
+#### 《锈湖 作品集（Rusty Lake）绣湖 + 逃离方块》14部 最新 中文版
+
+夸克：https://pan.quark.cn/s/08deb6f35ca9
+
+迅雷：https://pan.xunlei.com/s/VO0ERTrFyY8UpmIDS4ESBo0rA1?pwd=3y6m#
+
+#### 《篝火2：未知海岸（The Bonfire 2 Uncharted Shores）》Build.13028893 中文版
+
+夸克：https://pan.quark.cn/s/f338503efb09
+
+迅雷：https://pan.xunlei.com/s/VP-Cx6U2vII4u41UZnshs64BA1?pwd=vkwj#
+
+#### 《斯金尼与弗兰克：暴力之拳（Skinny & Franko Fists of Violence）》v2.0.2 中文版（横屏通关格斗）
+
+夸克：https://pan.quark.cn/s/7809458a277d
+
+迅雷：https://pan.xunlei.com/s/VP-85fpGLRUp42cUPdEx8Y5bA1?pwd=99us#
+
+#### 《柏拉图深空（PLATONICA SPACE）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/c3abbb03df47
+
+迅雷：https://pan.xunlei.com/s/VP-7YpFffGFP8yTfI7tlEVDbA1?pwd=ddyh#
+
+#### 《炽天使之拥（Flock of the Seraphim）》v1.0.0 中文版（肉鸽FPS）
+
+夸克：https://pan.quark.cn/s/eee1c3e81396
+
+迅雷：https://pan.xunlei.com/s/VP-7Tbrkf7WkPekYTZmqk69FA1?pwd=e52v#
+
+#### 《雪葬（Snowed Under）》v1.0.6 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/344f44d69518
+
+迅雷：https://pan.xunlei.com/s/VP-7OZTnc1MQYFdC91SqADw1A1?pwd=t3ei#
+
+#### 《多少兄弟？（How Many Dudes）》Build.24577528 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9f6036938498
+
+迅雷：https://pan.xunlei.com/s/VP-2v-3iDlwlMP3877HynTRRA1?pwd=sjkp#
+
+#### 《静默恐惧：阿瑞斯深渊劫（Static Dread The Submarine）》v20260814 全DLC 中文版
+#### 《静默恐惧：老灯塔十五夜（Static Dread）》v1.2.1 全DLC 中文版（恐怖解密）
+
+夸克：https://pan.quark.cn/s/6deca0e36190
+
+迅雷：https://pan.xunlei.com/s/VOnHWAHd5FqS2M3NKcjRiaBJA1?pwd=kx4v
+
+#### 《恶魔城主宰合集（Castlevania Dominus Collection）》v1.003.001 汉化版
+#### 《恶魔城Advance合集（Castlevania Advance Collection）》v1.0.0 汉化版
+
+夸克：https://pan.quark.cn/s/93e7b2756032
+
+#### 《鬼子母（Hariti）》v2.10.1 中文版（心理恐怖游戏 特恐怖）
+
+夸克：https://pan.quark.cn/s/1a891f24fca2
+
+#### 《碧蓝幻想Relink 无尽黄昏（Granblue Fantasy Relink）特别版》v2.0.4 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/9af2972b02d7
+
+迅雷：https://pan.xunlei.com/s/VNy69t1End8_Ts7us0ZDNtHOA1?pwd=yb72#
+
+#### 《法外枭雄：滚石城（Crime Boss Rockay City）》v1.21.2.0 中文 联机版（法外狂徒）
+
+夸克：https://pan.quark.cn/s/54c0aaad57e2
+
+#### 《末日准备狂（Mr. Prepper）完整版》v1.43g 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/81f218540dd4
+
+迅雷：https://pan.xunlei.com/s/VP-D2vntfGFP8yTfI7tpXhoPA1?pwd=9bcm#
+
+#### 《奥咕和秘密森林（Ogu and the Secret Forest）》v1.4 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/183ab0127f54
+
+迅雷：https://pan.xunlei.com/s/VP-8GVyMaSAUaH732f6h_M1_A1?pwd=x7ts#
+
+#### 《大侠立志传：碧血丹心（Heros Adventure）》v1.2.081275 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1a4fa103227f
+
+迅雷：https://pan.xunlei.com/s/VO0IhA8LA2R6D1dn8o2sLjcoA1?pwd=d7si#
+
+#### 《旅者之憩（Travellers Rest）》v0.7.6.5.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/1f31ce2ea25b
+
+迅雷：https://pan.xunlei.com/s/VP-8AhEV4mQzlkk3Eir4Y-NAA1?pwd=u85j#
+
+#### 《鳄鱼侦探布罗格（BROK the InvestiGator）豪华版》v1.5.6 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/34be69fe9932
+
+迅雷：https://pan.xunlei.com/s/VP-82Yp5Xz55AIbXFe2LbqmgA1?pwd=w3a9#
+
+#### 《苏丹的游戏（Sultan's Game）》Build.24704220 中文版
+
+夸克：https://pan.quark.cn/s/41c184b7bd72
+
+迅雷：https://pan.xunlei.com/s/VOpBI7QtZ6grVZoY6gPF8HWcA1?pwd=8s6y#
+
+#### 《超级变色龙（MECCHA CHAMELEON）》v3.7.3 中文 联机版(躲猫猫游戏)
+
+夸克：https://pan.quark.cn/s/258c1f8479d8
+
+迅雷：https://pan.xunlei.com/s/VP-7MKFA2pX0zuT8O6KahTe-A1?pwd=xak9#
+
+#### 《苍翼：混沌效应（BlazBlue Entropy Effect）豪华版》v1.1.1.144942.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dffcc45a56c8
+
+迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
+
+#### 《PEAK》v2.1.a 中文 联机版（多人合作生存与攀登游戏）
+
+夸克：https://pan.quark.cn/s/f56bd5be8765
+
+迅雷：https://pan.xunlei.com/s/VP-22bQp46nX8Yb2XnPL8KvmA1?pwd=umsc#
 
 #### 《十字军之王3（Crusader Kings III）皇家版》v1.19.0.6 全DLC 中文 联机版
 
@@ -2331,10 +2379,6 @@
 
 夸克：https://pan.quark.cn/s/780e085dd9de
 
-#### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.14.1.19644 中文版
-
-夸克：https://pan.quark.cn/s/652d7102951b
-
 #### 《轮回保险公司（RIP Reincarnation Insurance Program）》v0.8.4 中文版
 
 夸克：https://pan.quark.cn/s/2df93c0d3df0
@@ -2521,12 +2565,6 @@
 
 夸克：https://pan.quark.cn/s/91d0f14892d7
 
-#### 《深海迷航2：异星水域（Subnautica 2）》v0.10.3-115506 中文 联机版
-#### 《深海迷航（Subnautica）终极收藏版》v82304 中文版
-#### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
-
-夸克：https://pan.quark.cn/s/68a01dbea110
-
 #### 《钢铁之种（Steel Seed）》v1.1.0.L 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/09f58c7970de
@@ -2577,12 +2615,6 @@
 #### 《小小王国（Tiny Kingdom）》v1.3.7 中文版
 
 夸克：https://pan.quark.cn/s/9d471c0ec40e
-
-#### 《桥梁建筑师3（Poly Bridge 3）》v1.5.13 全DLC 中文版
-#### 《桥梁建筑师2（Poly Bridge 2）》v1.6.3 全DLC 中文版
-#### 《桥梁建筑师（Poly Bridge）》v1.1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e7a38d40056a
 
 #### 《牧场模拟器（Ranch Simulator）》v1.214s 全DLC 中文 联机版
 
@@ -3303,10 +3335,6 @@ w
 #### 《梦幻魔法公主（Magical Princess）》v1.0.1 中文版
 
 夸克：https://pan.quark.cn/s/a05663731a19
-
-#### 《最后的加油站（The Last Gas Station）》v1.0.0.304 中文版
-
-夸克：https://pan.quark.cn/s/25fa4bbb3c9c
 
 #### 《妖谈2：九尾异闻（Yokai Art 2 Tales of the Nine-Tails）》v1.0.068 中文版
 
@@ -4809,10 +4837,6 @@ w
 
 夸克：https://pan.quark.cn/s/0334a55bd322
 
-#### 《降妖散记（Yao-Guai Hunter）》v1.2.8 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/8272826eda10
-
 #### 《电竞教父（Esports Godfather）》v3.1.37 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/6a594eb4a168
@@ -5878,10 +5902,6 @@ w
 #### 《我们的冒险者公会（Our Adventurer Guild）》v1.7 全DLC 中文版（新增DLC）
 
 夸克：https://pan.quark.cn/s/ed99205bc66b
-
-#### 《灵境修仙界（Spirit Realm）》v0.5.7.0.9 中文版
-
-夸克：https://pan.quark.cn/s/f517933cc043
 
 #### 《星链：阿特拉斯之战（Starlink Battle for Atlas）豪华版》v2025.10.18 全DLC 中文版
 
@@ -11307,10 +11327,6 @@ w
 #### 《熊与早餐（Bear and Breakfast）》v1.8.26 中文版
 
 夸克：https://pan.quark.cn/s/7032053ca39e
-
-#### 《俏皮脸（Sally Face）》v1.5.42 中文版
-
-夸克：https://pan.quark.cn/s/474c3e79bc07
 
 #### 《黑神话：悟空 像素版》v0.1 电脑+安卓
 
