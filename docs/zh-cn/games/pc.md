@@ -57,6 +57,12 @@
 ## 最新添加
 >[!IMPORTANT] 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
+#### 《共鸣：瘟疫传说传承（Resonance A Plague Tale Legacy）》v1.1.0.0 中文配音版（新）
+#### 《瘟疫传说：安魂曲（A Plague Tale Requiem）》v1.6.0.0 全DLC 中文版
+#### 《瘟疫传说：无罪（A Plague Tale Innocence）》v1.07 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/caf21379739d
+
 #### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》v1.0.6 全DLC 中文版
 #### 《刺客信条 影（Assassins Creed Shadows）高级版》v1.1.11 全DLC 中文版
 
@@ -87,6 +93,26 @@
 #### 《恶校游戏（Evil School）》Build.24732893 中文版（真人互动影游）
 
 夸克：https://pan.quark.cn/s/7b7b7fe590f5
+
+#### 《国潮烤冷面传奇（Chinese Street Food Legend）》v1.0.6.3 中文版
+
+夸克：https://pan.quark.cn/s/5d02bb84d073
+
+#### 《度假咖啡厅模拟器（Vacation Cafe Simulator）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/3bc695330c45
+
+#### 《图科尼：森林看护者（Tukoni Forest Keepers）》v1.0.4 中文版
+
+夸克：https://pan.quark.cn/s/68de42af12eb
+
+#### 《犹格索托斯的庭院（Yog Sothoths Yard）》Build.24329824 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/d1d1058c7491
+
+#### 《Boil Cabbage Make Soup》v1.0.1 中文版（桌面放置游戏）
+
+夸克：https://pan.quark.cn/s/54b18c6ecda7
 
 #### 《挖油吧！爸爸（Fuel Harvest Together）》v1.1.0 中文版
 
@@ -7585,7 +7611,7 @@ w
 
 夸克：https://pan.quark.cn/s/33c23d1b5afd
 
-#### 《坦克小队（Tank Squad）》v1.1.1 中文版
+#### 《坦克小队（Tank Squad）》v1.1.1 中文 联机版
 
 夸克：https://pan.quark.cn/s/6b3ffe5170ec
 
@@ -9599,14 +9625,6 @@ w
 #### 《一起开火车！（Unrailed！）》v2.1.399F91AB7 中文 联机版
 
 夸克：https://pan.quark.cn/s/5b43062edf19
-
-#### 《瘟疫传说：安魂曲（A Plague Tale Requiem）》v1.6.0.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/04b8e34771d6
-
-#### 《瘟疫传说：无罪（A Plague Tale Innocence）》v1.07 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/caf21379739d
 
 #### 《FATE 经典四合一 重制版（FATE Reawakened）》v1.0.0 中文版
 
@@ -13576,6 +13594,10 @@ w
 #### 《ReWASD》（xbox手柄映射键盘软件）v7.2.0 中文版
 
 夸克：https://pan.quark.cn/s/56b41a301dfb
+
+#### 《Soundpad》v4.0.29 中文版（以高数字质量在语音聊天中播放声音）
+
+夸克：https://pan.quark.cn/s/43406da8af89
 
 #### 《逃生试炼》没有可联机的学习版，全程联网，不要在问了
 
