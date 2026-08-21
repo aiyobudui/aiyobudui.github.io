@@ -94,6 +94,35 @@
 
 夸克：https://pan.quark.cn/s/7b7b7fe590f5
 
+#### 《少女死神养成计划（Grim Trials）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/bcb483378782
+
+#### 《弹企鹅（PengPong）》v2026.8.21 中文版
+
+夸克：https://pan.quark.cn/s/0bfac55f5762
+
+#### 《喂龙高手 Feed the Scorchpot》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/31e621e2b21c
+
+#### 《旋刃陀螺（Slayblade）》v2026.8.21 中文版
+
+夸克：https://pan.quark.cn/s/f3b472d77a7b
+
+#### 《KOTAMON：妹妹麦片盒开出超稀有卡牌....（KOTAMON）》v2026.8.21 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0cb724f5c1bc
+
+#### 《星之海洋6：神圣力量（STAR OCEAN THE DIVINE FORCE）》v01.01 全DLC 中文版
+#### 《星之海洋2 第二个故事 重制版（STAR OCEAN THE SECOND STORY R）》v1.10 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0b636b6357ce
+
+#### 《牧场主（The Ranchers）》v0.8.10.562 中文 联机版
+
+夸克：https://pan.quark.cn/s/7472bba4abde
+
 #### 《国潮烤冷面传奇（Chinese Street Food Legend）》v1.0.6.3 中文版
 
 夸克：https://pan.quark.cn/s/5d02bb84d073
@@ -181,6 +210,10 @@
 
 ## 最近更新
 
+#### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.10 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/12750d6526a1
+
 #### 《仁王3（Nioh 3）豪华版》v2.00.01 全DLC 中文 联机版
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
@@ -193,10 +226,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
-#### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.9 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/12750d6526a1
-
 #### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v420.696 全DLC 中文 联机版
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 #### 《极限竞速：地平线4（Forza Horizon 6）终极版》v1.477.567 全DLC 中文 联机版
@@ -204,6 +233,14 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《永夜之围（As We Descend）》v0.16.0.0 中文版
+
+夸克：https://pan.quark.cn/s/58c92da50fb0
+
+#### 《坦克小队（Tank Squad）》v1.3.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/6b3ffe5170ec
 
 #### 《灵境修仙界（Spirit Realm）》v0.7.3.9.1 中文版
 
@@ -289,6 +326,14 @@
 夸克：https://pan.quark.cn/s/2c6d507b4571
 
 迅雷：https://pan.xunlei.com/s/VOpBC7WDCVolMOsrbE0vHo9AA1?pwd=uauj#
+
+#### 《古墓丽影 1-3 复刻版（Tomb Raider I-III Remastered）》v2026.8.21 中文版
+#### 《古墓丽影 4-6 复刻版（Tomb Raider IV VI Remastered）》v20250919 中文版
+#### 《古墓丽影9（Tomb Raider）终结版》v1.01.838.0 全DLC 中文版
+#### 《古墓丽影：暗影（Shadow of the Tomb Raider）终结版》v1.0.492.0 全DLC 中文配音版
+#### 《古墓丽影：崛起（Rise of the Tomb Raider）20周年纪念版》v1.0.1.0 全DLC 中文配音版
+
+夸克：https://pan.quark.cn/s/8c417acf572b
 
 ---
 
@@ -716,10 +761,6 @@
 #### 《熔炉密林（Rotwood）》v739860 中文 联机版
 
 夸克：https://pan.quark.cn/s/959e46636cd2
-
-#### 《星之海洋2 第二个故事 重制版（STAR OCEAN THE SECOND STORY R）》v1.10 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/0b636b6357ce
 
 #### 《PAGUI打鬼（PAGUI）豪华版》Build22273686 全DLC 中文版（1+2章完整版 恐怖游戏）
 
@@ -3898,10 +3939,6 @@ w
 
 夸克：https://pan.quark.cn/s/929f0d8cdd2b
 
-#### 《永夜之围（As We Descend）》v0.10.2.0 中文版
-
-夸克：https://pan.quark.cn/s/58c92da50fb0
-
 #### 《天选花园（Chosen Garden）》Build.22429595 中文版
 
 夸克：https://pan.quark.cn/s/2c7cabd400a9
@@ -5129,10 +5166,6 @@ w
 
 夸克：https://pan.quark.cn/s/8664b482f44f
 
-#### 《古墓丽影9（Tomb Raider）终结版》v1.01.838.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/8c417acf572b
-
 #### 《亡魂战纪（Winds Of Arcana Ruination）》v1.201 中文版
 
 夸克：https://pan.quark.cn/s/e5abf7015026
@@ -6337,14 +6370,6 @@ w
 
 夸克：https://pan.quark.cn/s/2ed448707783
 
-#### 《古墓丽影：暗影（Shadow of the Tomb Raider）终结版》v1.0.492.0 全DLC 中文配音版
-
-夸克：https://pan.quark.cn/s/8c417acf572b
-
-#### 《古墓丽影：崛起（Rise of the Tomb Raider）20周年纪念版》v1.0.1.0 全DLC 中文配音版
-
-夸克：https://pan.quark.cn/s/8c417acf572b
-
 #### 《Ara：不为人知的历史（Ara History Untold）周年纪念版》v2.0.0.523 全DLC 中文版（标杆文明的策略游戏）
 
 夸克：https://pan.quark.cn/s/94ab90cbf189
@@ -6476,14 +6501,6 @@ w
 #### 《地狱丧钟（Hell Clock）支持者版》v2025.9.23 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/786a47907fa3
-
-#### 《古墓丽影 1-3 复刻版（Tomb Raider I-III Remastered）》v2025.8.14 中文版
-
-夸克：https://pan.quark.cn/s/8c417acf572b
-
-#### 《古墓丽影 4-6 复刻版（Tomb Raider IV VI Remastered）》v20250919 中文版
-
-夸克：https://pan.quark.cn/s/8c417acf572b
 
 #### 《生化变种（BIOMUTANT）》v1.7.0 全DLC 中文配音版
 
@@ -7610,10 +7627,6 @@ w
 #### 《我来自江湖（From Jianghu）》v0.6.03 中文版
 
 夸克：https://pan.quark.cn/s/33c23d1b5afd
-
-#### 《坦克小队（Tank Squad）》v1.1.1 中文 联机版
-
-夸克：https://pan.quark.cn/s/6b3ffe5170ec
 
 #### 《划划划（PaddlePaddlePaddle）》v1.1.7 中文版（双人游戏）
 
@@ -13412,10 +13425,6 @@ w
 夸克：https://pan.quark.cn/s/587a501e383e
 
 迅雷：https://pan.xunlei.com/s/VNvbMbABxGh6ttTHd1ekUnNYA1?pwd=a9w7#
-
-#### 《古墓丽影 系列合集（Tomb Raider）》11部 最新 全DLC 中文版（暗影 崛起 地下城）
-
-夸克：https://pan.quark.cn/s/8c417acf572b
 
 #### 《极品飞车 系列合集（Need For Speed ）》12部 最新 全DLC 中文版
 
