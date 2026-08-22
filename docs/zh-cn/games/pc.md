@@ -94,6 +94,10 @@
 
 夸克：https://pan.quark.cn/s/7b7b7fe590f5
 
+#### 《酩酊侠盗与报废吸血鬼（Drunken Rogue）》v2026.8.22 中文版
+
+夸克：https://pan.quark.cn/s/51fe792403ba
+
 #### 《少女死神养成计划（Grim Trials）》v1.0 中文版
 
 夸克：https://pan.quark.cn/s/bcb483378782
@@ -143,69 +147,6 @@
 
 夸克：https://pan.quark.cn/s/54b18c6ecda7
 
-#### 《挖油吧！爸爸（Fuel Harvest Together）》v1.1.0 中文版
-
-夸克：https://pan.quark.cn/s/6664f10ffb87
-
-#### 《破晓之墟（Ruins of Dawn）》v1.0.8 中文 联机版
-
-夸克：https://pan.quark.cn/s/19a488b083bd
-
-#### 《章鱼奶爸：致命捕捉（Octodad Dadliest Catch）》v1.2.19338 中文 联机版
-
-夸克：https://pan.quark.cn/s/ab7f7089bcbe
-
-#### 《蒸汽世界（Vapor World Over The Mind）》v0.5.4f2 中文版
-
-夸克：https://pan.quark.cn/s/f2051ab8be12
-
-#### 《井域：喀洛之血（The World Well-Blood of Caro）》v2026.8.19 中文版（视觉小说）
-
-夸克：https://pan.quark.cn/s/dcb355772e6a
-
-#### 《堆叠妖怪（Stackmon）》v9.0.67 中文版
-
-夸克：https://pan.quark.cn/s/908259f5135c
-
-#### 《Exark》v1.00 中文版
-
-夸克：https://pan.quark.cn/s/4b43bea5a5c8
-
-#### 《苏菲的炼金工房 ～不可思议书的炼金术士～ DX》v1.02 中文版
-#### 《菲利丝的炼金工房 ～不可思议旅的炼金术士～ DX》v1.02 中文版
-#### 《莉迪＆苏瑞的炼金工房 ～不可思议绘画的炼金术士～ DX》v1.01 中文版
-#### 《苏菲的炼金工房２ ～不可思议梦的炼金术士～ 豪华版》v1.08 全DLC 中文版
-炼金工房 - 不可思议系列（苏菲线）4部 合集
-
-夸克：https://pan.quark.cn/s/9b850819d647
-
-#### 《超进化精灵2（EvoCreo 2）》v2.4.0 中文版（附安卓版1+2）
-
-夸克：https://pan.quark.cn/s/60798b84928e
-
-#### 《打工火柴人（Stick it to the Stickman）》v0.9 中文版（可双人游玩）
-
-夸克：https://pan.quark.cn/s/ba7f9cea5bfc
-
-#### 《领主争锋（Rising Lords）》v1.5.6 中文版
-
-夸克：https://pan.quark.cn/s/61fb53ba3b99
-
-#### 《无限的迷宫城（Rustil Eternal Labyrinth Castle）》v1.2.3 中文版
-
-夸克：https://pan.quark.cn/s/ec509ff1f7dd
-
-#### 《鲜花与众神（Flowers and Deities）》v1.0.1 中文版
-
-夸克：https://pan.quark.cn/s/01c615572da7
-
-#### 《我们曾到此探险：友谊考验（We Were Here Expeditions The Friendship）》v1.0.3 中文 联机版
-#### 《我们曾永在此（We Were Here Forever）》v1.2.3 全DLC 中文 联机版（我们永远在这里）
-#### 《我们曾一起在这里（We Were Here Together）》v1.7.6 全DLC 中文 联机版
-#### 《我们也曾在此（We Were Here Too）》v1.2.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/4a9da53b8bcd
-
 ---
 
 ## 最近更新
@@ -233,6 +174,10 @@
 夸克：https://pan.quark.cn/s/7c5fdf0323c4
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《米斯特里亚牧场（Fields of Mistria）》v1.0.4 中文版
+
+夸克：https://pan.quark.cn/s/2dd0cd52d441
 
 #### 《永夜之围（As We Descend）》v0.16.0.0 中文版
 
@@ -289,10 +234,6 @@
 #### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v1.056 中文 联机版
 
 夸克：https://pan.quark.cn/s/30510db4b1e9
-
-#### 《米斯特里亚牧场（Fields of Mistria）》v1.0.3 中文版
-
-夸克：https://pan.quark.cn/s/2dd0cd52d441
 
 #### 《鲁特里一家死了（The Roottrees are Dead）》vc639817 中文版
 
@@ -532,6 +473,69 @@
 ---
 
 ## 已有游戏
+
+#### 《挖油吧！爸爸（Fuel Harvest Together）》v1.1.0 中文版
+
+夸克：https://pan.quark.cn/s/6664f10ffb87
+
+#### 《破晓之墟（Ruins of Dawn）》v1.0.8 中文 联机版
+
+夸克：https://pan.quark.cn/s/19a488b083bd
+
+#### 《章鱼奶爸：致命捕捉（Octodad Dadliest Catch）》v1.2.19338 中文 联机版
+
+夸克：https://pan.quark.cn/s/ab7f7089bcbe
+
+#### 《蒸汽世界（Vapor World Over The Mind）》v0.5.4f2 中文版
+
+夸克：https://pan.quark.cn/s/f2051ab8be12
+
+#### 《井域：喀洛之血（The World Well-Blood of Caro）》v2026.8.19 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/dcb355772e6a
+
+#### 《堆叠妖怪（Stackmon）》v9.0.67 中文版
+
+夸克：https://pan.quark.cn/s/908259f5135c
+
+#### 《Exark》v1.00 中文版
+
+夸克：https://pan.quark.cn/s/4b43bea5a5c8
+
+#### 《苏菲的炼金工房 ～不可思议书的炼金术士～ DX》v1.02 中文版
+#### 《菲利丝的炼金工房 ～不可思议旅的炼金术士～ DX》v1.02 中文版
+#### 《莉迪＆苏瑞的炼金工房 ～不可思议绘画的炼金术士～ DX》v1.01 中文版
+#### 《苏菲的炼金工房２ ～不可思议梦的炼金术士～ 豪华版》v1.08 全DLC 中文版
+炼金工房 - 不可思议系列（苏菲线）4部 合集
+
+夸克：https://pan.quark.cn/s/9b850819d647
+
+#### 《超进化精灵2（EvoCreo 2）》v2.4.0 中文版（附安卓版1+2）
+
+夸克：https://pan.quark.cn/s/60798b84928e
+
+#### 《打工火柴人（Stick it to the Stickman）》v0.9 中文版（可双人游玩）
+
+夸克：https://pan.quark.cn/s/ba7f9cea5bfc
+
+#### 《领主争锋（Rising Lords）》v1.5.6 中文版
+
+夸克：https://pan.quark.cn/s/61fb53ba3b99
+
+#### 《无限的迷宫城（Rustil Eternal Labyrinth Castle）》v1.2.3 中文版
+
+夸克：https://pan.quark.cn/s/ec509ff1f7dd
+
+#### 《鲜花与众神（Flowers and Deities）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/01c615572da7
+
+#### 《我们曾到此探险：友谊考验（We Were Here Expeditions The Friendship）》v1.0.3 中文 联机版
+#### 《我们曾永在此（We Were Here Forever）》v1.2.3 全DLC 中文 联机版（我们永远在这里）
+#### 《我们曾一起在这里（We Were Here Together）》v1.7.6 全DLC 中文 联机版
+#### 《我们也曾在此（We Were Here Too）》v1.2.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4a9da53b8bcd
 
 #### 《illWill》v1.2 中文版（肉鸽射击）
 
