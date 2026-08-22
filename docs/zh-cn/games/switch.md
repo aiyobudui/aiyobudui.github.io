@@ -283,7 +283,7 @@
 
 夸克：https://pan.quark.cn/s/fb46d24d7cb7
 
-#### 《最后的信仰 The Last Faith》v1.9.13726.20.65 NS整合 全DLC 中文版
+#### 《最后的信仰 The Last Faith》v1.9.13858.20.4 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/cb22593cf9a2
 
@@ -323,7 +323,7 @@
 
 夸克：https://pan.quark.cn/s/dfb152b9c63a
 
-#### 《忍者神龟 斯普林特的命运》v1.14.0 NS整合 全DLC 美区中文版
+#### 《忍者神龟 斯普林特的命运》v2.0.1 NS整合 全DLC 美区中文版
 
 夸克：https://pan.quark.cn/s/82233b3ad455
 
@@ -579,7 +579,7 @@
 
 夸克：https://pan.quark.cn/s/119c00761869
 
-#### 《幻想生活ｉ 转圈圈的龙和偷取时间的少女》v2.1.0 NS整合 全DLC 中文版
+#### 《幻想生活ｉ 转圈圈的龙和偷取时间的少女》v2.2.0 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/601a22c5b461
 

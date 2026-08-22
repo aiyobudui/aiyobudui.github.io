@@ -94,6 +94,10 @@
 
 夸克：https://pan.quark.cn/s/7b7b7fe590f5
 
+#### 《弹珠时光（Cozy Marbles）》v1.0.0.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/96a7412481ba
+
 #### 《酩酊侠盗与报废吸血鬼（Drunken Rogue）》v2026.8.22 中文版
 
 夸克：https://pan.quark.cn/s/51fe792403ba
@@ -160,6 +164,17 @@
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
 
 夸克：https://pan.quark.cn/s/be850af09c63
+
+#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R.2 Heart of Chornobyl）终极版》v2.0.1 全DLC 中文版
+#### 《潜行者：晴空 增强版（S.T.A.L.K.E.R. Clear Sky - Enhanced Edition）》v1.3 中文版
+#### 《潜行者：普里皮亚季的召唤 增强版（S.T.A.L.K.E.R. Call of Prypiat - Enhanced Edition）》v1.3 中文版
+#### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl - Enhanced Edition）》v1.3 中文版
+
+夸克：https://pan.quark.cn/s/ae92fcbace04
+
+#### 《多重人生（The Alters）豪华版》v2.2.0.72 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9acd136be1ad
 
 #### 《幻兽帕鲁（Palworld）》v1.0.3.101283 全DLC 中文 联机版
 
@@ -375,10 +390,6 @@
 夸克：https://pan.quark.cn/s/744a500cb67e
 
 迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
-
-#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R.2 Heart of Chornobyl）终极版》v1.9 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ae92fcbace04
 
 #### 《博德之门3（Baldur's Gate 3）豪华版》v4.1.1.7209685 全DLC 中文 联机版
 
@@ -6670,10 +6681,6 @@ w
 
 夸克：https://pan.quark.cn/s/b544f8400cfa
 
-#### 《多重人生（The Alters）豪华版》v1.3.0.7 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/9acd136be1ad
-
 #### 《房产达人（House Flipper）》v1.25258 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/bf324abb2ddf
@@ -6797,18 +6804,6 @@ w
 #### 《义闻录：轮回（Echoes of Yi）Samsara）》v16.547 中文版
 
 夸克：https://pan.quark.cn/s/edf409d461c2
-
-#### 《潜行者：晴空 增强版（S.T.A.L.K.E.R. Clear Sky - Enhanced Edition）》v1.3 中文版
-
-夸克：https://pan.quark.cn/s/3a834bd68de5
-
-#### 《潜行者：普里皮亚季的召唤 增强版（S.T.A.L.K.E.R. Call of Prypiat - Enhanced Edition）》v1.3 中文版
-
-夸克：https://pan.quark.cn/s/c83f1ff3ea77
-
-#### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl - Enhanced Edition）》v1.3 中文版
-
-夸克：https://pan.quark.cn/s/d2f57f3d9d7f
 
 #### 《驱逐舰：U型艇猎手（Destroyer The U-Boat Hunter）》v1.0.13 全DLC 中文版
 
@@ -10503,7 +10498,7 @@ w
 
 夸克：https://pan.quark.cn/s/484186d9b567
 
-#### 《奥特曼格斗进化3》日语版（附两款PS2模拟器）
+#### 《奥特曼格斗进化》日语 汉化版（附两款PS2模拟器）
 
 夸克：https://pan.quark.cn/s/f82ed84389c4
 
