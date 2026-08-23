@@ -18,11 +18,17 @@
 
 ## 正在更新中的...
 
-#### 《九门》（2026）4K 30集 更新中..（老九门2 附第一部）
+#### 《九门》（2026）4K 30集全（老九门2 附第一部）
 
 夸克：https://pan.quark.cn/s/c977197bad6f
 
 迅雷：https://pan.xunlei.com/s/VOz_u1OnlIzXh_bX3c_JNULhA1?pwd=92cx#
+
+#### 《重器》（2023）4K 33集全
+
+夸克：https://pan.quark.cn/s/8d19d2ded9f4
+
+迅雷：https://pan.xunlei.com/s/VP-idbgjWxAhrfVEdHc1Xnb5A1?pwd=jfx5#
 
 #### 《南部档案》（2026）4K 33集全
 
@@ -404,7 +410,7 @@
 
 夸克：https://pan.quark.cn/s/f952be1fe055
 
-#### 《凡人修仙传》（2025）4K 60帧 30集全（杨洋 金晨）真人版
+#### 《凡人修仙传 真人版》（2025）4K 60帧 30集全（杨洋 金晨）
 
 夸克：https://pan.quark.cn/s/9fa0207dfdd4
 
