@@ -82,17 +82,16 @@
 
 夸克：https://pan.quark.cn/s/a3682965a994
 
-#### 《绍宋 还我河山（Shao Song I）》v1.0.1 中文版（真人互动影游）
+#### 《渔力全开（How to Fish）》v1.0.4 中文 联机版
 
-夸克：https://pan.quark.cn/s/e21babb10887
+夸克：https://pan.quark.cn/s/5c5c8450de1f
 
-#### 《不心动才有鬼（DontBlush）》v2026.8.19 中文版（真人互动影游）
+迅雷：https://pan.xunlei.com/s/VP-hEn85uB7GTuoW8JB4PM6IA1?pwd=bsak#
 
-夸克：https://pan.quark.cn/s/d38de60460f6
+#### 《恶魔城：暗影之王2（Castlevania Lords of Shadow 2）》v1.0.0.1u1 全DLC 汉化版
+#### 《恶魔城：暗影之王 终极版（Castlevania Lords of Shadow）》v1.0.2.9u2 汉化版
 
-#### 《恶校游戏（Evil School）》Build.24732893 中文版（真人互动影游）
-
-夸克：https://pan.quark.cn/s/7b7b7fe590f5
+夸克：https://pan.quark.cn/s/871a0a063065
 
 #### 《弹珠时光（Cozy Marbles）》v1.0.0.7 全DLC 中文版
 

@@ -33,6 +33,18 @@
 ---
 > 靠前的是新添加的
 
+#### 《绍宋 还我河山（Shao Song I）》v1.0.1 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/e21babb10887
+
+#### 《不心动才有鬼（DontBlush）》v2026.8.19 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/d38de60460f6
+
+#### 《恶校游戏（Evil School）》Build.24732893 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/7b7b7fe590f5
+
 #### 《女王的游戏：盛世天下 媚娘篇（Road to Empress）》Build.22921822 全DLC 中文版（真人互动影游）
 
 夸克：https://pan.quark.cn/s/cdd597341b60
