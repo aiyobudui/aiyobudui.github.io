@@ -99,12 +99,6 @@
 
 夸克：https://pan.quark.cn/s/d9e2226c617e
 
-#### 《渔力全开（How to Fish）》v1.0.4 中文 联机版
-
-夸克：https://pan.quark.cn/s/5c5c8450de1f
-
-迅雷：https://pan.xunlei.com/s/VP-hEn85uB7GTuoW8JB4PM6IA1?pwd=bsak#
-
 #### 《恶魔城：暗影之王2（Castlevania Lords of Shadow 2）》v1.0.0.1u1 全DLC 汉化版
 #### 《恶魔城：暗影之王 终极版（Castlevania Lords of Shadow）》v1.0.2.9u2 汉化版
 
@@ -199,6 +193,22 @@
 #### 《多重人生（The Alters）豪华版》v2.2.0.72 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9acd136be1ad
+
+#### 《渔力全开（How to Fish）》v1.0.8 中文 联机版
+
+夸克：https://pan.quark.cn/s/5c5c8450de1f
+
+迅雷：https://pan.xunlei.com/s/VP-hEn85uB7GTuoW8JB4PM6IA1?pwd=bsak#
+
+#### 《哥特王朝 重制版（Gothic 1 Remake）豪华版》v171864 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6b03eda75ca7
+
+#### 《恐怖黎明（Grim Dawn）终极版》v1.3.0.8 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/91d30f5fbea2
+
+迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
 
 #### 《维修物语（ReStory）支持者版》v1.0.015r 中文版
 
@@ -840,12 +850,6 @@
 #### 《心之眼（MindsEye）豪华版》v8121192 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/1d8bcee97d85
-
-#### 《恐怖黎明（Grim Dawn）终极版》v1.3.0.6 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/91d30f5fbea2
-
-迅雷：https://pan.xunlei.com/s/VNzA06ijDsFC4ZqaaK5pCVYxA1?pwd=7wdr#
 
 #### 《堕落之主（Lords of the Fallen）豪华版》v2.5.567 全DLC 中文版
 
@@ -1515,10 +1519,6 @@
 #### 《终末机兵（NITRO GEN OMEGA）》v1.3.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/4a99ffe1a8dc
-
-#### 《哥特王朝 重制版（Gothic 1 Remake）》v170857 中文版
-
-夸克：https://pan.quark.cn/s/6b03eda75ca7
 
 #### 《超英派遣中心（Dispatch）豪华版》v1.0.17912 全DLC 中文版（完整版）
 
