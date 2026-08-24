@@ -167,6 +167,14 @@
 
 夸克：https://pan.quark.cn/s/54b18c6ecda7
 
+#### 《玩具熊的五夜后宫：安全漏洞（Five Nights at Freddy's Security Breach）》v1.0.20230809 全DLC 中文版
+#### 《玩具熊的五夜后宫：模仿者的秘密（Five Nights at Freddy's Secret of the Mimic）》v1.0.2026 中文版
+#### 《玩具熊的五夜惊魂：陷落球池（Five Nights at Freddy's：Into the Pit）》v1.0.11.6a 中文版
+#### 《玩具熊的五夜后宫 求救（Five Nights at Freddy's：Help Wanted）》1-2部 最新 中文版
+#### 《玩具熊的五夜惊魂》1-4代 最新 英文版
+
+夸克：https://pan.quark.cn/s/610850ab3513
+
 ---
 
 ## 最近更新
@@ -211,6 +219,12 @@
 夸克：https://pan.quark.cn/s/cf680d575749
 
 迅雷：https://pan.xunlei.com/s/VNtKlm0t9Cfpnuk-BzvaR45OA1?pwd=g3qz#
+
+#### 《根本没有游戏（There is no game Wrong Dimension）》Build.20574409 中文版（这里没有游戏 错误维度）
+
+夸克：https://pan.quark.cn/s/4b5b38788f2d
+
+迅雷：https://pan.xunlei.com/s/VP-mIr5Iowu4QSSNi0xAQTDWA1?pwd=2j9e#
 
 #### 《幻兽帕鲁（Palworld）》v1.0.3.101283 全DLC 中文 联机版
 
@@ -1460,13 +1474,6 @@
 夸克：https://pan.quark.cn/s/5a5272a9a4ba
 
 迅雷：https://pan.xunlei.com/s/VNwQI4byH3lpIbSUeQ2ABQXCA1?pwd=zjjb#
-
-#### 《玩具熊的五夜后宫：模仿者的秘密（Five Nights at Freddy's Secret of the Mimic）》v1.0.2026 中文版
-#### 《玩具熊的五夜惊魂：陷落球池（Five Nights at Freddys：Into the Pit）》v1.0.11.6a 中文版
-#### 《玩具熊的五夜后宫 求救（Five Nights at Freddys：Help Wanted）》1-2部 最新 中文版
-#### 《玩具熊的五夜惊魂》1-4代 最新 英文版
-
-夸克：https://pan.quark.cn/s/610850ab3513
 
 #### 《空之轨迹 the 1st（Sora no Kiseki the 1st）重制版》v1.06.4 全DLC 中文版（空之轨迹FC）
 #### 《英雄传说 闪之轨迹1 改（–Thors Military Academy 1204–）》Build.16251270 全DLC 中文版
@@ -10499,10 +10506,6 @@ w
 #### 《车祸英雄（Turbo Dismount）》v1.33.0 英文版
 
 夸克：https://pan.quark.cn/s/762f15ed5bda
-
-#### 《这里没有游戏 错误维度（There is no game Wrong Dimension）》v1.0.33 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4b5b38788f2d
 
 #### 《绯红结系（Scarlet Nexus）》v1.08 中文版
 
