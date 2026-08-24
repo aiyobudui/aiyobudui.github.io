@@ -82,6 +82,23 @@
 
 夸克：https://pan.quark.cn/s/a3682965a994
 
+#### 《神探夏洛克：暗夜追踪者（Detective Sherlock Shadow Stalker）》v1.1.0 中文版
+
+夸克：https://pan.quark.cn/s/8c7bd9289e8f
+
+#### 《命运石之门 RE BOOT（STEINS;GATE RE:BOOT）》Build.24796682 中文版
+#### 《命运石之门 精英（STEINS;GATE ELITE）》v3591620 中文版
+#### 《命运石之门（STEINS;GATE）》Build.4434295 中文版
+#### 《命运石之门 线形拘束的表征图（STEINS;GATE Linear Bounded Phenogram）》Build.4152261 汉化版
+#### 《命运石之门 比翼恋理的爱人（STEINS;GATE My Darlings Embrace）》Build.5491638 汉化版
+#### 《命运石之门 0（STEINS;GATE 0）》Build.12814074 中文版
+
+夸克：https://pan.quark.cn/s/43ce92b0fa1a
+
+#### 《水上乐园模拟器（Waterpark Simulator）》v1.0.67 中文版
+
+夸克：https://pan.quark.cn/s/d9e2226c617e
+
 #### 《渔力全开（How to Fish）》v1.0.4 中文 联机版
 
 夸克：https://pan.quark.cn/s/5c5c8450de1f
@@ -174,6 +191,26 @@
 #### 《多重人生（The Alters）豪华版》v2.2.0.72 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9acd136be1ad
+
+#### 《维修物语（ReStory）支持者版》v1.0.015r 中文版
+
+夸克：https://pan.quark.cn/s/4b5ae5c414f2
+
+迅雷：https://pan.xunlei.com/s/VP-m87u9Fo0ZWyd6kfYGJNCPA1?pwd=3e42#
+
+#### 《月光岭物语（Moonlight Peaks）》v1.2.6 中文版
+
+夸克：https://pan.quark.cn/s/1860940ccd61
+
+#### 《厨师物语（Chef RPG）》v0.8.5 汉化中文版
+
+夸克：https://pan.quark.cn/s/5250e773d134
+
+#### 《泰拉瑞亚（Terraria）》v1.4.5.8 中文 联机版 + ModLoader模组版（附安卓）
+
+夸克：https://pan.quark.cn/s/cf680d575749
+
+迅雷：https://pan.xunlei.com/s/VNtKlm0t9Cfpnuk-BzvaR45OA1?pwd=g3qz#
 
 #### 《幻兽帕鲁（Palworld）》v1.0.3.101283 全DLC 中文 联机版
 
@@ -871,10 +908,6 @@
 #### 《梦塔比（Montabi）豪华版》v1.0.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/c74fdad965c5
-
-#### 《维修物语（ReStory）支持者版》v1.0.005r 中文版
-
-夸克：https://pan.quark.cn/s/4b5ae5c414f2
 
 #### 《鼠鼠餐厅（Restaurats）》v0.20.5.9 全DLC 中文版
 
@@ -1771,10 +1804,6 @@
 #### 《东京女武神（Tokyo Valkyries）》v1.0.0 中文版（卡牌肉鸽）
 
 夸克：https://pan.quark.cn/s/5b535a3dc9a7
-
-#### 《月光岭物语（Moonlight Peaks）》v2026.7.8 中文版
-
-夸克：https://pan.quark.cn/s/1860940ccd61
 
 #### 《火鹰FPV：无人机战争模拟器（Firehawk FPV Drone Warfare Simulator）》v2026.7.4 中文版
 
@@ -3671,12 +3700,6 @@ w
 
 迅雷：https://pan.xunlei.com/s/VO-qGE01k6b9MXolZWZd-hWgA1?pwd=5mgw#
 
-#### 《泰拉瑞亚（Terraria）》v1.4.5.6 中文 联机版 + ModLoader模组版（附安卓）
-
-夸克：https://pan.quark.cn/s/cf680d575749
-
-迅雷：https://pan.xunlei.com/s/VNtKlm0t9Cfpnuk-BzvaR45OA1?pwd=g3qz#
-
 #### 《黑道圣徒3 重制版（Saints Row The Third Remastered）》v9 汉化版+联机版
 #### 《黑道圣徒：逃出地狱（Saints Row Gat out of Hell》v1.0u2 汉化版（支持联机）
 #### 《黑道圣徒 重启版（Saints Row 2022）黄金版》v1.6.1.4735700 中文 联机版(Radmin LAN联机)
@@ -4199,14 +4222,6 @@ w
 夸克：https://pan.quark.cn/s/30577a4df1e0
 
 迅雷：https://pan.xunlei.com/s/VOo5KMz6gNDQ26U2YdoA0IIRA1?pwd=ufag#
-
-#### 《命运石之门 精英（STEINS GATE ELITE）》v3591620 中文版
-#### 《命运石之门（STEINS GATE）》Build.4434295 中文版
-#### 《命运石之门 线形拘束的表征图（STEINS GATE Linear Bounded Phenogram）》Build.4152261 汉化版
-#### 《命运石之门 比翼恋理的爱人（STEINS GATE My Darlings Embrace）》Build.5491638 汉化版
-#### 《命运石之门 0（STEINS GATE 0）》Build.12814074 中文版
-
-夸克：https://pan.quark.cn/s/43ce92b0fa1a
 
 #### 《往日不再：破碎之路 重制版（Days Gone Broken Road）》v1.36.187.0 全DLC 中文版
 
@@ -11574,10 +11589,6 @@ w
 #### 《爆笑三国（The Hilarious Three Kingdoms）》v2024.9.23 中文版
 
 夸克：https://pan.quark.cn/s/33faffbfb5a3
-
-#### 《厨师物语（Chef RPG）》v0.5 汉化中文版
-
-夸克：https://pan.quark.cn/s/5250e773d134
 
 #### 《勇敢小骑士（The Plucky Squire）》v1.11 中文版
 
