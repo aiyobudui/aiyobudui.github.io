@@ -82,6 +82,12 @@
 
 夸克：https://pan.quark.cn/s/a3682965a994
 
+#### 《Big Walk》v1.4.10 中文 联机版
+
+夸克：https://pan.quark.cn/s/704f84f6ff2a
+
+迅雷：https://pan.xunlei.com/s/VP-rjjUwUWuABkjis3n9f1yJA1?pwd=7q6i#
+
 #### 《神探夏洛克：暗夜追踪者（Detective Sherlock Shadow Stalker）》v1.1.0 中文版
 
 夸克：https://pan.quark.cn/s/8c7bd9289e8f
@@ -189,6 +195,15 @@
 #### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl - Enhanced Edition）》v1.3 中文版
 
 夸克：https://pan.quark.cn/s/ae92fcbace04
+
+#### 《我独自升级：起立觉醒（Solo Leveling ARISE OVERDRIVE）豪华版》v1.1.93 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6d6532985d59
+
+#### 《杀戮空间3（Killing Floor 3）精英暮光版》Build.24621638 全DLC 中文版（恐怖射击）
+#### 《杀戮空间2（Killing Floor 2）》v1150 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/02ab4ad5f5ea
 
 #### 《多重人生（The Alters）豪华版》v2.2.0.72 全DLC 中文版
 
@@ -2283,10 +2298,6 @@
 夸克：https://pan.quark.cn/s/f961d5992bd3
 
 迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
-
-#### 《我独自升级：起立觉醒（Solo Leveling ARISE OVERDRIVE）豪华版》v1.1.89 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/6d6532985d59
 
 #### 《巫师3 狂猎 次时代版（The Witcher 3: Wild Hunt）完全版》v4.04H3 全DLC 中文配音版
 
@@ -4384,11 +4395,6 @@ w
 #### 《崛起3 泰坦之王（Risen 3 Titan Lords）》v1.2ee 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/b459c82f9841
-
-#### 《杀戮空间2（Killing Floor 2）》v1150 全DLC 中文 联机版
-#### 《杀戮空间3（Killing Floor 3）》Build.19273238 全DLC 中文版（恐怖射击）
-
-夸克：https://pan.quark.cn/s/02ab4ad5f5ea
 
 #### 《歪小子斯科特（Scott Pilgrim EX）》v1.0.0.13995 中文版（轻动作冒险）
 
