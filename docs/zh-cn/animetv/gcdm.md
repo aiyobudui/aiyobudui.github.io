@@ -67,6 +67,13 @@
 
 迅雷：https://pan.xunlei.com/s/VOzlIWM7UpqeSt4W6Q1dU-lGA1?pwd=v59c#
 
+
+#### 《一斩苍穹》（2026）4K 更新中..
+
+夸克：https://pan.quark.cn/s/873107ac3cf8
+
+迅雷：https://pan.xunlei.com/s/VP-tTJu7yMVAA-SK9qcpLLG4A1?pwd=r3i5#
+
 ---
 
 ## 周三

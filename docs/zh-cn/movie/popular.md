@@ -39,6 +39,12 @@
 
 夸克：https://pan.quark.cn/s/f158262d694a
 
+#### 《震耳欲聋》（2026）4K
+
+夸克：https://pan.quark.cn/s/30d2d2d173ab
+
+迅雷：https://pan.xunlei.com/s/VP-sXH3HRGKMzdFGNt2K53i8A1?pwd=knuh#
+
 #### 《10间敢死队》 (2026）4K
 
 夸克：https://pan.quark.cn/s/6cde299b898c
