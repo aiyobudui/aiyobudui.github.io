@@ -461,61 +461,12 @@ main>.content {
   color: rgba(59, 130, 246, 0.6);
 }
 
-/* 桌面端搜索按钮（site.js 注入到 .input-wrap 内）：仅「回车 / 点按钮」才触发搜索，
-   输入框右侧需同时容纳 搜索按钮 + 官方 clear-button，故右侧 padding 加大。 */
-.sidebar .search input {
-  padding-inline-end: 62px;
-}
+/* 桌面端搜索改为「停止输入后延迟自动搜索」（见 site.js enhanceSearchDebounce），
+   不再有显式搜索按钮，输入框右侧仅需给官方 clear-button（X）留位（见上方 padding-inline-end: 40px）。 */
 
-.sidebar .search .search-submit-btn {
-  position: absolute;
-  top: 50%;
-  right: 35px;
-  translate: 0 -50%;
-  /* 与官方 clear-button（X）保持完全一致的尺寸：20px 高，padding 1px 6px，视觉高度对齐 */
-  height: 20px;
-  padding: 1px 6px;
-  margin: 0;
-  border: 0 none;
-  outline: none;
-  box-shadow: none;
-  border-radius: 3px;
-  background: #3b82f6;
-  color: #fff;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1;
-  letter-spacing: 0.02em;
-  cursor: pointer;
-  /* 彻底去掉浏览器原生 button 外观（描边/凸起等） */
-  -webkit-appearance: none;
-  appearance: none;
-  /* 与官方 clear-button（X）同步显隐：初始隐藏，输入框有内容时才出现 */
-  visibility: hidden;
-  opacity: 0;
-  transition: background-color var(--ui-transition), box-shadow var(--ui-transition),
-    opacity var(--ui-transition), visibility var(--ui-transition);
-  z-index: 2;
-}
-
-/* 输入框有内容时（与 X 按钮显隐机制一致），显示搜索按钮 */
-.sidebar .search:has(input[type="search"]:not(:placeholder-shown)) .search-submit-btn {
-  visibility: visible;
-  opacity: 1;
-}
-
-.sidebar .search .search-submit-btn:hover {
-  background: #2f6fe0;
-  box-shadow: 0 2px 5px rgba(59, 130, 246, 0.35);
-}
-
-.sidebar .search .search-submit-btn:active {
-  background: #2a63c9;
-}
-
-/* 已有显式「搜索」按钮 + 回车触发，侧边栏搜索框里的快捷键提示（/ ⌃K）冗余且会与按钮重叠，隐藏之 */
+/* 快捷键提示（/ ⌃K）：恢复 docsify 默认显示，提示用户聚焦搜索框的快捷键 */
 .sidebar .search .kbd-group {
-  display: none !important;
+  display: inline-block;
 }
 
 @keyframes search-in {

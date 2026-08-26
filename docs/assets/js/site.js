@@ -185,65 +185,51 @@ function addCategoryToSearchResults() {
     });
 }
 
-// 桌面端搜索改为「回车 / 点击搜索按钮才搜索」：官方 search 插件只支持 input 即时搜索（100ms 防抖），
+// 桌面端搜索改为「停止输入后延迟自动搜索」：官方 search 插件原生是 input 即时搜索（约 100ms 防抖，无配置项），
 // 每次 input 都触发全量索引遍历 + 正则匹配，索引量大时边打字边卡。这里在 document 捕获阶段拦截官方搜索框
-// （.search input[type=search]）的真实 input 事件，阻止官方即时搜索；仅在用户按 Enter 或点击我们注入的搜索
-// 按钮时，派发一次带 __bypass 标志的放行 input 事件让官方执行搜索。该模式下不再需要防抖（回车/点击只发生一次）。
-// 不修改官方 CDN 文件，纯前端、可撤销；__bypass 标志区分「用户真实输入」与「我们主动派发的放行事件」。
-function enhanceSearchEnterTrigger() {
-    if (window.__searchEnterEnhanced) return;
-    // 注意：不在这里立即置标志，等搜索框确实出现并完成注入后再置，避免「假完成」导致后续不再重试。
+// （.search input[type=search]）的真实 input 事件，阻止官方即时搜索；仅在用户停止输入 SEARCH_DEBOUNCE_MS 毫秒后，
+// 才派发一次带 __bypass 标志的放行 input 事件让官方执行搜索（相当于把响应延迟调大，避免边打字边卡）。
+// __bypass 标志区分「用户真实输入」与「我们主动派发的放行事件」。不修改官方 CDN 文件，纯前端、可撤销。
+var SEARCH_DEBOUNCE_MS = 400;
+function enhanceSearchDebounce() {
+    if (window.__searchDebounceEnhanced) return;
+    // 注意：不在这里立即置标志，等搜索框确实出现后再置，避免「假完成」导致后续不再重试。
 
-    // 1) document 级拦截监听直接安装（不依赖搜索框是否存在）：捕获阶段先于官方监听器，
-    //    仅当事件目标确为官方搜索框时才拦截/放行，其它 input 不受影响。
+    var debounceTimer = null;
+
+    // document 级拦截监听直接安装（不依赖搜索框是否存在）：捕获阶段先于官方监听器，
+    // 仅当事件目标确为官方搜索框时才拦截/放行，其它 input 不受影响。
     document.addEventListener('input', function (e) {
         var t = e.target;
         if (!t || !t.matches || !t.matches('.search input[type="search"]')) return;
-        if (e.__bypass) return;        // 我们自己派发的放行事件（按钮/回车/手机端）：继续传播到官方监听器
+        if (e.__bypass) return;        // 我们自己派发的放行事件：继续传播到官方监听器
         e.stopPropagation();           // 拦截：不让官方在每次输入时搜索
-    }, true);
-
-    document.addEventListener('keydown', function (e) {
-        var t = e.target;
-        if (!t || !t.matches || !t.matches('.search input[type="search"]')) return;
-        if (e.key === 'Enter') {
+        // 防抖：停止输入 SEARCH_DEBOUNCE_MS 后才放行一次
+        if (debounceTimer) clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(function () {
             var evt = new Event('input', { bubbles: true });
             evt.__bypass = true;
             t.dispatchEvent(evt);
-        }
-    });
+        }, SEARCH_DEBOUNCE_MS);
+    }, true);
 
-    // 2) 注入搜索按钮（若尚未注入）：等待官方 .search input 出现后注入，最多重试 ~5s。
-    function injectSubmitBtn(retry) {
-        var searchInput = document.querySelector('.search input[type="search"]');
-        if (!searchInput) {
-            if (retry > 0) return setTimeout(function () { injectSubmitBtn(retry - 1); }, 200);
-            return; // 超时仍无搜索框，放弃注入（回车仍可搜）
+    // 等待官方 .search input 出现后置位标志（仅用于避免重复初始化），最多重试 ~5s
+    function markReady(retry) {
+        if (document.querySelector('.search input[type="search"]')) {
+            window.__searchDebounceEnhanced = true;
+            return;
         }
-        window.__searchEnterEnhanced = true; // 标志仅在搜索框确实出现并设置完成后置位
-        var inputWrap = searchInput.closest('.input-wrap');
-        if (inputWrap && !inputWrap.querySelector('.search-submit-btn')) {
-            var btn = document.createElement('button');
-            btn.type = 'button';
-            btn.className = 'search-submit-btn';
-            btn.textContent = '🔍';
-            inputWrap.appendChild(btn);
-            btn.addEventListener('click', function () {
-                var evt = new Event('input', { bubbles: true });
-                evt.__bypass = true;
-                searchInput.dispatchEvent(evt);
-            });
-        }
+        if (retry > 0) return setTimeout(function () { markReady(retry - 1); }, 200);
     }
-    injectSubmitBtn(25);
+    markReady(25);
 }
 
 function initSearchObserver() {
-    enhanceSearchEnterTrigger();
+    enhanceSearchDebounce();
 
     var searchInput = document.querySelector('.search input[type="search"]');
     if (searchInput) {
-        // 真实 input 事件已被 enhanceSearchEnterTrigger 拦截（不再触发官方即时搜索），
+        // 真实 input 事件已被 enhanceSearchDebounce 拦截（不再触发官方即时搜索），
         // 分类标签改由下方 MutationObserver 在结果渲染后兜底添加。
         searchInput.addEventListener('focus', function () {
             setTimeout(addCategoryToSearchResults, 300);
@@ -373,7 +359,7 @@ document.addEventListener('DOMContentLoaded', function () {
             if (searchInput) {
                 searchInput.value = keyword;
                 var evt = new Event('input', { bubbles: true });
-                evt.__bypass = true; // 标记为放行事件，跳过 enhanceSearchEnterTrigger 的拦截（否则手机端搜索被吞）
+                evt.__bypass = true; // 标记为放行事件，跳过 enhanceSearchDebounce 的拦截（否则手机端搜索被吞）
                 searchInput.dispatchEvent(evt);
             }
         } catch (e) {
