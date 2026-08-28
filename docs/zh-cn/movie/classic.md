@@ -20,6 +20,12 @@
 
 ---
 
+#### 《毒舌律师》（2023）1080P 国粤语版本
+
+夸克：https://pan.quark.cn/s/838a1e64011d
+
+迅雷：https://pan.xunlei.com/s/VP00mesYz4tnVcsC6DUSv7SqA1?pwd=aknz#
+
 #### 《无双》（2018）4K 60帧 国粤双音轨
 
 夸克：https://pan.quark.cn/s/3b8f391fd42c

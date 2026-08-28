@@ -82,6 +82,38 @@
 
 夸克：https://pan.quark.cn/s/a3682965a994
 
+#### 《卢湖采风（Lou's Lagoon）豪华版》v1.0.4 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b2bf7071707b
+
+迅雷：https://pan.xunlei.com/s/VP05D6YXAslWfb9gld0gBsHJA1?pwd=e842#
+
+#### 《异形：火力精英2（Aliens Fireteam Elite 2）40周年纪念版》v1.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d4102b2a6cbd
+
+#### 《星球大战 零号连队（STAR WARS Zero Company）豪华版》Build.24874058 中文版
+
+夸克：https://pan.quark.cn/s/02ba270b5aed
+
+#### 《Fell & Sell》v1.0.2 中文版（地下城垃圾佬 Fell Sell）
+
+夸克：https://pan.quark.cn/s/642edfcc09e0
+
+迅雷：https://pan.xunlei.com/s/VP052-sfueRQx9YeTwWwt42vA1?pwd=uxpx#
+
+#### 《致命利爪（Fatal Claw）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/aa5eeede5b34
+
+迅雷：https://pan.xunlei.com/s/VP02h2Ec083ZKrebWxK7rV85A1?pwd=bup8#
+
+#### 《鹰派大统领（Anomaly President）》Build.24842781 中文版
+
+夸克：https://pan.quark.cn/s/93a5799c9799
+
+迅雷：https://pan.xunlei.com/s/VP00r72ySv_xM3NTm5A4XT4_A1?pwd=cb5i#
+
 #### 《Smashing Bottles》Build.24901317 中文版（砸碎瓶子）
 
 夸克：https://pan.quark.cn/s/1372b4af539d
@@ -118,6 +150,42 @@
 #### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl - Enhanced Edition）》v1.3 中文版
 
 夸克：https://pan.quark.cn/s/ae92fcbace04
+
+#### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.17.1.21213 中文版
+
+夸克：https://pan.quark.cn/s/652d7102951b
+
+#### 《渔力全开（How to Fish）》v1.0.8 中文 联机版
+
+夸克：https://pan.quark.cn/s/5c5c8450de1f
+
+迅雷：https://pan.xunlei.com/s/VP-hEn85uB7GTuoW8JB4PM6IA1?pwd=bsak#
+
+#### 《战锤40K 战争黎明（Warhammer 40000 Dawn of War）终极版》v2.10.2.4 中文版
+
+夸克：https://pan.quark.cn/s/e1c5f7d8f320
+
+#### 《吸血鬼幸存者（Vampire Survivors）》v1.15.114 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/e5f5a356a959
+
+迅雷：https://pan.xunlei.com/s/VP02hsB4xsSQG09EW5p2AcI9A1?pwd=e4ku#
+
+#### 《真菌朋克（Mycopunk）》v1.10 中文 联机版
+
+夸克：https://pan.quark.cn/s/3e8a106b2cea
+
+#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v14.1.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5ff61a149151
+
+迅雷：https://pan.xunlei.com/s/VO66AjKFj2GlFllW69pKVBa8A1?pwd=uerd#
+
+#### 《下一站江湖2（Next Jianghu II）》v2026.8.26 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c42507f81cff
+
+迅雷：https://pan.xunlei.com/s/VNw04l4vfz6guXqO8J148A1-A1?pwd=h5v6#
 
 #### 《风启之旅（Windrose）》v0.10.0.9.32 中文 联机版
 
@@ -159,12 +227,6 @@
 #### 《多重人生（The Alters）豪华版》v2.2.0.72 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9acd136be1ad
-
-#### 《渔力全开（How to Fish）》v1.0.8 中文 联机版
-
-夸克：https://pan.quark.cn/s/5c5c8450de1f
-
-迅雷：https://pan.xunlei.com/s/VP-hEn85uB7GTuoW8JB4PM6IA1?pwd=bsak#
 
 #### 《哥特王朝 重制版（Gothic 1 Remake）豪华版》v171864 全DLC 中文版
 
@@ -441,10 +503,6 @@
 #### 《降妖散记（Yao-Guai Hunter）》v1.2.10 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8272826eda10
-
-#### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.16.1.20783 中文版
-
-夸克：https://pan.quark.cn/s/652d7102951b
 
 #### 《消防模拟：火苗燃动（Firefighting Simulator Ignite）首年版》v1.0062.35120.105417 全DLC 中文版
 
@@ -1019,21 +1077,17 @@
 
 夸克：https://pan.quark.cn/s/406d8cbaf1e6
 
-#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v14.0.0.1 全DLC 中文版
 #### 《战锤40K 机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版
 #### 《战锤40K 星际战士 大师锻造版》v1.0.1041.4326 全DLC 汉化版
 #### 《战锤40K 星际战士（Warhammer 40000 Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
 #### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
 #### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
-#### 《战锤40K 战争黎明 终极版（Warhammer 40000 Dawn of War）终极版》v2025.8.15 中文版
 #### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
 #### 《战锤40K 爆矢枪（Warhammer 40000 Boltgun）豪华版》v1.22.68871.3 全DLC 中文版
 #### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）完整版》v1.18.3 全DLC 中文版
 #### 《战锤 末世鼠疫2（Warhammer Vermintide 2）豪华版》v5.5.7 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/42d400d7daa0
-
-迅雷：https://pan.xunlei.com/s/VO66AjKFj2GlFllW69pKVBa8A1?pwd=uerd#
 
 #### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.2018 全DLC 中文版
 
@@ -1559,7 +1613,7 @@
 
 夸克：https://pan.quark.cn/s/8add1c4c0385
 
-迅雷：https://pan.xunlei.com/s/VOnglr4I5yoJreAETAJ2UUcbA1?pwd=wy63
+迅雷：https://pan.xunlei.com/s/VOnglr4I5yoJreAETAJ2UUcbA1?pwd=wy63#
 
 #### 《Go-Go Town!》v1.0.25831 中文版（城市建设和双人协作）
 
@@ -3348,12 +3402,6 @@ w
 #### 《萨妮羊研究室（Sani Yang's Laboratory）》v20260508 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/fd2f2389fa35
-
-#### 《下一站江湖2（Next Jianghu II）》v1.1.64(54) 全DLC 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/c42507f81cff
-
-迅雷：https://pan.xunlei.com/s/VNw04l4vfz6guXqO8J148A1-A1?pwd=h5v6#
 
 #### 《最后纪元（Last Epoch）豪华版》v1.4.6 中文版
 
@@ -5777,10 +5825,6 @@ w
 
 夸克：https://pan.quark.cn/s/b68aba71ba67
 
-#### 《真菌朋克（Mycopunk）》v1.5 中文 联机版
-
-夸克：https://pan.quark.cn/s/3e8a106b2cea
-
 #### 《江湖录（JIANGHU CHRONICLES）》v0.9.2.3 中文版（武侠模拟经营）
 
 夸克：https://pan.quark.cn/s/d1346a2b5bb0
@@ -5852,10 +5896,6 @@ w
 #### 《方块奥德赛（Cubic Odyssey）》v1.1.2.1 中文 联机版（开放世界宇宙沙盒）
 
 夸克：https://pan.quark.cn/s/0261d52ba02d
-
-#### 《吸血鬼幸存者（Vampire Survivors）》v1.14.104 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/e5f5a356a959
 
 #### 《死亡重启（Dead Reset）》v1.0.4 中文版（恐怖游戏）
 
@@ -9507,6 +9547,10 @@ w
 #### 《蜂语镇（Apico）》v4.3 中文 联机版（已安装官方MOD）
 
 夸克：https://pan.quark.cn/s/37cc167f5206
+
+#### 《下一站江湖（The next Jianghu）》v158 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e4900ded490b
 
 #### 《菜市场模拟器（Old Market）Simulator）》v1.5.5 中文 联机版
 

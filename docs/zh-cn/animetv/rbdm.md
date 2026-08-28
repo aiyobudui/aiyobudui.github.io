@@ -678,6 +678,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOAa0pUXIsoxC8LpDUR9Bgc9A1?pwd=xjdd#
 
+#### 《中二病也要谈恋爱》1-2季全+剧场版+特别篇 内封中字
+
+夸克：https://pan.quark.cn/s/49b06dcb4844
+
+迅雷：https://pan.xunlei.com/s/VP055Str2rXfVxp_Enbz7nRSA1?pwd=f78u#
+
 #### 《死亡笔记》剧版+电影版+动画版+漫画 蓝光1080P 国粤日音轨 内嵌中字
 
 夸克：https://pan.quark.cn/s/7eb754014916
