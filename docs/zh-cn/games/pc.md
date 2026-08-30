@@ -77,6 +77,32 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《最后的气息（Last Breath）》Build.25006085 中文版
+
+夸克：https://pan.quark.cn/s/d92080ebeff7
+
+迅雷：https://pan.xunlei.com/s/VP0I-V5-qrNfncFtp4Q0OXq7A1?pwd=ydbz#
+
+#### 《COCORO》Build.24923088 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/e6b15cedc3e7
+
+#### 《弓神传奇（Arch Legends）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/a56fe74a9c41
+
+#### 《中土世界：暗影魔多（Middle-earth Shadow of Mordor）年度版》v57896 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3d958d971cfb
+
+#### 《暗影诅咒：地狱 重制版（Shadows of the Damned）》Build.15991776 中文版
+
+夸克：https://pan.quark.cn/s/2b575f256b24
+
+#### 《病态：艾尔之王（Morbid The Lords of Ire）》Build.14517486 中文版
+
+夸克：https://pan.quark.cn/s/6d8069aa8dd7
+
 #### 《卢湖采风（Lou's Lagoon）豪华版》v1.0.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/b2bf7071707b
@@ -129,7 +155,7 @@
 
 ## 最近更新
 
-#### 《致命躯壳2（Mortal Shell II）虔诚版》v92370 中文版
+#### 《致命躯壳2（Mortal Shell II）虔诚版》v92935 中文版
 
 夸克：https://pan.quark.cn/s/a3682965a994
 
@@ -150,11 +176,15 @@
 
 夸克：https://pan.quark.cn/s/ae92fcbace04
 
+#### 《合金装备：大师合集 Vol.1（METAL GEAR SOLID Master Collection Vol 1）典藏版》v1.5.1 英文版
+
+夸克：https://pan.quark.cn/s/3c591d1ff086
+
 #### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.17.1.21213 中文版
 
 夸克：https://pan.quark.cn/s/652d7102951b
 
-#### 《渔力全开（How to Fish）》v1.0.8 中文 联机版
+#### 《渔力全开（How to Fish）》v1.0.10a 中文 联机版
 
 夸克：https://pan.quark.cn/s/5c5c8450de1f
 
@@ -11791,10 +11821,6 @@ w
 #### 《清道夫模拟器（Fresh Start Cleaning Simulator）》v20231213 中文版
 
 夸克：https://pan.quark.cn/s/b78430a1e045
-
-#### 《合金装备：大师合集Vol.1》v1.5.0 附升级补丁（5国语言无中文）
-
-夸克：https://pan.quark.cn/s/3c591d1ff086
 
 #### 《风暴驭使：改变之风（StormEdge）》v1.0.2 中文版
 
