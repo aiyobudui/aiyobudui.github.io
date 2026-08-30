@@ -792,6 +792,10 @@
 
 夸克：https://pan.quark.cn/s/b2da45f0cf96
 
+#### 《飙速宅男》（2013-2022）1-5季+剧场版+真人版
+
+夸克：https://pan.quark.cn/s/1b78358592ee
+
 #### 《美食猎人》（2011）147全+剧场版+漫画 中字（美食的俘虏）
 
 夸克：https://pan.quark.cn/s/f2bc96cc1617

@@ -83,6 +83,12 @@
 
 迅雷：https://pan.xunlei.com/s/VP0I-V5-qrNfncFtp4Q0OXq7A1?pwd=ydbz#
 
+#### 《Divinum》v1.0.0d 中文版（横屏动作冒险）
+
+夸克：https://pan.quark.cn/s/827ae485debf
+
+迅雷：https://pan.xunlei.com/s/VP0I2dK4j13MXfgvKjJw6DaOA1?pwd=pr69#
+
 #### 《COCORO》Build.24923088 中文版（视觉小说）
 
 夸克：https://pan.quark.cn/s/e6b15cedc3e7
