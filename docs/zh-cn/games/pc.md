@@ -77,11 +77,6 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
-#### 《致命躯壳2（Mortal Shell II）豪华版》vCL92086 中文版
-#### 《致命躯壳（Mortal Shell）》v1.014707 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a3682965a994
-
 #### 《卢湖采风（Lou's Lagoon）豪华版》v1.0.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/b2bf7071707b
@@ -134,6 +129,10 @@
 
 ## 最近更新
 
+#### 《致命躯壳2（Mortal Shell II）虔诚版》v92370 中文版
+
+夸克：https://pan.quark.cn/s/a3682965a994
+
 #### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.10 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/12750d6526a1
@@ -174,6 +173,14 @@
 #### 《真菌朋克（Mycopunk）》v1.10 中文 联机版
 
 夸克：https://pan.quark.cn/s/3e8a106b2cea
+
+#### 《斩妖除魔 重制版（Painkiller）豪华版》v246360 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/cee8868eac20
+
+#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.8.119303 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/2ce76d085b7c
 
 #### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v14.1.0.1 全DLC 中文版
 
@@ -469,6 +476,11 @@
 夸克：https://pan.quark.cn/s/90391fdabda9
 
 ---
+## 已有游戏
+
+#### 《致命躯壳（Mortal Shell）》v1.014707 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/01fba0707911
 
 #### 《米斯特里亚牧场（Fields of Mistria）》v1.0.4 中文版
 
@@ -649,8 +661,6 @@
 #### 《玩具熊的五夜惊魂》1-4代 最新 英文版
 
 夸克：https://pan.quark.cn/s/610850ab3513
-
-## 已有游戏
 
 #### 《挖油吧！爸爸（Fuel Harvest Together）》v1.1.0 中文版
 
@@ -1400,10 +1410,6 @@
 #### 《风暴崛起（Tempest Rising）豪华版》v1.9.1.59012 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/c164538c9a59
-
-#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.4.7.117484 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/2ce76d085b7c
 
 #### 《废品机械师（Scrap Mechanic）》v1.0.3 全DLC 中文 联机版
 
@@ -5174,10 +5180,6 @@ w
 #### 《前线（The Front ）黄金版》v1.5.3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a5f5b73dfd10
-
-#### 《斩妖除魔 重制版（Painkiller）豪华版》v232837 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/cee8868eac20
 
 #### 《炼金工厂（Alchemy Factory）》v0.4.1.3824 中文版
 
