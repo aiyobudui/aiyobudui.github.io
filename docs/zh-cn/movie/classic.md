@@ -20,6 +20,10 @@
 
 ---
 
+#### 《被解救的姜戈（Django Unchained）》（2012）蓝光1080P 国英配音 内封中字
+
+夸克：https://pan.quark.cn/s/d153c348195a
+
 #### 《毒舌律师》（2023）1080P 国粤语版本
 
 夸克：https://pan.quark.cn/s/838a1e64011d

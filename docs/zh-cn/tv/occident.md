@@ -32,6 +32,12 @@
 
 ## 已完结的
 
+#### 《克拉克森的农场》（2021-2026）1-5季全 1080P 中字
+
+夸克：https://pan.quark.cn/s/1cebadc57a74
+
+迅雷：https://pan.xunlei.com/s/VP0Rsl6vElHZ23oTMB0V-KzVA1?pwd=6ihp#
+
 #### 《龙之家族》（2022-2026）4K 中字 1-3季全
 
 夸克：https://pan.quark.cn/s/7e5804e26d47
