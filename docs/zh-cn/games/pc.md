@@ -77,6 +77,44 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《烽沙（Mandate Order）》Build.24732265 中文版
+
+夸克：https://pan.quark.cn/s/026d976f3cef
+
+#### 《呼吸边缘2（Breathedge2）》v0.8.4 中文版
+
+夸克：https://pan.quark.cn/s/0a79a0dfbda0
+
+#### 《字母人（Typoman）》v1.12 中文版
+
+夸克：https://pan.quark.cn/s/51d624273cf2
+
+迅雷：https://pan.xunlei.com/s/VP0SIjqY019M93hYr5z-7ySeA1?pwd=rvvn#
+
+#### 《花林物语：英语学习游戏（Blossom’s Grove: An English-Learning Game）》v1.79 中文版
+
+夸克：https://pan.quark.cn/s/a4b0e73c70cd
+
+迅雷：https://pan.xunlei.com/s/VP0RudaXdGiim703GxXXHpMUA1?pwd=7e2u#
+
+#### 《返校（Detention）》v1.2.0 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/29c06d7c4b7d
+
+迅雷：https://pan.xunlei.com/s/VP0SU7AyMDxhOpW7ePAWYAeLA1?pwd=d6qh#
+
+#### 《还原（Devotion）》v1.0.5 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/e2b159d93b1c
+
+迅雷：https://pan.xunlei.com/s/VP0S93Xduy1ffOEWUZftcWUYA1?pwd=cwht#
+
+#### 《冲突世界（World in Conflict Complete Edition）完整版》v1.0.1.1 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/c2bf9502ac9b
+
+迅雷：https://pan.xunlei.com/s/VP0SdqLzmJbHAGJgRfd7NN7XA1?pwd=32zh#
+
 #### 《最后的气息（Last Breath）》Build.25006085 中文版
 
 夸克：https://pan.quark.cn/s/d92080ebeff7
@@ -160,6 +198,10 @@
 ---
 
 ## 最近更新
+
+#### 《光环：战役进化（Halo Campaign Evolved）高级版》v1121610 中文 联机版
+
+夸克：https://pan.quark.cn/s/f2203ca7528b
 
 #### 《致命躯壳2（Mortal Shell II）虔诚版》v92935 中文版
 
@@ -342,10 +384,6 @@
 #### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.6.0 全dlc 中文版
 
 夸克：https://pan.quark.cn/s/6f0e102663f1
-
-#### 《光环 战役进化（Halo Campaign Evolved）高级版》v1112544 中文 联机版
-
-夸克：https://pan.quark.cn/s/f2203ca7528b
 
 #### 《红色沙漠（Crimson Desert）豪华版》v1.14.00 全DLC 中文版
 
