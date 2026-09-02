@@ -199,6 +199,10 @@
 
 ## 最近更新
 
+#### 《龙之信条2（Dragons Dogma 2）》Build.2483169 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9f4ed4309376
+
 #### 《光环：战役进化（Halo Campaign Evolved）高级版》v1121610 中文 联机版
 
 夸克：https://pan.quark.cn/s/f2203ca7528b
@@ -223,6 +227,14 @@
 #### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl - Enhanced Edition）》v1.3 中文版
 
 夸克：https://pan.quark.cn/s/ae92fcbace04
+
+#### 《哥特王朝 重制版（Gothic 1 Remake）豪华版》v172709 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6b03eda75ca7
+
+#### 《静谧田园（Village in the Shade）》v1.06 中文版
+
+夸克：https://pan.quark.cn/s/becfb2b0db69
 
 #### 《合金装备：大师合集 Vol.1（METAL GEAR SOLID Master Collection Vol 1）典藏版》v1.5.1 英文版
 
@@ -312,10 +324,6 @@
 #### 《多重人生（The Alters）豪华版》v2.2.0.72 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9acd136be1ad
-
-#### 《哥特王朝 重制版（Gothic 1 Remake）豪华版》v171864 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/6b03eda75ca7
 
 #### 《恐怖黎明（Grim Dawn）终极版》v1.3.0.8 全DLC 中文 联机版
 
@@ -534,10 +542,6 @@
 #### 《荒野大镖客：救赎（Red Dead Redemption）》v1.0.42.46611 全DLC 中文版（新增不死梦魇DLC）
 
 夸克：https://pan.quark.cn/s/ba12cc67ac67
-
-#### 《龙之信条2（Dragons Dogma 2）》v1.0.0.1 中文版
-
-夸克：https://pan.quark.cn/s/9f4ed4309376
 
 #### 《荒野大镖客2（Red Dead Redemption 2）》v1491.50 全DLC 中文 终极版
 
@@ -1416,10 +1420,6 @@
 #### 《UNBEATABLE》V2.2.0 全DLC 中文版（音律节奏卡点冒险游戏）
 
 夸克：https://pan.quark.cn/s/758ce9c32790
-
-#### 《静谧田园（Village in the Shade）》v1.03 中文版
-
-夸克：https://pan.quark.cn/s/becfb2b0db69
 
 #### 《绿植小筑（Leafy Corner）》v1.0.2 中文版
 

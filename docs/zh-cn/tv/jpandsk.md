@@ -36,6 +36,12 @@
 
 ## 已完结的...
 
+#### 《机智住院医生生活》（2025）1080P 12集全
+
+夸克：https://pan.quark.cn/s/4dd00fee5e6c
+
+迅雷：https://pan.xunlei.com/s/VP0XdYU6bhEl6yni2Wo2vxXFA1?pwd=y758#
+
 #### 《金特务：本色回归》（2026）1080P 中字 10集全
 
 夸克：https://pan.quark.cn/s/2de6e07086cb
