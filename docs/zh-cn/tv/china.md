@@ -2230,6 +2230,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOu6PNnik69RGC1iHrYuOMoLA1?pwd=4k7z#
 
+#### 《奔跑吧，医生》（2024）4K 30集全（奔跑吧医生）
+
+夸克：https://pan.quark.cn/s/96d26c3571bc
+
+迅雷：https://pan.xunlei.com/s/VP0aydSmmiSKlMgKSlBEm9_BA1?pwd=dnzj#
+
 #### 《少年歌行 剧版》（2022）4K 40集全
 
 迅雷：https://pan.xunlei.com/s/VOxo1egFVdqYrAFhOLeqmbIxA1?pwd=mb4a#
