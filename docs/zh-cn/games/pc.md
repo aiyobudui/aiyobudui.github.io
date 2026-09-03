@@ -81,6 +81,26 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《Crimson Moon 豪华版》v1.0.0.160034 中文版（血色之月 緋紅之月）
+
+夸克：https://pan.quark.cn/s/9b7c84d1d827
+
+#### 《Polylithic》v1.0.2.1 中文 联机版
+
+夸克：https://pan.quark.cn/s/d2429d188679
+
+#### 《Hero Siege》v7.0.9.0 中文版（攻城英雄）
+
+夸克：https://pan.quark.cn/s/b4136cc24162
+
+#### 《Marsupilami 2 Salsa Palombia》v2026.9.3 中文版（卡通 2.5D平台跳跃）
+
+夸克：https://pan.quark.cn/s/29f6f1e139aa
+
+#### 《He Who Watches》v09.01.26.01 中文版（平台解谜）
+
+夸克：https://pan.quark.cn/s/fcb5affcb5ad
+
 #### 《BOMBANANA!》v1.0.0 中文 联机版（猴子拆炸弹）
 
 夸克：https://pan.quark.cn/s/9a43edc12264
@@ -141,13 +161,33 @@
 
 ## 最近更新
 
+#### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.10.0 中文版
+
+夸克：https://pan.quark.cn/s/6f0e102663f1
+
 #### 《龙之信条2（Dragons Dogma 2）》Build.2483169 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9f4ed4309376
 
+#### 《ASKA》v1.42 中文 联机版（生存建造游戏）
+
+夸克：https://pan.quark.cn/s/ce6b9d234a5f
+
+#### 《浪客诺特（Katanaut）》v1.216 中文版
+
+夸克：https://pan.quark.cn/s/d299f978aed6
+
+#### 《霓虹深渊2（Neon Abyss 2）首发珍藏版》v2026.9.1.6 中文版
+
+夸克：https://pan.quark.cn/s/903a18dbc9c7
+
 #### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v1.059 中文 联机版
 
 夸克：https://pan.quark.cn/s/30510db4b1e9
+
+#### 《史莱姆牧场2（Slime Rancher 2）》v1.2.3 中文 联机版
+
+夸克：https://pan.quark.cn/s/cc019406a152
 
 #### 《播洛森：星原之种（Blossom The Seed of Life）》v2.0.2 中文版
 
@@ -221,10 +261,6 @@
 夸克：https://pan.quark.cn/s/245d4d2967f0
 
 迅雷：https://pan.xunlei.com/s/VOsCsuXI1qHQuK8w9K4CWMWNA1?pwd=xbkk#
-
-#### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.6.0 全dlc 中文版
-
-夸克：https://pan.quark.cn/s/6f0e102663f1
 
 #### 《红色沙漠（Crimson Desert）豪华版》v1.14.00 全DLC 中文版
 
@@ -1739,7 +1775,6 @@
 
 夸克：https://pan.quark.cn/s/afd55c48d634
 
-#### 《霓虹深渊2（Neon Abyss 2）首发珍藏版》build.24160314 中文版
 #### 《霓虹深渊（Neon Abyss）》v1.5.3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/1ab594a3977a
@@ -5291,10 +5326,6 @@ w
 
 夸克：https://pan.quark.cn/s/7ffbd37791e7
 
-#### 《ASKA》v1.25.1812 中文 联机版 （生存建造游戏）
-
-夸克：https://pan.quark.cn/s/ce6b9d234a5f
-
 #### 《线条小狗：动物温泉（Maltese's Fluffy Onsen）豪华版》v1.5b 全DLC 中文版（桌面小游戏）
 
 夸克：https://pan.quark.cn/s/dd64b7e57e0d
@@ -6693,10 +6724,6 @@ w
 
 夸克：https://pan.quark.cn/s/2a96be3cbc82
 
-#### 《史莱姆牧场2（Slime Rancher 2）》v1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/cc019406a152
-
 #### 《兽人必须死! 死亡陷阱（Orcs Must Die Deathtrap）》v2.1.1 中文版（射击塔防游戏）
 
 夸克：https://pan.quark.cn/s/248302b25eb3
@@ -6920,10 +6947,6 @@ w
 #### 《末日核心：机甲幸存者（Iron Core Mech Survivor）》v3.0.8 中文版
 
 夸克：https://pan.quark.cn/s/cabee7de04fd
-
-#### 《浪客诺特（Katanaut）》v1.006 中文版（轻度肉鸽动作）
-
-夸克：https://pan.quark.cn/s/d299f978aed6
 
 #### 《火星人闹翻地球（Mars Attracts）》v0.1.12 中文版（管理建造模拟）
 
