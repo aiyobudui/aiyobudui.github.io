@@ -24,6 +24,16 @@
 
 迅雷：https://pan.xunlei.com/s/VOzBYrlxE8NieAbl9mIEZr37A1?pwd=uuds#
 
+---
+
+## 已完结的...
+
+#### 《鼠惑》（2026）1080P 10集全
+
+夸克：https://pan.quark.cn/s/fedf48d02099
+
+迅雷：https://pan.xunlei.com/s/VP0gDDoq-lBfEwFOmSS7rGNYA1?pwd=g5aj#
+
 #### 《杀人者的购物中心2》（2024-2026）1-2季全 1080P 中字
 
 夸克：https://pan.quark.cn/s/d9c509582553
@@ -31,10 +41,6 @@
 迅雷：https://pan.xunlei.com/s/VNoLiEDzpj_e0bpCqYT0Mf-JA1?pwd=k96x#
 
 百度：https://pan.baidu.com/s/1E80-Nqfg293HWNILJYwFpw?pwd=0000
-
----
-
-## 已完结的...
 
 #### 《机智住院医生生活》（2025）1080P 12集全
 

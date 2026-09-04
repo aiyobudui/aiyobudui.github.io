@@ -81,6 +81,16 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《巴士模拟器27（Bus Simulator 27）》v1.06.52637 中文版
+
+夸克：https://pan.quark.cn/s/a9c597a17ee6
+
+#### 《醉步同行（Friendly Steps）》v1.7.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/3d482855a1dc
+
+迅雷：https://pan.xunlei.com/s/VP0gGjTtAsIHxv6Xuf5WIZLzA1?pwd=gurx#
+
 #### 《Rogue Blight》v1.00.04 中文版（诡疫荒原 2D类魂游戏）
 
 夸克：https://pan.quark.cn/s/2afbedb5af19
@@ -184,6 +194,12 @@
 #### 《龙之信条2（Dragons Dogma 2）》Build.2483169 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9f4ed4309376
+
+#### 《试炼幸存者（Trials Survivors）》v0.1.8.12 中文版（肉鸽）
+
+夸克：https://pan.quark.cn/s/86ce07b6d626
+
+迅雷：https://pan.xunlei.com/s/VP0gEyAJzBnaDk6k7fFdoDJtA1?pwd=uxv5#
 
 #### 《雄心壮志（Big Ambitions ）》v1.0 中文版
 
@@ -2012,10 +2028,6 @@
 #### 《The Mound 克苏鲁恶兆（The Mound Omen of Cthulhu）》vCL34308 中文 联机版（多人合作心理恐惧）
 
 夸克：https://pan.quark.cn/s/776b0cc787ed
-
-#### 《试炼幸存者（Trials Survivors）》v0.1.8.1 中文版（肉鸽）
-
-夸克：https://pan.quark.cn/s/86ce07b6d626
 
 #### 《灵伴世界（Taival）》v0.5.0-370 中文版（可同屏双人）
 
