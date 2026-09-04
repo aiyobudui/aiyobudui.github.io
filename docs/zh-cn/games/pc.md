@@ -195,6 +195,10 @@
 
 夸克：https://pan.quark.cn/s/9f4ed4309376
 
+#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.29.3 全DLC 中文配音 联机版
+
+夸克：https://pan.quark.cn/s/83a0731076ef
+
 #### 《试炼幸存者（Trials Survivors）》v0.1.8.12 中文版（肉鸽）
 
 夸克：https://pan.quark.cn/s/86ce07b6d626
@@ -324,7 +328,6 @@
 
 夸克：https://pan.quark.cn/s/76e705934c3b
 
-#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.29.0 全DLC 中文配音 联机版（更新）
 #### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版
 #### 《消逝的光芒：增强版（Dying Light）终结版》v1.55.0 全DLC 中文 联机版（更新）
 
@@ -2334,9 +2337,12 @@
 夸克：https://pan.quark.cn/s/eb2004a060f8
 
 #### 《求生之路2（Left 4 Dead 2）》Build.23990068 中文 联机版
-#### 《求生之路（Left 4 Dead ）》v1.0.4.5 中文 联机版
 
 夸克：https://pan.quark.cn/s/665c521c5b43
+
+#### 《求生之路（Left 4 Dead ）》v1.0.4.5 中文 联机版
+
+夸克：https://pan.quark.cn/s/d169d22166e9
 
 #### 《黄金矿主模拟器：阿拉斯加淘金热（Alaska Gold Fever）》Build.23981202 全DLC 中文版
 
@@ -12840,7 +12846,7 @@ w
 
 迅雷：https://pan.xunlei.com/s/VO-jrB5n-QPkAFdTkHYUhYzQA1?pwd=drp9#
 
-#### 《王国之心III + Re Mind （DLC）》v1.0.0.0 中文版 最新DLC版本
+#### 《王国之心3（Kingdom Hearts III and Re Mind）》v1.0.0.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9d735a275315
 
