@@ -81,6 +81,18 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《Rogue Blight》v1.00.04 中文版（诡疫荒原 2D类魂游戏）
+
+夸克：https://pan.quark.cn/s/2afbedb5af19
+
+迅雷：https://pan.xunlei.com/s/VP0fvHWFk3e8_rnSAJY-U6l1A1?pwd=g8g9#
+
+#### 《我的海岛庄园（Island Market Simulator）》v1.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/593505c2e2aa
+
+迅雷：https://pan.xunlei.com/s/VP0fvrUYoCyqPD5juknmA6r6A1?pwd=yckw#
+
 #### 《Crimson Moon 豪华版》v1.0.0.160034 中文版（血色之月 緋紅之月）
 
 夸克：https://pan.quark.cn/s/9b7c84d1d827
@@ -161,6 +173,10 @@
 
 ## 最近更新
 
+#### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.11 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/12750d6526a1
+
 #### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.10.0 中文版
 
 夸克：https://pan.quark.cn/s/6f0e102663f1
@@ -168,6 +184,20 @@
 #### 《龙之信条2（Dragons Dogma 2）》Build.2483169 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9f4ed4309376
+
+#### 《雄心壮志（Big Ambitions ）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/8df72438a038
+
+迅雷：https://pan.xunlei.com/s/VP0fDWSdSfyPOYNtZv4fU77JA1?pwd=69fq#
+
+#### 《云族裔（inZOI）》v0.10.0 全DLC 中文版（韩国模拟人生）
+
+夸克：https://pan.quark.cn/s/8458e4ca4a38
+
+#### 《大跳蛙（Big Hops）》v23497 中文版（勇敢小青蛙跳跃平台冒险）
+
+夸克：https://pan.quark.cn/s/9784f2887b37
 
 #### 《ASKA》v1.42 中文 联机版（生存建造游戏）
 
@@ -204,10 +234,6 @@
 #### 《致命躯壳2（Mortal Shell II）虔诚版》v92935 中文版
 
 夸克：https://pan.quark.cn/s/a3682965a994
-
-#### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.10 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/12750d6526a1
 
 #### 《仁王3（Nioh 3）豪华版》v2.00.01 全DLC 中文 联机版
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
@@ -1763,10 +1789,6 @@
 
 夸克：https://pan.quark.cn/s/af33faba8ec6
 
-#### 《云族裔（inZOI）》v0.9.5 全DLC 中文版（韩国模拟人生）
-
-夸克：https://pan.quark.cn/s/8458e4ca4a38
-
 #### 《终末机兵（NITRO GEN OMEGA）》v1.3.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/4a99ffe1a8dc
@@ -1858,7 +1880,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
 
-#### 《伯吉的温馨厨房（Burgie's Cozy Kitchen）》v1.11 中文版
+#### 《伯吉的温馨厨房（Burgie's Cozy Kitchen）》v1.11 中文版（附安卓版）
 
 夸克：https://pan.quark.cn/s/3cded14ea443
 
@@ -2921,7 +2943,7 @@
 
 夸克：https://pan.quark.cn/s/9a82f315c342
 
-#### 《都市天际线2（Cities Skylines 2）终极版》v1.5.10f1 全DLC 中文版（城市天际线2）
+#### 《都市天际线2（Cities Skylines 2）终极版》v1.5.10f1 全DLC 中文版（城市天际线2 附安卓版）
 
 夸克：https://pan.quark.cn/s/e78ffec97c4e
 
@@ -5188,10 +5210,6 @@ w
 
 夸克：https://pan.quark.cn/s/ab47f42816f6
 
-#### 《大跳蛙（Big Hops）》v21207 中文版（勇敢小青蛙跳跃平台冒险）
-
-夸克：https://pan.quark.cn/s/9784f2887b37
-
 #### 《Log.in》v2026.1.13 中文版（恐怖解謎）
 
 夸克：https://pan.quark.cn/s/1ac7c4217cae
@@ -6720,7 +6738,7 @@ w
 
 夸克：https://pan.quark.cn/s/8db39b6946d6
 
-#### 《都市天际线（Cities Skylines）豪华版》v1.20.1.f1 全DLC 中文版 新增DLC（城市天际线）
+#### 《都市天际线（Cities Skylines）豪华版》v1.20.1.f1 全DLC 中文版（城市天际线 附安卓版）
 
 夸克：https://pan.quark.cn/s/2a96be3cbc82
 
@@ -10668,10 +10686,6 @@ w
 #### 《卡戎方舟（Ark of Charon ）》v1.0.3 中文版
 
 夸克：https://pan.quark.cn/s/4b905417590c
-
-#### 《雄心壮志（Big Ambitions ）》v0.9-3233 中文版
-
-夸克：https://pan.quark.cn/s/8df72438a038
 
 #### 《穹顶守护者（Dome Keeper）》v4.2.1 全DLC 中文版
 
