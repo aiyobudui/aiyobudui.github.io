@@ -81,6 +81,12 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《地牢围攻2：破碎的世界（Dungeon Siege II Broken World）》v2.0.3 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/19d36e2418d8
+
+迅雷：https://pan.xunlei.com/s/VP0l0zgVSDka6aVRCt02cHHbA1?pwd=4mjr#
+
 #### 《巴士模拟器27（Bus Simulator 27）》v1.06.52637 中文版
 
 夸克：https://pan.quark.cn/s/a9c597a17ee6
@@ -187,6 +193,14 @@
 
 夸克：https://pan.quark.cn/s/12750d6526a1
 
+#### 《月影杀（Kristala）终结版》v1.2.4 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9b34ff6c5281
+
+#### 《蛮荒计划（Ferocious）》v1.10.300.4463 中文版
+
+夸克：https://pan.quark.cn/s/2f2a7280d767
+
 #### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.10.0 中文版
 
 夸克：https://pan.quark.cn/s/6f0e102663f1
@@ -198,6 +212,10 @@
 #### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.29.3 全DLC 中文配音 联机版
 
 夸克：https://pan.quark.cn/s/83a0731076ef
+
+#### 《虐杀熔炉（KIBORG）》Build.24655420 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d590ba9f9318
 
 #### 《试炼幸存者（Trials Survivors）》v0.1.8.12 中文版（肉鸽）
 
@@ -902,11 +920,20 @@
 夸克：https://pan.quark.cn/s/01c615572da7
 
 #### 《我们曾到此探险：友谊考验（We Were Here Expeditions The Friendship）》v1.0.3 中文 联机版
+
+夸克：https://pan.quark.cn/s/0dbe95f02593
+
 #### 《我们曾永在此（We Were Here Forever）》v1.2.3 全DLC 中文 联机版（我们永远在这里）
+
+夸克：https://pan.quark.cn/s/ea6cf7c9b2b0
+
 #### 《我们曾一起在这里（We Were Here Together）》v1.7.6 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/670881a2c3d8
+
 #### 《我们也曾在此（We Were Here Too）》v1.2.0 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/4a9da53b8bcd
+夸克：https://pan.quark.cn/s/f3a59c51c53c
 
 #### 《illWill》v1.2 中文版（肉鸽射击）
 
@@ -963,6 +990,9 @@
 迅雷：https://pan.xunlei.com/s/VOnHWAHd5FqS2M3NKcjRiaBJA1?pwd=kx4v
 
 #### 《恶魔城主宰合集（Castlevania Dominus Collection）》v1.003.001 汉化版
+
+夸克：https://pan.quark.cn/s/a5ce4c2e138b
+
 #### 《恶魔城Advance合集（Castlevania Advance Collection）》v1.0.0 汉化版
 
 夸克：https://pan.quark.cn/s/93e7b2756032
@@ -1041,7 +1071,7 @@
 
 迅雷：https://pan.xunlei.com/s/VP-233a61nnRCwssIxoKGvv3A1?pwd=bb2m#
 
-#### 《食人鲨（Maneater）巅峰版》v2026.8.13 全DLC 中文版
+#### 《食人鲨（Maneater）巅峰版》v2026.8.13 全DLC 中文版（附安卓版）
 
 夸克：https://pan.quark.cn/s/8bfae2f42cbb
 
@@ -1266,9 +1296,12 @@
 迅雷：https://pan.xunlei.com/s/VOzHye5JGzlbo0uDRmcOVTOwA1?pwd=y44r#
 
 #### 《网球王子 学园祭的王子们（The Prince of Tennis Sweet School Festival）》v1.1.1 中文版
+
+夸克：https://pan.quark.cn/s/75ff1c4bb1ee
+
 #### 《网球王子 心跳求生（The Prince of Tennis Doki Doki Survival）》v1.1.1 中文版
 
-夸克：https://pan.quark.cn/s/406d8cbaf1e6
+夸克：https://pan.quark.cn/s/e7780672c189
 
 #### 《战锤40K 机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版
 #### 《战锤40K 星际战士 大师锻造版》v1.0.1041.4326 全DLC 汉化版
@@ -1408,11 +1441,7 @@
 
 #### 《帝国时代2 决定版（Age of Empires II）》v180059 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/0c0f7a82ce32
-
-#### 《月影杀（Kristala）终结版》v1.1.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/9b34ff6c5281
+夸克：https://pan.quark.cn/s/1873bfa92edb
 
 #### 《养鱼模拟器（Fish Game）》Build.23879224 全DLC 中文版
 
@@ -1601,10 +1630,6 @@
 #### 《灰雨钢锋（Of Ash and Steel）》v1.08-final2 中文版
 
 夸克：https://pan.quark.cn/s/9c5a315866f7
-
-#### 《虐杀熔炉（KIBORG）》V2026.7.14 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d590ba9f9318
 
 #### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）典藏版》v1.7.1.0 全DLC 中文版(更新)
 #### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
@@ -2441,10 +2466,6 @@
 
 夸克：https://pan.quark.cn/s/d9e794c1e06e
 
-#### 《蛮荒计划（Ferocious）》v1.09.273.4211 中文版
-
-夸克：https://pan.quark.cn/s/2f2a7280d767
-
 #### 《迷魅狩猎（MIMESIS）》v0.3.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/b040c2480c94
@@ -2699,6 +2720,8 @@
 #### 《零售地狱（Retail Hell）》v1.1.11 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/5ab2b8b78587
+
+迅雷：https://pan.xunlei.com/s/VOtOcK0r4Wy9WJv6bWn23G8WA1?pwd=g4rt#
 
 #### 《复古物语（Vintage Story）》v1.22.3 中文 联机版
 
@@ -3268,12 +3291,6 @@ w
 夸克：https://pan.quark.cn/s/e3ac71553246
 
 迅雷：https://pan.xunlei.com/s/VOtOeIF3YIJsvBE2QXMp2h2fA1?pwd=x8y4#
-
-#### 《零售地狱（Retail Hell）》v1.1.8 中文版
-
-夸克：https://pan.quark.cn/s/0e5b3795fcf1
-
-迅雷：https://pan.xunlei.com/s/VOtOcK0r4Wy9WJv6bWn23G8WA1?pwd=g4rt#
 
 #### 《迷失之刃（Stray Blade）》Build.12682948 全DLC 中文版
 
@@ -4466,7 +4483,7 @@ w
 
 迅雷：https://pan.xunlei.com/s/VOnbsrpxueVLyWnHzai5x6yIA1?pwd=6adk
 
-#### 《寻宝岛（Collectors Cove）》v1.0.2.7666 中文版
+#### 《寻宝湾（Collectors Cove）》v1.0.2.7666 中文版
 
 夸克：https://pan.quark.cn/s/c03100cab5c9
 
@@ -4572,12 +4589,21 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNv2sfgPQ5xpw3hvX3vP88lTA1?pwd=vzp2#
 
-#### 《伊苏8（Ys VIII Lacrimosa of DANA）数字限定版》v2023.4.2 全DLC 中文版
-#### 《伊苏X -诺曼荣光-（Ys X：Proud Nordics）》v1.0.1 全DLC 中文版
+#### 《伊苏8（Ys VIII Lacrimosa of DANA）限定版》v2023.4.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/827cb112c23c
+
+#### 《伊苏X -诺曼荣光-（Ys X：Proud Nordics）》v1.0.3FX 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9ba8a01495f5
+
 #### 《伊苏X -北境历险-（Ys X：Nordics）》v2.0.0 全DLC 中文版
-#### 《伊苏9：怪人之夜（Ys IX Monstrum Nox）豪华版》v1.1.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/0626602d9725
+
+#### 《伊苏9：怪人之夜（Ys IX Monstrum Nox）豪华版》v1.1.4 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/43b5b4ef08fd
 
 #### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD）》v7.00.62 全DLC 中文版（新增巨龙战争DLC）
 #### 《王国保卫战 传奇（Legends of Kingdom Rush）》Build 9031157 中文版（外传 回合制）
@@ -5432,7 +5458,7 @@ w
 
 夸克：https://pan.quark.cn/s/f977feee95ac
 
-#### 《海洋守护者（Codename Ocean Keeper）》v1.0.5 中文版
+#### 《代号：海洋守护者（Ocean Keeper Dome Survival）》v1.0.5 中文版
 
 夸克：https://pan.quark.cn/s/5a6f8dd2ddcd
 
@@ -7370,10 +7396,6 @@ w
 
 夸克：https://pan.quark.cn/s/001a1ab89211
 
-#### 《掠食（Prey）豪华版》v12742273 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/24639619fad4
-
 #### 《死亡循环（Deathloop）豪华版》v1.769.0.5 全DLC 中文版（修复win11 24H2运行）
 
 夸克：https://pan.quark.cn/s/6c66bd23310a
@@ -8683,10 +8705,6 @@ w
 
 夸克：https://pan.quark.cn/s/a703f06036d4
 
-#### 《预先号令（WARNO）》v150731 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/774019f42510
-
 #### 《勇者的残局：自走棋（Seer's Gambit）》v2025.6.6 中文版
 
 夸克：https://pan.quark.cn/s/a61e061a75fe
@@ -9484,10 +9502,6 @@ w
 #### 《异能缉凶 超自然的神秘冒险（Staffer Case A Supernatural Mystery Adventure）》Build.17192890 中文版
 
 夸克：https://pan.quark.cn/s/fa783e1b98b5
-
-#### 《White Knuckle》v0.42d 中文汉化版（白指关节？跑酷游戏）
-
-夸克：https://pan.quark.cn/s/747daacee0b8
 
 #### 《木偶往事（Once Upon A Puppet）》v2.14.4.1 中文版（冒险解密）
 
@@ -13530,14 +13544,6 @@ w
 
 夸克：https://pan.quark.cn/s/89f97813e3af
 
-#### 《胡闹厨房 全都好吃》v1156 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/88db49d7d99e
-
-#### 《胡闹厨房2》Build.01102020 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/d72caad88526
-
 #### 《茶杯头》最新 全DLC 中文版（附安卓版）
 
 夸克：https://pan.quark.cn/s/87346be0bb4d
@@ -13756,9 +13762,13 @@ w
 
 夸克：https://pan.quark.cn/s/0d476f0f36a3
 
-#### 《侏罗纪世界进化 系列合集（Jurassic World Evolution）》2部 最新 全DLC 中文版
+#### 《侏罗纪世界：进化（Jurassic World Evolution）》v1.12.4.52769 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/e0ce1f455355
+夸克：https://pan.quark.cn/s/7bf8cd90131a
+
+#### 《侏罗纪世界：进化2（Jurassic World Evolution 2）》v1.3.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f611e0187d39
 
 迅雷：https://pan.xunlei.com/s/VNpAil3kuIHDOX7GaTZlKMMOA1?pwd=9tun#
 
