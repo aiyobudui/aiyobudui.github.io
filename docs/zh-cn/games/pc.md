@@ -81,6 +81,12 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《奔跑吧 糊塗蛋 EX（Hashire HEBEREKE EX）》v2026.9.6 中文版
+
+夸克：https://pan.quark.cn/s/0f01033bf670
+
+迅雷：https://pan.xunlei.com/s/VP0msg_pD14RFSFRm4CM0sCIA1?pwd=nemg#
+
 #### 《地牢围攻2：破碎的世界（Dungeon Siege II Broken World）》v2.0.3 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/19d36e2418d8
@@ -359,11 +365,16 @@
 迅雷：https://pan.xunlei.com/s/VO37CRQu2t8RQECID1fHoDG9A1?pwd=ane4#
 
 #### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.9.85.0 全DLC 中文配音版
-#### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
 
 夸克：https://pan.quark.cn/s/f618becc1c8f
 
-迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
+迅雷：https://pan.xunlei.com/s/VP0mqFHc4cbqf3qM1AewAByxA1?pwd=99vn#
+
+#### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
+
+夸克：https://pan.quark.cn/s/3404684322b6
+
+迅雷：https://pan.xunlei.com/s/VP0mqBhmomi5Vk-z_5TN1i9YA1?pwd=7cct#
 
 #### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
 
@@ -743,12 +754,17 @@
 
 夸克：https://pan.quark.cn/s/572c3c7faf90
 
-#### 《暗黑地牢（Darkest Dungeon）Ancestral Edition版》Build.27760 全DLC 中文版
 #### 《暗黑地牢2（Darkest Dungeon II）遗忘版》v2.04.85095 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4ff78f8881ea
+
+迅雷：https://pan.xunlei.com/s/VP0n9y_jGzCM2etf5xVPWDZpA1?pwd=2z7i#
+
+#### 《暗黑地牢（Darkest Dungeon）祖灵版》Build.27760 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d1967a877a18
 
-迅雷：https://pan.xunlei.com/s/VNxlYnRzg09qEUhCXyYTrdBnA1?pwd=daqh#
+迅雷：https://pan.xunlei.com/s/VP0n9r10VNpwvzgezxX9X9HhA1?pwd=htxj#
 
 #### 《星砂岛（StarSand Island）豪华版》v1.0.0.13838 全DLC 中文版
 
@@ -781,19 +797,37 @@
 夸克：https://pan.quark.cn/s/8c417acf572b
 
 #### 《命运石之门 RE BOOT（STEINS;GATE RE:BOOT）》Build.24796682 中文版
-#### 《命运石之门 精英（STEINS;GATE ELITE）》v3591620 中文版
-#### 《命运石之门（STEINS;GATE）》Build.4434295 中文版
-#### 《命运石之门 线形拘束的表征图（STEINS;GATE Linear Bounded Phenogram）》Build.4152261 汉化版
-#### 《命运石之门 比翼恋理的爱人（STEINS;GATE My Darlings Embrace）》Build.5491638 汉化版
-#### 《命运石之门 0（STEINS;GATE 0）》Build.12814074 中文版
 
 夸克：https://pan.quark.cn/s/43ce92b0fa1a
+
+#### 《命运石之门 精英（STEINS;GATE ELITE）》v3591620 中文版
+
+夸克：https://pan.quark.cn/s/3d095eeb10ba
+
+#### 《命运石之门（STEINS;GATE）》Build.4434295 中文版
+
+夸克：https://pan.quark.cn/s/c67b6a48fc9a
+
+#### 《命运石之门 线形拘束的表征图（STEINS;GATE Linear Bounded Phenogram）》Build.4152261 汉化版
+
+夸克：https://pan.quark.cn/s/7718dc3144ba
+
+#### 《命运石之门 比翼恋理的爱人（STEINS;GATE My Darlings Embrace）》Build.5491638 汉化版
+
+夸克：https://pan.quark.cn/s/6c7964ac233e
+
+#### 《命运石之门 0（STEINS;GATE 0）》Build.12814074 中文版
+
+夸克：https://pan.quark.cn/s/c68dde132998
 
 #### 《水上乐园模拟器（Waterpark Simulator）》v1.0.67 中文版
 
 夸克：https://pan.quark.cn/s/d9e2226c617e
 
 #### 《恶魔城：暗影之王2（Castlevania Lords of Shadow 2）》v1.0.0.1u1 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/1465ba3e819c
+
 #### 《恶魔城：暗影之王 终极版（Castlevania Lords of Shadow）》v1.0.2.9u2 汉化版
 
 夸克：https://pan.quark.cn/s/871a0a063065
@@ -983,11 +1017,16 @@
 迅雷：https://pan.xunlei.com/s/VP-2v-3iDlwlMP3877HynTRRA1?pwd=sjkp#
 
 #### 《静默恐惧：阿瑞斯深渊劫（Static Dread The Submarine）》v20260814 全DLC 中文版
-#### 《静默恐惧：老灯塔十五夜（Static Dread）》v1.2.1 全DLC 中文版（恐怖解密）
 
 夸克：https://pan.quark.cn/s/6deca0e36190
 
-迅雷：https://pan.xunlei.com/s/VOnHWAHd5FqS2M3NKcjRiaBJA1?pwd=kx4v
+迅雷：https://pan.xunlei.com/s/VP0nLBmvQtIjEP9r3lm0SSFQA1?pwd=9xsr#
+
+#### 《静默恐惧：老灯塔十五夜（Static Dread）》v1.2.1 全DLC 中文版（恐怖解密）
+
+夸克：https://pan.quark.cn/s/e7a6a826b39d
+
+迅雷：https://pan.xunlei.com/s/VP0nLHivjEPnodhEJ9WoIxf-A1?pwd=m5j5#
 
 #### 《恶魔城主宰合集（Castlevania Dominus Collection）》v1.003.001 汉化版
 
@@ -7940,7 +7979,7 @@ w
 
 夸克：https://pan.quark.cn/s/dbf11517173d
 
-#### 《宝可梦PTCG Live》PC游戏安装包 + 界面卡面汉化模组（win+mac）附保姆教程
+#### 《宝可梦 PTCG Live》PC游戏安装包 + 界面卡面汉化模组（win+mac版）附保姆教程
 
 夸克：https://pan.quark.cn/s/1960d2265f7f
 
@@ -12708,10 +12747,6 @@ w
 
 夸克：https://pan.quark.cn/s/51cb7cb14463
 
-#### 《AI：梦境档案-涅槃肇始（AI：The Somnium Files）》v9637785 5DLC 中文版
-
-夸克：https://pan.quark.cn/s/17d29c515673
-
 #### 《灵魂摆渡人（Spiritfarer）》最新 全DLC 中文 单机 + 联机版
 
 夸克：https://pan.quark.cn/s/da4cd88fffaa
@@ -13044,7 +13079,7 @@ w
 
 夸克：https://pan.quark.cn/s/4fb604051378
 
-#### 《Grand Theft Auto IV》GTA4 v1.2.0.59 汉化中文完全版
+#### 《侠盗猎车手4（Grand Theft Auto IV）完全版》v1.2.0.59 中文版（GTA4）
 
 夸克：https://pan.quark.cn/s/577657a2d38e
 
@@ -13636,6 +13671,18 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNttNSKhTXVAZexRrfO-fkKIA1?pwd=kkc5#
 
+#### 《生化奇兵：无限（BioShock Infinite）完全版》v1.1.25.5165 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f7f093f78b2c
+
+#### 《生化奇兵 重制版（BioShock Remastered）》v1.0.122872 中文版
+
+夸克：https://pan.quark.cn/s/7898eb177046
+
+#### 《生化奇兵2 重制版（BioShock 2 Remastered）》v1.0.122864 中文版
+
+夸克：https://pan.quark.cn/s/7aed2995641c
+
 ---
 
 ## 系列合集
@@ -13651,10 +13698,6 @@ w
 #### 《纸嫁衣 系列合集（Paper Bride 1-6）》6部 最新 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/cf83289df1e6
-
-#### 《生化奇兵 重制版 系列合集（BioShock Remastered）》3部 最新 全DLC 中文版（生化奇兵 无限）
-
-夸克：https://pan.quark.cn/s/f7f093f78b2c
 
 #### 《开罗物语 系列合集》电脑版 + 安卓版（没有的联系群主上）
 
