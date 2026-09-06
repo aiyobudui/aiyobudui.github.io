@@ -531,6 +531,10 @@
 
 夸克：https://pan.quark.cn/s/011a7d490189
 
+#### 《纸片马里奥RGP 千年之门（Paper Mario The Thousand Year Door）》v1.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/83f11e1a415e
+
 #### 《鬼泣3​》v1.0.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/95e535d7fb8a
