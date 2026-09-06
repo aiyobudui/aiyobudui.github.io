@@ -57,6 +57,14 @@
 ## 最新添加
 >[!IMPORTANT] 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
+#### 《女神异闻录3 Reload（Persona 3 Reload）高级版》Build.22672075 全DLC 中文版（女神异闻录3重制版 P3R）
+
+夸克：https://pan.quark.cn/s/e07e7b793ab8
+
+#### 《波斯王子：失落的王冠（Prince of Persia The Lost Crown）完整版》v1.4.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1c747da79364
+
 #### 《黎明行者之血（The Blood of Dawnwalker）》v1.0.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/98ca2eb88789
@@ -198,6 +206,16 @@
 #### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.11 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/12750d6526a1
+
+#### 《艾尔登法环（Elden Ring）褪色者版》v1.17.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f961d5992bd3
+
+迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
+
+#### 《合金装备5：幻痛（Metal Gear Solid V The Phantom Pain）》v1.15 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/783c4ed9f794
 
 #### 《月影杀（Kristala）终结版》v1.2.4 全DLC 中文版
 
@@ -2628,12 +2646,6 @@
 #### 《焕家物语（Hozy）》v1.2 中文版
 
 夸克：https://pan.quark.cn/s/3758da8f2bbc
-
-#### 《艾尔登法环（Elden Ring）豪华版》v1.16.2 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/f961d5992bd3
-
-迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
 
 #### 《巫师3 狂猎 次时代版（The Witcher 3: Wild Hunt）完全版》v4.04H3 全DLC 中文配音版
 
@@ -6264,10 +6276,6 @@ w
 #### 《传说与战术自走棋（Tales Tactics）》v1.13 中文版
 
 夸克：https://pan.quark.cn/s/81ddc85d0603
-
-#### 《合金装备5：幻痛（Metal Gear Solid V The Phantom Pain）》v1.15 全DLC 汉化版
-
-夸克：https://pan.quark.cn/s/783c4ed9f794
 
 #### 《忍者龙剑传 大师合集（NINJA GAIDEN Master Collection）豪华版》v1.0.0.4 中文版
 
@@ -11928,6 +11936,8 @@ w
 
 夸克：https://pan.quark.cn/s/23cfb5fce675
 
+迅雷：https://pan.xunlei.com/s/VNtKsQu8sNFbthGSpYF0yPvOA1?pwd=tnd8#
+
 #### 《龙魂：魔都异闻（Dragon Spirits 2）》v15723057 中文版
 
 夸克：https://pan.quark.cn/s/dd7a9abd96b3
@@ -13468,12 +13478,6 @@ w
 夸克：https://pan.quark.cn/s/f82dfea43151
 
 迅雷：https://pan.xunlei.com/s/VNrkEv4vXYUsRKnHQmys2NJVA1?pwd=3ecn#
-
-#### 《图灵完备》最新 中文版 版本号看文件名
-
-夸克：https://pan.quark.cn/s/fe45742acf26
-
-迅雷：https://pan.xunlei.com/s/VNtKsQu8sNFbthGSpYF0yPvOA1?pwd=tnd8#
 
 #### 《逃出生天（A Way Out）》v1.2.0.2 汉化 联机版
 

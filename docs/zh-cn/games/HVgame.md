@@ -34,10 +34,6 @@
 
 夸克：https://pan.quark.cn/s/cabbe07c9f72
 
-#### 《女神异闻录3 Reload（Persona 3 Reload）豪华版》Build.22672075 全DLC 中文版（女神异闻录3重制版 P3R）
-
-夸克：https://pan.quark.cn/s/e07e7b793ab8
-
 #### 《艾恩葛朗特 回荡新声（Echoes of Aincrad）终结版》v1.0.3.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/12ba1138c169
