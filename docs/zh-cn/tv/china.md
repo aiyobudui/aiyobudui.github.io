@@ -18,6 +18,12 @@
 
 ## 正在更新中的...
 
+#### 《醒来》（2026）4K 22集全
+
+夸克：https://pan.quark.cn/s/2af0049ed78b
+
+迅雷：https://pan.xunlei.com/s/VP0vb0_7_E7Spb8iMj07TYP6A1?pwd=rn7s#
+
 #### 《九门》（2026）4K 30集全（老九门2 附第一部）
 
 夸克：https://pan.quark.cn/s/c977197bad6f

@@ -204,12 +204,18 @@
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
 #### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v420.696 全DLC 中文 联机版
-#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
-#### 《极限竞速：地平线4（Forza Horizon 6）终极版》v1.477.567 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/7c5fdf0323c4
+夸克：https://pan.quark.cn/s/1b15af18ed25
+
+#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/3726bf8acce0
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《极限竞速：地平线4（Forza Horizon 6）终极版》v1.477.567 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/1c24661d6da9
 
 #### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版
 
@@ -955,13 +961,22 @@
 
 夸克：https://pan.quark.cn/s/4b43bea5a5c8
 
+**炼金工房 - 不可思议系列（苏菲线）4部 合集**
 #### 《苏菲的炼金工房 ～不可思议书的炼金术士～ DX》v1.02 中文版
-#### 《菲利丝的炼金工房 ～不可思议旅的炼金术士～ DX》v1.02 中文版
-#### 《莉迪＆苏瑞的炼金工房 ～不可思议绘画的炼金术士～ DX》v1.01 中文版
-#### 《苏菲的炼金工房２ ～不可思议梦的炼金术士～ 豪华版》v1.08 全DLC 中文版
-炼金工房 - 不可思议系列（苏菲线）4部 合集
 
-夸克：https://pan.quark.cn/s/9b850819d647
+夸克：https://pan.quark.cn/s/c784efc92d2c
+
+#### 《苏菲的炼金工房2 ～不可思议梦的炼金术士～ 豪华版》v1.08 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0310ed4873da
+
+#### 《莉迪＆苏瑞的炼金工房 ～不可思议绘画的炼金术士～ DX》v1.01 中文版
+
+夸克：https://pan.quark.cn/s/f4a1cfc91000
+
+#### 《菲利丝的炼金工房 ～不可思议旅的炼金术士～ DX》v1.02 中文版
+
+夸克：https://pan.quark.cn/s/141f01217cc8
 
 #### 《超进化精灵2（EvoCreo 2）》v2.4.0 中文版（附安卓版1+2）
 
@@ -3407,10 +3422,16 @@ w
 夸克：https://pan.quark.cn/s/9bea13975877
 
 #### 《毁灭全人类（Destroy All Humans）》v1.0.2550 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/48eb632ea178
+
 #### 《毁灭全人类2：重新探测（Destroy All Humans 2 Reprobed）》v1.0.713 中文 联机版（可同屏游玩）
+
+夸克：https://pan.quark.cn/s/8c86464d2a87
+
 #### 《毁灭全人类：克隆人（Destroy All Humans Clone Carnage）》v1.0.11341 中文 联机版（只能分屏或联机）
 
-夸克：https://pan.quark.cn/s/8a389cc89740
+夸克：https://pan.quark.cn/s/0a81588d9c69
 
 #### 《海参大作战（NAMAKORIUM）支持者版》v1.0.0 全DLC 中文版
 
@@ -3622,9 +3643,12 @@ w
 夸克：https://pan.quark.cn/s/8097ab003e4c
 
 #### 《莎木1+2（Shenmue I & II）》v1.07 中文版
+
+夸克：https://pan.quark.cn/s/41fabe92a78c
+
 #### 《莎木3（Shenmue III）》v1.06.01 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/e613ac2d1084
+夸克：https://pan.quark.cn/s/6b129d964faf
 
 #### 《梦幻小镇（Everdream Village）》v6.402.1356 中文版
 
@@ -4311,10 +4335,16 @@ w
 夸克：https://pan.quark.cn/s/7814edba170c
 
 #### 《魔兽争霸3：重制版（Warcraft III Reforged）》v2.0.4.23556 中文版（附淬火MOD+地图包+秘籍）
+
+夸克：https://pan.quark.cn/s/84cfc9cb78ec
+
 #### 《魔兽争霸2：重制版（Warcraft II Remastered）》v2025.2.26 中文版
+
+夸克：https://pan.quark.cn/s/e2d60c0cdba9
+
 #### 《魔兽争霸1：重制版（Warcraft I Remastered）》v2025.2.26 中文版
 
-夸克：https://pan.quark.cn/s/cb54f62be869
+夸克：https://pan.quark.cn/s/7a9898b1d7d0
 
 #### 《魔咒之地（Forspoken）豪华版》v1.23 全DLC 中文版
 
@@ -5137,10 +5167,16 @@ w
 夸克：https://pan.quark.cn/s/638c33888d8a
 
 #### 《蝙蝠侠 阿卡姆骑士（Batman Arkham Knight）年度版》v1.999 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/cac333a37aa7
+
 #### 《蝙蝠侠：阿卡姆疯人院（Batman Arkham Asylum）年度版》v1.1 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/6cd9fe06be9e
+
 #### 《蝙蝠侠 阿卡姆之城（Batman Arkham City GOTY）年度版》v1.1 全DLC 汉化版
 
-夸克：https://pan.quark.cn/s/484816a4509c
+夸克：https://pan.quark.cn/s/7398a21c9179
 
 #### 《猛将三国（Three Kingdoms Mushouden）豪华版》v2.4.8 全DLC 中文版
 
@@ -6663,11 +6699,11 @@ w
 
 #### 《F1赛车2022（F1 22）》v1.05.899639 全DLC 中文配音版
 
-夸克：https://pan.quark.cn/s/a64ba3a4ca63
+夸克：https://pan.quark.cn/s/848acecf7802
 
-#### 《F1赛车2020（F1 2020）豪华舒马赫版》v1.18 全DLC 中文版
+#### 《F1赛车2020（F1 Manager 2020）豪华舒马赫版》v1.18 全DLC 中文版（F1 20）
 
-夸克：https://pan.quark.cn/s/a64ba3a4ca63
+夸克：https://pan.quark.cn/s/f6eb26d94e09
 
 #### 《零号奴隶X（Slave Zero X）》v1.06 全DLC 中文版
 
@@ -8341,9 +8377,13 @@ w
 
 夸克：https://pan.quark.cn/s/910cffb2c31b
 
-#### 《南方公园：真理之杖 + 南方公园：完整破碎》最新 全DLC 汉化版
+#### 《南方公园：真理之杖（South Park The Stick of Truth）》vUpdate4 全DLC 汉化版
 
-夸克：https://pan.quark.cn/s/4e6bfdcbb20f
+夸克：https://pan.quark.cn/s/f01311a05e94
+
+#### 《南方公园：完整破碎（South Park The Fractured But Whole）黄金版》v1.0 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/f01311a05e94
 
 #### 《南方公园：下雪天！（SOUTH PARK SNOW DAY!）》v1.0.7 全DLC 英文版
 
@@ -10564,6 +10604,8 @@ w
 
 夸克：https://pan.quark.cn/s/a8e696bc6ac9
 
+迅雷：https://pan.xunlei.com/s/VO-oJtq4WL78YafCBepEPSGmA1?pwd=qrua#
+
 #### 《清零计划2：天启派对（Apocalypse Party）》v2024.12.5 中文 Steam+局域网 联机版
 
 夸克：https://pan.quark.cn/s/56dadae2af3f
@@ -12144,7 +12186,7 @@ w
 
 迅雷：https://pan.xunlei.com/s/VO60Z_oQDE-Xj4knMXH5OksfA1?pwd=kdzi#
 
-#### 《高达破坏者4（Gundam Breaker 4）》Build.30082022 中文配音 联机版
+#### 《GUNDAM 创坏者4（Gundam Breaker 4）》Build.30082022 中文配音 联机版
 
 夸克：https://pan.quark.cn/s/558567c39fa6
 
@@ -12198,7 +12240,7 @@ w
 
 夸克：https://pan.quark.cn/s/14b248c1b336
 
-#### 《商人：经销贸易（TRADESMAN：Deal to Dealer）》v0.2024.07.22 中文版
+#### 《天涯跑商记：好商人志在四方（TRADESMAN：Deal to Dealer）》v0.2024.07.22 中文版
 
 夸克：https://pan.quark.cn/s/19f6a5edf46a
 
@@ -12685,10 +12727,6 @@ w
 
 夸克：https://pan.quark.cn/s/d7f7dd2a7270
 
-#### 《商人：经销贸易（TRADESMAN Deal to Dealer）》v0.2024.07.06 中文版
-
-夸克：https://pan.quark.cn/s/3c78d018722c
-
 #### 《战场兄弟（Battle Brothers）》v1.5.0.15b 全DLC 汉化中文版
 
 夸克：https://pan.quark.cn/s/da890285c5e5
@@ -12892,12 +12930,6 @@ w
 夸克：https://pan.quark.cn/s/b2e07f30be7b
 
 迅雷：https://pan.xunlei.com/s/VO-ok3q2MiAxJXV_9QXJ7zYGA1?pwd=webh#
-
-#### 《人类跌落梦境（Human：Fall Flat ）》最新 中文版
-
-夸克：https://pan.quark.cn/s/0e9b5edda9dc
-
-迅雷：https://pan.xunlei.com/s/VO-oJtq4WL78YafCBepEPSGmA1?pwd=qrua#
 
 #### 《拣爱（LoveChoice ）》v10471501 + 3 DLC 中文版
 
@@ -13661,10 +13693,6 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNrxZgSK29JJB2SP_4Yy1JVpA1?pwd=wu7f#
 
-#### 《女巫Noita》最新 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/78006863b156
-
 #### 《钓鱼：北大西洋》最新 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/5787497a65b9
@@ -13727,9 +13755,13 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNxgpZSABji3axablv7MN2m8A1?pwd=m67w#
 
-#### 《恐惧与饥饿 系列合集（Fear and Hunger）》2部 最新 中文版
+#### 《恐惧与饥饿2：终结之祭（Fear & Hunger 2 Termina）》v1.9.1 中文版
 
-夸克：https://pan.quark.cn/s/fdd4e48f9b50
+夸克：https://pan.quark.cn/s/141dd46fcb30
+
+#### 《恐惧与饥饿（Fear & Hunger）》v1.4.1 中文版
+
+夸克：https://pan.quark.cn/s/a68c0d5dde2f
 
 #### 《纪念碑谷 系列合集（Monument Valley）》3部 最新 中文 电脑版
 
