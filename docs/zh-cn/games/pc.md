@@ -88,9 +88,12 @@
 夸克：https://pan.quark.cn/s/caf21379739d
 
 #### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》v1.0.6 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/68a307259cd2
+
 #### 《刺客信条 影（Assassins Creed Shadows）高级版》v1.1.11 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/2d419e5f757a
+夸克：https://pan.quark.cn/s/a22dfd286cd8
 
 #### 《沉没之城2（The Sinking City 2）高级版》Build.24671220 中文版
 #### 《沉没之城：重制版（The Sinking City Remastered）豪华版》v2025.5.13 全DLC 中文版
@@ -100,6 +103,10 @@
 #### 《阿凡达：潘多拉边境（Avatar Frontiers of Pandora）完整版》v2.7 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
+
+#### 《披萨店模拟器（Pizza Slice）》v0.75.16 中文 联机版
+
+夸克：https://pan.quark.cn/s/9d2358412140
 
 #### 《奔跑吧 糊塗蛋 EX（Hashire HEBEREKE EX）》v2026.9.6 中文版
 
@@ -1387,14 +1394,38 @@
 
 夸克：https://pan.quark.cn/s/e7780672c189
 
-#### 《战锤40K 机械神教2（Warhammer 40000 Mechanicus 2）》v1.0.0.25 中文版
-#### 《战锤40K 星际战士 大师锻造版》v1.0.1041.4326 全DLC 汉化版
+#### 《战锤40K：机械神教2（Warhammer 40000 Mechanicus 2）全能神版》v1.0.0.25 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/159db97ab55a
+
+#### 《战锤40K：星际战士 大师锻造版（Warhammer 40000 Space Marine - Master Crafted Edition）》v1.0.1041.4326 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/5a055f0a12d5
+
 #### 《战锤40K 星际战士（Warhammer 40000 Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/1178116c1a3d
+
 #### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dfae58a5eb3d
+
 #### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e38f8ebda302
+
 #### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/f8d9876bd953
+
 #### 《战锤40K 爆矢枪（Warhammer 40000 Boltgun）豪华版》v1.22.68871.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/91e1053cc885
+
 #### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）完整版》v1.18.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0193d8302eb7
+
 #### 《战锤 末世鼠疫2（Warhammer Vermintide 2）豪华版》v5.5.7 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/42d400d7daa0
@@ -1990,21 +2021,84 @@
 夸克：https://pan.quark.cn/s/69289f87b591
 
 #### 《刺客信条 幻景（Assassins Creed Mirage）豪华版》v1.11 全DLC 中文版
-#### 《刺客信条 叛变（Assassins Creed Rogue）》v1.1.0 全DLC 中文版
-#### 《刺客信条 起源（Assassins Creed Origins）》v1.62 全DLC 中文版
-#### 《刺客信条 兄弟会（Assassins Creed Brotherhood）豪华版》v1.03 中文版
-#### 《刺客信条 英灵殿（Assassins Creed Valhalla）完整版》v1.7.0 全DLC 中文版
-#### 《刺客信条 奥德赛（Assassins Creed Odyssey）最终版》v1.5.3 全DLC 中文版
-#### 《刺客信条 枭雄（Assassin s Creed Syndicate）》v1.51up8 全DLC 中文版
-#### 《刺客信条 编年史 三部曲（Assassins Creed - Chronicles）》v1.01 中文版
-#### 《刺客信条4 黑旗（Assassins Creed IV Black Flag）》v1.08 中文寒鸦版
-#### 《刺客信条3 重制版 和 刺客信条 解放 重制版 二合一》v1.0.3 全DLC 中文版
-#### 《刺客信条2（Assassins Creed II）豪华版》 v1.01 全DLC 汉化版
-#### 《刺客信条1 导演剪辑版》v1.02 v2 汉化版
-#### 《刺客信条大革命》
-#### 《刺客信条启示录》
 
-夸克：https://pan.quark.cn/s/2d419e5f757a
+夸克：https://pan.quark.cn/s/46bc4a732d58
+
+#### 《刺客信条 叛变（Assassins Creed Rogue）》v1.1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/fbb1bac35d4c
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条 起源（Assassins Creed Origins）》v1.62 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/be88c583906e
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条 兄弟会（Assassins Creed Brotherhood）豪华版》v1.03 中文版
+
+夸克：https://pan.quark.cn/s/eae37d644dbb
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条 英灵殿（Assassins Creed Valhalla）完整版》v1.7.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c525b3b4e6c9
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条 奥德赛（Assassins Creed Odyssey）最终版》v1.5.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/239ab6b8b8ce
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条 枭雄（Assassin s Creed Syndicate）》v1.51up8 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/13a0c9a7a45a
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条 编年史 三部曲（Assassins Creed Chronicles）》v1.01 中文版
+
+夸克：https://pan.quark.cn/s/43e25d6d79fd
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条4 黑旗（Assassins Creed IV Black Flag）寒鸦版》v1.08 中文版
+
+夸克：https://pan.quark.cn/s/d3523c8a2a79
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条3 重制版 和 刺客信条 解放 重制版（Assassin s Creed III Remastered）》v1.0.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f52109322fc8
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条2（Assassins Creed II）豪华版》v1.01 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/4c42432deeaa
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条1 导演剪辑版（Assassins Creed Directors Cut）》v1.02 v2 汉化版
+
+夸克：https://pan.quark.cn/s/b27426250766
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条：大革命（Assassins Creed Unity）》v1.5.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/68553e6e9f35
+
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
+
+#### 《刺客信条：启示录（Assassins Creed Revelations）黄金版》v1.03 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2938fbe8ba4d
 
 迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
 
