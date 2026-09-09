@@ -110,6 +110,8 @@
 
 夸克：https://pan.quark.cn/s/ae034797fbeb
 
+迅雷：https://pan.xunlei.com/s/VP14OVcs3NBaAhlYBVFbmzTrA1?pwd=ctbg#
+
 阿里：<https://www.aliyundrive.com/s/7pdzWx4A3rw>
 
 #### 《穿靴子的猫》1-2部 国英双音轨 4K+蓝光1080P 特效中字
@@ -242,7 +244,9 @@
 
 阿里：<https://www.aliyundrive.com/s/dP116Jm9o2Z>
 
-#### 《皮克斯动画电影合集》（长期更新，整理收集，优先多音轨）
+#### 《皮克斯动画电影合集》4K 多国配音 中字字幕（长期更新，整理收集，优先多音轨）
+
+迅雷：https://pan.xunlei.com/s/VP14ONJqGFOh6k2blfEP6F9OA1?pwd=aerg#
 
 阿里：<https://www.aliyundrive.com/s/8UaT2HdcDy6>
 

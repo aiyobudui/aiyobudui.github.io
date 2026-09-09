@@ -28,6 +28,12 @@
 
 ## 已完结的...
 
+#### 《我的偶像总裁》（2026）1080P 12集全
+
+夸克：https://pan.quark.cn/s/ce4fe13adedf
+
+迅雷：https://pan.xunlei.com/s/VP14GjosoJGslxZkSg9544zzA1?pwd=454n#
+
 #### 《鼠惑》（2026）1080P 10集全
 
 夸克：https://pan.quark.cn/s/fedf48d02099

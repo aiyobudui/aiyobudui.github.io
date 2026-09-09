@@ -23,6 +23,12 @@
 
 **靠前的是最新添加的**
 
+#### 《玩具总动员5》（2026）1080P 中字（前几部在另外一个链接）
+
+夸克：https://pan.quark.cn/s/ec24170830eb
+
+迅雷：https://pan.xunlei.com/s/VP14OVcs3NBaAhlYBVFbmzTrA1?pwd=ctbg#
+
 #### 《群体》 (2026）1080P 中字（韩国新丧尸电影）
 
 夸克：https://pan.quark.cn/s/0909825bd6c9

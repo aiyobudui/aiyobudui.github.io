@@ -154,6 +154,24 @@
 
 夸克：https://pan.quark.cn/s/12750d6526a1
 
+#### 《四海兄弟3：最终版（Mafia III Definitive Edition）》v1.100.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/43b721e16c08
+
+#### 《杀死影子（Kill The Shadow）》Build.25161753 中文版
+
+夸克：https://pan.quark.cn/s/b728cd802d3a
+
+#### 《小小烘焙坊（Tiny Bakery）》v1.0.1 中文版（小小面包店）
+
+夸克：https://pan.quark.cn/s/b7b76874b603
+
+迅雷：https://pan.xunlei.com/s/VOzrOK4Cj5Dhrsv8-6tdBtRXA1?pwd=int6#
+
+#### 《暗黑破坏神2：狱火重生 炼狱版（Diablo II Resurrected – Infernal Edition）》v3.3.93787 中文版（附安卓版）
+
+夸克：https://pan.quark.cn/s/379c96e02b6c
+
 #### 《艾尔登法环（Elden Ring）褪色者版》v1.17.0 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/f961d5992bd3
@@ -163,6 +181,10 @@
 #### 《合金装备5：幻痛（Metal Gear Solid V The Phantom Pain）》v1.15 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/783c4ed9f794
+
+#### 《赌徒之桌（Gamblers Table）》Build.25000971 中文版（很上头的放置型休闲游戏）
+
+夸克：https://pan.quark.cn/s/f43c2dda7bc0
 
 #### 《月影杀（Kristala）终结版》v1.2.4 全DLC 中文版
 
@@ -1214,12 +1236,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOzvLOC805nq69AH1-6qQbV1A1?pwd=c3jx#
 
-#### 《小小烘焙坊 Tiny Bakery》v0.9.10 中文版
-
-夸克：https://pan.quark.cn/s/b7b76874b603
-
-迅雷：https://pan.xunlei.com/s/VOzrOK4Cj5Dhrsv8-6tdBtRXA1?pwd=int6#
-
 #### 《断神 The Severed Gods》v0.2.54 中文版
 
 夸克：https://pan.quark.cn/s/63a598a4b397
@@ -1359,10 +1375,6 @@
 #### 《三国朋克 爱与破坏之神（tk punk）》v0.260805.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/751965b12d12
-
-#### 《杀死影子（Kill The Shadow）》Build.24566977 中文版
-
-夸克：https://pan.quark.cn/s/b728cd802d3a
 
 #### 《黑夜轮回（Re Night）》v2026.8.5 中文版（肉鸽卡牌）
 
@@ -1731,10 +1743,6 @@
 夸克：https://pan.quark.cn/s/2f4e6baf45ed
 
 迅雷：https://pan.xunlei.com/s/VOmSr-4oyVwrgMVFQrMKryNVA1?pwd=6crt#
-
-#### 《暗黑破坏神2 重制版（Diablo II Resurrected）终极版》v3.2.93236 全DLC 中文版（附安卓版）
-
-夸克：https://pan.quark.cn/s/379c96e02b6c
 
 #### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）圣剑版》v1.25 全DLC 中文版（魂游）
 
@@ -5618,10 +5626,6 @@ w
 #### 《息风谷战略（WindStop Strategy）》v1.0.0 中文版
 
 夸克：https://pan.quark.cn/s/9b0983d838ff
-
-#### 《赌徒之桌（Gamblers Table）》Build.21470204 中文版（很上头的放置型休闲游戏）
-
-夸克：https://pan.quark.cn/s/f43c2dda7bc0
 
 #### 《Super Woden Rally Edge》v1.0.2 中文版（可多人分屏的赛车小游戏）
 
@@ -11218,9 +11222,13 @@ w
 
 夸克：https://pan.quark.cn/s/0514847dd1ed
 
-#### 《四海兄弟 1-3部 决定版（Mafia - Definitive Edition）》最新 全DLC 中文版（黑手党）
+#### 《四海兄弟2：最终版（Mafia II Definitive Edition）》v1.0.1 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/3d2eb54b7b1c
+夸克：https://pan.quark.cn/s/02f6581350b5
+
+#### 《四海兄弟：最终版（Mafia Definitive Edition）》v1.0.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2f2dba27b265
 
 #### 《剑风传奇无双（Berserk and the Band of the）Hawk）》v2020.4.13 汉化中文版
 

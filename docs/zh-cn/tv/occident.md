@@ -26,11 +26,35 @@
 
 ## 正在更新中的..
 
+#### 《侠探杰克》（2022-2026）4K 中字 第4季 更新中..（附1-3季全）
 
+夸克：https://pan.quark.cn/s/5f608a70da3b
+
+迅雷：https://pan.xunlei.com/s/VNmK2utKbpMpeoEsGF0ACnK2A1?pwd=89x7#
+
+#### 《羊毛战记》（2023-2026）4K HDR + 1080P 1-3季全 中字（又名：末日地堡）
+
+夸克：https://pan.quark.cn/s/3eb06a7e3767
+
+迅雷：https://pan.xunlei.com/s/VNlWh4JAGuZ2HxxGaFBDD1RxA1?pwd=k7hk#
+
+阿里：https://www.aliyundrive.com/s/bW8xQVLeJRr
 
 ---
 
 ## 已完结的
+
+#### 《绝望写手》 (2021-2026）4K 1-5季全
+
+夸克：秒和谐
+
+迅雷：https://pan.xunlei.com/s/VP149nVXuOqGkO8daGvpba0NA1?pwd=ezj5#
+
+#### 《扯淡地球史（Cunk on Earth）》 （2022）1080P 5集全
+
+夸克：https://pan.quark.cn/s/9a09e995e9ce
+
+迅雷：https://pan.xunlei.com/s/VP144hchuOqGkO8daGvpXkHNA1?pwd=ccuh#
 
 #### 《克拉克森的农场》（2021-2026）1-5季全 1080P 中字
 
@@ -308,12 +332,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNlUUg0MCHiPkLfGRwZ9gUSuA1?pwd=mgiy#
 
-#### 《侠探杰克》（2022-2025）1-3季全 4K中字
-
-夸克：https://pan.quark.cn/s/acc15a400d46
-
-迅雷：https://pan.xunlei.com/s/VNmK2utKbpMpeoEsGF0ACnK2A1?pwd=89x7#
-
 #### 《大地永存》（2024）1080P 6集全 中字
 
 夸克：https://pan.quark.cn/s/a499c63f15f7
@@ -325,14 +343,6 @@
 #### 《沙丘：预言》（2024）4K HDR+1080P 中字 6集全
 
 夸克：https://pan.quark.cn/s/fc8ab7b89c73
-
-#### 《羊毛战记》（2023-2024）4KHDR + 1080P 1-2季全 中字（又名：末日地堡）
-
-夸克：https://pan.quark.cn/s/4d48819eab16
-
-迅雷：https://pan.xunlei.com/s/VNlWh4JAGuZ2HxxGaFBDD1RxA1?pwd=k7hk#
-
-阿里：<https://www.aliyundrive.com/s/bW8xQVLeJRr>
 
 #### 《红色区域》（2024）1080P 8集全 中字 （印尼丧尸剧）
 

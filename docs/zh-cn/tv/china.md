@@ -18,9 +18,38 @@
 
 ## 正在更新中的...
 
+#### 《后西游记》（2026）4K 更新中..
+
+夸克：https://pan.quark.cn/s/f8f50ff24ff7
+
+迅雷：https://pan.xunlei.com/s/VP14EehBFONsIwKq1GLj33iAA1?pwd=kty6#
+
+#### 《囧徒之预演告别》（2026）4K 15集全
+
+夸克：https://pan.quark.cn/s/919fdd32411f
+
+迅雷：https://pan.xunlei.com/s/VP14LfQ-BsjaeSLmjsRs_wPSA1?pwd=ai3f#
+
+#### 《重案六组：消失的警号》（2026）4K 26集全
+
+夸克：https://pan.quark.cn/s/7ac6593404e8
+
+迅雷：https://pan.xunlei.com/s/VP14Msldb2rhbFy5r55UC8KVA1?pwd=v28p#
+
+#### 《师兄太稳健》（2026）4K 30集全
+
+夸克：https://pan.quark.cn/s/8f81f9bd117e
+
+迅雷：https://pan.xunlei.com/s/VP14FmdlddIYwUA25NtbMd5dA1?pwd=ss7b#
+
+---
+
+## 已完结的...
+
+
 #### 《醒来》（2026）4K 22集全
 
-夸克：https://pan.quark.cn/s/2af0049ed78b
+夸克：https://pan.quark.cn/s/48757ec41251
 
 迅雷：https://pan.xunlei.com/s/VP0vb0_7_E7Spb8iMj07TYP6A1?pwd=rn7s#
 
@@ -74,7 +103,7 @@
 
 #### 《翘楚》（2026）4K 24集全
 
-夸克：https://pan.quark.cn/s/d03e3ce88822
+夸克：https://pan.quark.cn/s/7e90ecd9a872
 
 迅雷：https://pan.xunlei.com/s/VOv_JA5z2N3e8YumtYSaN95HA1?pwd=niz7
 
@@ -107,10 +136,6 @@
 夸克：https://pan.quark.cn/s/2bb37eef536c
 
 迅雷：https://pan.xunlei.com/s/VOtxvdBzBb0onGjAxFR6SexxA1?pwd=2stn#
-
----
-
-## 已完结的...
 
 #### 《灵魂摆渡·十年》（2026）第四季 4K 24集全（灵魂摆渡十年）
 
