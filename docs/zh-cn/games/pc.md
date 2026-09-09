@@ -57,6 +57,10 @@
 ## 最新添加
 >[!IMPORTANT] 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
+#### 《噬血代码2（CODE VEIN 2）豪华版》v2.0.1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ac4f16a40e11
+
 #### 《星球大战：亡命之徒（Star Wars Outlaws）终结版 》v1.7 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9899fc46c698
