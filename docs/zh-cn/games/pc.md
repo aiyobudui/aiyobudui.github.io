@@ -108,6 +108,22 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《瞳孔：恶魔之眼（Demonicon）》v1.1.0.0 全DLC 中文版（已修复WIN11打不开）
+
+夸克：https://pan.quark.cn/s/bc1aa78ae076
+
+#### 《北海道连续杀人事件 消失在鄂霍次克 ～追忆流冰 流泪人偶～（The Hokkaido Serial Murder Case The Okhotsk Disappearance）》Build.15724002 中文版
+
+夸克：https://pan.quark.cn/s/d45410e8d5d6
+
+### 《地牢围攻（Dungeon Siege）》v1.11.1 英文版
+
+夸克：https://pan.quark.cn/s/f81568c57928
+
+#### 《地牢围攻3：太阳宝藏（Dungeon Siege II Broken World）》v1.0.38047 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/56429fb18a14
+
 #### 《披萨屋模拟器（Pizza House Simulator）》v1.009 中文 联机版
 
 夸克：https://pan.quark.cn/s/336bfc653c7e
@@ -157,6 +173,10 @@
 #### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.11 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/12750d6526a1
+
+#### 《朝露：境界旅程（Journey of Realm Dawn Dew）》v2026.9.5 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7e8349c0117e
 
 #### 《四海兄弟3：最终版（Mafia III Definitive Edition）》v1.100.0 全DLC 中文版
 
@@ -1988,10 +2008,6 @@
 #### 《ZEPHON 完整版》v1.3.9 全DLC 中文版（泽丰 策略游戏）
 
 夸克：https://pan.quark.cn/s/3dff8c669d92
-
-#### 《朝露：境界旅程（Journey of Realm Dawn Dew）》v2026.6.24 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7e8349c0117e
 
 #### 《生存代码（Net Attack）》v1.784 中文版
 

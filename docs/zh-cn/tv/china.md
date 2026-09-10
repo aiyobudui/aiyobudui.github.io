@@ -24,6 +24,12 @@
 
 迅雷：https://pan.xunlei.com/s/VP14EehBFONsIwKq1GLj33iAA1?pwd=kty6#
 
+#### 《藏锋》（2026）4K 23集全
+
+夸克：https://pan.quark.cn/s/53bc13ae640c
+
+迅雷：https://pan.xunlei.com/s/VP1BEolVYM84MqNflPIHe71VA1?pwd=3ae3#
+
 #### 《囧徒之预演告别》（2026）4K 15集全
 
 夸克：https://pan.quark.cn/s/919fdd32411f

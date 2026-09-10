@@ -30,6 +30,10 @@
 > [!IMPORTANT]
 > 靠前的是新添加和刚更新的，如果链接里面没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《鬼武者（Way of the Sword）高级豪华版》Build.24769601 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3a72cd44f51e
+
 #### 《EA SPORTS FC 26》v1.6.2 全DLC 中文配音版（FC26）
 
 夸克：https://pan.quark.cn/s/cabbe07c9f72
