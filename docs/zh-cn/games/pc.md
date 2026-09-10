@@ -162,6 +162,10 @@
 
 夸克：https://pan.quark.cn/s/43b721e16c08
 
+#### 《魔兽争霸3：重制版（Warcraft III Reforged）》v2.0.4.23745 中文版（附淬火MOD+地图包+秘籍）
+
+夸克：https://pan.quark.cn/s/84cfc9cb78ec
+
 #### 《杀死影子（Kill The Shadow）》Build.25161753 中文版
 
 夸克：https://pan.quark.cn/s/b728cd802d3a
@@ -4649,10 +4653,6 @@ w
 #### 《时间旅者：重生曙光（Cronos The New Dawn）豪华版》v20260209 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7814edba170c
-
-#### 《魔兽争霸3：重制版（Warcraft III Reforged）》v2.0.4.23556 中文版（附淬火MOD+地图包+秘籍）
-
-夸克：https://pan.quark.cn/s/84cfc9cb78ec
 
 #### 《魔兽争霸2：重制版（Warcraft II Remastered）》v2025.2.26 中文版
 

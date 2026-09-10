@@ -94,17 +94,11 @@
 
 迅雷：https://pan.xunlei.com/s/VNm9axELHxKie2GFFXpIfxiUA1?pwd=rg86#
 
-#### 《搜神记》（2026）4K 周四 更新中..
+#### 《诛仙》（2022-2025）4K 第4季 周四 更新中..（附1-3季）
 
-夸克：https://pan.quark.cn/s/44411d300812
+夸克：https://pan.quark.cn/s/2aa525f61810
 
-迅雷：https://pan.xunlei.com/s/VOzmhOis8x5YqRe0nOYFQchPA1?pwd=mbts#
-
-#### 《将夜》（2026）4K 周四 更新中..
-
-夸克：https://pan.quark.cn/s/6ed80329bbcb
-
-迅雷：https://pan.xunlei.com/s/VOzmi5RrH2Vk1AD_BWVsleElA1?pwd=hgax#
+迅雷：https://pan.xunlei.com/s/VNv3-1U53KF0Ir94-IdLypI6A1?pwd=4gbr#
 
 #### 《逆天邪神》（2023-2026）4K 第二季 周四更新中..（附第一季）
 
@@ -189,6 +183,18 @@
 ---
 
 ## 暂时完结
+
+#### 《将夜》（2026）4K 19集全
+
+夸克：https://pan.quark.cn/s/6ed80329bbcb
+
+迅雷：https://pan.xunlei.com/s/VOzmi5RrH2Vk1AD_BWVsleElA1?pwd=hgax#
+
+#### 《搜神记》（2026）4K 24集全
+
+夸克：https://pan.quark.cn/s/44411d300812
+
+迅雷：https://pan.xunlei.com/s/VOzmhOis8x5YqRe0nOYFQchPA1?pwd=mbts#
 
 #### 《斩神之凡尘神域》（2024）4K 1-2季全（我在神经病院学斩神）
 
@@ -305,12 +311,6 @@
 夸克：https://pan.quark.cn/s/2c0d0f31a1a3
 
 迅雷：https://pan.xunlei.com/s/VOnq9XaHtYOZ1jAQ_1Qwz_tXA1?pwd=yj92
-
-#### 《诛仙》（2022-2025）4K 1-3季全
-
-夸克：https://pan.quark.cn/s/c1ad42314f24
-
-迅雷：https://pan.xunlei.com/s/VNv3-1U53KF0Ir94-IdLypI6A1?pwd=4gbr#
 
 #### 《陆地键仙》（2024）4K 150集全
 
