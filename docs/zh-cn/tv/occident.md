@@ -40,6 +40,12 @@
 
 阿里：https://www.aliyundrive.com/s/bW8xQVLeJRr
 
+#### 《百年孤独》（2024-2026）1-2季全 1080P（西班牙+英语）
+
+夸克：https://pan.quark.cn/s/ccb6a1e0480b
+
+迅雷：https://pan.xunlei.com/s/VOseMzgzt9Jxq5XolVRgVFWqA1?pwd=4zs2#
+
 ---
 
 ## 已完结的
@@ -389,12 +395,6 @@
 夸克：https://pan.quark.cn/s/d7949d0f63f6
 
 迅雷：https://pan.xunlei.com/s/VOseNYPDP8Yz1cykHFLohKCpA1?pwd=vzms#
-
-#### 《百年孤独》（2024）1080P 8集全 西班牙+英语
-
-夸克：https://pan.quark.cn/s/8508828cdab2
-
-迅雷：https://pan.xunlei.com/s/VOseMzgzt9Jxq5XolVRgVFWqA1?pwd=4zs2#
 
 #### 《梦魇绝镇》（2022-2024）1-3季 1080P 中字
 

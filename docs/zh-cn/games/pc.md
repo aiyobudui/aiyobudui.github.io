@@ -112,6 +112,16 @@
 
 夸克：https://pan.quark.cn/s/bc1aa78ae076
 
+#### 《菇域幽城（Shroom and Gloom）》v0.3.17.3 中文版（卡牌游戏）
+
+夸克：https://pan.quark.cn/s/c82b5e9a33f7
+
+#### 《Spark in the Dark》v0.3.17.3 中文版（暗黑奇幻风格的硬核地牢探索游戏）
+
+夸克：https://pan.quark.cn/s/554509351ff6
+
+迅雷：https://pan.xunlei.com/s/VP1G56ukdzQu0i4_K7V2RYxIA1?pwd=pvni#
+
 #### 《北海道连续杀人事件 消失在鄂霍次克 ～追忆流冰 流泪人偶～（The Hokkaido Serial Murder Case The Okhotsk Disappearance）》Build.15724002 中文版
 
 夸克：https://pan.quark.cn/s/d45410e8d5d6
@@ -173,6 +183,14 @@
 #### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.11 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/12750d6526a1
+
+#### 《英灵神殿（Valheim）》v1.0.7 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7f11084ef53b
+
+#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.624 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4912658febe6
 
 #### 《朝露：境界旅程（Journey of Realm Dawn Dew）》v2026.9.5 全DLC 中文版
 
@@ -1320,11 +1338,7 @@
 
 夸克：https://pan.quark.cn/s/1d8bcee97d85
 
-#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.567 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4912658febe6
-
-#### 《混乱斗士 Mayhem Brawler》v2.3.1 中文版
+#### 《混乱斗士（Mayhem Brawler）》v2.3.1 中文版
 
 夸克：https://pan.quark.cn/s/aaefdbf347e9
 
@@ -4789,14 +4803,27 @@ w
 
 夸克：https://pan.quark.cn/s/c6afb4342e8a
 
-#### 《拳皇97 全球对决》v1.0 中文版
-#### 《拳皇98 终极对决 最终版》Build.8170224 中文版
-#### 《拳皇13 全球对决》v2025.2.20 中文版
+#### 《拳皇97：全球对决（THE KING OF FIGHTERS 97 GLOBAL MATCH）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/444f418e5c7f
+
+迅雷：https://pan.xunlei.com/s/VP1Fk4D6UgTsusO6xMYQRxueA1?pwd=cap4#
+
+#### 《拳皇98：终极对决（THE KING OF FIGHTERS 98 ULTIMATE MATCH）最终版》Build.8170224 中文版
+
+夸克：https://pan.quark.cn/s/d9a721db7aaf
+
+迅雷：https://pan.xunlei.com/s/VP1FkDbTCXCfvEMV53UoZDqoA1?pwd=aexk#
+
+#### 《拳皇13：全球对决（THE KING OF FIGHTERS XIII GLOBAL MATCH）》v2025.2.20 中文版
+
+夸克：https://pan.quark.cn/s/aa4ea2607884
+
 #### 《拳皇15（THE KING OF FIGHTERS XV）》v2.41.0 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/b3cc48768abe
+夸克：https://pan.quark.cn/s/a5613872a292
 
-迅雷：https://pan.xunlei.com/s/VNyZXhK1tSi1OfyfyqsiTteiA1?pwd=umja#
+迅雷：https://pan.xunlei.com/s/VP1FkNVRQXhbsYLASYVWVeDNA1?pwd=5z7g#
 
 #### 《兽物调和 重制版（Kemono Mix Re）》v1.0.0 中文版（生物养成 + 探索模拟）
 
@@ -5002,17 +5029,43 @@ w
 
 夸克：https://pan.quark.cn/s/27a9461af361
 
-#### 《勇者斗恶龙1+2 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》v1.0.2.0 中文版
+#### 《勇者斗恶龙1+2 HD-2D 重制版（DRAGON QUEST I & II HD-2D Remake）》v1.0.2.0 中文版
+
+夸克：https://pan.quark.cn/s/96c215824479
+
+迅雷：https://pan.xunlei.com/s/VP1FuCz07MzIzWFsBhUVj1zSA1?pwd=b3e3#
+
 #### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》v1.2.1.0 中文版
-#### 《勇者斗恶龙11S：寻觅逝去的时光》v1.0 全DLC 中文 终结版
-#### 《无限神速斩 勇者斗恶龙 达伊的大冒险》1.0.3 中文版 PC版
-#### 《勇者斗恶龙 寻宝探险团 蓝色眼眸与天空罗盘》全DLC 豪华中文版 PC版
-#### 《勇者斗恶龙 创世小玩家2（Dragon Quest Builders 2）》v1.7.3d 全DLC 中文 联机版
-#### 《勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记（Dragon Quest Builders）》 v1.0.1 中文版
 
-夸克：https://pan.quark.cn/s/8ac0b6c43877
+夸克：https://pan.quark.cn/s/a847bf6b84cf
 
-迅雷：https://pan.xunlei.com/s/VNv2sfgPQ5xpw3hvX3vP88lTA1?pwd=vzp2#
+#### 《勇者斗恶龙11S：寻觅逝去的时光 最终版（DRAGON QUEST XI S Echoes of an Elusive Age – Definitive Editio）》v1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/fa14c2f095a3
+
+迅雷：https://pan.xunlei.com/s/VP1Fyt5ZAnHw1AxGQoxhmYNcA1?pwd=ke92#
+
+#### 《无限神速斩  勇者斗恶龙 达伊的大冒险（Infinity Strash DRAGON QUEST The Adventure of Dai）》v1.0.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d5ca2e38a141
+
+迅雷：https://pan.xunlei.com/s/VP1Fyj6I6EdB1qkKuBWXkWLJA1?pwd=s3rv#
+
+#### 《勇者斗恶龙 寻宝探险团 蓝色眼眸与天空罗盘（DRAGON QUEST TREASURES）豪华版》v11204329 中文版
+
+夸克：https://pan.quark.cn/s/22a8f21c0732
+
+迅雷：https://pan.xunlei.com/s/VP1Fz46nLaHXkUtKPKV-44l0A1?pwd=n8sd#
+
+#### 《勇者斗恶龙 创世小玩家2 破坏神席德与空荡岛（Dragon Quest Builders 2）》v1.7.3d 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/1450cb4fc97c
+
+迅雷：https://pan.xunlei.com/s/VP1FzAPD_Dlk8aLh5fsmOGyiA1?pwd=q7db#
+
+#### 《勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记（Dragon Quest Builders）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/76288c351fa7
 
 #### 《伊苏8（Ys VIII Lacrimosa of DANA）限定版》v2023.4.2 全DLC 中文版
 
@@ -5488,10 +5541,6 @@ w
 #### 《Worldwide Rush》v1.2.8 中文版（全球范围的客运和管理模拟游戏）
 
 夸克：https://pan.quark.cn/s/2b1b93d16875
-
-#### 《英灵神殿（Valheim）》v0.221.10  中文 联机版
-
-夸克：https://pan.quark.cn/s/7f11084ef53b
 
 #### 《怪物火车（Monster Train）》v12924 全DLC 中文 联机版
 #### 《怪物火车2（Monster Train 2）》v16171 全DLC 中文版（附第一部）
