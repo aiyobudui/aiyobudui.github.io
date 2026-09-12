@@ -83,6 +83,12 @@
 
 阿里：<https://www.aliyundrive.com/s/ZhH5CQQGG34>
 
+#### 《热血高校》（2009-2014）1-3部合集 蓝光1080P 中字
+
+夸克：https://pan.quark.cn/s/ccabea8c398c
+
+迅雷：https://pan.xunlei.com/s/VP1KKhn5Gt8JP3j9kYt8R2jOA1?pwd=5gvn#
+
 #### 《爱在黎明破晓前、爱在日落黄昏时、爱在午夜降临前》（1995-2013）蓝光1080P 特效中英字幕
 
 夸克：https://pan.quark.cn/s/803e3567421f

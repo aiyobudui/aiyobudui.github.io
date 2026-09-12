@@ -20,6 +20,14 @@
 
 ---
 
+#### 《金手指》（2023）4K 60帧 国粤双语（刘德华 梁朝伟）
+
+夸克：https://pan.quark.cn/s/f1a4bd2c7c21
+
+迅雷：https://pan.xunlei.com/s/VNqwNZK_kEBGyW-t65KTc61wA1?pwd=9gtq#
+
+百度：https://pan.baidu.com/s/13bfr10DWeoZFSWigFotyhA?pwd=0000
+
 #### 《被解救的姜戈（Django Unchained）》（2012）蓝光1080P 国英配音 内封中字
 
 夸克：https://pan.quark.cn/s/d153c348195a

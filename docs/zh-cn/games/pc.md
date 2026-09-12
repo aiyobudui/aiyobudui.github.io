@@ -108,9 +108,13 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
-#### 《瞳孔：恶魔之眼（Demonicon）》v1.1.0.0 全DLC 中文版（已修复WIN11打不开）
+#### 《宇宙牌加油站（Roadside Research）》v0.2.7 中文 联机版
 
-夸克：https://pan.quark.cn/s/bc1aa78ae076
+夸克：https://pan.quark.cn/s/db8eed81c027
+
+#### 《佛系鱼塘（Idle Waters）》v1.1.0 中文版（桌面游戏）
+
+夸克：https://pan.quark.cn/s/ce10fd6efaa5
 
 #### 《菇域幽城（Shroom and Gloom）》v0.3.17.3 中文版（卡牌游戏）
 
@@ -121,6 +125,10 @@
 夸克：https://pan.quark.cn/s/554509351ff6
 
 迅雷：https://pan.xunlei.com/s/VP1G56ukdzQu0i4_K7V2RYxIA1?pwd=pvni#
+
+#### 《瞳孔：恶魔之眼（Demonicon）》v1.1.0.0 全DLC 中文版（已修复WIN11打不开）
+
+夸克：https://pan.quark.cn/s/bc1aa78ae076
 
 #### 《北海道连续杀人事件 消失在鄂霍次克 ～追忆流冰 流泪人偶～（The Hokkaido Serial Murder Case The Okhotsk Disappearance）》Build.15724002 中文版
 

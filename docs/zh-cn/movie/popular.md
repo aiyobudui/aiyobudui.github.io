@@ -721,14 +721,6 @@
 
 百度：<https://pan.baidu.com/s/14d1Tk36iGHMAQBGLKndDkw?pwd=0000>
 
-#### 《金手指》（2023）4K 60帧 国粤双语》（刘德华 梁朝伟）
-
-夸克：<https://pan.quark.cn/s/30330b6c5466>
-
-迅雷：<https://pan.xunlei.com/s/VNqwNZK_kEBGyW-t65KTc61wA1?pwd=9gtq#>
-
-百度：<https://pan.baidu.com/s/13bfr10DWeoZFSWigFotyhA?pwd=0000>
-
 #### 《养蜂人》（2024）4K
 
 夸克：<https://pan.quark.cn/s/7e3ea90c4779>
