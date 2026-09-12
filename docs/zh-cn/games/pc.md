@@ -104,9 +104,35 @@
 
 夸克：https://pan.quark.cn/s/f14a84a20104
 
+#### 《体育用品商店（Sporting Goods Shop）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/3ff6061ef70b
+
+#### 《地下城竞技场（Dungeon Brawls）豪华版》v6.07 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/21428cc417a8
+
 #### 《阿凡达：潘多拉边境（Avatar Frontiers of Pandora）完整版》v2.7 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
+
+#### 《莎拉的黑店（Dungeon Inn）》v0.7.0.260811 中文版
+
+夸克：https://pan.quark.cn/s/b9c6d4f25d85
+
+迅雷：https://pan.xunlei.com/s/VP1KewGtCXCfvEMV53UsTX-EA1?pwd=65jc#
+
+#### 《动漫商店模拟器（Anime Shop Simulator）》v0.1.1 中文版
+
+夸克：https://pan.quark.cn/s/d6cb5f7a0665
+
+#### 《陶艺大师（Master Of Pottery）》v1.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e16c8d6c5ea4
+
+#### 《星之旅（Lunarium）》v1.0.20.0 中文版
+
+夸克：https://pan.quark.cn/s/3a59da64c5c4
 
 #### 《宇宙牌加油站（Roadside Research）》v0.2.7 中文 联机版
 
@@ -134,56 +160,6 @@
 
 夸克：https://pan.quark.cn/s/d45410e8d5d6
 
-### 《地牢围攻（Dungeon Siege）》v1.11.1 英文版
-
-夸克：https://pan.quark.cn/s/f81568c57928
-
-#### 《地牢围攻3：太阳宝藏（Dungeon Siege II Broken World）》v1.0.38047 全DLC 汉化版
-
-夸克：https://pan.quark.cn/s/56429fb18a14
-
-#### 《披萨屋模拟器（Pizza House Simulator）》v1.009 中文 联机版
-
-夸克：https://pan.quark.cn/s/336bfc653c7e
-
-#### 《披萨店模拟器（Pizza Slice）》v0.75.16 中文 联机版
-
-夸克：https://pan.quark.cn/s/9d2358412140
-
-#### 《奔跑吧 糊塗蛋 EX（Hashire HEBEREKE EX）》v2026.9.6 中文版
-
-夸克：https://pan.quark.cn/s/0f01033bf670
-
-迅雷：https://pan.xunlei.com/s/VP0msg_pD14RFSFRm4CM0sCIA1?pwd=nemg#
-
-#### 《地牢围攻2：破碎的世界（Dungeon Siege II Broken World）》v2.0.3 全DLC 汉化版
-
-夸克：https://pan.quark.cn/s/19d36e2418d8
-
-迅雷：https://pan.xunlei.com/s/VP0l0zgVSDka6aVRCt02cHHbA1?pwd=4mjr#
-
-#### 《巴士模拟器27（Bus Simulator 27）》v1.06.52637 中文版
-
-夸克：https://pan.quark.cn/s/a9c597a17ee6
-
-#### 《醉步同行（Friendly Steps）》v1.7.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/3d482855a1dc
-
-迅雷：https://pan.xunlei.com/s/VP0gGjTtAsIHxv6Xuf5WIZLzA1?pwd=gurx#
-
-#### 《Rogue Blight》v1.00.04 中文版（诡疫荒原 2D类魂游戏）
-
-夸克：https://pan.quark.cn/s/2afbedb5af19
-
-迅雷：https://pan.xunlei.com/s/VP0fvHWFk3e8_rnSAJY-U6l1A1?pwd=g8g9#
-
-#### 《我的海岛庄园（Island Market Simulator）》v1.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/593505c2e2aa
-
-迅雷：https://pan.xunlei.com/s/VP0fvrUYoCyqPD5juknmA6r6A1?pwd=yckw#
-
 ---
 
 ## 最近更新
@@ -192,6 +168,12 @@
 
 夸克：https://pan.quark.cn/s/12750d6526a1
 
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.111.0 中文 联机版（附安卓版）
+
+夸克：https://pan.quark.cn/s/102bb457ec0d
+
+迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
+
 #### 《英灵神殿（Valheim）》v1.0.7 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/7f11084ef53b
@@ -199,6 +181,10 @@
 #### 《堕落之主（Lords of the Fallen）豪华版》v2.5.624 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/4912658febe6
+
+#### 《加勒比传奇：海盗时代（Caribbean Legend Age of Pirates）》v1.2.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/69374171a9ff
 
 #### 《朝露：境界旅程（Journey of Realm Dawn Dew）》v2026.9.5 全DLC 中文版
 
@@ -232,21 +218,19 @@
 
 迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
 
-#### 《合金装备5：幻痛（Metal Gear Solid V The Phantom Pain）》v1.15 全DLC 汉化版
+---
 
-夸克：https://pan.quark.cn/s/783c4ed9f794
+## 置顶推荐
 
-#### 《赌徒之桌（Gamblers Table）》Build.25000971 中文版（很上头的放置型休闲游戏）
+#### 《幻兽帕鲁（Palworld）》v1.0.3.101283 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/f43c2dda7bc0
+夸克：https://pan.quark.cn/s/51d73c209195
+
+迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
 #### 《月影杀（Kristala）终结版》v1.2.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9b34ff6c5281
-
-#### 《蛮荒计划（Ferocious）》v1.10.300.4463 中文版
-
-夸克：https://pan.quark.cn/s/2f2a7280d767
 
 #### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.10.0 中文版
 
@@ -260,49 +244,9 @@
 
 夸克：https://pan.quark.cn/s/83a0731076ef
 
-#### 《虐杀熔炉（KIBORG）》Build.24655420 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d590ba9f9318
-
-#### 《试炼幸存者（Trials Survivors）》v0.1.8.12 中文版（肉鸽）
-
-夸克：https://pan.quark.cn/s/86ce07b6d626
-
-迅雷：https://pan.xunlei.com/s/VP0gEyAJzBnaDk6k7fFdoDJtA1?pwd=uxv5#
-
-#### 《雄心壮志（Big Ambitions ）》v1.0 中文版
-
-夸克：https://pan.quark.cn/s/8df72438a038
-
-迅雷：https://pan.xunlei.com/s/VP0fDWSdSfyPOYNtZv4fU77JA1?pwd=69fq#
-
-#### 《云族裔（inZOI）》v0.10.0 全DLC 中文版（韩国模拟人生）
-
-夸克：https://pan.quark.cn/s/8458e4ca4a38
-
----
-
-## 置顶推荐
-
-#### 《幻兽帕鲁（Palworld）》v1.0.3.101283 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/51d73c209195
-
-迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
-
 #### 《极限竞速：地平线6（Forza Horizon 6）尊享版》v420.696 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/1b15af18ed25
-
-#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/3726bf8acce0
-
-迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
-
-#### 《极限竞速：地平线4（Forza Horizon 6）终极版》v1.477.567 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/1c24661d6da9
 
 #### 《识质存在（PRAGMATA）豪华版》Build.22357085 全DLC 中文版
 
@@ -505,6 +449,102 @@
 
 ---
 ## 已有游戏
+
+#### 《杀戮尖塔（Slay the Spire）》v2.3.4 中文版（附MOD版+安卓版）
+
+夸克：https://pan.quark.cn/s/70d9833abde9
+
+#### 《合金装备5：幻痛（Metal Gear Solid V The Phantom Pain）》v1.15 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/783c4ed9f794
+
+#### 《赌徒之桌（Gamblers Table）》Build.25000971 中文版（很上头的放置型休闲游戏）
+
+夸克：https://pan.quark.cn/s/f43c2dda7bc0
+
+#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/3726bf8acce0
+
+迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
+
+#### 《极限竞速：地平线4（Forza Horizon 6）终极版》v1.477.567 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/1c24661d6da9
+
+#### 《蛮荒计划（Ferocious）》v1.10.300.4463 中文版
+
+夸克：https://pan.quark.cn/s/2f2a7280d767
+
+#### 《虐杀熔炉（KIBORG）》Build.24655420 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d590ba9f9318
+
+#### 《试炼幸存者（Trials Survivors）》v0.1.8.12 中文版（肉鸽）
+
+夸克：https://pan.quark.cn/s/86ce07b6d626
+
+迅雷：https://pan.xunlei.com/s/VP0gEyAJzBnaDk6k7fFdoDJtA1?pwd=uxv5#
+
+#### 《雄心壮志（Big Ambitions ）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/8df72438a038
+
+迅雷：https://pan.xunlei.com/s/VP0fDWSdSfyPOYNtZv4fU77JA1?pwd=69fq#
+
+#### 《地牢围攻（Dungeon Siege）》v1.11.1 英文版
+
+夸克：https://pan.quark.cn/s/f81568c57928
+
+#### 《地牢围攻3：太阳宝藏（Dungeon Siege II Broken World）》v1.0.38047 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/56429fb18a14
+
+#### 《披萨屋模拟器（Pizza House Simulator）》v1.009 中文 联机版
+
+夸克：https://pan.quark.cn/s/336bfc653c7e
+
+#### 《披萨店模拟器（Pizza Slice）》v0.75.16 中文 联机版
+
+夸克：https://pan.quark.cn/s/9d2358412140
+
+#### 《奔跑吧 糊塗蛋 EX（Hashire HEBEREKE EX）》v2026.9.6 中文版
+
+夸克：https://pan.quark.cn/s/0f01033bf670
+
+迅雷：https://pan.xunlei.com/s/VP0msg_pD14RFSFRm4CM0sCIA1?pwd=nemg#
+
+#### 《地牢围攻2：破碎的世界（Dungeon Siege II Broken World）》v2.0.3 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/19d36e2418d8
+
+迅雷：https://pan.xunlei.com/s/VP0l0zgVSDka6aVRCt02cHHbA1?pwd=4mjr#
+
+#### 《巴士模拟器27（Bus Simulator 27）》v1.06.52637 中文版
+
+夸克：https://pan.quark.cn/s/a9c597a17ee6
+
+#### 《醉步同行（Friendly Steps）》v1.7.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/3d482855a1dc
+
+迅雷：https://pan.xunlei.com/s/VP0gGjTtAsIHxv6Xuf5WIZLzA1?pwd=gurx#
+
+#### 《Rogue Blight》v1.00.04 中文版（诡疫荒原 2D类魂游戏）
+
+夸克：https://pan.quark.cn/s/2afbedb5af19
+
+迅雷：https://pan.xunlei.com/s/VP0fvHWFk3e8_rnSAJY-U6l1A1?pwd=g8g9#
+
+#### 《我的海岛庄园（Island Market Simulator）》v1.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/593505c2e2aa
+
+迅雷：https://pan.xunlei.com/s/VP0fvrUYoCyqPD5juknmA6r6A1?pwd=yckw#
+
+#### 《云族裔（inZOI）》v0.10.0 全DLC 中文版（韩国模拟人生）
+
+夸克：https://pan.quark.cn/s/8458e4ca4a38
 
 #### 《大跳蛙（Big Hops）》v23497 中文版（勇敢小青蛙跳跃平台冒险）
 
@@ -1873,12 +1913,6 @@
 #### 《地球不屈（Terra Invicta）》v1.0.49 全DLC 中文版（新增DLC）
 
 夸克：https://pan.quark.cn/s/9ca7438200cb
-
-#### 《杀戮尖塔2（Slay the Spire 2）》v0.109.0b 中文 联机版（附第1部+安卓版）
-
-夸克：https://pan.quark.cn/s/4a575dc211fc
-
-迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
 #### 《嗜血之王：崛起（Vampires Bloodlord Rising）终极版》v1.6.1.22071 全DLC 中文 联机版
 
@@ -4926,10 +4960,6 @@ w
 #### 《Total Chaos》v1.0.23 中文版（全面混沌、完全混乱 生成恐怖FPS）
 
 夸克：https://pan.quark.cn/s/c750cdd38c77
-
-#### 《加勒比传奇 海盗时代（Caribbean Legend Age of Pirates）》v1.0.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/69374171a9ff
 
 #### 《威尔莫特的拼图时光（Wilmot Works It Out）》v89060 中文版
 
