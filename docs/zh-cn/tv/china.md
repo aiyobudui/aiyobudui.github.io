@@ -699,7 +699,9 @@
 
 #### 《九重紫》（2024）4K 34集全
 
-夸克：https://pan.quark.cn/s/d50f9d705c35
+夸克：https://pan.quark.cn/s/83ae6470a86f
+
+迅雷：https://pan.xunlei.com/s/VP1PQnOEbxj1-9jdhgqo3yrJA1?pwd=rx3e#
 
 #### 《异空感应》（2025）1080P 国粤双版本 25集全
 

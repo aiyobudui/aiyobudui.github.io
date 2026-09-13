@@ -85,11 +85,9 @@
 
 夸克：https://pan.quark.cn/s/98ca2eb88789
 
-#### 《共鸣：瘟疫传说传承（Resonance A Plague Tale Legacy）》v1.1.0.0 中文配音版（新）
-#### 《瘟疫传说：安魂曲（A Plague Tale Requiem）》v1.6.0.0 全DLC 中文版
-#### 《瘟疫传说：无罪（A Plague Tale Innocence）》v1.07 全DLC 中文版
+#### 《共鸣：瘟疫传说传承（Resonance A Plague Tale Legacy）》v1.1.0.0 中文配音版
 
-夸克：https://pan.quark.cn/s/caf21379739d
+夸克：https://pan.quark.cn/s/c1ea636479db
 
 #### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》v1.0.6 全DLC 中文版
 
@@ -290,17 +288,32 @@
 夸克：https://pan.quark.cn/s/a3682965a994
 
 #### 《仁王3（Nioh 3）豪华版》v2.00.01 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/897c9be29897
+
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
+
+夸克：https://pan.quark.cn/s/bb65b0610868
+
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
 
-夸克：https://pan.quark.cn/s/be850af09c63
+夸克：https://pan.quark.cn/s/98ac3e7f93ec
 
 #### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R.2 Heart of Chornobyl）终极版》v2.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c6dde90083a5
+
 #### 《潜行者：晴空 增强版（S.T.A.L.K.E.R. Clear Sky - Enhanced Edition）》v1.3 中文版
+
+夸克：https://pan.quark.cn/s/3ccac32a6f74
+
 #### 《潜行者：普里皮亚季的召唤 增强版（S.T.A.L.K.E.R. Call of Prypiat - Enhanced Edition）》v1.3 中文版
+
+夸克：https://pan.quark.cn/s/77e83acf5157
+
 #### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl - Enhanced Edition）》v1.3 中文版
 
-夸克：https://pan.quark.cn/s/ae92fcbace04
+夸克：https://pan.quark.cn/s/3a4f42732293
 
 #### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）豪华版》v1.1.1.0 全DLC 中文版（非虚拟化）
 
@@ -460,6 +473,14 @@
 
 ---
 ## 已有游戏
+
+#### 《瘟疫传说：安魂曲（A Plague Tale Requiem）》v1.6.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/33b6c231e639
+
+#### 《瘟疫传说：无罪（A Plague Tale Innocence）》v1.07 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0f006e74857d
 
 #### 《沉没之城：重制版（The Sinking City Remastered）豪华版》v2025.5.13 全DLC 中文版
 
