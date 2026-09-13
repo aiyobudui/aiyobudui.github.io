@@ -99,10 +99,13 @@
 
 夸克：https://pan.quark.cn/s/a22dfd286cd8
 
-#### 《沉没之城2（The Sinking City 2）高级版》Build.24671220 中文版
-#### 《沉没之城：重制版（The Sinking City Remastered）豪华版》v2025.5.13 全DLC 中文版
+#### 《沉没之城2（The Sinking City 2）高级版》Build.24671220 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/f14a84a20104
+夸克：https://pan.quark.cn/s/2ca5a07288da
+
+#### 《黄金星漩（Golden Swirl）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/50a90ffdc01c
 
 #### 《体育用品商店（Sporting Goods Shop）》v1.0 中文版
 
@@ -173,6 +176,14 @@
 夸克：https://pan.quark.cn/s/102bb457ec0d
 
 迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
+
+#### 《影子诡局：被诅咒的海盗（Shadow Gambit The Cursed Crew）完整版》v1.2.133.f.r40893v3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d542b76a98e1
+
+#### 《奇皮与诺宝（Chippy and Noppo）》v1.2.0 中文版（可双人同屏）
+
+夸克：https://pan.quark.cn/s/c6655c04b0d9
 
 #### 《英灵神殿（Valheim）》v1.0.7 全DLC 中文 联机版
 
@@ -449,6 +460,10 @@
 
 ---
 ## 已有游戏
+
+#### 《沉没之城：重制版（The Sinking City Remastered）豪华版》v2025.5.13 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dcc387b8fcfb
 
 #### 《杀戮尖塔（Slay the Spire）》v2.3.4 中文版（附MOD版+安卓版）
 
@@ -1534,7 +1549,7 @@
 
 #### 《战锤 末世鼠疫2（Warhammer Vermintide 2）豪华版》v5.5.7 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/42d400d7daa0
+夸克：https://pan.quark.cn/s/c3e130203133
 
 #### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.1.13.2018 全DLC 中文版
 
@@ -9961,10 +9976,6 @@ w
 
 夸克：https://pan.quark.cn/s/3992cf78a713
 
-#### 《海山 昆仑镜（Mirror of Heaven）》v1.41 中文版
-
-夸克：https://pan.quark.cn/s/a2f23a5e41c7
-
 #### 《山门与幻境（The Lost Village）》v1.2.12 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/258aebde0e3e
@@ -11215,9 +11226,9 @@ w
 
 夸克：https://pan.quark.cn/s/0d74a4b7d455
 
-#### 《FIFA23 终结版》v1.0.82.43747 豪华中文配音版（已修复闪退问题）
+#### 《FIFA23（EA SPORTS FIFA 23）终结版》v1.0.82.43747 中文 配音版（已修复闪退问题）
 
-夸克：https://pan.quark.cn/s/f9779debc1b3
+夸克：https://pan.quark.cn/s/184a22dbc4de
 
 #### 《领地 种田与征战（Territory Farming and Fighting ）》v0.20241222.22 中文版
 
@@ -12115,10 +12126,6 @@ w
 
 夸克：https://pan.quark.cn/s/37122a1f56fb
 
-#### 《Selfloss》Build.15861851 中文版（探索冒险游戏）
-
-夸克：https://pan.quark.cn/s/b96ca22b95ea
-
 #### 《GRIS》Build.3504696 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d11fb1bc12d8
@@ -12969,9 +12976,9 @@ w
 
 夸克：https://pan.quark.cn/s/3274081663d7
 
-#### 《海山：昆仑镜》v1.2 中文版
+#### 《海山：昆仑镜（Mirror of Heaven）》v1.41 中文版
 
-夸克：https://pan.quark.cn/s/0eb29fe6e3f0
+夸克：https://pan.quark.cn/s/071e12da3d9a
 
 #### 《失落城堡（Lost Castle ）》v2.11 中文 联机版
 
@@ -13896,17 +13903,9 @@ w
 
 迅雷：https://pan.xunlei.com/s/VNvS33rsrbQs1iXbzMT3mBJfA1?pwd=jp6m#
 
-#### 《影子诡局：被诅咒的海盗》v1.2.133.r40893.f 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/d542b76a98e1
-
 #### 《掘地求生2》v1.1 英文版（不影响游戏体验）
 
 夸克：https://pan.quark.cn/s/1b337382eeb5
-
-#### 《奇皮与诺宝》日英 PC版
-
-夸克：https://pan.quark.cn/s/c6655c04b0d9
 
 #### 《你好邻居2》最新 全DLC 豪华中文版
 
