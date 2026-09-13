@@ -20,6 +20,12 @@
 
 ---
 
+#### 《人类（Human）》（2015）1080P高码 内封中字（纪录片）
+
+夸克：https://pan.quark.cn/s/7cbffc71eac0
+
+迅雷：https://pan.xunlei.com/s/VP1PcaVi_B0wGca46l0e1D7GA1?pwd=8wc8#
+
 #### 《金手指》（2023）4K 60帧 国粤双语（刘德华 梁朝伟）
 
 夸克：https://pan.quark.cn/s/f1a4bd2c7c21

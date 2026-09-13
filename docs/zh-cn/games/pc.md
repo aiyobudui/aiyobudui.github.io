@@ -101,6 +101,22 @@
 
 夸克：https://pan.quark.cn/s/2ca5a07288da
 
+#### 《神椿市協奏中。（KAMITSUBAKI CITY COMPLETE BUNDLE）》v1.12.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/40a810c9d8d8
+
+#### 《怪兽远征（A Monster's Expedition）》Build.19109394 中文版
+
+夸克：https://pan.quark.cn/s/65bbf7e389d0
+
+迅雷：https://pan.xunlei.com/s/VP1PjU5N1h97OgeLEUSH_FjkA1?pwd=w6mw#
+
+#### 《怪物炼金术（Monster Alchemy）》Build.25250710 中文版
+
+夸克：https://pan.quark.cn/s/3405330a002e
+
+迅雷：https://pan.xunlei.com/s/VP1PiF_ABZInmR9F-ksA7elfA1?pwd=qeej#
+
 #### 《黄金星漩（Golden Swirl）》v1.0.1 中文版
 
 夸克：https://pan.quark.cn/s/50a90ffdc01c
@@ -165,6 +181,32 @@
 
 ## 最近更新
 
+#### 《英灵神殿（Valheim）》v1.0.12 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7f11084ef53b
+
+#### 《咩咩启示录（Cult of the Lamb）朝圣者版》v1.5.26.1058 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/da687434881d
+
+迅雷：https://pan.xunlei.com/s/VOrDHnl2G6WLAeqOnSmghExlA1?pwd=by23#
+
+#### 《康斯坦丝（Constance）》v1.1.3.10720 中文版（2D手绘动作冒险）
+
+夸克：https://pan.quark.cn/s/d2a577f4ea3f
+
+迅雷：https://pan.xunlei.com/s/VP1Pp9vKjiIwyOo_vBk03pP1A1?pwd=tqck#
+
+#### 《BOMBANANA!》v1.0.1 中文 联机版（猴子拆炸弹）
+
+夸克：https://pan.quark.cn/s/9a43edc12264
+
+#### 《打骨折超市日记（Discounty）支持者版》v1.2.2 中文版
+
+夸克：https://pan.quark.cn/s/5b65c7c90507
+
+迅雷：https://pan.xunlei.com/s/VP1Pkwh9dzQu0i4_K7VAMyHeA1?pwd=49ws#
+
 #### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.11 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/12750d6526a1
@@ -182,10 +224,6 @@
 #### 《奇皮与诺宝（Chippy and Noppo）》v1.2.0 中文版（可双人同屏）
 
 夸克：https://pan.quark.cn/s/c6655c04b0d9
-
-#### 《英灵神殿（Valheim）》v1.0.7 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7f11084ef53b
 
 #### 《堕落之主（Lords of the Fallen）豪华版》v2.5.624 全DLC 中文版
 
@@ -641,10 +679,6 @@
 #### 《He Who Watches》v09.01.26.01 中文版（平台解谜）
 
 夸克：https://pan.quark.cn/s/fcb5affcb5ad
-
-#### 《BOMBANANA!》v1.0.0 中文 联机版（猴子拆炸弹）
-
-夸克：https://pan.quark.cn/s/9a43edc12264
 
 #### 《双轮成行（WheelMates）》v2026.9.1 中文 联机版
 
@@ -2550,10 +2584,6 @@
 
 夸克：https://pan.quark.cn/s/8cd4fc681b46
 
-#### 《康斯坦丝（Constance）》v1.1.2.18256 中文版（2D手绘动作冒险）
-
-夸克：https://pan.quark.cn/s/d2a577f4ea3f
-
 #### 《救国少女之斯娜静歌（Snezhinka Sentinel Girls2）》v1.2.5 中文版
 
 夸克：https://pan.quark.cn/s/01766735c4df
@@ -3212,10 +3242,6 @@
 #### 《流氓软件（Malware）》最新 中文版
 
 夸克：https://pan.quark.cn/s/59d5933d0a64
-
-#### 《打骨折超市日记（Discounty）》v1.2.0a 中文版
-
-夸克：https://pan.quark.cn/s/5b65c7c90507
 
 #### 《欢欣森活（Mirthwood）》v1.1.5p1 中文版
 
@@ -4267,12 +4293,6 @@ w
 #### 《气球塔防6（Bloons TD 6）》v54.2.10673 全DLC 中文 联机版（附气球塔防5）
 
 夸克：https://pan.quark.cn/s/c07fb4e51a76
-
-#### 《咩咩启示录（Cult of the Lamb）》v1.5.25.1049 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/da687434881d
-
-迅雷：https://pan.xunlei.com/s/VOrDHnl2G6WLAeqOnSmghExlA1?pwd=by23#
 
 #### 《House Builder》v2026.4.24 全DLC 中文版（房屋建筑商、建筑工模拟器、房屋建造者）
 
