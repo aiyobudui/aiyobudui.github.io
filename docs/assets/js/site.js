@@ -250,6 +250,7 @@ function initSearchObserver() {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
+    initSearchPrefetch();
     setTimeout(initSearchObserver, 1000);
 });
 
@@ -655,127 +656,223 @@ if (!window.__qrOutsideCloseBound) {
     window.__qrOutsideCloseBound = true;
 }
 
-function renderNetdiskQrcodes() {
-    // 各网盘类型对应的 accent 类名（用于按钮配色）
+// 当前路由标识（不含 ?id= 等查询参数），用于判断页面是否已跳走
+function currentRouteKey() {
+    return (location.hash || '').split('?')[0];
+}
+
+// 延迟到浏览器空闲时执行；不支持 requestIdleCallback 时退化为 setTimeout
+function scheduleIdle(fn) {
+    if (window.requestIdleCallback) {
+        window.requestIdleCallback(fn, { timeout: 400 });
+    } else {
+        setTimeout(fn, 30);
+    }
+}
+
+// 若当前仍是「搜索结果 ?id= 定位」导航，重新滚动到目标标题：
+// 分片处理二维码时页面高度会随「隐藏链接→换成按钮」逐步收缩，
+// 目标标题的绝对位置会随之向上偏移，全部处理完后需要再定位一次。
+function reseekRouteAnchor() {
+    var hash = location.hash || '';
+    var qIdx = hash.indexOf('?id=');
+    if (qIdx < 0) return;
+    var raw = hash.slice(qIdx + 4);
+    if (!raw) return;
+    var id = raw;
+    try { id = decodeURIComponent(raw); } catch (e) { /* 保留原样（可能含未编码 %） */ }
+    var el = document.getElementById(id);
+    if (!el) return;
+    // 上方内容收缩只会把标题向上顶：仅当标题被顶出视口时才重新定位，
+    // 避免打断用户在处理期间的手动滚动
+    var rect = el.getBoundingClientRect();
+    if (rect.top < 0) el.scrollIntoView({ block: 'start' });
+}
+
+// 单个网盘链接的包装逻辑（从原 renderNetdiskQrcodes 内联体抽出，供分片处理复用）
+function wrapNetdiskLink(link, isMobile) {
+    var href = link.getAttribute('href') || '';
+    var type = netdiskType(href);
     var accentMap = { '夸克': 'quark', '迅雷': 'xunlei', '百度': 'baidu', '阿里': 'aliyun' };
+    var accent = accentMap[type] || 'quark';
+
+    link.dataset.qrBound = '1';
+
+    var label = type + '网盘';
+    var wrap = document.createElement('span');
+    wrap.className = 'netdisk-qr';
+
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'netdisk-qr__btn netdisk-qr__btn--' + accent;
+    btn.textContent = label;
+    btn.setAttribute('aria-expanded', 'false');
+
+    // 移动端：按钮点击在新窗口打开网盘链接（不生成二维码、不创建弹层、不占用当前页）
+    if (isMobile) {
+        btn.addEventListener('click', function (e) {
+            e.preventDefault();
+            var a = document.createElement('a');
+            a.href = href;
+            a.target = '_blank';
+            a.rel = 'noopener noreferrer';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        });
+    } else {
+        var box = document.createElement('div');
+        box.className = 'netdisk-qr__box';
+
+        // 二维码上方提示文案（按网盘类型动态生成：夸克网盘APP扫码获取 / 迅雷网盘APP扫码获取 …）
+        var hint = document.createElement('div');
+        hint.className = 'netdisk-qr__hint';
+        hint.textContent = type + '网盘APP扫码获取';
+        box.appendChild(hint);
+
+        btn.addEventListener('click', function (e) {
+            e.preventDefault();
+
+            // 互斥：展开当前前先关闭页面上其他已展开的二维码
+            document.querySelectorAll('.netdisk-qr.is-open').forEach(function (openWrap) {
+                if (openWrap !== wrap) {
+                    openWrap.classList.remove('is-open');
+                    var openBtn = openWrap.querySelector('.netdisk-qr__btn');
+                    if (openBtn) openBtn.setAttribute('aria-expanded', 'false');
+                }
+            });
+
+            if (wrap.dataset.rendered !== '1') {
+                // 懒生成：首次点击才真正绘制二维码，避免页面一次性绘制几十个
+                try {
+                    new QRCode(box, {
+                        text: href,
+                        width: 160,
+                        height: 160,
+                        colorDark: '#000000',
+                        colorLight: '#ffffff',
+                        correctLevel: QRCode.CorrectLevel.M
+                    });
+                    // 清除 qrcodejs 给容器设置的 title（=真实链接），
+                    // 否则鼠标移上去会弹出原生 tooltip 显示真实链接
+                    box.removeAttribute('title');
+                    // 同时清除内部 img 的 title/alt（防御：某些构建可能设置）
+                    box.querySelectorAll('img').forEach(function (img) {
+                        img.removeAttribute('title');
+                        img.removeAttribute('alt');
+                    });
+                    wrap.dataset.rendered = '1';
+                } catch (err) {
+                    return;
+                }
+            }
+            var open = wrap.classList.toggle('is-open');
+            btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
+
+        wrap.appendChild(box);
+    }
+
+    wrap.appendChild(btn);
+    if (link.nextSibling) {
+        link.parentNode.insertBefore(wrap, link.nextSibling);
+    } else {
+        link.parentNode.appendChild(wrap);
+    }
+
+    // 默认隐藏原始网盘链接（长 URL），只显示「XX二维码」按钮
+    link.style.display = 'none';
+    // 同时隐藏链接前面的「夸克：」「迅雷：」「百度：」「阿里：」等网盘类型前缀
+    var prevNode = link.previousSibling;
+    if (prevNode && prevNode.nodeType === Node.TEXT_NODE) {
+        var prevText = prevNode.textContent || '';
+        if (/^\s*(夸克|迅雷|百度|阿里)\s*[：:]?\s*$/i.test(prevText)) {
+            prevNode.textContent = '';
+        }
+    }
+}
+
+function renderNetdiskQrcodes() {
+    var content = document.querySelector('.markdown-section');
+    if (!content) return;
 
     // home.md / page.md 落地页不转换二维码，链接保持原样显示
     if (isQrExcludedRoute()) return;
-
-    var content = document.querySelector('.markdown-section');
-    if (!content) return;
 
     var isMobile = isMobileDevice();
 
     // PC 端依赖二维码库，未就绪则跳过；移动端只生成按钮、点击直接跳转，不依赖 QRCode
     if (!isMobile && typeof QRCode === 'undefined') return;
 
+    // 收集本页需要处理的网盘链接（大页面可能一次性有数千个）
     var links = content.querySelectorAll('a[href]');
+    var pending = [];
     links.forEach(function (link) {
         var href = link.getAttribute('href') || '';
         // 只处理 http(s) 外部网盘链接
         if (!/^https?:\/\//i.test(href)) return;
-        var type = netdiskType(href);
-        if (!type) return;
+        if (!netdiskType(href)) return;
         // 避免对已经包裹过的链接重复处理
         if (link.dataset.qrBound === '1') return;
-        link.dataset.qrBound = '1';
-
-        var accent = accentMap[type] || 'quark';
-
-        var label = type + '网盘';
-        var wrap = document.createElement('span');
-        wrap.className = 'netdisk-qr';
-
-        var btn = document.createElement('button');
-        btn.type = 'button';
-        btn.className = 'netdisk-qr__btn netdisk-qr__btn--' + accent;
-        btn.textContent = label;
-        btn.setAttribute('aria-expanded', 'false');
-
-        // 移动端：按钮点击在新窗口打开网盘链接（不生成二维码、不创建弹层、不占用当前页）
-        if (isMobile) {
-            btn.addEventListener('click', function (e) {
-                e.preventDefault();
-                var a = document.createElement('a');
-                a.href = href;
-                a.target = '_blank';
-                a.rel = 'noopener noreferrer';
-                document.body.appendChild(a);
-                a.click();
-                document.body.removeChild(a);
-            });
-        } else {
-            btn.setAttribute('aria-expanded', 'false');
-
-            var box = document.createElement('div');
-            box.className = 'netdisk-qr__box';
-
-            // 二维码上方提示文案（按网盘类型动态生成：夸克网盘APP扫码获取 / 迅雷网盘APP扫码获取 …）
-            var hint = document.createElement('div');
-            hint.className = 'netdisk-qr__hint';
-            hint.textContent = type + '网盘APP扫码获取';
-            box.appendChild(hint);
-
-            btn.addEventListener('click', function (e) {
-                e.preventDefault();
-
-                // 互斥：展开当前前先关闭页面上其他已展开的二维码
-                document.querySelectorAll('.netdisk-qr.is-open').forEach(function (openWrap) {
-                    if (openWrap !== wrap) {
-                        openWrap.classList.remove('is-open');
-                        var openBtn = openWrap.querySelector('.netdisk-qr__btn');
-                        if (openBtn) openBtn.setAttribute('aria-expanded', 'false');
-                    }
-                });
-
-                if (wrap.dataset.rendered !== '1') {
-                    // 懒生成：首次点击才真正绘制二维码，避免页面一次性绘制几十个
-                    try {
-                        new QRCode(box, {
-                            text: href,
-                            width: 160,
-                            height: 160,
-                            colorDark: '#000000',
-                            colorLight: '#ffffff',
-                            correctLevel: QRCode.CorrectLevel.M
-                        });
-                        // 清除 qrcodejs 给容器设置的 title（=真实链接），
-                        // 否则鼠标移上去会弹出原生 tooltip 显示真实链接
-                        box.removeAttribute('title');
-                        // 同时清除内部 img 的 title/alt（防御：某些构建可能设置）
-                        box.querySelectorAll('img').forEach(function (img) {
-                            img.removeAttribute('title');
-                            img.removeAttribute('alt');
-                        });
-                        wrap.dataset.rendered = '1';
-                    } catch (err) {
-                        return;
-                    }
-                }
-                var open = wrap.classList.toggle('is-open');
-                btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-            });
-
-            wrap.appendChild(box);
-        }
-
-        wrap.appendChild(btn);
-        if (link.nextSibling) {
-            link.parentNode.insertBefore(wrap, link.nextSibling);
-        } else {
-            link.parentNode.appendChild(wrap);
-        }
-
-        // 默认隐藏原始网盘链接（长 URL），只显示「XX二维码」按钮
-        link.style.display = 'none';
-        // 同时隐藏链接前面的「夸克：」「迅雷：」「百度：」「阿里：」等网盘类型前缀
-        var prevNode = link.previousSibling;
-        if (prevNode && prevNode.nodeType === Node.TEXT_NODE) {
-            var prevText = prevNode.textContent || '';
-            if (/^\s*(夸克|迅雷|百度|阿里)\s*[：:]?\s*$/i.test(prevText)) {
-                prevNode.textContent = '';
-            }
-        }
+        pending.push(link);
     });
+    if (pending.length === 0) return;
+
+    // 记录当前路由：页面跳走后必须立即中止，
+    // 避免残留的分片任务操作到新页面已替换的 DOM
+    var routeKey = currentRouteKey();
+
+    var idx = 0;
+    var CHUNK_SIZE = 80; // 每批处理数量：控制单帧工作量，避免一次同步处理数千个链接阻塞主线程
+
+    function processNext() {
+        // 路由已变化：立即中止（新页面由自己的 doneEach 触发新一轮处理）
+        if (currentRouteKey() !== routeKey) return;
+        var end = Math.min(idx + CHUNK_SIZE, pending.length);
+        for (; idx < end; idx++) {
+            wrapNetdiskLink(pending[idx], isMobile);
+        }
+        if (idx < pending.length) {
+            scheduleIdle(processNext);
+        } else {
+            // 全部处理完成：若本次是带 ?id= 的搜索结果定位，
+            // 页面高度在分片处理中已收缩，重新滚动到目标标题恢复正确位置
+            reseekRouteAnchor();
+        }
+    }
+
+    // 延迟到浏览器空闲时执行：让 docsify 先完成渲染与 ?id= 锚点定位，
+    // 把「创建数千个按钮 + 隐藏链接」的同步开销移出页面切换的关键路径
+    scheduleIdle(processNext);
+}
+
+// 8.5 搜索结果悬停预取：鼠标/触摸悬停到搜索结果时，提前把目标页面的 markdown
+// 拉进浏览器 HTTP 缓存，点击跳转时 docsify 的 fetch 可直接命中缓存，减少等待。
+// 对 pc.md（476KB）这类大页面收益明显。
+var __prefetchedPaths = new Set();
+
+function initSearchPrefetch() {
+    if (window.__searchPrefetchBound) return;
+    window.__searchPrefetchBound = true;
+
+    function maybePrefetch(target) {
+        var link = target && target.closest
+            ? target.closest('.search .results-panel a[href^="#/"], .mobile-search-results-list a[href^="#/"]')
+            : null;
+        if (!link) return;
+        var path = (link.getAttribute('href') || '').replace(/^#/, '').split('?')[0];
+        if (!path || path === '/') return;
+        var cur = (location.hash || '#/').split('?')[0].replace(/^#/, '');
+        if (path === cur) return; // 已是当前页，无需预取
+        if (__prefetchedPaths.has(path)) return;
+        if (__prefetchedPaths.size >= 20) return; // 限制预取数量，避免浪费带宽
+        __prefetchedPaths.add(path);
+        try {
+            // 与 docsify 加载 md 的 URL 保持一致（相对站点根路径）
+            fetch(path.replace(/^\//, '') + '.md', { credentials: 'same-origin' }).catch(function () {});
+        } catch (e) { /* 静默失败，不影响页面 */ }
+    }
+
+    document.addEventListener('pointerover', function (e) { maybePrefetch(e.target); }, true);
+    document.addEventListener('focusin', function (e) { maybePrefetch(e.target); }, true);
 }

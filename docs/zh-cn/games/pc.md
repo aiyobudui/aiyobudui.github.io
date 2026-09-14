@@ -6683,7 +6683,7 @@ w
 
 #### 《波斯王子4：重生（Prince of Persia）》v1.0-v2 中文版
 
-夸克：https://pan.quark.cn/s/6d6b9db36aa1
+夸克：https://pan.quark.cn/s/a62d83ef3128
 
 #### 《波斯王子：遗忘之沙（Prince of Persia The Forgotten Sands）》v1.0.0 中文版
 
