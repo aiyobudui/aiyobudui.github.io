@@ -34,6 +34,10 @@
 
 夸克：https://pan.quark.cn/s/3a72cd44f51e
 
+#### 《僵尸部队4：死亡战争（Zombie Army 4 Dead War）完整版》v4.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dc85017914e9
+
 #### 《EA SPORTS FC 26》v1.6.2 全DLC 中文配音版（FC26）
 
 夸克：https://pan.quark.cn/s/cabbe07c9f72

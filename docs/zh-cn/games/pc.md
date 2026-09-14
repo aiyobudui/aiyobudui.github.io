@@ -101,6 +101,16 @@
 
 夸克：https://pan.quark.cn/s/2ca5a07288da
 
+#### 《幸存者笔记（Survivors Notes）》v2026.9.14 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/f759ceaa61df
+
+#### 《时光之刃（Blades of Time）限量版》v1.6 汉化版
+
+夸克：https://pan.quark.cn/s/823624065d83
+
+迅雷：https://pan.xunlei.com/s/VP1QLNA7no9CRNbOs3Gupeu1A1?pwd=7cq8#
+
 #### 《神椿市協奏中。（KAMITSUBAKI CITY COMPLETE BUNDLE）》v1.12.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/40a810c9d8d8
@@ -181,6 +191,18 @@
 
 ## 最近更新
 
+#### 《Deep Blue Sushi》v0.2.1 中文版（合力探索打造寿司餐厅）
+
+夸克：https://pan.quark.cn/s/095226c96660
+
+#### 《怪奇漫游指南（Wonderia）》v0.5.21.2313 中文 联机版
+
+夸克：https://pan.quark.cn/s/3cc8a7f7e8e4
+
+#### 《枪匠模拟器（Gunsmith Simulator）》v1.6.39 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ae7dd02748b1
+
 #### 《英灵神殿（Valheim）》v1.0.12 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/7f11084ef53b
@@ -224,46 +246,6 @@
 #### 《奇皮与诺宝（Chippy and Noppo）》v1.2.0 中文版（可双人同屏）
 
 夸克：https://pan.quark.cn/s/c6655c04b0d9
-
-#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.624 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4912658febe6
-
-#### 《加勒比传奇：海盗时代（Caribbean Legend Age of Pirates）》v1.2.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/69374171a9ff
-
-#### 《朝露：境界旅程（Journey of Realm Dawn Dew）》v2026.9.5 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7e8349c0117e
-
-#### 《四海兄弟3：最终版（Mafia III Definitive Edition）》v1.100.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/43b721e16c08
-
-#### 《魔兽争霸3：重制版（Warcraft III Reforged）》v2.0.4.23745 中文版（附淬火MOD+地图包+秘籍）
-
-夸克：https://pan.quark.cn/s/84cfc9cb78ec
-
-#### 《杀死影子（Kill The Shadow）》Build.25161753 中文版
-
-夸克：https://pan.quark.cn/s/b728cd802d3a
-
-#### 《小小烘焙坊（Tiny Bakery）》v1.0.1 中文版（小小面包店）
-
-夸克：https://pan.quark.cn/s/b7b76874b603
-
-迅雷：https://pan.xunlei.com/s/VOzrOK4Cj5Dhrsv8-6tdBtRXA1?pwd=int6#
-
-#### 《暗黑破坏神2：狱火重生 炼狱版（Diablo II Resurrected – Infernal Edition）》v3.3.93787 中文版（附安卓版）
-
-夸克：https://pan.quark.cn/s/379c96e02b6c
-
-#### 《艾尔登法环（Elden Ring）褪色者版》v1.17.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/f961d5992bd3
-
-迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
 
 ---
 
@@ -366,14 +348,20 @@
 夸克：https://pan.quark.cn/s/76e705934c3b
 
 #### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版
-#### 《消逝的光芒：增强版（Dying Light）终结版》v1.55.0 全DLC 中文 联机版（更新）
 
-夸克：https://pan.quark.cn/s/7cd3766e113d
+夸克：https://pan.quark.cn/s/7e7653ed0087
+
+#### 《消逝的光芒：增强版（Dying Light）终结版》v1.55.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/9758ffdd0640
 
 #### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.6 全DLC 中文版
-#### 《天国拯救（Kingdom Come Deliverance）HD皇家版》v1.9.8 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/7c6b8f30675c
+夸克：https://pan.quark.cn/s/2096f1d14a19
+
+#### 《天国拯救 HD（Kingdom Come Deliverance）皇家版》v1.9.8 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9fc042506496
 
 迅雷：https://pan.xunlei.com/s/VO37CRQu2t8RQECID1fHoDG9A1?pwd=ane4#
 
@@ -393,13 +381,24 @@
 
 夸克：https://pan.quark.cn/s/257debd362e9
 
-#### 《冰汽时代2（Frostpunk 2）豪华版》v1.6.0 全DLC 中文配音版（新增DLC）
+#### 《冰汽时代2（Frostpunk 2）豪华版》v1.6.0 全DLC 中文配音版
+
+夸克：https://pan.quark.cn/s/e63864b7c676
+
 #### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/d1d00e8c72d5
+夸克：https://pan.quark.cn/s/3943dedfb8ec
 
-#### 《小小梦魇3（Little Nightmares 3）豪华版》v2026.6.12 全DLC 中文 联机版（新增DLC）
+#### 《小小梦魇3（Little Nightmares 3）豪华版》v2026.6.12 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/96a40a509f52
+
 #### 《小小梦魇2（Little Nightmares 2）增强版》v1165 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/fb740905aa00
+
+迅雷：https://pan.xunlei.com/s/VNqmp1LM5ed8XNX-HRSGTE3dA1?pwd=icd2#
+
 #### 《小小梦魇（Little Nightmares）增强版》v1.0.0.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/23c16824e3ac
@@ -411,17 +410,58 @@
 夸克：https://pan.quark.cn/s/8d5f644b18f5
 
 #### 《生化危机9 安魂曲（Resident Evil Requiem）豪华版》v2026.3.27 全DLC 中文配音版（非虚拟化）
+
+夸克：https://pan.quark.cn/s/ac6450c6c165
+
 #### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/67c905b68816
+
+迅雷：https://pan.xunlei.com/s/VP1RGcNd0SJW7ixOupYazGl2A1?pwd=vjbw#
+
 #### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》v1.5.9.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/10e7d7de8e75
+
+迅雷：https://pan.xunlei.com/s/VP1RGjLO-66Xase2DGaLK5J_A1?pwd=56yh#
+
 #### 《生化危机5（Resident Evil 5 Gold Edition）黄金版》v1.2.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4535478190a8
+
 #### 《生化危机6（Resident Evil 6）》v1.1.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/e94d1d10f003
+
 #### 《生化危机7（Resident Evil 7 Biohazard）黄金版》v1.0.0.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ab556f79c5f4
+
 #### 《生化危机8 村庄（Resident Evil Village）黄金版》v1.2.3.9 全DLC 中文配音版
-#### 《生化危机 系列合集 12部》最新 黄金版 + 重制版 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/744a500cb67e
+夸克：https://pan.quark.cn/s/bdf3f2d3a9cd
 
-迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
+迅雷：https://pan.xunlei.com/s/VP1RGni72dQ3welfWUeiOO4PA1?pwd=p368#
+
+#### 《生化危机2 重制版（Resident Evil 2 Remake）豪华版》v20230814 中文版
+
+夸克：https://pan.quark.cn/s/8ee629b26973
+
+#### 《生化危机HD 重制版（Resident Evil HD）》v1.0.up1 中文版
+
+夸克：https://pan.quark.cn/s/e16d5aab7957
+
+#### 《生化危机0（Resident Evil 0）》Build.17178773 中文版
+
+夸克：https://pan.quark.cn/s/980f99139d8a
+
+#### 《生化危机 启示录2（Resident Evil Revelations 2）》v6.0 中文版
+
+夸克：https://pan.quark.cn/s/9adaa325c098
+
+#### 《生化危机 启示录（Resident Evil Revelations）》v1.0u5 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/aa05bf5b322d
 
 #### 《博德之门3（Baldur's Gate 3）豪华版》v4.1.1.7209685 全DLC 中文 联机版
 
@@ -511,6 +551,46 @@
 
 ---
 ## 已有游戏
+
+#### 《堕落之主（Lords of the Fallen）豪华版》v2.5.624 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4912658febe6
+
+#### 《加勒比传奇：海盗时代（Caribbean Legend Age of Pirates）》v1.2.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/69374171a9ff
+
+#### 《朝露：境界旅程（Journey of Realm Dawn Dew）》v2026.9.5 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7e8349c0117e
+
+#### 《四海兄弟3：最终版（Mafia III Definitive Edition）》v1.100.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/43b721e16c08
+
+#### 《魔兽争霸3：重制版（Warcraft III Reforged）》v2.0.4.23745 中文版（附淬火MOD+地图包+秘籍）
+
+夸克：https://pan.quark.cn/s/84cfc9cb78ec
+
+#### 《杀死影子（Kill The Shadow）》Build.25161753 中文版
+
+夸克：https://pan.quark.cn/s/b728cd802d3a
+
+#### 《小小烘焙坊（Tiny Bakery）》v1.0.1 中文版（小小面包店）
+
+夸克：https://pan.quark.cn/s/b7b76874b603
+
+迅雷：https://pan.xunlei.com/s/VOzrOK4Cj5Dhrsv8-6tdBtRXA1?pwd=int6#
+
+#### 《暗黑破坏神2：狱火重生 炼狱版（Diablo II Resurrected – Infernal Edition）》v3.3.93787 中文版（附安卓版）
+
+夸克：https://pan.quark.cn/s/379c96e02b6c
+
+#### 《艾尔登法环（Elden Ring）褪色者版》v1.17.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f961d5992bd3
+
+迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
 
 #### 《瘟疫传说：安魂曲（A Plague Tale Requiem）》v1.6.0.0 全DLC 中文版
 
@@ -683,10 +763,6 @@
 #### 《双轮成行（WheelMates）》v2026.9.1 中文 联机版
 
 夸克：https://pan.quark.cn/s/30e0ca3dad40
-
-#### 《Deep Blue Sushi》v0.1.4 中文版（合力探索打造寿司餐厅）
-
-夸克：https://pan.quark.cn/s/095226c96660
 
 #### 《烽沙（Mandate Order）》Build.24732265 中文版
 
@@ -887,9 +963,12 @@
 迅雷：https://pan.xunlei.com/s/VNyVSlrOau3PZlvGHrm4ODIhA1?pwd=tipt#
 
 #### 《杀戮空间3（Killing Floor 3）精英暮光版》Build.24621638 全DLC 中文版（恐怖射击）
+
+夸克：https://pan.quark.cn/s/7008387a5fdb
+
 #### 《杀戮空间2（Killing Floor 2）》v1150 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/02ab4ad5f5ea
+夸克：https://pan.quark.cn/s/ef1c5547744a
 
 #### 《多重人生（The Alters）豪华版》v2.2.0.72 全DLC 中文版
 
@@ -948,10 +1027,16 @@
 夸克：https://pan.quark.cn/s/f517933cc043
 
 #### 《深海迷航2：异星水域（Subnautica 2）》v0.1.2.0-123362 中文 联机版
-#### 《深海迷航（Subnautica）终极收藏版》v82304 中文版
+
+夸克：https://pan.quark.cn/s/6da818b05330
+
+#### 《深海迷航（Subnautica）深海余音版》v82304 中文版
+
+夸克：https://pan.quark.cn/s/da3a3536e6c0
+
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
 
-夸克：https://pan.quark.cn/s/68a01dbea110
+夸克：https://pan.quark.cn/s/972697e21317
 
 #### 《俏皮脸（Sally Face）》v1.5.51 全DLC 中文版
 
@@ -974,10 +1059,16 @@
 夸克：https://pan.quark.cn/s/aeefdbc4c143
 
 #### 《桥梁建筑师3（Poly Bridge 3）》v1.5.16 中文版
+
+夸克：https://pan.quark.cn/s/6bb9763e10b0
+
 #### 《桥梁建筑师2（Poly Bridge 2）》v1.6.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/747783dfdd5d
+
 #### 《桥梁建筑师（Poly Bridge）》v1.1.0 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/e7a38d40056a
+夸克：https://pan.quark.cn/s/7e8750a953ca
 
 #### 《劫后公司（After Inc REVIVAL）完整版》v1.0.0.6 全DLC 中文版（末日生存策略游戏）
 
@@ -1022,12 +1113,28 @@
 迅雷：https://pan.xunlei.com/s/VOpBC7WDCVolMOsrbE0vHo9AA1?pwd=uauj#
 
 #### 《古墓丽影 1-3 复刻版（Tomb Raider I-III Remastered）》v2026.8.21 中文版
+
+夸克：https://pan.quark.cn/s/e868f3117bbe
+
 #### 《古墓丽影 4-6 复刻版（Tomb Raider IV VI Remastered）》v20250919 中文版
+
+夸克：https://pan.quark.cn/s/1284e2150bda
+
+#### 《古墓丽影 7：传奇（Tomb Raider Legend）》v1.2-v3 汉化版
+
+夸克：https://pan.quark.cn/s/c6fa11d254b3
+
 #### 《古墓丽影9（Tomb Raider）终结版》v1.01.838.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3453fc7e3526
+
 #### 《古墓丽影：暗影（Shadow of the Tomb Raider）终结版》v1.0.492.0 全DLC 中文配音版
+
+夸克：https://pan.quark.cn/s/89ebd666bcaf
+
 #### 《古墓丽影：崛起（Rise of the Tomb Raider）20周年纪念版》v1.0.1.0 全DLC 中文配音版
 
-夸克：https://pan.quark.cn/s/8c417acf572b
+夸克：https://pan.quark.cn/s/49b6bcb4bf66
 
 #### 《命运石之门 RE BOOT（STEINS;GATE RE:BOOT）》Build.24796682 中文版
 
@@ -1094,9 +1201,12 @@
 夸克：https://pan.quark.cn/s/0cb724f5c1bc
 
 #### 《星之海洋6：神圣力量（STAR OCEAN THE DIVINE FORCE）》v01.01 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3fa67b5d5054
+
 #### 《星之海洋2 第二个故事 重制版（STAR OCEAN THE SECOND STORY R）》v1.10 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/0b636b6357ce
+夸克：https://pan.quark.cn/s/89c9d4fc47ce
 
 #### 《牧场主（The Ranchers）》v0.8.10.562 中文 联机版
 
@@ -1123,12 +1233,28 @@
 夸克：https://pan.quark.cn/s/54b18c6ecda7
 
 #### 《玩具熊的五夜后宫：安全漏洞（Five Nights at Freddy's Security Breach）》v1.0.20230809 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/fc200802a2c4
+
 #### 《玩具熊的五夜后宫：模仿者的秘密（Five Nights at Freddy's Secret of the Mimic）》v1.0.2026 中文版
+
+夸克：https://pan.quark.cn/s/dd4bc78d885e
+
 #### 《玩具熊的五夜惊魂：陷落球池（Five Nights at Freddy's：Into the Pit）》v1.0.11.6a 中文版
-#### 《玩具熊的五夜后宫 求救（Five Nights at Freddy's：Help Wanted）》1-2部 最新 中文版
+
+夸克：https://pan.quark.cn/s/abde87eaf7f8
+
+#### 《玩具熊的五夜后宫 求救（Five Nights at Freddy's：Help Wanted）》v1.21 中文版
+
+夸克：https://pan.quark.cn/s/259f5993a4a0
+
+#### 《玩具熊的五夜后宫 求救2（Five Nights at Freddys Help Wanted 2）》Build.16711380 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/425a56116d7f
+
 #### 《玩具熊的五夜惊魂》1-4代 最新 英文版
 
-夸克：https://pan.quark.cn/s/610850ab3513
+夸克：https://pan.quark.cn/s/c080a1ad520f
 
 #### 《挖油吧！爸爸（Fuel Harvest Together）》v1.1.0 中文版
 
@@ -2075,10 +2201,6 @@
 #### 《午夜轮班（Shift At Midnight）》v1.0.1.0723.2253 中文 联机版（侦探恐怖游戏）
 
 夸克：https://pan.quark.cn/s/5ad72f3f2174
-
-#### 《怪奇漫游指南（Wonderia）》v0.5.8.2102 中文 联机版
-
-夸克：https://pan.quark.cn/s/3cc8a7f7e8e4
 
 #### 《梅莫莉 治愈物语（Memory of Memorie A Chill Story）》v1.0.1 中文版
 
@@ -11132,10 +11254,6 @@ w
 #### 《进化之地（Evoland）1+2》最新 中文版（第1部传奇版）
 
 夸克：https://pan.quark.cn/s/bf53eabf0964
-
-#### 《枪匠模拟器 （Gunsmith Simulator）》v1.1.10 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ae7dd02748b1
 
 #### 《木屋工厂（The Cabin Factory）》v1.07 中文版
 
