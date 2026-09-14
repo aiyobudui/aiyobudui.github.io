@@ -11,25 +11,28 @@
 
     <title>对酒当歌分享 - 海量免费资源分享</title>
 
-    <!-- 资源已全部自托管到 ./assets/vendor/，无外部 CDN 依赖 -->
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+    <link rel="dns-prefetch" href="//unpkg.com">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="preconnect" href="https://unpkg.com" crossorigin>
 
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="./favicon.ico">
 
-    <!-- v5 官方核心主题（自托管） -->
-    <link rel="preload" href="./assets/vendor/core.min.css" as="style"
+    <!-- v5 官方核心主题 -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/themes/core.min.css" as="style"
         onload="this.onload=null;this.rel='stylesheet'" />
     <noscript>
-        <link rel="stylesheet" href="./assets/vendor/core.min.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/themes/core.min.css" />
     </noscript>
 
-    <!-- 主题样式（基于 docsify v5 官方核心主题 core.min.css 的轻量覆盖层，Vue 主题风） -->
-    <link rel="stylesheet" href="./assets/css/theme.css" />
+    <!-- 主题样式（基于 docsify v5 官方核心主题 core.min.css 的轻量覆盖层） -->
+    <link rel="stylesheet" href="./assets/css/theme.css?v=202608072230" />
 
 
-    <!-- docsify 核心 JS 预加载（自托管） -->
-    <link rel="preload" href="./assets/vendor/docsify.min.js" as="script">
-    <link rel="preload" href="./assets/vendor/search.min.js" as="script">
+    <!-- docsify核心 JS预加载 - 主CDN: jsdelivr (v5路径: /dist/) -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js" as="script">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js" as="script">
 
     <!-- Emoji 字体支持 - 确保所有系统都能显示 -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -226,17 +229,8 @@
             loadFooter: '_footer.md',
 
             // docsify 搜索插件（v5）
-            search: {
-                paths: "auto",
-                pathNamespaces: ['/zh-cn'],
-                maxAge: 86400000, // 1天自动重建索引（配合更新时 bump namespace 强制访客刷新）
-                placeholder: '请输入关键词"搜索"',
-                noData: '没有搜到就换个关键词在试试。没有就联系站长让他上资源。',
-                depth: 4,
-                namespace: 'web-20260914205644720129', // 变更 namespace 强制所有访客重建搜索索引（弃用旧的 web-v2 缓存）
-                // 将搜索框放到标题栏(.app-name)下方，而非默认的侧边栏最顶部
-                insertAfter: '.app-name',
-            },
+            // [QA] 对照测试：临时禁用搜索插件，用于验证卡顿是否来自搜索索引构建
+
 
             // 自定义插件
             plugins: [
@@ -312,8 +306,6 @@
                         // 正文内 TOC：抓取当前页 h2，注入「本页目录」卡片到正文顶部
                         buildInContentToc();
 
-                        // PC 端网盘链接转二维码（点击展开）：夸克 / 迅雷 / 百度 / 阿里
-                        renderNetdiskQrcodes();
 
                     });
                 }
@@ -321,22 +313,25 @@
         }
     </script>
 
-    <!-- 核心 JS（自托管于 ./assets/vendor/，无 CDN 依赖，避免被浏览器追踪防护拦截存储） -->
-    <script src="./assets/vendor/docsify.min.js"></script>
+    <!-- 核心 JS -->
+    <!-- CDN同步回退：jsdelivr 失败时用 document.write 写入 unpkg，保证后续脚本阻塞等待 -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js"></script>
+    <script>if (!window.Docsify) { document.write('<script src="https://unpkg.com/docsify@5/dist/docsify.min.js"><\/script>'); }</script>
 
-    <!-- 搜索插件（自带 dexie，复用全局 window.marked） -->
-    <script src="./assets/vendor/search.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js"
+        onerror="document.write('<script src=\'https://unpkg.com/docsify@5.0.0/dist/plugins/search.min.js\'><\/script>')"></script>
 
     <!-- 插件 JS -->
-    <!-- 图片缩放 -->
-    <script src="./assets/vendor/zoom-image.min.js"></script>
+    <!-- 图片缩放 --v5.0.0 实际文件名仍为 zoom-image.min.js-->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/zoom-image.min.js"
+        onerror="document.write('<script src=\'https://unpkg.com/docsify@5/dist/plugins/zoom-image.min.js\'><\/script>')"></script>
     <!-- tab选项卡 -->
-    <script src="./assets/vendor/docsify-tabs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"
+        onerror="document.write('<script src=\'https://unpkg.com/docsify-tabs@1/dist/docsify-tabs.min.js\'><\/script>')"></script>
     <!-- 页脚 -->
-    <script src="./assets/vendor/docsify-footer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"
+        onerror="document.write('<script src=\'https://unpkg.com/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js\'><\/script>')"></script>
 
-    <!-- 二维码生成库（PC 端网盘链接转二维码：davidshimjs/qrcodejs，本地副本） -->
-    <script src="./assets/js/qrcode.min.js"></script>
 
     <!-- 站点自定义脚本 -->
     <script src="./assets/js/site.js"></script>
