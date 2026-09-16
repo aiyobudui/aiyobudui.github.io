@@ -543,7 +543,9 @@
 
 #### 《藏海传》（2025）4K 60帧 40集全
 
-夸克：https://pan.quark.cn/s/f5b5dab6e661
+夸克：https://pan.quark.cn/s/22de8c32c2ba
+
+迅雷：https://pan.xunlei.com/s/VP1_8T-o2JHQtRfwT5t7qobTA1?pwd=2ife#
 
 #### 《刑侦12》（2025）4K 国粤双配音 25集全（手动切换配音）
 

@@ -57,10 +57,6 @@
 ## 最新添加
 >[!IMPORTANT] 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
-#### 《噬血代码2（CODE VEIN 2）豪华版》v2.0.1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ac4f16a40e11
-
 #### 《星球大战：亡命之徒（Star Wars Outlaws）终结版 》v1.7 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9899fc46c698
@@ -69,7 +65,7 @@
 
 夸克：https://pan.quark.cn/s/e07e7b793ab8
 
-#### 《真人快打 1（Mortal Kombat 1）混沌统治收藏版》v0.308 全DLC 中文版
+#### 《真人快打1（Mortal Kombat 1）混沌统治收藏版》v0.308 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/70ab9a68bd3e
 
@@ -100,6 +96,54 @@
 #### 《沉没之城2（The Sinking City 2）高级版》Build.24671220 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/2ca5a07288da
+
+#### 《阿凡达：潘多拉边境（Avatar Frontiers of Pandora）完整版》v2.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d9f4383e3990
+
+#### 《另一个伊甸：起源（Another Eden Begins）》v2026.7.17 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8803c2a7d7bc
+
+#### 《纸嫁衣7 卿不负（Paper Bride 7 Lethal Bond）》v1.0.7 中文版
+
+夸克：https://pan.quark.cn/s/9125e6b02316
+
+#### 《指环王：北方战争（The Lord of the Rings War in the North）传世版》v2026.9.16 中文版
+
+夸克：https://pan.quark.cn/s/d2b941408396
+
+#### 《绯红战术：白旗之黎明（Crimson Tactics The Rise of the White Banner）》v2.2.0.0 中文版
+
+夸克：https://pan.quark.cn/s/edb728baccbc
+
+#### 《铁巢重炮（IRON NEST Heavy Turret Simulator）》v1683 中文版
+
+夸克：https://pan.quark.cn/s/81c835226707
+
+#### 《通灵的莱娅（Haunted Laia）》v1.0.85 中文版（附安卓版）
+
+夸克：https://pan.quark.cn/s/2fe5aae867c4
+
+#### 《朋友，梭哈吧（Gamble With Your Friends）》v1.0.33 中文 联机版
+
+夸克：https://pan.quark.cn/s/29139d8664b5
+
+#### 《工艺设计101：编程与制作（Craftomation 101 Programming & Craft）》v1.0.2.109 中文版
+
+夸克：https://pan.quark.cn/s/78c2e544cd83
+
+#### 《泰奈布里斯：未知之地（Tenebris Terra Incognita）》v1.0.00 中文版
+
+夸克：https://pan.quark.cn/s/90dd2a4a01bf
+
+#### 《公会创世纪（Creator Chronicles）》v1.01 中文版
+
+夸克：https://pan.quark.cn/s/f1a6611ac67a
+
+#### 《ReFactory》Build.8731356 英文版
+
+夸克：https://pan.quark.cn/s/aff17fe65d1c
 
 #### 《天临混元（Celestial Descends）》v0.1.4 中文版
 
@@ -146,10 +190,6 @@
 #### 《地下城竞技场（Dungeon Brawls）豪华版》v6.07 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/21428cc417a8
-
-#### 《阿凡达：潘多拉边境（Avatar Frontiers of Pandora）完整版》v2.7 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d9f4383e3990
 
 #### 《莎拉的黑店（Dungeon Inn）》v0.7.0.260811 中文版
 
@@ -199,11 +239,65 @@
 
 ## 最近更新
 
+#### 《噬血代码2（CODE VEIN 2）终结版》v2.0.2.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ac4f16a40e11
+
+#### 《007初露锋芒（007 First Light）豪华版》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/76e705934c3b
+
 #### 《幻兽帕鲁（Palworld）》v1.0.4.102642 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/51d73c209195
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
+
+#### 《使命召唤14：二战（Call of Duty WWII）豪华版》Build.22081364 全DLC 中文版（COD14）
+
+夸克：https://pan.quark.cn/s/64f34a420f5d
+
+迅雷：https://pan.xunlei.com/s/VP1gJ3aLEIa8nij0cN7IM29AA1?pwd=ffqh#
+
+#### 《使命召唤6：现代战争2 战役重制版（Call of Duty Modern Warfare 2 Campaign Remastered）》v1.18.5.3105 中文版（COD6）
+
+夸克：https://pan.quark.cn/s/776f6ed8946c
+
+迅雷：https://pan.xunlei.com/s/VP1gHJOC2JHQtRfwT5tDGfLOA1?pwd=fyrq#
+
+#### 《使命召唤10：幽灵（Call of Duty Ghosts）完整套装版》v3.15.14 全DLC 汉化版（COD10）
+
+夸克：https://pan.quark.cn/s/a69790bc4dd5
+
+迅雷：https://pan.xunlei.com/s/VP1gIFNarcdtjOc8rVkr_aZzA1?pwd=u3gg#
+
+#### 《哥特王朝 重制版（Gothic 1 Remake）豪华版》v173255 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6b03eda75ca7
+
+#### 《符文世界：龙之荒野（RuneScape Dragonwilds ）豪华版》Build.25111146 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7058eb474352
+
+#### 《三国志14 威力加强（Romance of the Three Kingdoms 14）完整版》Build.24966116 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/908c032b0533
+
+#### 《书店模拟器（Bookshop Simulator）》v1.1.1258 中文版
+
+夸克：https://pan.quark.cn/s/15577763a262
+
+#### 《零希沃特 （ZERO Sievert）》v1.3.3 中文版
+
+夸克：https://pan.quark.cn/s/ae8d0b9aa9fd
+
+#### 《暗黑血统 战神版（Darksiders Warmastered Edition）》v1.1.4334 中文版
+
+夸克：https://pan.quark.cn/s/35c0c528d89d
+
+#### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/15d5e510ec67
 
 #### 《Deep Blue Sushi》v0.2.1 中文版（合力探索打造寿司餐厅）
 
@@ -350,10 +444,6 @@
 #### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》Build.23514637 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/64f0b5deb517
-
-#### 《007初露锋芒（007 First Light）》v1.1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/76e705934c3b
 
 #### 《消逝的光芒：困兽（Dying Light The Beast）失地复苏版》v1.6.4 全DLC 中文配音 联机版
 
@@ -739,10 +829,6 @@
 #### 《梦幻魔法公主（Magical Princess）》v1.4.0 中文版
 
 夸克：https://pan.quark.cn/s/a05663731a19
-
-#### 《哥特王朝 重制版（Gothic 1 Remake）豪华版》v172709 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/6b03eda75ca7
 
 #### 《静谧田园（Village in the Shade）》v1.06 中文版
 
@@ -2928,10 +3014,6 @@
 
 夸克：https://pan.quark.cn/s/c48de0ceb715
 
-#### 《零希沃特 （ZERO Sievert）》v1.2.71 中文版
-
-夸克：https://pan.quark.cn/s/ae8d0b9aa9fd
-
 #### 《极限国度（Riders Republic）高级版》v1.32.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8f167fa75ea3
@@ -3097,10 +3179,6 @@
 #### 《释厄传（Relief）》v2.66 中文版
 
 夸克：https://pan.quark.cn/s/a74b32dfaf7c
-
-#### 《符文世界：龙之荒野（RuneScape Dragonwilds ）》Build.23880916 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7058eb474352
 
 #### 《守夜人：长夜（Vigil The Longest Night）》v2026.6.23 中文版
 
@@ -4637,7 +4715,7 @@ w
 
 迅雷：https://pan.xunlei.com/s/VO-qGE01k6b9MXolZWZd-hWgA1?pwd=5mgw#
 
-#### 《黑道圣徒3 重制版（Saints Row The Third Remastered）》v9 汉化版+联机版
+#### 《黑道圣徒3 重制版（Saints Row The Third Remastered）》v9 汉化 联机版
 
 夸克：https://pan.quark.cn/s/4a153640e86b
 
@@ -5009,10 +5087,6 @@ w
 
 夸克：https://pan.quark.cn/s/54fab26752d3
 
-#### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》v0.70.1中文版
-
-夸克：https://pan.quark.cn/s/15d5e510ec67
-
 #### 《镇邪2（hexbreaker 2）》v1.0.17 中文 联机版
 #### 《镇邪（Zhenxie）》v2023.1.28 中文版
 
@@ -5058,7 +5132,7 @@ w
 
 迅雷：https://pan.xunlei.com/s/VP1FkNVRQXhbsYLASYVWVeDNA1?pwd=5z7g#
 
-#### 《兽物调和 重制版（Kemono Mix Re）》v1.0.0 中文版（生物养成 + 探索模拟）
+#### 《兽物调和 重制版（Kemono Mix Re）》v1.0.0 中文版
 
 夸克：https://pan.quark.cn/s/4de273a8d73f
 
@@ -5631,9 +5705,12 @@ w
 夸克：https://pan.quark.cn/s/f584678d169a
 
 #### 《专业飞行模拟11（X-Plane 11）》v11.55r2 全DLC 中文版（xplane11）
+
+夸克：https://pan.quark.cn/s/8b6b307fd655
+
 #### 《专业飞行模拟12（X-Plane 12）》v12.4.0-r2 全DLC 中文版（xplane12）
 
-夸克：https://pan.quark.cn/s/383baacb9dc3
+夸克：https://pan.quark.cn/s/ed13ee1b4d29
 
 #### 《乡间拾趣夏日谈（Natsu no Sagashimono）》v1.06 汉化版（寻找夏日的宝物）
 
@@ -5711,9 +5788,13 @@ w
 
 夸克：https://pan.quark.cn/s/599b0a66d277
 
-#### 《环形帝国 2部（Circle Empires）》最新 中文版
+#### 《环形帝国（Circle Empires）》v1.3.4 中文版
 
-夸克：https://pan.quark.cn/s/0abff95600e6
+夸克：https://pan.quark.cn/s/26a20489e691
+
+#### 《环形帝国2（Circle Empires 2）》v1.87 中文版
+
+夸克：https://pan.quark.cn/s/b36c2a85a541
 
 #### 《Fingerdance》Build.20257504 中文版（一款让你手指打结的魔性小游戏）
 
@@ -5908,12 +5989,37 @@ w
 
 夸克：https://pan.quark.cn/s/b686c14b7c03
 
-#### 《人中之龙0 誓约的场所 导演剪辑版》v1.15.9088 中文版（如龙0 导演剪辑版）
-#### 《人中之龙 极1（Yakuza Kiwami）终结版》v1.13 中文版（如龙极）
-#### 《人中之龙 极2（Yakuza Kiwami 2）终结版》v1.13 中文版（如龙极2）
-#### 《如龙 系列8部合集》最新 全DLC 中文版（人中之龙）
+#### 《人中之龙3 重制版（Yakuza 3 Remastered）》v1.005 中文版（如龙3）
 
-夸克：https://pan.quark.cn/s/e64a1d3125be
+夸克：https://pan.quark.cn/s/358024350fb0
+
+#### 《人中之龙4 重制版 继承传说者（Yakuza 4 Remastered）》v1.003a 中文版（如龙4）
+
+夸克：https://pan.quark.cn/s/d91d43445c39
+
+#### 《人中之龙5 重制版 实现梦想者（Yakuza 5 Remastered）》v1.0 中文版（如龙5）
+
+夸克：https://pan.quark.cn/s/384d896f4594
+
+#### 《人中之龙6 生命诗篇（Yakuza 6 The Song of Life）》v1.009a 全DLC 中文版（如龙6）
+
+夸克：https://pan.quark.cn/s/5136e10def75
+
+#### 《人中之龙7 光与暗的去向（Yakuza Like a Dragon）传奇英雄版》v1.009 全DLC 中文版（如龙7）
+
+夸克：https://pan.quark.cn/s/a6b3570d4593
+
+#### 《人中之龙0 誓约的场所 导演剪辑版（Yakuza 0 Director's Cut）》v1.15.9088 中文版（如龙0）
+
+夸克：https://pan.quark.cn/s/5748b8af0064
+
+#### 《人中之龙 极（Yakuza Kiwami）终结版》v2.13 中文版（如龙极）
+
+夸克：https://pan.quark.cn/s/6a7a114bd8ab
+
+#### 《人中之龙 极2（Yakuza Kiwami 2）终结版》v2.13 中文版（如龙极2）
+
+夸克：https://pan.quark.cn/s/a6dbe2ffd29b
 
 #### 《DRUDGE》v0.4.1 中文版（射击恐怖）
 
@@ -6210,10 +6316,6 @@ w
 #### 《全面战争：三国（Total War Three Kingdoms）》v1.7.8 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/c6f9e205035b
-
-#### 《正当防卫3（Just Cause 3）XXL版》v20251217 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/79965ca81c2b
 
 #### 《金垦小镇（Dinkum）》v1.0.7 中文 联机版
 
@@ -6701,9 +6803,17 @@ w
 
 夸克：https://pan.quark.cn/s/a9190786dc22
 
-#### 《暗黑血统 系列合集（Darksiders）》4部 最新 全DLC 中文版
+#### 《暗黑血统3（Darksiders 3）豪华版》v1.4 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/f3dfb80cb1ff
+夸克：https://pan.quark.cn/s/1c2a18545b4f
+
+#### 《暗黑血统：创世纪（Darksiders Genesis）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/f7f9bac4a22c
+
+#### 《暗黑血统2 死亡 （Darksiders 2 Deathinitive Edition）终极版》v2.1.0.4 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/eadaeaf31609
 
 #### 《枪匠幸存者（NIMRODS）》v0.8.6a 全DLC 中文版
 
@@ -7231,9 +7341,21 @@ w
 
 夸克：https://pan.quark.cn/s/54a985e3d4f6
 
-#### 《三国志 系列合集 威力加强版》最新 全DLC 中文版
+#### 《三国志8 重制版 威力加强版（ROMANCE OF THE THREE KINGDOMS 8 REMAKE）豪华版》v1.1.0 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/791c98f684de
+夸克：https://pan.quark.cn/s/8b65a1c119c1
+
+#### 《三国志13 威力加强版 PK（Romance of the Three Kingdoms 13）豪华版》v1.0.3.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4eb655c9b40e
+
+#### 《三国志12 威力加强版（Romance of the Three Kingdoms 12）》最新 中文版
+
+夸克：https://pan.quark.cn/s/2eb0ba63136a
+
+#### 《三国志11 威力加强版（Romance Of Three Kingdom 11）》最新 中文版
+
+夸克：https://pan.quark.cn/s/3974049f368c
 
 迅雷：https://pan.xunlei.com/s/VO6lstxtRMt1AXm3MN5Yz76gA1?pwd=3cek#
 
@@ -7732,10 +7854,6 @@ w
 #### 《未知项目（Project Unknown）》v0.9.4 中文 联机版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/f32803e18acc
-
-#### 《书店模拟器（Bookshop Simulator）》0.1.786 中文版
-
-夸克：https://pan.quark.cn/s/15577763a262
 
 #### 《百变大脑亨利（Henry Halfhead）》v1.0.10 中文版
 
@@ -9318,15 +9436,15 @@ w
 
 夸克：https://pan.quark.cn/s/02093523596a
 
-#### 《使命召唤17：黑色行动冷战》COD17 最新 中文版 全DLC+修改器
+#### 《使命召唤17：黑色行动冷战（Call of Duty Black Ops Cold War）》v1.34.1.15931218 中文版（COD17）
 
-夸克：https://pan.quark.cn/s/587a501e383e
+夸克：https://pan.quark.cn/s/ca3bf2633ac2
 
 #### 《使命召唤18：先锋（Call of Duty Vanguard）》v1.26 中文版（COD18）
 
 夸克：https://pan.quark.cn/s/9abdb98fcb8b
 
-#### 《使命召唤19：现代战争2（Call of Duty Modern Warfare II）》v2025.5.22 中文版（COD19）
+#### 《使命召唤19：现代战争2（Call of Duty Modern Warfare II Campaign）》v9.2.12721522 中文版（COD19）
 
 夸克：https://pan.quark.cn/s/6ee66793bdb8
 
@@ -9336,7 +9454,7 @@ w
 
 #### 《使命召唤21：黑色行动6（Call of Duty Black Ops 6）》v11.1.21663693 中文版（COD21）
 
-夸克：https://pan.quark.cn/s/587a501e383e
+夸克：https://pan.quark.cn/s/7f30192ccd31
 
 #### 《午夜漫步（The Midnight Walk）》v2025.6.13 中文版（恐怖游戏）
 
@@ -11830,14 +11948,6 @@ w
 
 夸克：https://pan.quark.cn/s/e89d67fee687
 
-#### 《正当防卫4（Just Cause 4）完整版》v4110618 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/79965ca81c2b
-
-#### 《正当防卫2（Just Cause 2）完全版》v1.0.0.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/79965ca81c2b
-
 #### 《回溯依存（The Chrono Jotter）》v1.02 中文版
 
 夸克：https://pan.quark.cn/s/1a441ce5d9c1
@@ -12284,9 +12394,13 @@ w
 
 夸克：https://pan.quark.cn/s/ccb3aef983d8
 
-#### 《盗贼遗产1+2（Rogue Legacy 1+2）》最新 中文版
+#### 《盗贼遗产（Rogue Legacy）》v1.4.1e_0 中文版
 
-夸克：https://pan.quark.cn/s/d6e611752467
+夸克：https://pan.quark.cn/s/7ad3646a6f1b
+
+#### 《盗贼遗产2（Rogue Legacy 2）》v1.2.2 中文版
+
+夸克：https://pan.quark.cn/s/db1b00a855a3
 
 #### 《Europa》Build.16090945 中文版 （唯美探索解密）
 
@@ -12380,7 +12494,7 @@ w
 
 夸克：https://pan.quark.cn/s/04f1c25ed1ce
 
-#### 《除邪（CHUXIE ）》v0.5.2 中文版（恐怖游戏）
+#### 《除邪（CHUXIE）》v0.5.2 中文版（恐怖游戏）
 
 迅雷：https://pan.xunlei.com/s/VO9BH_E-BKUI5m9DkH3d_pEmA1?pwd=r2mx#
 
@@ -13008,10 +13122,6 @@ w
 
 夸克：https://pan.quark.cn/s/80396d1eee3a
 
-#### 《真人快打1（Mortal Kombat Komplete Edition）》v1.07 英文版
-
-夸克：https://pan.quark.cn/s/dab48250357a
-
 #### 《真人快打10（Mortal Kombat X）》v0.306-05.126703.1 中文 联机版
 
 夸克：https://pan.quark.cn/s/3826e6a352b1
@@ -13246,7 +13356,7 @@ w
 
 夸克：https://pan.quark.cn/s/1e779d360070
 
-#### 《加密（Cypher ）》最新 英文版
+#### 《加密（Cypher）》最新 英文版
 
 夸克：https://pan.quark.cn/s/9aca0e2b1ab2
 
@@ -13947,7 +14057,7 @@ w
 
 夸克：https://pan.quark.cn/s/f2f7eca85f51
 
-#### 《家园1+2重制版》v2.1 二合一 中文收藏版
+#### 《家园 重制版合集（Homeworld Remastered Collection）》v2.1 汉化版
 
 夸克：https://pan.quark.cn/s/79cebe5c6961
 
@@ -14206,24 +14316,32 @@ w
 夸克：https://pan.quark.cn/s/3f94853e6886
 
 #### 《女鬼桥2：释魂路（The Bridge Curse 2 The Extrication）》v1.7.2.2 中文版（恐怖游戏）
-#### 《女鬼桥：开魂路（The Bridge Curse Road to Salvation）》v1.6.2（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/eac4c8256e11
 
 迅雷：https://pan.xunlei.com/s/VNrjVQyU7H_QU0Z11ps8Fj-SA1?pwd=nxab#
 
-#### 《纸人：第一章》最新 中文版（恐怖游戏）
+#### 《女鬼桥：开魂路（The Bridge Curse Road to Salvation）》v1.6.2 中文版
+
+夸克：https://pan.quark.cn/s/fbda5a3b1078
+
+#### 《纸人：第一章（Paper Dolls Original）》最新 中文版
+
+夸克：https://pan.quark.cn/s/97744ed3ab48
+
+迅雷：https://pan.xunlei.com/s/VP1axGyzT4Q1hkwqrlL756GvA1?pwd=2je3#
+
 #### 《纸人贰》v1.1.0 中文版（纸人2）
 
-夸克：https://pan.quark.cn/s/f82dfea43151
+夸克：https://pan.quark.cn/s/371154b9dd47
 
-迅雷：https://pan.xunlei.com/s/VNrkEv4vXYUsRKnHQmys2NJVA1?pwd=3ecn#
+迅雷：https://pan.xunlei.com/s/VP1axDfXGk70KxF0FU2yR8BRA1?pwd=m3af#
 
 #### 《逃出生天（A Way Out）》v1.2.0.2 汉化 联机版
 
 夸克：https://pan.quark.cn/s/a9d6ace3df2d
 
-#### 《兄弟：双子传说 重制版》最新 中文版
+#### 《兄弟：双子传说 重制版（Brothers A Tale of Two Sons Remake）》v2024.3.21 中文版
 
 夸克：https://pan.quark.cn/s/fddb670a4a9b
 
@@ -14423,31 +14541,121 @@ w
 
 夸克：https://pan.quark.cn/s/7aed2995641c
 
----
+#### 《正当防卫2（Just Cause 2）》v1.0.0.1 全DLC 汉化版
 
-## 系列合集
+夸克：https://pan.quark.cn/s/46217ee06f0f
 
-#### 《正当防卫 系列合集（Just Cause）豪华版》3部 全DLC 中文版
+#### 《正当防卫3（Just Cause 3）XXL版》v20251217 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/79965ca81c2b
+夸克：https://pan.quark.cn/s/19ebf98c6190
 
-#### 《层层恐惧 系列合集（Layers of Fear）》3部 最新 全DLC 中文版（恐怖解密）
+#### 《正当防卫4 重制版（Just Cause 4 Reloaded）黄金版》最新 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/e0308f3b4b16
+夸克：https://pan.quark.cn/s/0fce345d23d9
 
-#### 《纸嫁衣 系列合集（Paper Bride 1-6）》6部 最新 中文版（恐怖游戏）
+#### 《层层恐惧（Layers of Fear 2016）》最新 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/cf83289df1e6
+夸克：https://pan.quark.cn/s/0ac5e009545e
+
+#### 《层层恐惧2（Layers of Fear 2019）》最新 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/8f4c6d6e4b20
+
+#### 《层层恐惧3（Layers of Fear 2023）》v1.6.1.rb118319 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/47765694a07d
+
+#### 《纸嫁衣6 千秋魇（Paper Bride 6 Nightmare）》v1.0.7 中文版
+
+夸克：https://pan.quark.cn/s/c1518299587e
+
+#### 《纸嫁衣5 来生戏（Paper Bride 5 Two Lifetimes）》v1.0.3 中文版
+
+夸克：https://pan.quark.cn/s/8dd9e4dc6a85
+
+#### 《纸嫁衣4 红丝缠（Paper Bride 4 Bound Love）》v1.0.3 中文版
+
+夸克：https://pan.quark.cn/s/612ad4197c67
+
+#### 《纸嫁衣3 鸳鸯债（Paper Bride 3 Unresolved Love）》v1.0.5 中文版
+
+夸克：https://pan.quark.cn/s/85e3b926282f
+
+#### 《纸嫁衣2 奘铃村（Paper Bride 2 Zangling Village）》v1.0.4 中文版
+
+夸克：https://pan.quark.cn/s/d555e0a946d4
+
+#### 《纸嫁衣（Paper Bride）》v1.0.5 中文版
+
+夸克：https://pan.quark.cn/s/f86cfe8bd16d
 
 #### 《开罗物语 系列合集》电脑版 + 安卓版（没有的联系群主上）
 
 夸克：https://pan.quark.cn/s/2ff439e37cc9
 
-#### 《使命召唤 系列合集（Call of Duty）》1-21部 最新 全DLC 中文版（COD）附修改器
+#### 《使命召唤1（Call of Duty 2003）》v1.0up11 中文 联机版
 
-夸克：https://pan.quark.cn/s/587a501e383e
+夸克：https://pan.quark.cn/s/82559271373f
 
-迅雷：https://pan.xunlei.com/s/VNvbMbABxGh6ttTHd1ekUnNYA1?pwd=a9w7#
+迅雷：https://pan.xunlei.com/s/VP1gG38LZLUOh66lJmSGc9JYA1?pwd=uuuk#
+
+#### 《使命召唤2（Call of Duty 2）》v13845 中文版
+
+夸克：https://pan.quark.cn/s/9775d3d2fbc1
+
+迅雷：https://pan.xunlei.com/s/VP1gGI98RjEhI4iUxmdvvYtOA1?pwd=ify9#
+
+#### 《使命召唤4 现代战争 重制版（Call of Duty 4 Modern Warfare）》v2737681 中文版
+
+夸克：https://pan.quark.cn/s/08fafc881b83
+
+迅雷：https://pan.xunlei.com/s/VP1gGmx1fjHW8Apik-yL44e2A1?pwd=b2fp#
+
+#### 《使命召唤5（Call of Duty World at War）》v1.7.1263 中文版
+
+夸克：https://pan.quark.cn/s/b638202b542b
+
+迅雷：https://pan.xunlei.com/s/VP1gGz8pJNRwGNyWQot7sM82A1?pwd=248e#
+
+#### 《使命召唤7：黑色行动（Call of Duty Black Ops 7）》Build.20661762 中文版（COD7）
+
+夸克：https://pan.quark.cn/s/a7ea050f361a
+
+迅雷：https://pan.xunlei.com/s/VP1gH_PBh9C7HKVMFr1JYACwA1?pwd=7guk#
+
+#### 《使命召唤8：现代战争3（Call of Duty Modern Warfare 3）》最新 全DLC 中文版（COD8）
+
+夸克：https://pan.quark.cn/s/20d7446815be
+
+迅雷：https://pan.xunlei.com/s/VP1gHqOro7_24Bek1L3ihCsnA1?pwd=frpb#
+
+#### 《使命召唤9：黑色行动2（Call of Duty Black Ops 2）》v65428 中文版（COD9）
+
+夸克：https://pan.quark.cn/s/065fd1be7cc9
+
+迅雷：https://pan.xunlei.com/s/VP1gI1fu54ZACwiIdDD138i7A1?pwd=x3wd#
+
+#### 《使命召唤11：高级战争（Call of Duty Advanced Warfare）专业版》v1.22.2195988.40 中文版（COD11）
+
+夸克：https://pan.quark.cn/s/c3a4ea54f75c
+
+迅雷：https://pan.xunlei.com/s/VP1gIQjG474eP35Wrsph6mgoA1?pwd=zfuk#
+
+#### 《使命召唤12：黑色行动3（Call of Duty Black Ops 3）僵尸编年史豪华版》v77 全DLC 中文版（COD12）
+
+夸克：https://pan.quark.cn/s/04c746e6161d
+
+迅雷：https://pan.xunlei.com/s/VP1gIc9U9JA7FUw1FlHVIDOQA1?pwd=3arc#
+
+#### 《使命召唤13：无限战争（Call of Duty Infinite Warfare）》v6.0.1211685 中文版（COD13）
+
+夸克：https://pan.quark.cn/s/09b1c2ce7420
+
+迅雷：https://pan.xunlei.com/s/VP1gIntX-tKT-c9SlA4Ne58aA1?pwd=sjgh#
+
+#### 《使命召唤15：黑色行动4（Call of Duty Black Ops 4）》最新 中文版
+
+夸克：https://pan.quark.cn/s/7632c3b4f410
 
 #### 《极品飞车 系列合集（Need For Speed ）》12部 最新 全DLC 中文版
 
