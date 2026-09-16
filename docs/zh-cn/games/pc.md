@@ -101,6 +101,14 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《迪姆雷斯（Dimraeth）》v0.107.7689 中文 联机版
+
+夸克：https://pan.quark.cn/s/430d221ab96b
+
+#### 《月之冕（Moon Corona）》v0.1 中文版
+
+夸克：https://pan.quark.cn/s/235c32c31816
+
 #### 《另一个伊甸：起源（Another Eden Begins）》v2026.7.17 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8803c2a7d7bc
@@ -3960,10 +3968,6 @@ w
 #### 《Better than Dead》v0.195 中文版（香港街巷残酷FPS）
 
 夸克：https://pan.quark.cn/s/f20915f2b389
-
-#### 《Gamble With Your Friends》v1.0.11 汉化 联机版（与朋友一起赌博）
-
-夸克：https://pan.quark.cn/s/4d80fc1f0ee1
 
 #### 《迷雾计划（Project Mist）》v0.1.K_2984 中文 联机版（恐怖游戏）
 
