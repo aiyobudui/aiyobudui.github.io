@@ -26,7 +26,7 @@
   <a class="game-page-btn is-step" href="#/zh-cn/games/pc-7">下一页 →</a>
 </div>
 
-> 第 **6 / 12** 页（第 1359–1653 条，全 3408 款）· 使用说明与公告见 [电脑游戏总览](/zh-cn/games/pc)，链接失效请 [留言](/zh-cn/bbs) 告知。
+> 第 **6 / 12** 页（第 1359–1653 条）· 使用说明与公告见 [电脑游戏总览](/zh-cn/games/pc)，链接失效请 [留言](/zh-cn/bbs) 告知。
 
 ---
 #### 《R.E.P.O.》v0.3.2 汉化 联机版（REPO）
@@ -1518,23 +1518,3 @@
 #### 《逃离永明岛（Escape Everlit）》v2025.10.2 中文版（文字解密冒险）
 
 夸克：https://pan.quark.cn/s/b8ba8a22c26f
-
----
-
-<div class="game-page-nav">
-  <a class="game-page-btn is-step" href="#/zh-cn/games/pc-5">← 上一页</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc">总览</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-1" title="第 1–250 条">1</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-2" title="第 251–523 条">2</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-3" title="第 524–813 条">3</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-4" title="第 814–1084 条">4</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-5" title="第 1085–1358 条">5</a>
-  <a class="game-page-btn is-active" href="#/zh-cn/games/pc-6" title="第 1359–1653 条">6</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-7" title="第 1654–1951 条">7</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-8" title="第 1952–2246 条">8</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-9" title="第 2247–2539 条">9</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-10" title="第 2540–2837 条">10</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-11" title="第 2838–3129 条">11</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-12" title="第 3130–3408 条">12</a>
-  <a class="game-page-btn is-step" href="#/zh-cn/games/pc-7">下一页 →</a>
-</div>

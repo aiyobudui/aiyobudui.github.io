@@ -524,9 +524,8 @@
 夸克：https://pan.quark.cn/s/90391fdabda9
 
 ---
-## 已有游戏
 
-> 共 **3408** 款游戏，为提升加载速度已分为 **12** 页。点击下方页码进入对应分页，进入分页后可用浏览器 **CTRL+F** 在本页内快速查找。
+## 已有游戏
 
 <div class="game-page-nav">
   <a class="game-page-btn is-active" href="#/zh-cn/games/pc">总览</a>
@@ -544,38 +543,3 @@
   <a class="game-page-btn" href="#/zh-cn/games/pc-12" title="第 3130–3408 条">12</a>
   <a class="game-page-btn is-step" href="#/zh-cn/games/pc-1">下一页 →</a>
 </div>
-
----
-
-## 辅助软件
-
-#### 《游戏联机软件（Radmin LAN）》搭建一个内网穿透来实现局域网到互联网的联机（内附教程）
-
-夸克：https://pan.quark.cn/s/6868fbe2bc2b
-
-#### 《壁纸引擎（Wallpaper Engine）》v2.6.164 中文绿色版（附精选主题）
-
-夸克：https://pan.quark.cn/s/0e8e148f23ec
-
-#### 《Everything》最新 中文版（搜索快速定位到系统文件夹）软件
-
-夸克：https://pan.quark.cn/s/b6c3af3ef360
-
-#### 《MyDockFinder》Build.16629179 中文版（仿苹果Mac Dock栏美化软件）
-
-夸克：https://pan.quark.cn/s/a26b9c8789a6
-
-#### 《补帧小黄鸭（Lossless Scaling）》v3.1.0.2 中文版（软件）
-
-夸克：https://pan.quark.cn/s/30986a548300
-
-#### 《ReWASD》（xbox手柄映射键盘软件）v7.2.0 中文版
-
-夸克：https://pan.quark.cn/s/56b41a301dfb
-
-#### 《Soundpad》v4.0.29 中文版（以高数字质量在语音聊天中播放声音）
-
-夸克：https://pan.quark.cn/s/43406da8af89
-
-#### 《逃生试炼》没有可联机的学习版，全程联网，不要在问了
-
