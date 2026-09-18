@@ -105,6 +105,8 @@
 
 夸克：https://pan.quark.cn/s/364126809b50
 
+迅雷：https://pan.xunlei.com/s/VP1oWT9cD2ZxFCufIrcpy8kBA1?pwd=qrkm#
+
 #### 《废弃之地（Scavland）》v0.7.2 中文版
 
 夸克：https://pan.quark.cn/s/5f7b5c2161f1
