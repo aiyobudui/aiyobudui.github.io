@@ -112,10 +112,34 @@ document.addEventListener('click', function (e) {
     }
 });
 
+// 2.5 电脑游戏分页：切换分页后回到页面顶部
+// 背景：站点为保留搜索结果「定位到 ?id= 标题」的能力而设 auto2top:false，
+// 代价是切页会沿用上一页的滚动位置——从页底点「下一页」会直接落在下一页底部，非常突兀。
+// 这里只对「电脑游戏分页路径且 hash 不带 ?id= 锚点」的导航回顶；
+// 搜索结果链接必然自带 ?id=（v5 search 生成），因此绝不受影响。
+function resetScrollForPagedGames() {
+    var h = location.hash || '';
+    if (!/^#\/zh-cn\/games\/pc(-\d+)?$/.test(h)) return;
+    window.scrollTo(0, 0);
+}
+
 // 3. 搜索结果分类路径（电脑端）
 
 var searchCategoryMap = {
     '/zh-cn/games/pc': '游戏 > 电脑游戏',
+    // 电脑游戏分页（「已有游戏」拆分为 12 页，最长前缀匹配，需在 /zh-cn/games/pc 之后仍能命中更长的分页路径）
+    '/zh-cn/games/pc-1': '游戏 > 电脑游戏 第1页',
+    '/zh-cn/games/pc-2': '游戏 > 电脑游戏 第2页',
+    '/zh-cn/games/pc-3': '游戏 > 电脑游戏 第3页',
+    '/zh-cn/games/pc-4': '游戏 > 电脑游戏 第4页',
+    '/zh-cn/games/pc-5': '游戏 > 电脑游戏 第5页',
+    '/zh-cn/games/pc-6': '游戏 > 电脑游戏 第6页',
+    '/zh-cn/games/pc-7': '游戏 > 电脑游戏 第7页',
+    '/zh-cn/games/pc-8': '游戏 > 电脑游戏 第8页',
+    '/zh-cn/games/pc-9': '游戏 > 电脑游戏 第9页',
+    '/zh-cn/games/pc-10': '游戏 > 电脑游戏 第10页',
+    '/zh-cn/games/pc-11': '游戏 > 电脑游戏 第11页',
+    '/zh-cn/games/pc-12': '游戏 > 电脑游戏 第12页',
     '/zh-cn/games/HVgame': '游戏 > 虚拟化游戏',
     '/zh-cn/games/switch': '游戏 > Switch游戏',
     '/zh-cn/games/android': '游戏 > 安卓游戏',

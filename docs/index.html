@@ -233,7 +233,7 @@
                 placeholder: '请输入关键词"搜索"',
                 noData: '没有搜到就换个关键词在试试。没有就联系站长让他上资源。',
                 depth: 4,
-                namespace: 'web-20260918123831593233', // 变更 namespace 强制所有访客重建搜索索引（弃用旧的 web-v2 缓存）
+                namespace: 'web-20260918130216810652', // 变更 namespace 强制所有访客重建搜索索引（弃用旧的 web-v2 缓存）
                 // 将搜索框放到标题栏(.app-name)下方，而非默认的侧边栏最顶部
                 insertAfter: '.app-name',
             },
@@ -274,14 +274,22 @@
                                         e.stopPropagation(); // 阻止官方 collapse 处理器重复切换
                                         var key = a.getAttribute('href') || a.textContent.trim();
                                         var willOpen = li.classList.contains('collapse');
-                                        // 手风琴：展开前先收起所有其它父级
+                                        // 手风琴：展开前先收起其它父级。
+                                        // 关键：必须跳过被点击项的「祖先」——否则祖先拿到 .collapse 后，
+                                        // 会因 `.sidebar-nav li.collapse>ul{display:none}` 把整个子树（含刚展开的项）一起隐藏。
+                                        // 典型场景：「游戏 > 电脑游戏 > 第 N 页」三级嵌套，点开「电脑游戏」时不能收起「游戏」。
                                         if (willOpen) {
                                             sidebarNav.querySelectorAll('li').forEach(function (other) {
-                                                if (other !== li && other.tagName === 'LI' && other.querySelector(':scope > ul')) {
+                                                if (other === li || other.contains(li)) return;
+                                                if (other.tagName === 'LI' && other.querySelector(':scope > ul')) {
                                                     other.classList.add('collapse');
+                                                    // 同步清掉其展开记录，保持跨页的展开状态一致
+                                                    var otherA = other.querySelector(':scope > a');
+                                                    if (otherA) {
+                                                        window.__expandedGroups.delete(otherA.getAttribute('href') || otherA.textContent.trim());
+                                                    }
                                                 }
                                             });
-                                            window.__expandedGroups.clear();
                                         }
                                         if (li.classList.contains('collapse')) {
                                             li.classList.remove('collapse');
@@ -307,6 +315,11 @@
                                     }
                                 }
                             });
+                        }
+
+                        // 电脑游戏分页：切分页后回顶（不影响搜索结果 ?id= 定位）
+                        if (typeof resetScrollForPagedGames === 'function') {
+                            resetScrollForPagedGames();
                         }
 
                         // 正文内 TOC：抓取当前页 h2，注入「本页目录」卡片到正文顶部

@@ -331,15 +331,15 @@
 
 /* =================== 正文超链接：下划线从中间向左右展开 + hover 变蓝 =================== */
 /* 用 ::after 伪元素做下划线，默认 scaleX(0) 居中收缩，hover 时 scaleX(1) 向左右展开；
-   排除 .game-nav-btn 等导航按钮，避免按钮底部出现多余的展开线。 */
-.markdown-section a:not(.game-nav-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a) {
+   排除 .game-nav-btn / .game-page-btn 等导航按钮，避免按钮底部出现多余的展开线。 */
+.markdown-section a:not(.game-nav-btn):not(.game-page-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a) {
   position: relative;
   text-decoration: none;
   color: #60a5fa;
   transition: color 1s ease;
 }
 
-.markdown-section a:not(.game-nav-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a)::after {
+.markdown-section a:not(.game-nav-btn):not(.game-page-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a)::after {
   content: "";
   position: absolute;
   left: 0;
@@ -352,12 +352,12 @@
   transition: transform 1s ease;
 }
 
-.markdown-section a:not(.game-nav-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a):hover {
+.markdown-section a:not(.game-nav-btn):not(.game-page-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a):hover {
   text-decoration: none;
   color: var(--theme-color);
 }
 
-.markdown-section a:not(.game-nav-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a):hover::after {
+.markdown-section a:not(.game-nav-btn):not(.game-page-btn):not(.anchor):not(:is(h1, h2, h3, h4, h5, h6) a):hover::after {
   transform: scaleX(1);
 }
 
@@ -596,6 +596,54 @@ main>.content {
   background: #dbeafe;
   border-color: #60a5fa;
   color: #1e40af;
+}
+
+/* =================== 分页导航（电脑游戏「已有游戏」拆页：.game-page-nav） ===================
+   总览页 pc.md 与 12 个分页 pc-1…pc-12 顶部/底部的页码切换条。
+   注意：手机端 .game-nav 被隐藏（改用底部导航栏），但分页条必须保留——
+   它是手机端切换分页的唯一入口。 */
+.markdown-section .game-page-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1.25rem 0;
+}
+
+.markdown-section .game-page-nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.25rem;
+  height: 2.125rem;
+  padding: 0 0.625rem;
+  box-sizing: border-box;
+  background: #f8fafc;
+  color: #1d4ed8;
+  border: 1px solid #dbeafe;
+  border-radius: 10px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: background-color var(--ui-transition), border-color var(--ui-transition), color var(--ui-transition), box-shadow var(--ui-transition);
+}
+
+.markdown-section .game-page-nav a:hover {
+  background: #dbeafe;
+  border-color: #60a5fa;
+  color: #1e40af;
+}
+
+.markdown-section .game-page-nav a.is-step {
+  padding: 0 0.875rem;
+}
+
+.markdown-section .game-page-nav a.is-active {
+  background: #3b82f6;
+  border-color: #3b82f6;
+  color: #fff;
 }
 
 /* =================== 手机端底部导航栏（自定义，不可删除） =================== */
@@ -1095,6 +1143,23 @@ body.search-active nav[class*="toc"] {
 
   .markdown-section .game-nav-btn {
     padding: 0.5rem 0.625rem;
+  }
+
+  /* 分页导航：窄屏收紧间距，但按钮保持 36px 触控高度（手机端主要靠它翻页），勿隐藏 */
+  .markdown-section .game-page-nav {
+    gap: 0.375rem;
+    margin: 1rem 0;
+  }
+
+  .markdown-section .game-page-nav a {
+    min-width: 2.25rem;
+    height: 2.25rem;
+    padding: 0 0.5rem;
+    font-size: 0.8125rem;
+  }
+
+  .markdown-section .game-page-nav a.is-step {
+    padding: 0 0.625rem;
   }
 }
 
