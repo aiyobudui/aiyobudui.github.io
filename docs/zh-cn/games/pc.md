@@ -101,6 +101,12 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《我的小小蜘蛛（My Little Spider）》Build.20861628 中文版（桌面游戏）
+
+夸克：https://pan.quark.cn/s/ba0b5b6846b8
+
+迅雷：https://pan.xunlei.com/s/VP1oYa1QZqHvcamYycITq04OA1?pwd=6c5p#
+
 #### 《地城拓荒（Dungeon Settlers）》v0.4.23 中文版
 
 夸克：https://pan.quark.cn/s/364126809b50
