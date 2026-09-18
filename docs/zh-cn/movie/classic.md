@@ -20,6 +20,12 @@
 
 ---
 
+#### 《南京照相馆》（2026）4K
+
+夸克：https://pan.quark.cn/s/55b9e5ea6a9c
+
+迅雷：https://pan.xunlei.com/s/VP1oOBKpOAEwK3LbmnlbMjjGA1?pwd=xcv9#
+
 #### 《人类（Human）》（2015）1080P高码 内封中字（纪录片）
 
 夸克：https://pan.quark.cn/s/7cbffc71eac0

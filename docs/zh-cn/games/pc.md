@@ -261,6 +261,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
+#### 《PEAK》v2.3.a 中文 联机版（多人合作生存与攀登游戏）
+
+夸克：https://pan.quark.cn/s/f56bd5be8765
+
+迅雷：https://pan.xunlei.com/s/VP-22bQp46nX8Yb2XnPL8KvmA1?pwd=umsc#
+
 #### 《使命召唤14：二战（Call of Duty WWII）豪华版》Build.22081364 全DLC 中文版（COD14）
 
 夸克：https://pan.quark.cn/s/64f34a420f5d
@@ -1572,12 +1578,6 @@
 夸克：https://pan.quark.cn/s/dffcc45a56c8
 
 迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
-
-#### 《PEAK》v2.1.a 中文 联机版（多人合作生存与攀登游戏）
-
-夸克：https://pan.quark.cn/s/f56bd5be8765
-
-迅雷：https://pan.xunlei.com/s/VP-22bQp46nX8Yb2XnPL8KvmA1?pwd=umsc#
 
 #### 《十字军之王3（Crusader Kings III）皇家版》v1.19.0.6 全DLC 中文 联机版
 

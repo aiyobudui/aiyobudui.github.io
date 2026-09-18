@@ -128,6 +128,12 @@
 
 ## 近期完结
 
+#### 《更衣人偶坠入爱河／恋上换装娃娃》（2022-2025）1-2季全 1080P 中字（附漫画）
+
+夸克：https://pan.quark.cn/s/8c0a1c75a1f3
+
+迅雷：https://pan.xunlei.com/s/VP1oMf67b6XSZM-xsPDItEnNA1?pwd=mjrv#
+
 #### 《石纪元》（2019-2026）1-4季全 1080P 中字 +漫画
 
 夸克：https://pan.quark.cn/s/c2b55d462e0f
