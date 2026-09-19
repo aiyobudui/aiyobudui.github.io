@@ -1356,11 +1356,6 @@
 夸克：https://pan.quark.cn/s/3d048bd03ffb
 
 
-#### 《爱氏物语（Artis Impact）》v1.14 中文版
-
-夸克：https://pan.quark.cn/s/3dcd0ecc9013
-
-
 #### 《岛民 新海岸（Islanders New Shores）》v20251127 中文版
 
 夸克：https://pan.quark.cn/s/97141668cc4d

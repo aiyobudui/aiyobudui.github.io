@@ -18,6 +18,12 @@
 
 ## 正在更新中的...
 
+#### 《兰香如故》（2026）4K 47集 更新中..
+
+夸克：https://pan.quark.cn/s/715381e7991b
+
+迅雷：https://pan.xunlei.com/s/VP1oocsM3qi5rbUUa74tN9ShA1?pwd=p752#
+
 #### 《后西游记》（2026）4K 更新中..
 
 夸克：https://pan.quark.cn/s/f8f50ff24ff7

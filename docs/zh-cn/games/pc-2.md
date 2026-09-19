@@ -81,11 +81,6 @@
 夸克：https://pan.quark.cn/s/0fcd0ac081da
 
 
-#### 《生灵重塑（REANIMAL）豪华版》v367303 全DLC 中文 联机版（类似小小梦魇恐怖解密）
-
-夸克：https://pan.quark.cn/s/fcef91158dcf
-
-
 #### 《无名九使：觉醒（Unknown 9 Awakening）豪华版》Build.16687288 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/e116ed4f56b8

@@ -404,7 +404,7 @@
 夸克：https://pan.quark.cn/s/83133e6fb2c0
 
 
-#### 《千变的迷宫 风来的希炼 蛇蜷岛探险谭（Shiren Wanderer Serpentcoil）》v2.2.3 全DLC 中文版
+#### 《千变的迷宫 风来的希炼6 蛇蜷岛探险谭（Shiren Wanderer Serpentcoil）》v2.2.3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/3dc29c3e88a1
 

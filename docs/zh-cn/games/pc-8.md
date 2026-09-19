@@ -34,7 +34,7 @@
 夸克：https://pan.quark.cn/s/6f1f375d6a3d
 
 
-#### 《Gemporium A Cute Mining Sim》v1.0.6 英文版（可爱的地鼠采矿模拟游戏）
+#### 《宝石工坊（Gemporium A Cute Mining Sim）》v1.0.6 英文版（可爱的地鼠采矿模拟游戏）
 
 夸克：https://pan.quark.cn/s/66845ef339ba
 
@@ -529,11 +529,6 @@
 #### 《蚂蚁帝国（Empire of the Ants）》v1.04.20550 中文版
 
 夸克：https://pan.quark.cn/s/f866243168ef
-
-
-#### 《钻核公司 （Drill Core）》v1.199.5.7.1 中文版
-
-夸克：https://pan.quark.cn/s/a499eb0e9b1c
 
 
 #### 《七龙珠Z 卡卡洛特（Dragon Ball Z Kakarot）》v2.20 全DLC 中文版（新增魔界大冒险DLC）
@@ -1392,7 +1387,7 @@
 夸克：https://pan.quark.cn/s/7ac7343421d9
 
 
-#### 《Deathless Tales of Old Rus》v1.2.0.31039 中文版（卡牌肉鸽）
+#### 《不死之神（Deathless.Tales of Old Rus）》v1.2.0.31039 中文版（卡牌肉鸽）
 
 夸克：https://pan.quark.cn/s/a9dd1f8d1b76
 

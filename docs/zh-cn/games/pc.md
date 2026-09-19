@@ -101,6 +101,14 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《The Crust》v1.0.11 中文版
+
+夸克：https://pan.quark.cn/s/4b648a8dd612
+
+#### 《守墓人2（Graveyard Keeper 2）》v1.002.4a 中文版
+
+夸克：https://pan.quark.cn/s/81b0a582ce4a
+
 #### 《我的小小蜘蛛（My Little Spider）》Build.20861628 中文版（桌面游戏）
 
 夸克：https://pan.quark.cn/s/ba0b5b6846b8
@@ -187,11 +195,35 @@
 
 ## 最近更新
 
+#### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.12.0 中文版
+
+夸克：https://pan.quark.cn/s/6f0e102663f1
+
 #### 《幻兽帕鲁（Palworld）》v1.0.5.102999 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/51d73c209195
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
+
+#### 《生灵重塑（REANIMAL）豪华版》v368137 全DLC 中文 联机版（类似小小梦魇恐怖解密）
+
+夸克：https://pan.quark.cn/s/fcef91158dcf
+
+#### 《桌上谈兵（Tabletop Tavern）》v1.9.15 中文版
+
+夸克：https://pan.quark.cn/s/e9973524d0ce
+
+#### 《爱氏物语（Artis Impact）》v1.20 中文版
+
+夸克：https://pan.quark.cn/s/3dcd0ecc9013
+
+#### 《英灵神殿（Valheim）》v1.0.15 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/7f11084ef53b
+
+#### 《钻核公司（Drill Core）》v1.261 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a499eb0e9b1c
 
 #### 《噬血代码2（CODE VEIN 2）终结版》v2.0.2.0 全DLC 中文版
 
@@ -265,10 +297,6 @@
 
 夸克：https://pan.quark.cn/s/ae7dd02748b1
 
-#### 《英灵神殿（Valheim）》v1.0.12 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7f11084ef53b
-
 #### 《咩咩启示录（Cult of the Lamb）朝圣者版》v1.5.26.1058 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/da687434881d
@@ -282,10 +310,6 @@
 #### 《月影杀（Kristala）终结版》v1.2.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9b34ff6c5281
-
-#### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.10.0 中文版
-
-夸克：https://pan.quark.cn/s/6f0e102663f1
 
 #### 《龙之信条2（Dragons Dogma 2）》Build.2483169 全DLC 中文版
 

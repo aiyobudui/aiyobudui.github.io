@@ -839,11 +839,6 @@
 夸克：https://pan.quark.cn/s/f981b22eeee5
 
 
-#### 《流氓软件（Malware）》最新 中文版
-
-夸克：https://pan.quark.cn/s/59d5933d0a64
-
-
 #### 《欢欣森活（Mirthwood）》v1.1.5p1 中文版
 
 夸克：https://pan.quark.cn/s/37e861d2401c
@@ -914,11 +909,6 @@
 #### 《地精捣蛋团（Burglin Gnomes）》v2026.6.12 中文版
 
 夸克：https://pan.quark.cn/s/86a6bc536e54
-
-
-#### 《桌上谈兵（Tabletop Tavern）》v0.6.11.3 中文版
-
-夸克：https://pan.quark.cn/s/e9973524d0ce
 
 
 #### 《沃德灵：共生（Voidling Bound）》v76030 中文版
