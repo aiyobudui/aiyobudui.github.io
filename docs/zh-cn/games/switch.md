@@ -415,6 +415,10 @@
 
 夸克：https://pan.quark.cn/s/49c7f10426d9
 
+#### 《英雄传说 零之轨迹：改（The Legend of Heroes Zero no Kisek）》v1.0.1 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/c10075ee49cf
+
 #### 《星露谷物语 Stardew Valley》v1.6.15.11 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/31baa2e3690a

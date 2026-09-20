@@ -466,15 +466,17 @@
 
 夸克：https://pan.quark.cn/s/f35cffe27722
 
-
 #### 《极度恐慌3（F.E.A.R. 3）》v16.0.20.1060 汉化版
+
+夸克：https://pan.quark.cn/s/87a41c1bc3f5
 
 #### 《极度恐慌2：起源计划（F.E.A.R. 2 Project Origin）》v1.05 全DLC 汉化版（支持联机）
 
+夸克：https://pan.quark.cn/s/69c9e189c031
+
 #### 《极度恐慌：撤退点（FEAR Ultimate Shooter Edition）白金版》v1.08 全DLC 汉化版
 
-夸克：https://pan.quark.cn/s/1c85f296d32a
-
+夸克：https://pan.quark.cn/s/f0dd839ded22
 
 #### 《财富磨坊（Fortune Mill）》Build.23705722 中文版
 

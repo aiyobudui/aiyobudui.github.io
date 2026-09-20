@@ -105,6 +105,10 @@
 
 夸克：https://pan.quark.cn/s/d9f4383e3990
 
+#### 《英雄传说 零之轨迹：改（The Legend of Heroes Zero no Kiseki Kai）》v2021.9.7 中文版
+
+夸克：https://pan.quark.cn/s/f66f0a9a3bfb
+
 #### 《The Crust》v1.0.11 中文版
 
 夸克：https://pan.quark.cn/s/4b648a8dd612
