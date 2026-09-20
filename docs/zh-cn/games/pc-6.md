@@ -568,11 +568,6 @@
 夸克：https://pan.quark.cn/s/02c078c36747
 
 
-#### 《梦之形（Shape of Dreams）》v1.0.9.9 中文 联机版
-
-夸克：https://pan.quark.cn/s/23375927f4ba
-
-
 #### 《封锁协议（LOCKDOWN Protocol）》Build.25092025 汉化中文 联机版（新狼人杀）
 
 夸克：https://pan.quark.cn/s/70ec7aa37ab3

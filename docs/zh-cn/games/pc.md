@@ -57,6 +57,10 @@
 ## 最新添加
 >[!IMPORTANT] 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
+#### 《沙丘：觉醒（Dune Awakening）终极版》v1.5.3.0.2111270 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/83e94427f070
+
 #### 《星球大战：亡命之徒（Star Wars Outlaws）终结版 》v1.7 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9899fc46c698
@@ -204,6 +208,28 @@
 夸克：https://pan.quark.cn/s/51d73c209195
 
 迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
+
+#### 《仁王3（Nioh 3）豪华版》v2.02 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/897c9be29897
+
+#### 《刺客信条：幻景（Assassins Creed Mirage）刺客大师版》v1.1.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/46bc4a732d58
+
+#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》v1158.16 中文版（GTA5增强版+纯净版+MOD版）
+
+夸克：https://pan.quark.cn/s/f27bd77aa030
+
+迅雷：https://pan.xunlei.com/s/VNvhlO0bmX6RXN9eke0P_M-lA1?pwd=7avu#
+
+#### 《梦之形（Shape of Dreams）》v1.4.0.13 中文 联机版
+
+夸克：https://pan.quark.cn/s/23375927f4ba
+
+#### 《异形：火力精英2（Aliens Fireteam Elite 2）40周年纪念版》v1.0.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d4102b2a6cbd
 
 #### 《生灵重塑（REANIMAL）豪华版》v368137 全DLC 中文 联机版（类似小小梦魇恐怖解密）
 
@@ -353,10 +379,6 @@
 
 夸克：https://pan.quark.cn/s/a3682965a994
 
-#### 《仁王3（Nioh 3）豪华版》v2.00.01 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/897c9be29897
-
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 
 夸克：https://pan.quark.cn/s/bb65b0610868
@@ -482,12 +504,6 @@
 #### 《真三国无双 起源（Dynasty Warriors Origins）豪华版》v1.0.1.2 全DLC 中文配音版
 
 夸克：https://pan.quark.cn/s/346ee452b56d
-
-#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》v1013.29 中文版（GTA5增强版+纯净版+MOD版）
-
-夸克：https://pan.quark.cn/s/f27bd77aa030
-
-迅雷：https://pan.xunlei.com/s/VNvhlO0bmX6RXN9eke0P_M-lA1?pwd=7avu#
 
 #### 《艾尔登法环 黑夜君临（Elden Ring Nightreign）豪华版》v1.0.3.2 全DLC 中文 联机版
 

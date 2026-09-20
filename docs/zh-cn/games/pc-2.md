@@ -999,11 +999,6 @@
 夸克：https://pan.quark.cn/s/69289f87b591
 
 
-#### 《刺客信条 幻景（Assassins Creed Mirage）豪华版》v1.11 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/46bc4a732d58
-
-
 #### 《刺客信条 叛变（Assassins Creed Rogue）》v1.1.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/fbb1bac35d4c

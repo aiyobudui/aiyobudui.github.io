@@ -564,11 +564,6 @@
 迅雷：https://pan.xunlei.com/s/VP05D6YXAslWfb9gld0gBsHJA1?pwd=e842#
 
 
-#### 《异形：火力精英2（Aliens Fireteam Elite 2）40周年纪念版》v1.0.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d4102b2a6cbd
-
-
 #### 《星球大战 零号连队（STAR WARS Zero Company）豪华版》Build.24874058 中文版
 
 夸克：https://pan.quark.cn/s/02ba270b5aed
