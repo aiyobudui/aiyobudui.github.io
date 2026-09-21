@@ -1136,7 +1136,7 @@
 夸克：https://pan.quark.cn/s/fbcf608ebec0
 
 
-#### 《Sharks and Minnows》Build.18411182 中文版（生存探索恐怖游戏）鲨鱼和鳊鱼
+#### 《鲨鱼与小鱼（Sharks and Minnows）》Build.18411182 中文版
 
 夸克：https://pan.quark.cn/s/87a78a859848
 
@@ -1266,7 +1266,7 @@
 夸克：https://pan.quark.cn/s/34b3c57db0aa
 
 
-#### 《Foundation》v1.10.3.12 中文版（中世界建造）
+#### 《基石（Foundation）》v1.10.3.12 中文版
 
 夸克：https://pan.quark.cn/s/d98f988b2c66
 

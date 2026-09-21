@@ -57,6 +57,10 @@
 ## 最新添加
 >[!IMPORTANT] 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
+#### 《空之轨迹 the 2nd（Trails in the Sky 2nd Chapter）豪华版》v1.03.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/888e3513a59e
+
 #### 《沙丘：觉醒（Dune Awakening）终极版》v1.5.3.0.2111270 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/83e94427f070
