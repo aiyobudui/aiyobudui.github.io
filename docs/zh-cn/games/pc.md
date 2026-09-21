@@ -231,6 +231,10 @@
 
 夸克：https://pan.quark.cn/s/23375927f4ba
 
+#### 《命运 空洞的伪善 重制版（Fate hollow ataraxia REMASTERED）》v1.0.4.729 中文版
+
+夸克：https://pan.quark.cn/s/5fec93a2e98b
+
 #### 《异形：火力精英2（Aliens Fireteam Elite 2）40周年纪念版》v1.0.3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d4102b2a6cbd

@@ -219,7 +219,7 @@
 夸克：https://pan.quark.cn/s/cc6c2b1b52b0
 
 
-#### 《银行家模拟器（Banker Simulator）》v0.2.4.1 中文版
+#### 《银行人生（Banker Simulator）》v0.2.4.1 中文版
 
 夸克：https://pan.quark.cn/s/a73c3c99b0a9
 
@@ -622,12 +622,6 @@
 #### 《法师与魔物2（Mage and Monsters II）》v1.05a 中文版
 
 夸克：https://pan.quark.cn/s/0364c29c778f
-
-
-#### 《Fate/hollow ataraxia REMASTERED 复刻版》v1.0.3.726 中文版（视觉小说）
-
-夸克：https://pan.quark.cn/s/5fec93a2e98b
-
 
 #### 《义闻录：轮回（Echoes of Yi）Samsara）》v16.547 中文版
 

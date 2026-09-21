@@ -78,6 +78,12 @@
 
 ## 周三
 
+#### 《灵境行者》（2026）4K 24集 更新中..
+
+夸克：https://pan.quark.cn/s/64baa7eb4af4
+
+迅雷：https://pan.xunlei.com/s/VP20j99EqV3LzrkUOBxq1guKA1?pwd=frud#
+
 #### 《一念永恒》（2024-2026）4K 最终季 更新中..（附1-3季）
 
 夸克：https://pan.quark.cn/s/57db727f4a34

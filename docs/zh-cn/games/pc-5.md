@@ -465,11 +465,13 @@
 迅雷：https://pan.xunlei.com/s/VOn1x_9ygSripejYRyVIkvOhA1?pwd=r4ga#
 
 
-#### 《崛起2 黑暗水域（Risen 2 Dark Waters）》v1.0.1210 全DLC 汉化版
-
 #### 《崛起3 泰坦之王（Risen 3 Titan Lords）》v1.2ee 全DLC 汉化版
 
-夸克：https://pan.quark.cn/s/b459c82f9841
+夸克：https://pan.quark.cn/s/ca83af1f0f80
+
+#### 《崛起2 黑暗水域（Risen 2 Dark Waters）》v1.0.1210 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/5711bcc402eb
 
 
 #### 《歪小子斯科特（Scott Pilgrim EX）》v1.0.0.13995 中文版（轻动作冒险）
@@ -1112,11 +1114,6 @@
 #### 《镜之边缘 Catalyst（Mirrors Edge Catalyst）》v1.0.3.47248 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/85b8b17b48a3
-
-
-#### 《镜之边缘（Mirrors）Edge）》v1.0.1.0 中文版
-
-夸克：https://pan.quark.cn/s/de53cf630c37
 
 
 #### 《小小的岛（Tiny Isle）》v2026.1.23 中文版

@@ -1202,7 +1202,7 @@
 夸克：https://pan.quark.cn/s/115c8ddd4f4d
 
 
-#### 《寇瑞登（Coridden）》v1.3.3 全DLC 中文 联机版
+#### 《人魂兽身（Coridden）》v1.3.3 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/5053f5811c65
 

@@ -1323,13 +1323,17 @@
 迅雷：https://pan.xunlei.com/s/VOogiqhU9ddC5HwU-cH_GzPKA1?pwd=j7f3#
 
 
-#### 《双点校园（Two Point Campus）》V2026.3.23 全DLC 中文版
-
 #### 《双点医院（Two Point Hospital）》v1.30.0-0 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/ed5dfd67767a
+夸克：https://pan.quark.cn/s/ffca8671d26f
 
-迅雷：https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#
+迅雷：https://pan.xunlei.com/s/VP2-q8_ol4ASI1uAaojfjOS0A1?pwd=ttsf#
+
+#### 《双点校园（Two Point Campus）》V2026.3.23 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e132275f2d7d
+
+迅雷：https://pan.xunlei.com/s/VP2-qe4AczCte9g6eB1_qkaAA1?pwd=5h6d#
 
 
 #### 《掠食（Prey）豪华版》v5297220 全DLC 中文版
@@ -1387,9 +1391,11 @@
 
 #### 《镇邪2（hexbreaker 2）》v1.0.17 中文 联机版
 
+夸克：https://pan.quark.cn/s/03c041099375
+
 #### 《镇邪（Zhenxie）》v2023.1.28 中文版
 
-夸克：https://pan.quark.cn/s/86026658bd09
+夸克：https://pan.quark.cn/s/052e09fc781d
 
 
 #### 《木筏求生（Raft）》v1.01 中文 联机版
