@@ -1011,12 +1011,6 @@
 
 夸克：https://pan.quark.cn/s/2af9f0381c2a
 
-
-#### 《恐惧杀手（Painkiller）豪华版》v224001 中文版
-
-夸克：https://pan.quark.cn/s/127105aa9d46
-
-
 #### 《神弃之地（GOD FORSAKEN）》v0.2.2 中文版
 
 夸克：https://pan.quark.cn/s/fa58a544012a

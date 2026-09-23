@@ -86,10 +86,6 @@
 
 夸克：https://pan.quark.cn/s/fe31badceec2
 
-#### 《乐高蝙蝠侠：黑暗骑士之遗（LEGO Batman Legacy of the Dark Knight）豪华版》Build.23222834 中文版
-
-夸克：https://pan.quark.cn/s/af824a41d719
-
 #### 《足球经理26（Football Manager 26）》v26.3.0 中文版
 
 夸克：https://pan.quark.cn/s/ba689a73bfa0

@@ -57,6 +57,10 @@
 > [!IMPORTANT]
 > 靠前的是新添加的，求资源、求更新、链接失效、打不开等问题可以进群@群主帮你解决.
 
+#### 《约束之地（Riviera The Promised Land）》v1.0.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/e92d10538311
+
 #### 《晃晃人生 Wobbly Life》v1.0.0.3 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/9b0da7a9bf7b
@@ -737,17 +741,21 @@
 
 夸克：https://pan.quark.cn/s/58d36acb61b3
 
-#### 《完蛋！我被美女包围了（Love Is All Around）》v1.13.0.69 NS整合 中文版（完蛋我被美女包围了）
+#### 《完蛋 我被美女包围了！（Love Is All Around）》v1.13.0.73 NS整合 中文版
 
-夸克：https://pan.quark.cn/s/61a2e9dd0045
+夸克：https://pan.quark.cn/s/0db5844e2606
 
 迅雷：https://pan.xunlei.com/s/VO7QZu7nXol8_erXxFiIBqoCA1?pwd=iabq#
+
+#### 《完蛋！我被美女包围了2（Love Is All Around 2）》1.16.0.223 NS整合 中文版（完蛋我被美女包围了）
+
+夸克：https://pan.quark.cn/s/61a2e9dd0045
 
 #### 《哆啦A梦的铜锣烧店物语（Doraemons Dorayaki Shop Story）》v18.1.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/19f50f42a216
 
-#### 《逆转检察官1&2 御剑精选集》v1.0.0.1 NS整合 中文版
+#### 《逆转检察官1&2 御剑精选集（Ace Attorney Investigations Collection）》v1.0.0.2 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/3dc1ab78dad0
 
@@ -779,19 +787,33 @@
 
 夸克：https://pan.quark.cn/s/4557266fb05f
 
-#### 《逆转裁判》1-6整合版合集 最新 NS 中文版
+#### 《逆转裁判123 成步堂精选集（Phoenix Wright Ace Attorney Trilogy）》v1.1.0 NS整合 中文版
 
-夸克：https://pan.quark.cn/s/2f0b0bdea690
+夸克：https://pan.quark.cn/s/4e4eda3d64ca
 
 迅雷：https://pan.xunlei.com/s/VNzNfDCAAF_KxaWrUegv36t6A1?pwd=7653#
 
-#### 《莱莎的炼金工房1-3合集（Atelier Ryza）》最新 全DLC 中文 NS整合
+#### 《逆转裁判456 王泥喜精选集（Apollo Justice Ace Attorney Trilogy）》v1.01 NS整合 中文版
 
-夸克：https://pan.quark.cn/s/2db8c0331d6f
+夸克：https://pan.quark.cn/s/896b286e55a3
 
-#### 《胡闹厨房（Overcooked）1+2》最新 NS整合版
+迅雷：https://pan.xunlei.com/s/VNzNfDCAAF_KxaWrUegv36t6A1?pwd=7653#
 
-夸克：https://pan.quark.cn/s/8482c4b3ed2e
+#### 《莱莎的炼金工房 秘密三部曲 DX版（Atelier Ryza Secret Trilogy DX）》最新 NS整合 日区 中文版（附旧版）
+
+夸克：https://pan.quark.cn/s/2392879d044b
+
+#### 《胡闹厨房（Overcooked）》最新 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8ef0f700c1e8
+
+#### 《胡闹厨房2（Overcooked 2）》v1.0.19 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/43a8c92cd176
+
+#### 《胡闹厨房！全都好吃（Overcooked! All You Can Eat）》v1.0.12 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1ca5b90bda85
 
 #### 《通灵战士（Phantom Brave）》v1.02 NS整合 中文版
 
@@ -842,13 +864,21 @@
 
 夸克：https://pan.quark.cn/s/7f35c3efdd20
 
-#### 《异度之刃X：终极版》v1.0.1 NS整合 中文版
+#### 《异度之刃X：终极版（Xenoblade Chronicles X Definitive Edition）》v1.0.2 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/eec02cf4fecd
 
-#### 《猎天使魔女 1+2+3部》最新 NS整合 中文版
+#### 《猎天使魔女1（Bayonetta1）》v1.0 NS整合 美区 中文版
 
-夸克：https://pan.quark.cn/s/a44e58d1cfcb
+夸克：https://pan.quark.cn/s/d52cb080deb5
+
+#### 《猎天使魔女2（Bayonetta 2）》v1.2.0 NS整合 美区 中文版
+
+夸克：https://pan.quark.cn/s/e4035dda48a8
+
+#### 《猎天使魔女3（Bayonetta 3）》v1.2.0 NS整合 美区 中文版
+
+夸克：https://pan.quark.cn/s/b6f12b483408
 
 #### 《耀西的手工世界​》v1.01 NS整合 中文版
 
@@ -870,17 +900,29 @@
 
 夸克：https://pan.quark.cn/s/dcbd1b6a2883
 
-#### 《宝可梦朱紫》v3.0.1 + v4.0.0 NS整合 全DLC 中文版 附金手指+60帧补丁
+#### 《精灵宝可梦 朱（Pokémon Scarlet）》v3.0.1 - v4.0.0 NS整合 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/53a768ccc4a8
+夸克：https://pan.quark.cn/s/c43de4a881f9
 
-#### 《宝可梦剑盾》v1.3.2 全DCL NS整合 中文版 附金手指
+#### 《精灵宝可梦 紫（Pokémon Violet）》v3.0.1 - v4.0.0 NS整合 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/9342503692b0
+夸克：https://pan.quark.cn/s/6e6ecd5af71c
 
-#### 《宝可梦火红绿叶》v1.0.0 NS整合 汉化版
+#### 《精灵宝可梦 剑（Pokémon Sword）》v1.3.2 NS整合 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/fa144c0bc11b
+夸克：https://pan.quark.cn/s/c219186203bf
+
+#### 《精灵宝可梦 盾（Pokémon Sword）》v1.3.2 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f087927d3320
+
+#### 《精灵宝可梦 火红（Pokémon FireRed Version）》v1.0.0 NS整合 汉化版
+
+夸克：https://pan.quark.cn/s/888e859f76b8
+
+#### 《精灵宝可梦 绿叶（Pokémon LeafGreen Version）》v1.0.0 NS整合 汉化版
+
+夸克：https://pan.quark.cn/s/3a038c148991
 
 #### 《宝可梦朋友 Pokémon Friends》v1.1.5 NS整合 全DLC 美区中文版
 
@@ -894,13 +936,21 @@
 
 夸克：https://pan.quark.cn/s/d6d6257b9452
 
-#### 《宝可梦LetsGo 皮卡丘 伊布》v1.0.2 NS整合 中文版
+#### 《精灵宝可梦 Let's Go 伊布》v1.0.2 NS整合 中文版
 
-夸克：https://pan.quark.cn/s/1a443cfb5373
+夸克：https://pan.quark.cn/s/53a90305fc7c
 
-#### 《宝可梦晶灿钻石明亮珍珠》v1.30 NS整合 中文版 附金手指
+#### 《精灵宝可梦 Let'Go 皮卡丘》v1.0.2 NS整合 中文版
 
-夸克：https://pan.quark.cn/s/a9d4a510cbf0
+夸克：https://pan.quark.cn/s/1032b3812bbe
+
+#### 《宝可梦 明亮珍珠》v1.3.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/9129525fa600
+
+#### 《宝可梦 晶灿钻石》v1.3.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/c5cecaa8dabb
 
 #### 《宝可梦随乐拍》v2.0.1 NS整合 中文版
 
@@ -913,10 +963,6 @@
 #### 《宝可梦传说阿尔宙斯》v1.1.1 NS整合 中文版 附金手指+60帧补丁
 
 夸克：https://pan.quark.cn/s/cf491ba0ef25
-
-#### 《精灵宝可梦白2\黑2》V5汉化修复版(DSi增强AP) nds文件 需要模拟器
-
-夸克：https://pan.quark.cn/s/a24fda395e17
 
 #### 《精灵宝可梦：究极之日\究极之月（Pokemon Ultra Sun丨Ultra Moon）》v1.2 3DS模拟器 中文版
 

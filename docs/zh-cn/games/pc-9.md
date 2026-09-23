@@ -128,7 +128,7 @@
 夸克：https://pan.quark.cn/s/09119e378b8c
 
 
-#### 《火影忍者：究极忍者风暴3 完全爆发HD》v1.0.7 汉化版（支持键盘）
+#### 《火影忍者：究极忍者风暴3 完全爆发HD》v1.0.7 汉化版
 
 夸克：https://pan.quark.cn/s/364f81e7e1ef
 
@@ -453,6 +453,8 @@
 
 夸克：https://pan.quark.cn/s/d698d7adfaee
 
+迅雷：https://pan.xunlei.com/s/VO03zbfothJ4r1ksMhWGCM7rA1?pwd=syjx#
+
 
 #### 《露娜：银河之星 复刻合集（LUNAR Remastered Collection）》v2025.6.19 中文版（1-2合集）
 
@@ -690,11 +692,6 @@
 #### 《罪城骇客（Song of Farca）》v1.0.2.25 中文版
 
 夸克：https://pan.quark.cn/s/caabb3c7bc14
-
-
-#### 《忍者龙剑传3 刀锋边缘（Ninja Gaiden 3 Razors Edge）》v1.0.0.2 中文版（键鼠畅玩）
-
-夸克：https://pan.quark.cn/s/65f6dedacfda
 
 
 #### 《驾驶地平线（Drive Beyond Horizons）》Build.911 中文 联机版
@@ -970,7 +967,6 @@
 
 夸克：https://pan.quark.cn/s/73754ccb2bd9
 
-
 #### 《魔法书自走棋：契约（Magicbook AutoBattler Contract）》v2025.4.1 中文版
 
 夸克：https://pan.quark.cn/s/29bb706c6b0d
@@ -1114,11 +1110,6 @@
 #### 《Cabernet》v1.0.12 中文版（午夜赤霞）
 
 夸克：https://pan.quark.cn/s/e844fb978a9b
-
-
-#### 《石河伦吾和他的朋友们（The friends of Ringo Ishikawa ）》Build.17529737 中文版
-
-夸克：https://pan.quark.cn/s/4acfa40d042f
 
 
 #### 《机兵大乱战（MetalBringer ）》v1.01.7 中文版

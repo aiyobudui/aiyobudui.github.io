@@ -65,147 +65,37 @@
 
 夸克：https://pan.quark.cn/s/83e94427f070
 
-#### 《星球大战：亡命之徒（Star Wars Outlaws）终结版 》v1.7 全DLC 中文版
+#### 《寂静岭：小镇陷落（SILENT HILL Townfall）豪华版》v1.4.153521 中文版
 
-夸克：https://pan.quark.cn/s/9899fc46c698
+夸克：https://pan.quark.cn/s/4131d78ecaa0
 
-#### 《女神异闻录3 Reload（Persona 3 Reload）高级版》Build.22672075 全DLC 中文版（女神异闻录3重制版 P3R）
+#### 《Ved 疗愈所（Ved Recure）》v0.0.1865 中文版
 
-夸克：https://pan.quark.cn/s/e07e7b793ab8
-
-#### 《真人快打1（Mortal Kombat 1）混沌统治收藏版》v0.308 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/70ab9a68bd3e
-
-#### 《波斯王子：失落的王冠（Prince of Persia The Lost Crown）完整版》v1.4.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1c747da79364
-
-#### 《NBA 2K27 巅峰版》v1.4 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/9303b5919813
-
-#### 《黎明行者之血（The Blood of Dawnwalker）》v1.0.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/98ca2eb88789
-
-#### 《共鸣：瘟疫传说传承（Resonance A Plague Tale Legacy）》v1.1.0.0 中文配音版
-
-夸克：https://pan.quark.cn/s/c1ea636479db
-
-#### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》v1.0.6 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/68a307259cd2
-
-#### 《刺客信条 影（Assassins Creed Shadows）高级版》v1.1.11 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a22dfd286cd8
-
-#### 《沉没之城2（The Sinking City 2）高级版》Build.24671220 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/2ca5a07288da
-
-#### 《阿凡达：潘多拉边境（Avatar Frontiers of Pandora）完整版》v2.7 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d9f4383e3990
+夸克：https://pan.quark.cn/s/8454fe737ee2
 
 #### 《英雄传说 零之轨迹：改（The Legend of Heroes Zero no Kiseki Kai）》v2021.9.7 中文版
 
 夸克：https://pan.quark.cn/s/f66f0a9a3bfb
 
+#### 《旧书店街的桥姬（Hashihime of the Old Book Town append）》v2024.9.14 中文版
+
+夸克：https://pan.quark.cn/s/48171b799b31
+
+#### 《龙歌：时间长河（Drakensang The River of Time）》v1.2a1 汉化版
+
+夸克：https://pan.quark.cn/s/1362e63d8786
+
 #### 《The Crust》v1.0.11 中文版
 
 夸克：https://pan.quark.cn/s/4b648a8dd612
 
-#### 《守墓人2（Graveyard Keeper 2）》v1.002.4a 中文版
-
-夸克：https://pan.quark.cn/s/81b0a582ce4a
-
-#### 《我的小小蜘蛛（My Little Spider）》Build.20861628 中文版（桌面游戏）
-
-夸克：https://pan.quark.cn/s/ba0b5b6846b8
-
-迅雷：https://pan.xunlei.com/s/VP1oYa1QZqHvcamYycITq04OA1?pwd=6c5p#
-
-#### 《地城拓荒（Dungeon Settlers）》v0.4.23 中文版
-
-夸克：https://pan.quark.cn/s/364126809b50
-
-迅雷：https://pan.xunlei.com/s/VP1oWT9cD2ZxFCufIrcpy8kBA1?pwd=qrkm#
-
-#### 《废弃之地（Scavland）》v0.7.2 中文版
-
-夸克：https://pan.quark.cn/s/5f7b5c2161f1
-
-迅雷：https://pan.xunlei.com/s/VP1oU5DGB5C1-LPaJG2f9kq8A1?pwd=a2ym#
-
-#### 《迪姆雷斯（Dimraeth）》v0.107.7689 中文 联机版
-
-夸克：https://pan.quark.cn/s/430d221ab96b
-
-#### 《月之冕（Moon Corona）》v0.1 中文版
-
-夸克：https://pan.quark.cn/s/235c32c31816
-
-#### 《另一个伊甸：起源（Another Eden Begins）》v2026.7.17 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/8803c2a7d7bc
-
-#### 《纸嫁衣7 卿不负（Paper Bride 7 Lethal Bond）》v1.0.7 中文版
-
-夸克：https://pan.quark.cn/s/9125e6b02316
-
-#### 《指环王：北方战争（The Lord of the Rings War in the North）传世版》v2026.9.16 中文版
-
-夸克：https://pan.quark.cn/s/d2b941408396
-
-#### 《绯红战术：白旗之黎明（Crimson Tactics The Rise of the White Banner）》v2.2.0.0 中文版
-
-夸克：https://pan.quark.cn/s/edb728baccbc
-
-#### 《铁巢重炮（IRON NEST Heavy Turret Simulator）》v1683 中文版
-
-夸克：https://pan.quark.cn/s/81c835226707
-
-#### 《通灵的莱娅（Haunted Laia）》v1.0.85 中文版（附安卓版）
-
-夸克：https://pan.quark.cn/s/2fe5aae867c4
-
-#### 《朋友，梭哈吧（Gamble With Your Friends）》v1.0.33 中文 联机版
-
-夸克：https://pan.quark.cn/s/29139d8664b5
-
-#### 《工艺设计101：编程与制作（Craftomation 101 Programming & Craft）》v1.0.2.109 中文版
-
-夸克：https://pan.quark.cn/s/78c2e544cd83
-
-#### 《泰奈布里斯：未知之地（Tenebris Terra Incognita）》v1.0.00 中文版
-
-夸克：https://pan.quark.cn/s/90dd2a4a01bf
-
-#### 《公会创世纪（Creator Chronicles）》v1.01 中文版
-
-夸克：https://pan.quark.cn/s/f1a6611ac67a
-
-#### 《ReFactory》Build.8731356 英文版
-
-夸克：https://pan.quark.cn/s/aff17fe65d1c
-
-#### 《天临混元（Celestial Descends）》v0.1.4 中文版
-
-夸克：https://pan.quark.cn/s/a17fa91cf128
-
-#### 《幸存者笔记（Survivors Notes）》v2026.9.14 中文版（视觉小说）
-
-夸克：https://pan.quark.cn/s/f759ceaa61df
-
-#### 《绝对征服（Vanquish）》Build.1955411 汉化版
-
-夸克：https://pan.quark.cn/s/1a00e971c948
-
 ---
 
 ## 最近更新
+
+#### 《守墓人2（Graveyard Keeper 2）》v1.004.2 中文版
+
+夸克：https://pan.quark.cn/s/81b0a582ce4a
 
 #### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.12.0 中文版
 
@@ -251,96 +141,6 @@
 
 夸克：https://pan.quark.cn/s/e9973524d0ce
 
-#### 《爱氏物语（Artis Impact）》v1.20 中文版
-
-夸克：https://pan.quark.cn/s/3dcd0ecc9013
-
-#### 《英灵神殿（Valheim）》v1.0.15 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7f11084ef53b
-
-#### 《钻核公司（Drill Core）》v1.261 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a499eb0e9b1c
-
-#### 《噬血代码2（CODE VEIN 2）终结版》v2.0.2.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ac4f16a40e11
-
-#### 《007初露锋芒（007 First Light）豪华版》v1.2.0 中文版
-
-夸克：https://pan.quark.cn/s/76e705934c3b
-
-#### 《PEAK》v2.3.a 中文 联机版（多人合作生存与攀登游戏）
-
-夸克：https://pan.quark.cn/s/f56bd5be8765
-
-迅雷：https://pan.xunlei.com/s/VP-22bQp46nX8Yb2XnPL8KvmA1?pwd=umsc#
-
-#### 《使命召唤14：二战（Call of Duty WWII）豪华版》Build.22081364 全DLC 中文版（COD14）
-
-夸克：https://pan.quark.cn/s/64f34a420f5d
-
-迅雷：https://pan.xunlei.com/s/VP1gJ3aLEIa8nij0cN7IM29AA1?pwd=ffqh#
-
-#### 《使命召唤6：现代战争2 战役重制版（Call of Duty Modern Warfare 2 Campaign Remastered）》v1.18.5.3105 中文版（COD6）
-
-夸克：https://pan.quark.cn/s/776f6ed8946c
-
-迅雷：https://pan.xunlei.com/s/VP1gHJOC2JHQtRfwT5tDGfLOA1?pwd=fyrq#
-
-#### 《使命召唤10：幽灵（Call of Duty Ghosts）完整套装版》v3.15.14 全DLC 汉化版（COD10）
-
-夸克：https://pan.quark.cn/s/a69790bc4dd5
-
-迅雷：https://pan.xunlei.com/s/VP1gIFNarcdtjOc8rVkr_aZzA1?pwd=u3gg#
-
-#### 《哥特王朝 重制版（Gothic 1 Remake）豪华版》v173255 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/6b03eda75ca7
-
-#### 《符文世界：龙之荒野（RuneScape Dragonwilds ）豪华版》Build.25111146 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/7058eb474352
-
-#### 《三国志14 威力加强（Romance of the Three Kingdoms 14）完整版》Build.24966116 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/908c032b0533
-
-#### 《书店模拟器（Bookshop Simulator）》v1.1.1258 中文版
-
-夸克：https://pan.quark.cn/s/15577763a262
-
-#### 《零希沃特 （ZERO Sievert）》v1.3.3 中文版
-
-夸克：https://pan.quark.cn/s/ae8d0b9aa9fd
-
-#### 《暗黑血统 战神版（Darksiders Warmastered Edition）》v1.1.4334 中文版
-
-夸克：https://pan.quark.cn/s/35c0c528d89d
-
-#### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》v1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/15d5e510ec67
-
-#### 《Deep Blue Sushi》v0.2.1 中文版（合力探索打造寿司餐厅）
-
-夸克：https://pan.quark.cn/s/095226c96660
-
-#### 《怪奇漫游指南（Wonderia）》v0.5.21.2313 中文 联机版
-
-夸克：https://pan.quark.cn/s/3cc8a7f7e8e4
-
-#### 《枪匠模拟器（Gunsmith Simulator）》v1.6.39 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ae7dd02748b1
-
-#### 《咩咩启示录（Cult of the Lamb）朝圣者版》v1.5.26.1058 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/da687434881d
-
-迅雷：https://pan.xunlei.com/s/VOrDHnl2G6WLAeqOnSmghExlA1?pwd=by23#
-
 ---
 
 ## 置顶推荐
@@ -382,6 +182,50 @@
 #### 《第一狂战士 卡赞（The First Berserker Khazan）豪华版》v565386 全DLC 中文版（非虚拟化）
 
 夸克：https://pan.quark.cn/s/bba1c6a244ac
+
+#### 《星球大战：亡命之徒（Star Wars Outlaws）终结版 》v1.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9899fc46c698
+
+#### 《女神异闻录3 Reload（Persona 3 Reload）高级版》Build.22672075 全DLC 中文版（女神异闻录3重制版 P3R）
+
+夸克：https://pan.quark.cn/s/e07e7b793ab8
+
+#### 《真人快打1（Mortal Kombat 1）混沌统治收藏版》v0.308 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/70ab9a68bd3e
+
+#### 《波斯王子：失落的王冠（Prince of Persia The Lost Crown）完整版》v1.4.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1c747da79364
+
+#### 《NBA 2K27 巅峰版》v1.4 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9303b5919813
+
+#### 《黎明行者之血（The Blood of Dawnwalker）》v1.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/98ca2eb88789
+
+#### 《共鸣：瘟疫传说传承（Resonance A Plague Tale Legacy）》v1.1.0.0 中文配音版
+
+夸克：https://pan.quark.cn/s/c1ea636479db
+
+#### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》v1.0.6 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/68a307259cd2
+
+#### 《刺客信条 影（Assassins Creed Shadows）高级版》v1.1.11 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a22dfd286cd8
+
+#### 《沉没之城2（The Sinking City 2）高级版》Build.24671220 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2ca5a07288da
+
+#### 《阿凡达：潘多拉边境（Avatar Frontiers of Pandora）完整版》v2.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d9f4383e3990
 
 #### 《光环：战役进化（Halo Campaign Evolved）高级版》v1121610 中文 联机版
 

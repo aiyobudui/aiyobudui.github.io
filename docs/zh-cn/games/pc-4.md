@@ -497,15 +497,17 @@
 迅雷：https://pan.xunlei.com/s/VOrnXe43F25q0GOeQT1FUEclA1?pwd=hcvd#
 
 
-#### 《贪婪之秋2 垂死世界（GreedFall The Dying World）》v1.2 中文版（附第1部）
+#### 《贪婪之秋2 垂死世界（GreedFall The Dying World）豪华版》v1.2 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/3fbb5a637da1
+夸克：https://pan.quark.cn/s/894a5a0a5f14
 
+#### 《贪婪之秋（Greed Fall）黄金版 》v1.0.5686 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b1ca9d297c16
 
 #### 《维多利亚3（Victoria 3）豪华版》v1.13.0 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/5b0145311ea9
-
 
 #### 《觉醒者：战斗之潮（The Awakener Battle Tendency）》v1.0 中文版
 
