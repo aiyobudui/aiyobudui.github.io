@@ -1296,12 +1296,6 @@
 
 夸克：https://pan.quark.cn/s/127d72f8d8ce
 
-
-#### 《元素重铸（Elemental Reforged）》v1.1 CL61448 全DLC 中文版（策略游戏）
-
-夸克：https://pan.quark.cn/s/7fdc402bbca7
-
-
 #### 《随机鼠（Randomice）》v5.1.7.2 中文版
 
 夸克：https://pan.quark.cn/s/e69536c5571d

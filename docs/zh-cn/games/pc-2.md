@@ -955,12 +955,6 @@
 
 夸克：https://pan.quark.cn/s/4d731c12550b
 
-
-#### 《断曲余音（Fading Echo）豪华版》Build.24261641 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5e80fd2027b9
-
-
 #### 《利润海 增量（Profit Sea Incremental）》v1.11 中文版
 
 夸克：https://pan.quark.cn/s/d6abd972da80

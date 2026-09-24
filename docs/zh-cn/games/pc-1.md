@@ -500,14 +500,6 @@
 
 迅雷：https://pan.xunlei.com/s/VP0gEyAJzBnaDk6k7fFdoDJtA1?pwd=uxv5#
 
-
-#### 《雄心壮志（Big Ambitions ）》v1.0 中文版
-
-夸克：https://pan.quark.cn/s/8df72438a038
-
-迅雷：https://pan.xunlei.com/s/VP0fDWSdSfyPOYNtZv4fU77JA1?pwd=69fq#
-
-
 #### 《地牢围攻（Dungeon Siege）》v1.11.1 英文版
 
 夸克：https://pan.quark.cn/s/f81568c57928

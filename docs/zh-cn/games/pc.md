@@ -69,6 +69,30 @@
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
 
+#### 《加尔巴泰因：冒险者公会事务所 （Galvatein Adventurers Guild）》v0.1.3 中文版
+
+夸克：https://pan.quark.cn/s/3c837b3a651e
+
+#### 《真实工业（Realindustry）》v1.1.0 中文版
+
+夸克：https://pan.quark.cn/s/f9334d55ee2c
+
+#### 《摇鼠灵（RATSHAKER）》v20260918 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/35fe11aa93ae
+
+#### 《Endless Isolation》v1.0.9 中文版
+
+夸克：https://pan.quark.cn/s/9e6b7fb29dd7
+
+#### 《神貌之树逆卡巴拉（Qliphah in Providences Shadow）》v1.0.3 中文版
+
+夸克：https://pan.quark.cn/s/37815198c18c
+
+#### 《挂灵（Bait Soul）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/188128e32b23
+
 #### 《黎明门前的吹笛人（The Piper of Dawn）》v2026.9.24 中文版
 
 夸克：https://pan.quark.cn/s/aae5fbf1a7b3
@@ -113,9 +137,27 @@
 
 ## 最近更新
 
+#### 《铁骑少女（Cavalry Girls）》v3.0.2952 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/00d69b1cfd42
+
+#### 《雄心壮志（Big Ambitions ）》v1.0.3682 中文版
+
+夸克：https://pan.quark.cn/s/8df72438a038
+
+迅雷：https://pan.xunlei.com/s/VP0fDWSdSfyPOYNtZv4fU77JA1?pwd=69fq#
+
+#### 《DuneCrawl》v1.0.1 中文 联机版
+
+夸克：https://pan.quark.cn/s/cbd46356bf06
+
 #### 《守墓人2（Graveyard Keeper 2）》v1.004.2 中文版
 
 夸克：https://pan.quark.cn/s/81b0a582ce4a
+
+#### 《断曲余音（Fading Echo）豪华版》v1.0.28121 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5e80fd2027b9
 
 #### 《噩梦边境（Nightmare Frontier）》v1.0.1.1652B 中文版
 
@@ -124,6 +166,10 @@
 #### 《Moss：遗落圣物（Moss The Forgotten Relic）》v164019 中文版（Moss苔藓重制版2合1）
 
 夸克：https://pan.quark.cn/s/6d84659aa45a
+
+#### 《元素重铸（Elemental Reforged）》v1.4 全DLC 中文版（策略游戏）
+
+夸克：https://pan.quark.cn/s/7fdc402bbca7
 
 #### 《巴士模拟器27（Bus Simulator 27）》v1.06.52637 全DLC 中文版
 

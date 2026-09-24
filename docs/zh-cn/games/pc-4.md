@@ -166,12 +166,6 @@
 
 夸克：https://pan.quark.cn/s/aa6ebc0e322f
 
-
-#### 《铁骑少女（Cavalry Girls）》v2.6.2801 全DLC 中文版（FPS射击游戏）
-
-夸克：https://pan.quark.cn/s/00d69b1cfd42
-
-
 #### 《金田一耕助系列 本阵杀人事件（Kindaichi Mystery Series The Honjin Murders）》Build.18989803 中文版
 
 夸克：https://pan.quark.cn/s/750572f0934b
