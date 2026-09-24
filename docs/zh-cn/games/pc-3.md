@@ -1007,12 +1007,6 @@
 
 夸克：https://pan.quark.cn/s/bf493aaa67f0
 
-
-#### 《魔女：终末旅途（Witchs Apocalyptic Journey）》v1.0.888 中文版
-
-夸克：https://pan.quark.cn/s/3b2c93eec37b
-
-
 #### 《我变成鸟的那一天（The Day I Became a Bird）》v2026.6.5 全DLC 中文版（手绘温情故事）
 
 夸克：https://pan.quark.cn/s/973a84ef4ba2

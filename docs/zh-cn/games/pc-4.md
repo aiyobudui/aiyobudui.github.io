@@ -661,12 +661,6 @@
 
 夸克：https://pan.quark.cn/s/93ad3c9932d1
 
-
-#### 《英雄立志传：三国志（Legend of Heroes Three Kingdoms）》v0.63.02 中文版
-
-夸克：https://pan.quark.cn/s/4d0702c9d08c
-
-
 #### 《气球塔防6（Bloons TD 6）》v54.2.10673 全DLC 中文 联机版（附气球塔防5）
 
 夸克：https://pan.quark.cn/s/c07fb4e51a76

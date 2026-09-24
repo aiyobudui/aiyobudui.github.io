@@ -57,6 +57,10 @@
 > [!IMPORTANT]
 > 靠前的是新添加的，求资源、求更新、链接失效、打不开等问题可以进群@群主帮你解决.
 
+#### 《死亡面具 雪凤山杀人剧场（Death Mask）》v1.0.0 NS整合 美区 中文版
+
+夸克：https://pan.quark.cn/s/841fdb3247a1
+
 #### 《约束之地（Riviera The Promised Land）》v1.0.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/e92d10538311
@@ -575,7 +579,7 @@
 
 夸克：https://pan.quark.cn/s/d8327ad1ec98
 
-#### 《巫师3：狂猎》4.04a NS整合 中文版
+#### 《巫师3：狂猎（The Witcher 3 Wild Hunt）》v4.04a NS整合 中文配音版
 
 夸克：https://pan.quark.cn/s/45ae02c71abb
 
@@ -611,7 +615,7 @@
 
 夸克：https://pan.quark.cn/s/409bef4dcce2
 
-#### 《超力兵团奇谭 RAIDOU Remastered》v1.02 NS整合 中文版
+#### 《超力兵团奇谭（RAIDOU Remastered）》v1.1.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/0f846af1a1a6
 
@@ -651,15 +655,29 @@
 
 迅雷：https://pan.xunlei.com/s/VNtqZeazTXVAZexRrfNzy2eWA1?pwd=4he6#
 
-#### 《星之卡比 系列6部》最新 NS整合 全DLC 中文版
-#### 星之卡比 美食节（卡比的美食节）v1.0.0.a
-#### 星之卡比 新星同盟
-#### 星之卡比 群星战2
-#### 星之卡比 探索发现
-#### 星之卡比 重返梦幻岛
-#### 星之卡比 猎人队
+#### 《星之卡比 重返梦幻岛（Kirby's Return to Dream Land Deluxe）》v1.0.0 NS整合 中文版
 
-夸克：https://pan.quark.cn/s/8d31bd1bd1d4
+夸克：https://pan.quark.cn/s/7e004355048a
+
+#### 《星之卡比 探索发现（Kirby and the Forgotten Land）》v1.1.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/fee76e3d7aec
+
+#### 《星之卡比 群星战2（Kirby Fighters 2）》v1.0.0 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/d068d5f9ec4f
+
+#### 《星之卡比 美食节（Kirby's Dream Buffet）》v1.0.0.1a NS整合 中文版（卡比的美食节）
+
+夸克：https://pan.quark.cn/s/3c27623eaf54
+
+#### 《星之卡比 新星同盟（Kirby Star Allies）》v4.0.0a NS整合 中文版
+
+夸克：https://pan.quark.cn/s/a2d76cad1da5
+
+#### 《星之卡比 猎人队（Super Kirby Clash）》v1.0.1 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/eb6830ff5838
 
 #### 《中国式家长》v1.05 NS整合 中文版
 

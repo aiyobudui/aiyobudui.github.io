@@ -69,6 +69,26 @@
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
 
+#### 《黎明门前的吹笛人（The Piper of Dawn）》v2026.9.24 中文版
+
+夸克：https://pan.quark.cn/s/aae5fbf1a7b3
+
+#### 《Tabletop Simulator》v14.2.2 中文 联机版（桌游模拟器）
+
+夸克：https://pan.quark.cn/s/1b5916e43ce1
+
+#### 《巫师：加强版（The Witcher）导演剪辑版》V1.5a 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b00cf2e30048
+
+#### 《巫师2：国王刺客 加强版（The Witcher 2）》v3.5.0.26g 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/fef3aca03a99
+
+#### 《实体：黑色的一天（ENTITY THE BLACK DAY）》v1.01 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/55291c356e07
+
 #### 《Ved 疗愈所（Ved Recure）》v0.0.1865 中文版
 
 夸克：https://pan.quark.cn/s/8454fe737ee2
@@ -97,6 +117,34 @@
 
 夸克：https://pan.quark.cn/s/81b0a582ce4a
 
+#### 《噩梦边境（Nightmare Frontier）》v1.0.1.1652B 中文版
+
+夸克：https://pan.quark.cn/s/128c32c1ccbd
+
+#### 《Moss：遗落圣物（Moss The Forgotten Relic）》v164019 中文版（Moss苔藓重制版2合1）
+
+夸克：https://pan.quark.cn/s/6d84659aa45a
+
+#### 《巴士模拟器27（Bus Simulator 27）》v1.06.52637 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a9c597a17ee6
+
+#### 《英雄立志传：三国志（Legend of Heroes Three Kingdoms）》v1.0.2 中文版
+
+夸克：https://pan.quark.cn/s/4d0702c9d08c
+
+#### 《加利宅邸悬案（The Incident at Galley House）》v2026.9.18 中文版
+
+夸克：https://pan.quark.cn/s/01fd94613abb
+
+#### 《UNBEATABLE》V2.3.1 全DLC 中文版（音律节奏卡点冒险游戏）
+
+夸克：https://pan.quark.cn/s/758ce9c32790
+
+#### 《LIFTED》v1.2.8819 中文版（探索 解密 逃脱）
+
+夸克：https://pan.quark.cn/s/22197b97deba
+
 #### 《轮回之兽（Beast of Reincarnation）豪华版》v1.0.12.0 中文版
 
 夸克：https://pan.quark.cn/s/6f0e102663f1
@@ -110,6 +158,14 @@
 #### 《仁王3（Nioh 3）豪华版》v2.02 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/897c9be29897
+
+#### 《打工火柴人（Stick it to the Stickman）》v1.0 中文版（可双人游玩）
+
+夸克：https://pan.quark.cn/s/ba7f9cea5bfc
+
+#### 《魔女：终末旅途（Witchs Apocalyptic Journey）》Build.24831968 中文版
+
+夸克：https://pan.quark.cn/s/3b2c93eec37b
 
 #### 《刺客信条：幻景（Assassins Creed Mirage）刺客大师版》v1.1.1 全DLC 中文版
 

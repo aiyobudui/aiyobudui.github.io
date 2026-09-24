@@ -541,12 +541,6 @@
 
 迅雷：https://pan.xunlei.com/s/VP0l0zgVSDka6aVRCt02cHHbA1?pwd=4mjr#
 
-
-#### 《巴士模拟器27（Bus Simulator 27）》v1.06.52637 中文版
-
-夸克：https://pan.quark.cn/s/a9c597a17ee6
-
-
 #### 《醉步同行（Friendly Steps）》v1.7.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/3d482855a1dc
@@ -1304,12 +1298,6 @@
 #### 《超进化精灵2（EvoCreo 2）》v2.4.0 中文版（附安卓版1+2）
 
 夸克：https://pan.quark.cn/s/60798b84928e
-
-
-#### 《打工火柴人（Stick it to the Stickman）》v0.9 中文版（可双人游玩）
-
-夸克：https://pan.quark.cn/s/ba7f9cea5bfc
-
 
 #### 《领主争锋（Rising Lords）》v1.5.6 中文版
 
