@@ -70,12 +70,6 @@
 
 夸克：https://pan.quark.cn/s/b3153d42d91d
 
-
-#### 《宗门起源（Eastern Era）》v1.1.9 中文版
-
-夸克：https://pan.quark.cn/s/6d75f2fd231d
-
-
 #### 《HumanitZ》v1.09.A 中文 联机版（丧尸生存游戏）
 
 夸克：https://pan.quark.cn/s/0fcd0ac081da

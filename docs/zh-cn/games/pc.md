@@ -57,6 +57,10 @@
 ## 最新添加
 >[!IMPORTANT] 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
+#### 《控制：共振（CONTROL Resonant）豪华版》v1.0.0 全DLC 国语配音 中文版
+
+夸克：https://pan.quark.cn/s/3f06d8245e12
+
 #### 《空之轨迹 the 2nd（Trails in the Sky 2nd Chapter）豪华版》v1.03.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/888e3513a59e
@@ -136,6 +140,10 @@
 ---
 
 ## 最近更新
+
+#### 《宗门起源（Eastern Era）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/6d75f2fd231d
 
 #### 《铁骑少女（Cavalry Girls）》v3.0.2952 全DLC 中文版
 
