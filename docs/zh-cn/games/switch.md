@@ -57,6 +57,18 @@
 > [!IMPORTANT]
 > 靠前的是新添加的，求资源、求更新、链接失效、打不开等问题可以进群@群主帮你解决.
 
+#### 《流行之神2 警视厅怪异事件档案（Hayarigami 2 Portable Keishichou Kaijiken File）》v1.0.1 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7facacc1ab04
+
+#### 《迪士尼梦幻星谷（Disney Dreamlight Valley）》v1.24.11 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1d6285c8938b
+
+#### 《WILL 美好世界（WILL A Wonderful World）》v1.5.1 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/f9877559a6f8
+
 #### 《死亡面具 雪凤山杀人剧场（Death Mask）》v1.0.0 NS整合 美区 中文版
 
 夸克：https://pan.quark.cn/s/841fdb3247a1

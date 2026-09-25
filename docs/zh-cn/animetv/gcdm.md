@@ -70,7 +70,7 @@
 
 #### 《一斩苍穹》（2026）4K 更新中..
 
-夸克：https://pan.quark.cn/s/873107ac3cf8
+夸克：https://pan.quark.cn/s/d3a1a188f6de
 
 迅雷：https://pan.xunlei.com/s/VP-tTJu7yMVAA-SK9qcpLLG4A1?pwd=r3i5#
 
