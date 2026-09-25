@@ -499,9 +499,17 @@
 
 夸克：https://pan.quark.cn/s/939bc85a8d83
 
-#### 《狙击精英2+3+4》最新 NS整合 全DLC 中文版
+#### 《狙击精英2 重制版（Sniper Elite V2 Remastered）》v1.05 NS整合 中文版
 
-夸克：https://pan.quark.cn/s/a0932672d01e
+夸克：https://pan.quark.cn/s/00a2911218c8
+
+#### 《狙击精英3 终极版（Sniper Elite 3 Ultimate Edition）》v1.03 NS整合 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a2384cf6f550
+
+#### 《狙击精英4（Sniper Elite 4）》v1.0.3 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/2d278c7e8348
 
 #### 《狂野西部：枪手 Call of Juarez Gunslinger》v1.05 NS整合 英文版
 

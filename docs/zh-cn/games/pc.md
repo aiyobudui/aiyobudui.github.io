@@ -61,6 +61,12 @@
 
 夸克：https://pan.quark.cn/s/3f06d8245e12
 
+#### 《王国保卫战 6：新启程（Kingdom Rush 6 Genesis TD）》v1.00.038 中文版
+
+夸克：https://pan.quark.cn/s/7728b3991ff2
+
+迅雷：https://pan.xunlei.com/s/VP2KrMCbztHFd-e53R6r20_dA1?pwd=2ma2#
+
 #### 《空之轨迹 the 2nd（Trails in the Sky 2nd Chapter）豪华版》v1.03.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/888e3513a59e
