@@ -109,7 +109,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNpx2CA-5ed8XNX-HRS42yWgA1?pwd=ks6y#
 
-#### 《疯狂动物城2》（2025）4K HDK 国英配音 内封中字
+#### 《疯狂动物城2》（2025）4K HDR 国英配音 内封中字
 
 夸克：<https://pan.quark.cn/s/63f36987cd23>
 

@@ -79,6 +79,26 @@
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
 
+#### 《DRAPLINE》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/eaecaf885735
+
+#### 《生肖纪 鸡哥和他的朋友们（Rooster）》Build.25256124 中文版
+
+夸克：https://pan.quark.cn/s/3d4d65633d6c
+
+#### 《卡拉纳罗（Kalanoro）》v1.20 中文版
+
+夸克：https://pan.quark.cn/s/f9258958264b
+
+#### 《不问凡尘（World Apart）》v2026.9.25 中文版
+
+夸克：https://pan.quark.cn/s/9ed6f7e7f100
+
+#### 《择决千秋（Choice of History）》Build.25459611 中文版
+
+夸克：https://pan.quark.cn/s/9975a5c45fa5
+
 #### 《加尔巴泰因：冒险者公会事务所 （Galvatein Adventurers Guild）》v0.1.3 中文版
 
 夸克：https://pan.quark.cn/s/3c837b3a651e

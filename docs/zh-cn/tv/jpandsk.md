@@ -28,6 +28,12 @@
 
 ## 已完结的...
 
+#### 《现在不是出轨的问题》（2026）1080P 8集全
+
+夸克：https://pan.quark.cn/s/d823a1f0f5e8
+
+迅雷：https://pan.xunlei.com/s/VP2P4yBPyI6FLUGXOZ5omb0pA1?pwd=42fq#
+
 #### 《我的偶像总裁》（2026）1080P 12集全
 
 夸克：https://pan.quark.cn/s/ce4fe13adedf

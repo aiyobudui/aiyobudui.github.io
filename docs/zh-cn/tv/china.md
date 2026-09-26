@@ -58,6 +58,11 @@
 
 ## 已完结的...
 
+#### 《交锋》（2026）4K 40集全
+
+夸克：https://pan.quark.cn/s/a6ab0768040f
+
+迅雷：https://pan.xunlei.com/s/VP2N3Hrlvka7-8jWT0P_WHiaA1?pwd=c4p2#
 
 #### 《醒来》（2026）4K 22集全
 
@@ -1696,6 +1701,10 @@
 迅雷：https://pan.xunlei.com/s/VNmvo5QoMrXuKUF3VtN8-8SlA1?pwd=6wz5#
 
 阿里：https://www.aliyundrive.com/s/1xNkDCCJaUL
+
+#### 《天地争霸美猴王 西游记2》（1998）1080P 国粤语配音（陈浩民版）
+
+夸克：https://pan.quark.cn/s/cbfe0a22527d
 
 #### 《新三国》（2010）1080P 60帧 高码 》（陈建斌版）
 
