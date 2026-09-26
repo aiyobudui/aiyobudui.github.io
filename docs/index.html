@@ -323,10 +323,24 @@
                         }
 
                         // 正文内 TOC：抓取当前页 h2，注入「本页目录」卡片到正文顶部
+                        // ⚠️ 必须在 seekRouteAnchor 之前：它插入的卡片会改变目标上方的文档高度，
+                        //    顺序颠倒会让锚点落点偏移一个 TOC 卡片的高度。
                         buildInContentToc();
 
                         // PC 端网盘链接转二维码（点击展开）：夸克 / 迅雷 / 百度 / 阿里
+                        // ⚠️ 同样必须在 seekRouteAnchor 之前：懒转换会让「隐藏链接→按钮」
+                        //    使文档变矮，若排在定位之后会把已滚好的落点顶偏。
                         renderNetdiskQrcodes();
+
+                        // 锚点定位兜底 + 目标标题高亮：
+                        // docsify 核心只在 source==='navigate' 时滚动到 ?id= 标题，
+                        // 首屏加载 / history 回退 / 页面高度收缩后会「没滚到位」，且核心不做任何视觉标记。
+                        // 点击搜索结果时置 __anchorForceSeek=true → 强制定位；左侧色条高亮 2.6s 后淡出。
+                        if (typeof seekRouteAnchor === 'function') {
+                            var __forceSeek = !!window.__anchorForceSeek;
+                            window.__anchorForceSeek = false;
+                            seekRouteAnchor(__forceSeek);
+                        }
 
                     });
                 }

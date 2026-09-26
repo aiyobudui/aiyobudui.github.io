@@ -66,7 +66,13 @@ function buildInContentToc() {
             e.preventDefault();
             var target = document.getElementById(h.id);
             if (target) {
-                target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                // 统一走锚点系统：瞬时到位 + 落点稳定 + 左侧色条高亮，
+                // 否则 TOC 点击成了「唯一没有高亮反馈」的跳转入口（与搜索结果体验不一致）。
+                if (typeof seekTargetAnchor === 'function') {
+                    seekTargetAnchor(target, true);
+                } else {
+                    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
                 if (history.replaceState) history.replaceState(null, '', base + '?id=' + h.id);
             }
         });
@@ -215,6 +221,9 @@ function addCategoryToSearchResults() {
 // 才派发一次带 __bypass 标志的放行 input 事件让官方执行搜索（相当于把响应延迟调大，避免边打字边卡）。
 // __bypass 标志区分「用户真实输入」与「我们主动派发的放行事件」。不修改官方 CDN 文件，纯前端、可撤销。
 var SEARCH_DEBOUNCE_MS = 400;
+// 手机端搜索遮罩的自动搜索防抖。手机端不走 enhanceSearchDebounce 的官方拦截路径
+// （遮罩输入框是自建元素，官方搜索由 performSearch 主动派发），故单独一个常量。
+var MOBILE_SEARCH_DEBOUNCE_MS = 450;
 function enhanceSearchDebounce() {
     if (window.__searchDebounceEnhanced) return;
     // 注意：不在这里立即置标志，等搜索框确实出现后再置，避免「假完成」导致后续不再重试。
@@ -270,6 +279,16 @@ function initSearchObserver() {
             });
         });
         observer.observe(searchArea, { childList: true, subtree: true });
+
+        // 点击搜索结果标题 = 明确的「跳到这个标题」意图：
+        // 标记 __anchorForceSeek，doneEach 里会强制滚动到目标并加高亮。
+        // 注意：绝不可 stopPropagation / preventDefault（会破坏 docsify 的 navigating 标志，
+        // 导致 source==='history'、core 提前 return、连 ?id= 定位都失效）。
+        searchArea.addEventListener('click', function (e) {
+            var a = e.target.closest ? e.target.closest('.results-panel a[href*="?id="]') : null;
+            if (!a) return;
+            window.__anchorForceSeek = true;
+        });
     }
 }
 
@@ -361,6 +380,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (mobileSearchOverlay) mobileSearchOverlay.classList.remove('show');
                 document.body.classList.remove('search-active');
                 if (href) {
+                    // 明确的跳转意图：doneEach 里强制滚动到目标标题并加高亮
+                    if (href.indexOf('?id=') >= 0) window.__anchorForceSeek = true;
                     location.hash = href.charAt(0) === '#' ? href : '#' + href;
                 }
             });
@@ -458,8 +479,30 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (mobileSearchInput) {
+            // 与桌面端一致：停止输入 MOBILE_SEARCH_DEBOUNCE_MS 毫秒后自动搜索。
+            // 此前手机端只监听 Enter / 点按钮 → 用户输入完盯着空结果区，
+            // 以为要点两次（第一次「提交」+ 第二次才出结果），这就是「双击」的根因。
+            var mobileSearchTimer = null;
+            mobileSearchInput.oninput = function () {
+                clearTimeout(mobileSearchTimer);
+                var keyword = mobileSearchInput.value.trim();
+                if (!keyword) {
+                    // 清空输入 → 立即清空结果，不留上次的残留
+                    if (mobileSearchResults) {
+                        mobileSearchResults.innerHTML = '';
+                        mobileSearchResults.classList.remove('has-content');
+                    }
+                    return;
+                }
+                mobileSearchTimer = setTimeout(function () {
+                    performSearch(keyword);
+                }, MOBILE_SEARCH_DEBOUNCE_MS);
+            };
+
             mobileSearchInput.onkeydown = function (e) {
                 if (e.key === 'Enter') {
+                    // 回车 = 立即搜索（不等防抖），并取消待触发的自动搜索
+                    clearTimeout(mobileSearchTimer);
                     var keyword = mobileSearchInput.value.trim();
                     if (keyword) {
                         performSearch(keyword);
@@ -695,23 +738,157 @@ function scheduleIdle(fn) {
     }
 }
 
+// 从 location.hash 取出 ?id= 的目标 id；没有则返回 null
+function routeAnchorId() {
+    var hash = location.hash || '';
+    var qIdx = hash.indexOf('?id=');
+    if (qIdx < 0) return null;
+    var raw = hash.slice(qIdx + 4);
+    if (!raw) return null;
+    try { return decodeURIComponent(raw); } catch (e) { return raw; }
+}
+
+// 目标标题跳转后的视觉高亮：
+// docsify 核心只负责把标题滚进视口，不做任何标记 → 用户看不出「跳到哪了」。
+// 这里给目标标题（或其外层 callout/blockquote）加 .anchor-flash 类，
+// 用左侧色条 + 浅蓝底 + 轻微左移动画提示位置，约 2.6s 后自动淡出并移除。
+// 高亮元素优先取标题所在的行内块容器（h4 本身很窄且是 block，直接着色会显得突兀）。
+var ANCHOR_FLASH_MS = 2600;
+
+function clearAnchorFlash() {
+    clearTimeout(window.__anchorFlashTimer);
+    window.__anchorFlashTimer = null;
+    var old = document.querySelectorAll('.anchor-flash');
+    for (var i = 0; i < old.length; i++) old[i].classList.remove('anchor-flash');
+}
+
+function flashRouteAnchor(el) {
+    if (!el) return;
+    // 先整体清场：既移除旧高亮，也取消上一轮尚未到期的淡出定时器。
+    // 否则连续点击第二个结果时，第一个的定时器会把新加的高亮一起摘掉（实测 flash=0）。
+    clearAnchorFlash();
+    // 标题自身足够短且是块级，直接高亮标题行；若标题在 callout/blockquote 内则高亮整块更醒目
+    var box = el.closest('blockquote, .callout, .markdown-section > ul > li > p') || el;
+    box.classList.add('anchor-flash');
+    // 重启动画：强制 reflow，保证连续跳转同一标题也会重播动画
+    void box.offsetWidth;
+    window.__anchorFlashTimer = setTimeout(function () {
+        window.__anchorFlashTimer = null;
+        var cur = document.querySelectorAll('.anchor-flash');
+        for (var j = 0; j < cur.length; j++) cur[j].classList.remove('anchor-flash');
+    }, ANCHOR_FLASH_MS);
+}
+
+// 滚动到当前 ?id= 目标标题并高亮它。
+// 站点 auto2top:false 下，docsify 核心只在 source==='navigate' 时滚动，
+// 把目标标题精确停到视口顶部下方 anchorOffset 处（用绝对坐标，不依赖 scrollIntoView）。
+// 关键：必须用「瞬时」跳转而非 behavior:'smooth'——
+// 本站的网盘链接是 IntersectionObserver 懒转换（rootMargin 200px），
+// 平滑滚动途经的每一屏都会触发转换、令页面变矮，把滚动终点不断上移，
+// 结果是滚动被"甩"在原地、标题停在视口外（实测可达 4760px / 5982px 之外）。
+// 瞬时跳转则一次性到位，随后发生的转换只会影响目标「下方」的内容，落点稳定。
+function scrollAnchorToTop(el) {
+    var margin = parseFloat(getComputedStyle(el).scrollMarginTop) || 0;
+    var y = el.getBoundingClientRect().top + window.pageYOffset - margin;
+    // 目标靠近文档末尾时无解：即使滚到底也停不到顶部（这是正常边界，不是 bug）。
+    // 此时显式滚到底，保证目标落在视口内可见，而不是停在中途。
+    var maxY = document.documentElement.scrollHeight - window.innerHeight;
+    var target = Math.max(0, Math.round(y));
+    if (target > maxY) target = Math.max(0, maxY);
+    window.scrollTo(0, target);
+}
+
+// 首屏加载 / history 回退 / 页面高度收缩后都可能「没滚到位」→ 这里统一兜底。
+// force=true：无视当前位置强制滚到标题（用于点击搜索结果等明确跳转）；
+// force=false：仅当标题不在视口内时才滚动（避免打断用户手动滚动）。
+function seekRouteAnchor(force) {
+    var id = routeAnchorId();
+    if (!id) return;
+    var el = document.getElementById(id);
+    if (!el) return;
+    seekTargetAnchor(el, force);
+}
+
+// 对「已知元素」执行锚点定位 + 高亮（搜索结果、正文内 TOC 共用同一条路径）。
+function seekTargetAnchor(el, force) {
+    if (!el) return;
+    var rect = el.getBoundingClientRect();
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    var inView = rect.top >= 0 && rect.top < vh * 0.6;
+    if (force || !inView) {
+        scrollAnchorToTop(el);
+        // 核心自带的 smooth 滚动（core #S 方法）与页面高度收缩可能在此后把落点带偏，
+        // 连续校正几次直到稳定；用户一旦主动滚动（wheel/touch/keydown）立即停止校正。
+        scheduleAnchorCorrection(el);
+    }
+    flashRouteAnchor(el);
+}
+
+// 落点稳定器：目标上方的网盘链接被懒转换成按钮后页面会变矮，
+// 会把已经滚好的目标往上/往下顶偏。这里在若干帧内反复把目标对回视口顶部，
+// 直到连续两次测量一致；用户任何主动滚动行为都会立即取消（不打断用户）。
+function scheduleAnchorCorrection(el) {
+    var targetId = el.id;
+    var tries = 0;
+    var lastTop = null;
+    var cancelled = false;
+
+    // 上一轮遗留的 cancel 监听必须清掉：它们用 { once:true } 注册，
+    // 若这一轮没人再踩它们，就会一直挂在 window 上，
+    // 到了下一轮被触发时反而把「新一轮」的校正提前取消（连续点击时 flash/落点异常的真凶之一）。
+    if (window.__anchorCorrectionCancel) {
+        window.__anchorCorrectionCancel();
+    }
+
+    function cancel() { cancelled = true; }
+    var events = ['wheel', 'touchstart', 'keydown'];
+    events.forEach(function (ev) {
+        window.addEventListener(ev, cancel, { passive: true });
+    });
+    // 暴露一个「解绑 + 标记取消」的句柄，供下一轮调用时先清理自己
+    window.__anchorCorrectionCancel = function () {
+        cancelled = true;
+        events.forEach(function (ev) {
+            window.removeEventListener(ev, cancel);
+        });
+        window.__anchorCorrectionCancel = null;
+    };
+    var detach = window.__anchorCorrectionCancel;
+
+    function step() {
+        if (cancelled) { detach(); return; }
+        // 路由已变（用户切到别的页）→ 停止
+        if (location.hash.indexOf('?id=') < 0) { detach(); return; }
+        var cur = document.getElementById(targetId);
+        if (!cur) { detach(); return; }
+        var margin = parseFloat(getComputedStyle(cur).scrollMarginTop) || 0;
+        var top = Math.round(cur.getBoundingClientRect().top);
+        // 目标已进入「顶部附近」且连续两帧不动 → 稳定，收工
+        if (Math.abs(top - margin) <= 4) {
+            if (lastTop !== null && Math.abs(top - lastTop) <= 1) { detach(); return; }
+        }
+        lastTop = top;
+        // 距期望落点超过 4px → 校正（撞底时 scrollAnchorToTop 内部会夹到 maxY）
+        if (Math.abs(top - margin) > 4) scrollAnchorToTop(cur);
+        if (++tries < 20) requestAnimationFrame(step); else detach();
+    }
+    requestAnimationFrame(step);
+}
+
 // 若当前仍是「搜索结果 ?id= 定位」导航，重新滚动到目标标题：
 // 分片处理二维码时页面高度会随「隐藏链接→换成按钮」逐步收缩，
 // 目标标题的绝对位置会随之向上偏移，全部处理完后需要再定位一次。
 function reseekRouteAnchor() {
-    var hash = location.hash || '';
-    var qIdx = hash.indexOf('?id=');
-    if (qIdx < 0) return;
-    var raw = hash.slice(qIdx + 4);
-    if (!raw) return;
-    var id = raw;
-    try { id = decodeURIComponent(raw); } catch (e) { /* 保留原样（可能含未编码 %） */ }
+    var id = routeAnchorId();
+    if (!id) return;
     var el = document.getElementById(id);
     if (!el) return;
-    // 上方内容收缩只会把标题向上顶：仅当标题被顶出视口时才重新定位，
-    // 避免打断用户在处理期间的手动滚动
     var rect = el.getBoundingClientRect();
-    if (rect.top < 0) el.scrollIntoView({ block: 'start' });
+    if (rect.top < 0) {
+        // 被顶出视口了才重定位，避免打断用户在处理期间的手动滚动
+        scrollAnchorToTop(el);
+    }
+    flashRouteAnchor(el);
 }
 
 // 单个网盘链接的包装逻辑（从原 renderNetdiskQrcodes 内联体抽出，供分片处理复用）

@@ -8,6 +8,23 @@
   <a href="#/zh-cn/games/android" class="game-nav-btn">安卓游戏</a>
 </div>
 
+<div class="game-page-nav">
+  <a class="game-page-btn is-active" href="#/zh-cn/games/pc">总览</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-1" title="第 1–250 条">1</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-2" title="第 251–523 条">2</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-3" title="第 524–813 条">3</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-4" title="第 814–1084 条">4</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-5" title="第 1085–1358 条">5</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-6" title="第 1359–1653 条">6</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-7" title="第 1654–1951 条">7</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-8" title="第 1952–2246 条">8</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-9" title="第 2247–2539 条">9</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-10" title="第 2540–2837 条">10</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-11" title="第 2838–3129 条">11</a>
+  <a class="game-page-btn" href="#/zh-cn/games/pc-12" title="第 3130–3408 条">12</a>
+  <a class="game-page-btn is-step" href="#/zh-cn/games/pc-1">下一页 →</a>
+</div>
+
 ---
 > [!WARNING]
 > **领取夸克1T容量**  
@@ -78,6 +95,10 @@
 #### 《寂静岭：小镇陷落（SILENT HILL Townfall）豪华版》v1.4.153521 中文版
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
+
+#### 《最后一站（The Final Station）》v1.5 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/93ee948bbd1d
 
 #### 《DRAPLINE》v1.0.0 中文版
 
@@ -276,6 +297,10 @@
 #### 《桌上谈兵（Tabletop Tavern）》v1.9.15 中文版
 
 夸克：https://pan.quark.cn/s/e9973524d0ce
+
+#### 《诸天刷宝录（Multiverse Loot Hunter）》v1.2.5.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/cba9db02b1e5
 
 ---
 
@@ -554,24 +579,3 @@
 #### 《寂静岭F（SILENT HILL F）豪华版》v1.2.382755 全DLC 中文版（心理恐怖游戏）
 
 夸克：https://pan.quark.cn/s/90391fdabda9
-
----
-
-## 已有游戏
-
-<div class="game-page-nav">
-  <a class="game-page-btn is-active" href="#/zh-cn/games/pc">总览</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-1" title="第 1–250 条">1</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-2" title="第 251–523 条">2</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-3" title="第 524–813 条">3</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-4" title="第 814–1084 条">4</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-5" title="第 1085–1358 条">5</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-6" title="第 1359–1653 条">6</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-7" title="第 1654–1951 条">7</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-8" title="第 1952–2246 条">8</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-9" title="第 2247–2539 条">9</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-10" title="第 2540–2837 条">10</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-11" title="第 2838–3129 条">11</a>
-  <a class="game-page-btn" href="#/zh-cn/games/pc-12" title="第 3130–3408 条">12</a>
-  <a class="game-page-btn is-step" href="#/zh-cn/games/pc-1">下一页 →</a>
-</div>

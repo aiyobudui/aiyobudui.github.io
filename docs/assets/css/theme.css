@@ -244,6 +244,81 @@
   scroll-margin-top: 36px !important;
 }
 
+/* =================== 锚点目标高亮（点击搜索结果跳转后提示「跳到哪了」） ===================
+   docsify 核心只把目标标题滚进视口，不做任何视觉标记 → 用户看不出落在哪。
+   site.js 的 flashRouteAnchor() 会给目标标题（或它所在的 callout 块）加 .anchor-flash，
+   2.6s 后移除。颜色全部取自主题变量，不硬编码。 */
+.markdown-section .anchor-flash {
+  position: relative;
+  animation: anchor-flash-in 0.42s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* 左侧色条：与侧边栏激活项风格一致 */
+.markdown-section .anchor-flash::before {
+  content: "";
+  position: absolute;
+  inset-block: -0.25em;
+  inset-inline-start: -0.85em;
+  width: 3px;
+  border-radius: 2px;
+  background: var(--theme-color);
+}
+
+/* 浅蓝底 + 圆角，让标题行从正文里「浮」出来 */
+.markdown-section .anchor-flash::after {
+  content: "";
+  position: absolute;
+  inset: -0.28em -0.6em;
+  z-index: -1;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--theme-color) 12%, transparent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--theme-color) 22%, transparent);
+  animation: anchor-flash-bg 2.6s ease forwards;
+}
+
+/* 标题字色临时加深（H4 默认偏灰，高亮时提亮一档） */
+.markdown-section :is(h1, h2, h3, h4, h5, h6).anchor-flash,
+.markdown-section :is(h1, h2, h3, h4, h5, h6).anchor-flash a {
+  color: var(--theme-color);
+}
+
+@keyframes anchor-flash-in {
+  from {
+    transform: translateX(-8px);
+    opacity: 0.35;
+  }
+
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes anchor-flash-bg {
+  0% {
+    opacity: 0;
+  }
+
+  12% {
+    opacity: 1;
+  }
+
+  70% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+/* 尊重系统「减少动态效果」偏好：只留静态高亮，不做位移动画 */
+@media (prefers-reduced-motion: reduce) {
+  .markdown-section .anchor-flash {
+    animation: none;
+  }
+}
+
 /* =================== 标题颜色：H1~H6 统一用 --heading-color（一处可改） =================== */
 .markdown-section :is(h1, h2, h3, h4, h5, h6) {
   color: var(--heading-color);

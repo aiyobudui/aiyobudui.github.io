@@ -1335,12 +1335,6 @@
 
 夸克：https://pan.quark.cn/s/4c619c4227b9
 
-
-#### 《诸天刷宝录（Multiverse Loot Hunter）》v1.0.1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/cba9db02b1e5
-
-
 #### 《传说法师2（Wizard of Legend 2）》v1.1.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/e2da6f1836cb
