@@ -78,7 +78,7 @@
 
 夸克：https://pan.quark.cn/s/3f06d8245e12
 
-#### 《王国保卫战 6：新启程（Kingdom Rush 6 Genesis TD）》v1.00.038 中文版
+#### 《王国保卫战 6：新启程（Kingdom Rush 6 Genesis TD）》v1.00.038 中文版（附安卓版）
 
 夸克：https://pan.quark.cn/s/7728b3991ff2
 
@@ -95,6 +95,26 @@
 #### 《寂静岭：小镇陷落（SILENT HILL Townfall）豪华版》v1.4.153521 中文版
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
+
+#### 《光陨之地（Land of Glarefall）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/11056eec4844
+
+#### 《阿吉菲尔德高中：嗨翻校园（Agefield High Rock the School）》v20260921 中文版
+
+夸克：https://pan.quark.cn/s/8678f8f12326
+
+#### 《冒险之旅：十字军东征（Plebby Quest The Crusades）》v1.61 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/714e9385475c
+
+#### 《魔能2（Magicka 2）豪华版》v1.2.0.0 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/4f3c3a1bc541
+
+#### 《打工人生存模拟器（Worker Survival Simulator）》v2.0.3 中文版
+
+夸克：https://pan.quark.cn/s/ca7dee70d750
 
 #### 《最后一站（The Final Station）》v1.5 全DLC 中文版
 
@@ -188,6 +208,18 @@
 
 ## 最近更新
 
+#### 《失落城堡2（Lost Castle 2）》v1.0.1.1.8 中文 联机版
+
+夸克：https://pan.quark.cn/s/f391be81e520
+
+#### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v2.02 中文 联机版
+
+夸克：https://pan.quark.cn/s/30510db4b1e9
+
+#### 《断箭（Broken Arrow）》v1.2.0.3 全DLC 中文版（大型现代战争实时战术游戏）
+
+夸克：https://pan.quark.cn/s/386af00e7d23
+
 #### 《宗门起源（Eastern Era）》v1.2.0 中文版
 
 夸克：https://pan.quark.cn/s/6d75f2fd231d
@@ -209,6 +241,10 @@
 #### 《守墓人2（Graveyard Keeper 2）》v1.004.2 中文版
 
 夸克：https://pan.quark.cn/s/81b0a582ce4a
+
+#### 《严阵以待（Ready or Not）豪华版》Build.10092026 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/296a2d4242e8
 
 #### 《断曲余音（Fading Echo）豪华版》v1.0.28121 全DLC 中文版
 

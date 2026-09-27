@@ -79,13 +79,13 @@
 
 夸克：https://pan.quark.cn/s/956877640a56
 
+#### 《核心元素（ELEX）》最新 汉化版
 
-#### 《核心元素（ELEX）》v1.0.2981.0 中文版
+夸克：https://pan.quark.cn/s/6179564d98ed
 
 #### 《核心元素2（ELEX 2）》v1.05c 中文版
 
-夸克：https://pan.quark.cn/s/bb1f79be4d6a
-
+夸克：https://pan.quark.cn/s/60e44df53e22
 
 #### 《失落余烬：重燃版（LOST EMBER Rekindled Edition）》v1.11.1.22169 全DLC 中文版
 
@@ -289,12 +289,13 @@
 夸克：https://pan.quark.cn/s/ace9e347e92d
 
 
-#### 《鸭鸭侦探：萨拉米香肠之谜（Duck Detective The Secret Salami）》v1.3.27 中文版（鸭子侦探）
+#### 《鸭鸭侦探：萨拉米香肠之谜（Duck Detective The Secret Salami）》v1.3.27 中文版
 
-#### 《鸭鸭侦探：闹鬼露营地（Duck Detective The Ghost of Glamping）》v2.3.7 中文版（鸭子侦探）
+夸克：https://pan.quark.cn/s/705a00c379cd
 
-夸克：https://pan.quark.cn/s/efec6df22bb0
+#### 《鸭鸭侦探：闹鬼露营地（Duck Detective The Ghost of Glamping）》v2.3.7 中文版
 
+夸克：https://pan.quark.cn/s/8eab79d1e577
 
 #### 《哥布林维克：窃贼大亨（Goblin Vyke The Thief Tycoon）》v1.0.18 中文版
 
@@ -1125,13 +1126,13 @@
 
 夸克：https://pan.quark.cn/s/f00ce9fcc5b4
 
-
 #### 《冲就完事模拟器2（PowerWash Simulator 2）》v1.2.1.167 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e9b3cf9f576c
 
 #### 《冲就完事模拟器（PowerWash Simulator）》v1.11.0 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/3f523ff18fd5
-
+夸克：https://pan.quark.cn/s/de25e4046c60
 
 #### 《土豆兄弟（Brotato）》v1.1.14.6 全DLC 中文版
 
@@ -1298,13 +1299,13 @@
 
 迅雷：https://pan.xunlei.com/s/VOp17qAxNn8LiIsadZjZPCMqA1?pwd=86yz#
 
+#### 《狩猎之道2（Way of the Hunter 2）》v0.0.1.186592 中文版
 
-#### 《狩猎之道2（Way of the Hunter2）》v1.29 中文版
+夸克：https://pan.quark.cn/s/89d09aff8067
 
-#### 《狩猎之道（Way of the Hunter）终结版》v1.29 全DLC 中文版（猎人之路 荒野猎人）
+#### 《狩猎之道（Way of the Hunter）终结版》v1.29 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/399ba986c9cc
-
+夸克：https://pan.quark.cn/s/dd64e632a7bb
 
 #### 《Tangy TD》v1.0.312 英文版（肉鸽英雄塔防游戏）
 

@@ -75,12 +75,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOoApaGzV8ybkrbWNI-bZL3nA1?pwd=cw69#
 
-
-#### 《严阵以待（Ready or Not）豪华版》v112610 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/296a2d4242e8
-
-
 #### 《空洞骑士：丝之歌（Hollow Knight Silksong）》v1.0.29909 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/4c68712bb95c
@@ -561,13 +555,13 @@
 
 夸克：https://pan.quark.cn/s/a52ea41277b8
 
-
 #### 《铁道公司（Railroad Corporation）完全收藏版》v1.1.13425 全DLC 中文 联机版
 
-#### 《铁道公司2（Railroad Corporation 2）》v1.0.19116 全DLC 中文 联机版
+夸克：https://pan.quark.cn/s/6daa3f2040fd
 
-夸克：https://pan.quark.cn/s/e7d14ce6636e
+#### 《铁道公司2（Railroad Corporation 2）》最新 全DLC 中文 联机版
 
+夸克：https://pan.quark.cn/s/b7d861f8c634
 
 #### 《她那年98（SHE WAS 98）》v1.0.3 中文版（恐怖游戏）
 

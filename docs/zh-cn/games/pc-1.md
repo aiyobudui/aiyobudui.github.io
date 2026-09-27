@@ -578,12 +578,6 @@
 
 夸克：https://pan.quark.cn/s/903a18dbc9c7
 
-
-#### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v1.059 中文 联机版
-
-夸克：https://pan.quark.cn/s/30510db4b1e9
-
-
 #### 《史莱姆牧场2（Slime Rancher 2）》v1.2.3 中文 联机版
 
 夸克：https://pan.quark.cn/s/cc019406a152

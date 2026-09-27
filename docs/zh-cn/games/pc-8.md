@@ -706,10 +706,13 @@
 夸克：https://pan.quark.cn/s/305223863209
 
 
-#### 《坎巴拉太空计划 1-2部（Kerbal Space Program）》最新 全DLC 中文版
+#### 《坎巴拉太空计划（Kerbal Space Program）》v1.12.5.03190 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/2a62b3214a5c
+夸克：https://pan.quark.cn/s/8ae3c2f92515
 
+#### 《坎巴拉太空计划2（Kerbal Space Program 2）》v0.2.2.0.32913 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/43beed19b63a
 
 #### 《神选战争（Chosen War）》v0.8.6 中文版
 
@@ -942,12 +945,6 @@
 #### 《方块方舟（PixARK）》v1.212 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/0baab6cecb58
-
-
-#### 《断箭（Broken Arrow）》v1.0.6.p 中文版（大型现代战争实时战术游戏）
-
-夸克：https://pan.quark.cn/s/386af00e7d23
-
 
 #### 《台球国度FX（Pool Nation FX）》v1.68 英文版
 

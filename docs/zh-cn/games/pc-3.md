@@ -216,9 +216,11 @@
 
 #### 《禁闭求生2（Grounded 2）创始人版》v0.4.2.1 全DLC 中文 联机版
 
+夸克：https://pan.quark.cn/s/59adc9d708ab
+
 #### 《禁闭求生（Grounded）》v1.4.7.4815 中文 联机版
 
-夸克：https://pan.quark.cn/s/9dd4fa1dcd84
+夸克：https://pan.quark.cn/s/e355aa94bc26
 
 
 #### 《深入后室（Inside the Backrooms）》v0.5.3 中文 联机版
@@ -335,10 +337,11 @@
 
 #### 《一起玩农场2（Farm Together 2）》v303 全DLC 中文 联机版
 
+夸克：https://pan.quark.cn/s/c789a83edd51
+
 #### 《一起玩农场（Farm Together）》v2022.8.23 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/2f8ffe329c9b
-
+夸克：https://pan.quark.cn/s/d07cfe4375cd
 
 #### 《非生物因素（Abiotic Factor）支持者版》v1.3.0.26036 中文 联机版
 
@@ -785,12 +788,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNq30YIo9jq75Ea01kpT-6ovA1?pwd=v5bh#
 
-
-#### 《失落城堡2（Lost Castle 2）》v1.0.0.5.3 中文 联机版
-
-夸克：https://pan.quark.cn/s/f391be81e520
-
-
 #### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版（新增DLC）
 
 夸克：https://pan.quark.cn/s/692dc066767e
@@ -1012,11 +1009,13 @@
 夸克：https://pan.quark.cn/s/973a84ef4ba2
 
 
-#### 《索拉斯2（Solasta 2）支持者版》v0.3.5.90393 中文版
+#### 《索拉斯塔2（Solasta 2）支持者版》v0.3.5.90393 中文版
 
-#### 《索拉斯塔：魔导师之冠（Solasta Crown of the Magister）支持者版》v1.5.97 全DLC 中文版
+夸克：https://pan.quark.cn/s/bc8c5dc7ea5c
 
-夸克：https://pan.quark.cn/s/e3a2240480eb
+#### 《索拉斯塔：魔导师之冠（Solasta Crown of the Magister）支持者版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/abfdcb98ef5b
 
 
 #### 《热血西游记 天竺奇谭（River City Saga Journey to the West）》v1.0.2 中文版

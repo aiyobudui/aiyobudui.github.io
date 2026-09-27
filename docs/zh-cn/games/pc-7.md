@@ -823,12 +823,6 @@
 
 夸克：https://pan.quark.cn/s/9c16ba3707e1
 
-
-#### 《纪念碑谷3（Monument Valley 3）》v1.3.19596 中文 电脑版
-
-夸克：https://pan.quark.cn/s/3dce3d7980c4
-
-
 #### 《地狱卡牌（Hellcard）》v1.1.250807 中文 联机版
 
 夸克：https://pan.quark.cn/s/9411d1803c42

@@ -376,13 +376,13 @@
 
 夸克：https://pan.quark.cn/s/8b87767ebd52
 
-
 #### 《天外世界2（The Outer Worlds 2）高级版》v1.2.0.1 中文版
 
-#### 《天外世界：太空人之选（The Outer Worlds Spacer's Choice Edition）重制版》v2.5.9.0 中文版
+夸克：https://pan.quark.cn/s/473cbd9c1c0f
 
-夸克：https://pan.quark.cn/s/9baad4a27102
+#### 《天外世界：太空人之选（The Outer Worlds Spacers Choice Edition）重制版》v2.5.9.0 中文版
 
+夸克：https://pan.quark.cn/s/b9cde1aec5fd
 
 #### 《帝国时代4（Age of Empires IV）周年纪念版》v16.3.11308.0 全DLC 中文版
 
@@ -561,18 +561,17 @@
 
 夸克：https://pan.quark.cn/s/ad030323d32f
 
-
-#### 《高能人生（High On Life）》Build.12527950 全DLC 汉化版（嗨嗨人生）
-
 #### 《高能人生2（High On Life 2）》v2026.2.20 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/75206d28a97a
+夸克：https://pan.quark.cn/s/4f787f97e8b1
 
+#### 《高能人生（High On Life）》Build.12527950 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/8167f11e8807
 
 #### 《尤卡莱莉：回归（Yooka Replaylee）》v1.07 中文版（开放世界冒险）
 
 夸克：https://pan.quark.cn/s/6758e2260430
-
 
 #### 《英雄连3（Company of Heroes 3）》v2.5.0.48791 全DLC 中文版
 
@@ -1383,10 +1382,12 @@
 夸克：https://pan.quark.cn/s/043be3a034fe
 
 
-#### 《异形工厂2（shapez 2）支持者版》v1.1.0-rc2 中文版
+#### 《异形工厂2（shapez 2）》v1.1.0-rc2 中文版
 
-#### 《异形工厂（shapez）》v1.5.5 中文版
-
-夸克：https://pan.quark.cn/s/835f260ad17e
+夸克：https://pan.quark.cn/s/a3ebcb55575f
 
 迅雷：https://pan.xunlei.com/s/VOrDJQ7nuEcWHZdBKcYcGFvaA1?pwd=aeps#
+
+#### 《异形工厂（shapez）》最新 中文版
+
+夸克：https://pan.quark.cn/s/8915df650ba5
