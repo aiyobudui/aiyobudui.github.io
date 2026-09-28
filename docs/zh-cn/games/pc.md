@@ -96,6 +96,14 @@
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
 
+#### 《针影裁梦（Dressmaker）》Build.25508059 中文版
+
+夸克：https://pan.quark.cn/s/ce2b707cbc7d
+
+#### 《赌石之王（King of Jade Stone Tycoon）》Build.25224420 中文版
+
+夸克：https://pan.quark.cn/s/49abdf024f03
+
 #### 《ODDCORE》Build.25423182 中文版
 
 夸克：https://pan.quark.cn/s/17b13b5789a2
