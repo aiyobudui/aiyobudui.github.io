@@ -859,8 +859,6 @@
 
 夸克：<https://pan.quark.cn/s/bd0149bb0349>
 
-阿里：<https://www.aliyundrive.com/s/YvV7N1NQ9TS>
-
 #### 《金刚》1-2部 4K HDR 中英配音 外挂中字
 
 夸克：<https://pan.quark.cn/s/bd0149bb0349>

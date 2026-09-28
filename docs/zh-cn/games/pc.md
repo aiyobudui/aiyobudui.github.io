@@ -96,6 +96,14 @@
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
 
+#### 《ODDCORE》Build.25423182 中文版
+
+夸克：https://pan.quark.cn/s/17b13b5789a2
+
+#### 《喵喵角斗士（CatGladiator）》v1.0.7 中文版
+
+夸克：https://pan.quark.cn/s/1899f0e6e0a3
+
 #### 《光陨之地（Land of Glarefall）》v1.0.1 中文版
 
 夸克：https://pan.quark.cn/s/11056eec4844
@@ -208,6 +216,10 @@
 
 ## 最近更新
 
+#### 《守墓人2（Graveyard Keeper 2）》v1.005 中文版
+
+夸克：https://pan.quark.cn/s/81b0a582ce4a
+
 #### 《失落城堡2（Lost Castle 2）》v1.0.1.1.8 中文 联机版
 
 夸克：https://pan.quark.cn/s/f391be81e520
@@ -237,10 +249,6 @@
 #### 《DuneCrawl》v1.0.1 中文 联机版
 
 夸克：https://pan.quark.cn/s/cbd46356bf06
-
-#### 《守墓人2（Graveyard Keeper 2）》v1.004.2 中文版
-
-夸克：https://pan.quark.cn/s/81b0a582ce4a
 
 #### 《严阵以待（Ready or Not）豪华版》Build.10092026 全DLC 中文 联机版
 

@@ -37,13 +37,9 @@
 
 夸克：https://pan.quark.cn/s/13b33bbf0952
 
-#### 《痴迷》 （2025）4K (恐怖电脑)
+#### 《痴迷》 （2025）4K
 
 夸克：https://pan.quark.cn/s/0cc129613e6e
-
-#### 《消失的人》 (2026）4K 60帧
-
-夸克：https://pan.quark.cn/s/f158262d694a
 
 #### 《震耳欲聋》（2026）4K
 
@@ -533,7 +529,7 @@
 
 #### 《无名之火》（2024）4K 60帧
 
-夸克：<https://pan.quark.cn/s/b5a2363485be>
+夸克：https://pan.quark.cn/s/3ddf04c1291d
 
 迅雷：<https://pan.xunlei.com/s/VO36KCGgelaa5EQKQCh88imdA1?pwd=ybcb#>
 
@@ -665,7 +661,7 @@
 
 #### 《恶女》（2023）4K.国语.中字
 
-夸克：<https://pan.quark.cn/s/4ff284917ba6>
+夸克：https://pan.quark.cn/s/c09a47209f4b
 
 迅雷：<https://pan.xunlei.com/s/VNv6JEwkIq7SW2riEMIZwJJLA1?pwd=xrd4#>
 
@@ -701,7 +697,7 @@
 
 #### 《裂战》（2024）4K 安志杰 跨国缉毒，狂飙枪击，贴身肉搏
 
-夸克：<https://pan.quark.cn/s/efa58c75e63a>
+夸克：https://pan.quark.cn/s/124ec5da8d62
 
 迅雷：<https://pan.xunlei.com/s/VNsJUFDXfP2Z9jHm0D4xWuWSA1?pwd=xrwy#>
 
@@ -779,7 +775,7 @@
 
 #### 《千鹤先生》（2024）恐怖
 
-夸克：<https://pan.quark.cn/s/a7a9d1b4b9fe>
+夸克：https://pan.quark.cn/s/feffff5b5eee
 
 迅雷：<https://pan.xunlei.com/s/VNp-hSvqVp_G8GejHrH2hr-JA1?pwd=jj6e#>
 
@@ -893,7 +889,7 @@
 
 #### 《怪物》（2023）日本 第76届戛纳电影节作品
 
-夸克：<https://pan.quark.cn/s/5a48e05e1bfb>
+夸克：https://pan.quark.cn/s/80bda5c159fc
 
 迅雷：<https://pan.xunlei.com/s/VNnUogQnO6DliGBEYx6QKAAVA1?pwd=ujfk#>
 
@@ -953,7 +949,7 @@
 
 #### 《二手杰作》（2023）4K 60帧（于和伟 郭麒麟 喜剧)」
 
-夸克：<https://pan.quark.cn/s/6ab726c122c5>
+夸克：https://pan.quark.cn/s/a578b3fc7d9f
 
 迅雷：<https://pan.xunlei.com/s/VNmfNUHSr76N9pxyA28sHAr9A1?pwd=sce2#>
 
@@ -1039,7 +1035,7 @@
 
 #### 《花月杀手（2023）》（4K HDR 高码）
 
-夸克：<https://pan.quark.cn/s/15339e6f273f>
+夸克：https://pan.quark.cn/s/1a9f9929697b
 
 迅雷：<https://pan.xunlei.com/s/VNl31-KdBQIOkNd-bchL5xJIA1?pwd=b634#>
 
@@ -1095,7 +1091,7 @@
 
 #### 《斗破苍穹 觉醒》4K 网络大电影，好不好看不知道，但是IP可以
 
-夸克：<https://pan.quark.cn/s/1488f2b28861>
+夸克：https://pan.quark.cn/s/0e201ad6fd33
 
 迅雷：<https://pan.xunlei.com/s/VNndVDbKNkQmvJ8HW9ADa3ZlA1?pwd=pcuv#>
 
@@ -1121,7 +1117,7 @@
 
 #### 《杀手The Killer》（2023）**导演：大卫·芬奇**（动作 悬疑 惊悚 犯罪 冒险）
 
-夸克：<https://pan.quark.cn/s/9fc34a6ee237>
+夸克：https://pan.quark.cn/s/ab04d7de93b1
 
 迅雷：<https://pan.xunlei.com/s/VNndcPRq_xozDbuhtc1QdAzWA1?pwd=jmfp#>
 
@@ -1129,7 +1125,7 @@
 
 #### 《鹦鹉杀》（2023）4K 1080P（悬疑 犯罪 周冬雨 章宇 张宥浩）
 
-夸克：<https://pan.quark.cn/s/ecae5a192097>
+夸克：https://pan.quark.cn/s/76b9e6c23417
 
 迅雷：<https://pan.xunlei.com/s/VNl8n9eIrTrE5boA_o1o-OMOA1?pwd=fgj9#>
 
@@ -1189,7 +1185,7 @@
 
 #### 《我爱你！》（2023）4K HDR (倪大红.惠英红.梁家辉）我爱你2023
 
-夸克：<https://pan.quark.cn/s/cea85a10ce0a>
+夸克：https://pan.quark.cn/s/18a0924c7ce6
 
 迅雷：<https://pan.xunlei.com/s/VNndiJTXNkQmvJ8HW9ADeoYMA1?pwd=bf3g#>
 
@@ -1197,7 +1193,7 @@
 
 #### 《雷霆沙赞！众神之怒》（2023）4K HDR 中字
 
-夸克：<https://pan.quark.cn/s/e9b375bafe32>
+夸克：https://pan.quark.cn/s/fe78e575aeb2
 
 迅雷：<https://pan.xunlei.com/s/VNlBbztQBz0oNSOEv5mos_aXA1?pwd=ngbc#>
 
@@ -1277,7 +1273,7 @@
 
 #### 《GT赛车：极速狂飙》（2023）4K HDR.双版本.中字
 
-夸克：<https://pan.quark.cn/s/45949a31f02f>
+夸克：https://pan.quark.cn/s/1dab96b0b551
 
 迅雷：<https://pan.xunlei.com/s/VNxrEOa2Pp1MiVwtEv1FPn9-A1?pwd=r264#>
 
@@ -1409,7 +1405,7 @@
 
 #### 《缉恶》（2024）4K
 
-夸克：<https://pan.quark.cn/s/d1b5e85e3fb4>
+夸克：https://pan.quark.cn/s/75b508f18201
 
 迅雷：<https://pan.xunlei.com/s/VNqpPF43kEBGyW-t65KRwjqUA1?pwd=nmr3#>
 

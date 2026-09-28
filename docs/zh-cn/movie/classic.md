@@ -356,7 +356,7 @@
 
 #### 《风中有朵雨做的云》（2018）4K 60帧
 
-夸克：https://pan.quark.cn/s/9f23cac0a2d3
+夸克：https://pan.quark.cn/s/11c39d8f6e4d
 
 迅雷：https://pan.xunlei.com/s/VO97TGzKBU035OZLsIxyIbIvA1?pwd=dxev#
 
@@ -456,9 +456,9 @@
 
 迅雷：https://pan.xunlei.com/s/VO31kDd_pXC_p473Y2fu8LEYA1?pwd=epyc#
 
-#### 《童军手册之僵尸启示》（2015）蓝光1080P 中英字幕
+#### 《童军手册之僵尸启示录》（2015）4K 中字
 
-夸克：https://pan.quark.cn/s/a571c94d66ae
+夸克：https://pan.quark.cn/s/4694ff0be454
 
 迅雷：https://pan.xunlei.com/s/VO2_0GGmMb9oQI8e5NRuKDk4A1?pwd=z2hr#
 
@@ -552,7 +552,7 @@
 
 #### 《死亡诗社》（1989） 蓝光1080P 中英字幕 多国配音
 
-夸克：https://pan.quark.cn/s/e16a24875be9
+夸克：https://pan.quark.cn/s/b8ab64d6ec72
 
 迅雷：https://pan.xunlei.com/s/VNwOqEWgK0-h8xzMlsJP9AaGA1?pwd=iyjf#3
 
@@ -700,11 +700,9 @@
 
 #### 狙击手（2022）4K（张艺谋 金鸡奖最佳摄影奖）（值得观看的战争题材电影）
 
-夸克：https://pan.quark.cn/s/641a9ffb3edf
+夸克：https://pan.quark.cn/s/8e0f2720320c
 
 迅雷：https://pan.xunlei.com/s/VNxsHVuQ8yKUMuGfclJ56qgTA1?pwd=if4g#
-
-阿里：https://www.aliyundrive.com/s/aPTnJXmCn61
 
 #### 《敦刻尔克》（2017）蓝光4K HDR 中英配音 中英字幕（必看战争题材）
 
@@ -712,15 +710,11 @@
 
 迅雷：https://pan.xunlei.com/s/VNxsJqzjQEIkJWwBXwcQStWNA1?pwd=9iv3#
 
-阿里：https://www.aliyundrive.com/s/bN6YLWrw1se
-
 #### 我是传奇（2007）蓝光4K HDR 国英双语 特效字幕 无删减
 
 夸克：https://pan.quark.cn/s/c4d5fed7bebd
 
 迅雷：https://pan.xunlei.com/s/VNxsLBih8yKUMuGfclJ57eqgA1?pwd=c38u#
-
-阿里：https://www.alipan.com/s/cKiKQscP9Z1
 
 #### 我们俩（2005）4K+1080P 中字
 
@@ -796,10 +790,6 @@
 
 夸克：https://pan.quark.cn/s/8b5c04ff702c
 
-#### 《童军手册之僵尸启示录》（2015）4K 中字
-
-夸克：https://pan.quark.cn/s/3ce6d1a5582c
-
 #### 《汉尼拔、沉默的羔羊、红龙、少年汉尼拔》4部曲 4K 特效中英字幕
 
 夸克：https://pan.quark.cn/s/17f43fc3805d
@@ -866,7 +856,7 @@
 
 #### 《红潮风暴》（1995）1080P 中英配音 中英字幕
 
-夸克：https://pan.quark.cn/s/23045f794c9c
+夸克：https://pan.quark.cn/s/b530f02a78b0
 
 #### 《黑白魔女库伊拉》 (2021) 4K HDR 中英配音 中英字幕
 
