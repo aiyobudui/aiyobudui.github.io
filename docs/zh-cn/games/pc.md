@@ -96,6 +96,10 @@
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
 
+#### 《勇气默示录（FLYING FAIRY HD Remaster）》Build.20663174 中文版
+
+夸克：https://pan.quark.cn/s/7fb998567a79
+
 #### 《针影裁梦（Dressmaker）》Build.25508059 中文版
 
 夸克：https://pan.quark.cn/s/ce2b707cbc7d
@@ -224,6 +228,14 @@
 
 ## 最近更新
 
+#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》Build.25195568 全DLC 中文版（显卡需支持光线）
+
+夸克：https://pan.quark.cn/s/782a718c0340
+
+#### 《致命躯壳2（Mortal Shell II）虔诚版》v93241.1511 中文版
+
+夸克：https://pan.quark.cn/s/a3682965a994
+
 #### 《守墓人2（Graveyard Keeper 2）》v1.005 中文版
 
 夸克：https://pan.quark.cn/s/81b0a582ce4a
@@ -232,13 +244,29 @@
 
 夸克：https://pan.quark.cn/s/f391be81e520
 
+#### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.12 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/12750d6526a1
+
+#### 《帝国时代2 决定版（Age of Empires II）》v185872 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1873bfa92edb
+
 #### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v2.02 中文 联机版
 
 夸克：https://pan.quark.cn/s/30510db4b1e9
 
+#### 《孤岛惊魂5：黄金版（FarCry5：Gold Edition ）》v1.016 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/75f6d076a367
+
 #### 《断箭（Broken Arrow）》v1.2.0.3 全DLC 中文版（大型现代战争实时战术游戏）
 
 夸克：https://pan.quark.cn/s/386af00e7d23
+
+#### 《静谧田园（Village in the Shade）》v1.09 中文版
+
+夸克：https://pan.quark.cn/s/becfb2b0db69
 
 #### 《宗门起源（Eastern Era）》v1.2.0 中文版
 
@@ -443,10 +471,6 @@
 #### 《光环：战役进化（Halo Campaign Evolved）高级版》v1121610 中文 联机版
 
 夸克：https://pan.quark.cn/s/f2203ca7528b
-
-#### 《致命躯壳2（Mortal Shell II）虔诚版》v92935 中文版
-
-夸克：https://pan.quark.cn/s/a3682965a994
 
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 

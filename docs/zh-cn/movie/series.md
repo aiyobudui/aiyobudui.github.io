@@ -691,7 +691,7 @@
 
 #### 《异形 + 异形大战铁血战士》1-8部 蓝光4K 1080P 中英配音 特效字幕 (附衍生动画)
 
-夸克：<https://pan.quark.cn/s/62e280c85673>
+夸克：https://pan.quark.cn/s/62e280c85673
 
 迅雷：<https://pan.xunlei.com/s/VNxy-d8Hg09qEUhCXyYXLk1dA1?pwd=g29n#>
 

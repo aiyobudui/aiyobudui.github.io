@@ -219,12 +219,6 @@
 
 迅雷：https://pan.xunlei.com/s/VP1Pkwh9dzQu0i4_K7VAMyHeA1?pwd=49ws#
 
-
-#### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.11 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/12750d6526a1
-
-
 #### 《杀戮尖塔2（Slay the Spire 2）》v0.111.0 中文 联机版（附安卓版）
 
 夸克：https://pan.quark.cn/s/102bb457ec0d
@@ -592,12 +586,6 @@
 
 夸克：https://pan.quark.cn/s/a05663731a19
 
-
-#### 《静谧田园（Village in the Shade）》v1.06 中文版
-
-夸克：https://pan.quark.cn/s/becfb2b0db69
-
-
 #### 《Crimson Moon 豪华版》v1.0.0.160034 中文版（血色之月 緋紅之月）
 
 夸克：https://pan.quark.cn/s/9b7c84d1d827
@@ -830,12 +818,6 @@
 #### 《我独自升级：起立觉醒（Solo Leveling ARISE OVERDRIVE）豪华版》v1.1.93 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/6d6532985d59
-
-
-#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》Build.24368472 全DLC 中文版（显卡需支持光线）
-
-夸克：https://pan.quark.cn/s/782a718c0340
-
 
 #### 《帝国时代3 决定版（Age of Empires III）豪华版》v19.17293.0 全DLC 中文版
 

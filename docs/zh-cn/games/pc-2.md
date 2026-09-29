@@ -390,12 +390,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
 
-
-#### 《帝国时代2 决定版（Age of Empires II）》v180059 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1873bfa92edb
-
-
 #### 《养鱼模拟器（Fish Game）》Build.23879224 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5c85fcc30dc4

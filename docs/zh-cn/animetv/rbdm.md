@@ -128,6 +128,12 @@
 
 ## 近期完结
 
+#### 《相反的你和我》（2026）1080P 中字 1-2季全
+
+夸克：https://pan.quark.cn/s/778685d3575c
+
+迅雷：https://pan.xunlei.com/s/VP2fn0AdJ1CSBStRhcR3ujLQA1?pwd=muah#
+
 #### 《更衣人偶坠入爱河／恋上换装娃娃》（2022-2025）1-2季全 1080P 中字（附漫画）
 
 夸克：https://pan.quark.cn/s/8c0a1c75a1f3
