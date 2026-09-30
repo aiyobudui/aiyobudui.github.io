@@ -785,6 +785,8 @@
 
 #### 《地心历险记》1-2部.蓝光1080P 中英配音 中字
 
+夸克：https://pan.quark.cn/s/8d84a72643a4
+
 阿里：<https://www.aliyundrive.com/s/TKCFuUXAstk>
 
 #### 《惊天魔盗团》1-2部 4K HDR中英配音 内封特效中英
@@ -811,7 +813,9 @@
 
 阿里：<https://www.aliyundrive.com/s/ceKEm5Z8Mje>
 
-#### 《西游记 电影版》1-3部 蓝光1080P SDR 中字
+#### 《西游戏 三部曲系列合集》（2016-2018）1-3部 1080P 国粤配音 中字
+
+夸克：https://pan.quark.cn/s/8a39f7b777c7
 
 阿里：<https://www.aliyundrive.com/s/U5q8Hsy1A8L>
 
@@ -900,8 +904,6 @@
 夸克：<https://pan.quark.cn/s/19857dfc01bc>
 
 迅雷：<https://pan.xunlei.com/s/VNxypPTVlIq6bFzoLuA8Q953A1?pwd=59tt#>
-
-阿里：<https://www.alipan.com/s/Uqyq6TJqjKM>
 
 #### 《环太平洋》 1-2部 蓝光4K HDR  中英配音 特效中英字幕（机甲科幻）
 

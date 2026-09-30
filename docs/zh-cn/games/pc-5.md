@@ -651,23 +651,12 @@
 
 夸克：https://pan.quark.cn/s/c8a50833fa03
 
-
 #### 《鬼泣 HD合集（Devil May Cry HD Collection）》v1.0 中文版（游戏是HD优化后的1-3部合集版）
 
 夸克：https://pan.quark.cn/s/87bae6b84143
-
-
 #### 《鬼泣4（Devil May Cry 4）特别版》v21360 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/21b614735f16
-
-
-#### 《鬼泣5（Devil May Cry 5）豪华版》v11025947 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c1d04e42200e
-
-迅雷：https://pan.xunlei.com/s/VP1VIQzkZ7uFvxouUfossBrsA1?pwd=jeu6#
-
 
 #### 《Dobbel Dungeon》v1.0.8 中文版（骰子地牢 双重地牢）
 
@@ -1228,12 +1217,6 @@
 #### 《Super Woden Rally Edge》v1.0.2 中文版（可多人分屏的赛车小游戏）
 
 夸克：https://pan.quark.cn/s/04db85c4078f
-
-
-#### 《电玩人生（Gamer Stop Simulator）》v2026.1.16 中文版
-
-夸克：https://pan.quark.cn/s/0334a55bd322
-
 
 #### 《电竞教父（Esports Godfather）》v3.1.37 全DLC 中文版
 
