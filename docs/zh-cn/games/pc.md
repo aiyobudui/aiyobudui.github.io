@@ -74,15 +74,13 @@
 ## 最新添加
 >[!IMPORTANT] 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
+#### 《巫师3：狂猎 重制版（The Witcher 3 Wild Hunt Remastered）》v5.00B 全DLC 国语配音 中文版
+
+夸克：https://pan.quark.cn/s/040aae4b13ac
+
 #### 《控制：共振（CONTROL Resonant）豪华版》v1.0.0 全DLC 国语配音 中文版
 
 夸克：https://pan.quark.cn/s/3f06d8245e12
-
-#### 《王国保卫战 6：新启程（Kingdom Rush 6 Genesis TD）》v1.00.038 中文版（附安卓版）
-
-夸克：https://pan.quark.cn/s/7728b3991ff2
-
-迅雷：https://pan.xunlei.com/s/VP2KrMCbztHFd-e53R6r20_dA1?pwd=2ma2#
 
 #### 《空之轨迹 the 2nd（Trails in the Sky 2nd Chapter）豪华版》v1.03.2 全DLC 中文版
 
@@ -95,6 +93,14 @@
 #### 《寂静岭：小镇陷落（SILENT HILL Townfall）豪华版》v1.4.153521 中文版
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
+
+#### 《前哨站4（outpost4）》Build.25557792 中文版
+
+夸克：https://pan.quark.cn/s/0a1a2cf632b4
+
+#### 《梦江湖（Dream Rivakes）豪华版》v1.2.0.54 中文版
+
+夸克：https://pan.quark.cn/s/8dd1000d49fa
 
 #### 《勇气默示录（FLYING FAIRY HD Remaster）》Build.20663174 中文版
 
@@ -228,6 +234,12 @@
 
 ## 最近更新
 
+#### 《王国保卫战6：新启程（Kingdom Rush 6 Genesis TD）》v1.00.052 中文版（附安卓版）
+
+夸克：https://pan.quark.cn/s/7728b3991ff2
+
+迅雷：https://pan.xunlei.com/s/VP2KrMCbztHFd-e53R6r20_dA1?pwd=2ma2#
+
 #### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》Build.25195568 全DLC 中文版（显卡需支持光线）
 
 夸克：https://pan.quark.cn/s/782a718c0340
@@ -236,7 +248,7 @@
 
 夸克：https://pan.quark.cn/s/a3682965a994
 
-#### 《守墓人2（Graveyard Keeper 2）》v1.005 中文版
+#### 《守墓人2（Graveyard Keeper 2）》v1.007 中文版
 
 夸克：https://pan.quark.cn/s/81b0a582ce4a
 
