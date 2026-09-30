@@ -94,6 +94,10 @@
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
 
+#### 《我的世界：地下城2（Minecraft Dungeons II）豪华版》v1.1.1.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/51168dfc008f
+
 #### 《摄影冒险2（TOEM 2）》v1.0.5 中文版
 
 夸克：https://pan.quark.cn/s/83d7d017b299
