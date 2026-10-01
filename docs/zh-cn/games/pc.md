@@ -98,6 +98,10 @@
 
 夸克：https://pan.quark.cn/s/51168dfc008f
 
+#### 《真三国无双2 with 猛将传 重制版（DYNASTY WARRIORS 3 Complete Edition Remastered）豪华版》Build.24984920 中文版
+
+夸克：https://pan.quark.cn/s/67cff8325978
+
 #### 《摄影冒险2（TOEM 2）》v1.0.5 中文版
 
 夸克：https://pan.quark.cn/s/83d7d017b299
