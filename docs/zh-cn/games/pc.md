@@ -114,6 +114,12 @@
 
 夸克：https://pan.quark.cn/s/0a1a2cf632b4
 
+#### 《绮夜之梦（The Ethereal Dream）》Build.20258442 中文版
+
+夸克：https://pan.quark.cn/s/e52e3dbd0d94
+
+迅雷：https://pan.xunlei.com/s/VP2s1zZtlRKP3JmuClmkLJ3HA1?pwd=b2pe#
+
 #### 《梦江湖（Dream Rivakes）豪华版》v1.2.0.54 中文版
 
 夸克：https://pan.quark.cn/s/8dd1000d49fa

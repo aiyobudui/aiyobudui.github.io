@@ -20,6 +20,12 @@
 
 ---
 
+#### 《吸血鬼猎人D》（1985）蓝光1080P 内封中字
+
+夸克：https://pan.quark.cn/s/6b35d1b297e6
+
+迅雷：https://pan.xunlei.com/s/VP2s-NIFjYf-CwTxgRamESbJA1?pwd=6ac4#
+
 #### 《南京照相馆》（2026）4K
 
 夸克：https://pan.quark.cn/s/55b9e5ea6a9c
