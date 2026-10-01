@@ -23,6 +23,16 @@
 
 **靠前的是最新添加的**
 
+#### 《给阿嬷的情书》（2026）4K 潮汕话+普通话
+
+夸克：https://pan.quark.cn/s/4663628a1226
+
+迅雷：https://pan.xunlei.com/s/VP2rNX7AUZsabsXVxmLhAFcHA1?pwd=mq6d#
+
+#### 《生化危机：爆发夜》（2026）1080P 中字
+
+夸克：https://pan.quark.cn/s/b96135682459
+
 #### 《玩具总动员5》（2026）1080P 中字（前几部在另外一个链接）
 
 夸克：https://pan.quark.cn/s/ec24170830eb
@@ -40,6 +50,12 @@
 #### 《痴迷》 （2025）4K
 
 夸克：https://pan.quark.cn/s/0cc129613e6e
+
+#### 《消失的人》（2026）4K
+
+夸克：https://pan.quark.cn/s/21dbf0b8232c
+
+迅雷：https://pan.xunlei.com/s/VP2rPPglGTrAlEVfHLV_H3x_A1?pwd=h37x#
 
 #### 《震耳欲聋》（2026）4K
 

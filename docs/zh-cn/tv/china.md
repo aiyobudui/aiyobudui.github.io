@@ -32,7 +32,7 @@
 
 #### 《藏锋》（2026）4K 23集全
 
-夸克：https://pan.quark.cn/s/53bc13ae640c
+夸克：https://pan.quark.cn/s/19991ea5aaf8
 
 迅雷：https://pan.xunlei.com/s/VP1BEolVYM84MqNflPIHe71VA1?pwd=3ae3#
 

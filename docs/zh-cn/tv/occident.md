@@ -50,6 +50,12 @@
 
 ## 已完结的
 
+#### 《白粉飞（SnowFall）》1-6季全 1080P
+
+夸克：https://pan.quark.cn/s/8f43d64f1fec
+
+迅雷：https://pan.xunlei.com/s/VP2rXC8wsO8T6ywR4Q7O5kzlA1?pwd=wdnu#
+
 #### 《绝望写手》 (2021-2026）4K 1-5季全
 
 夸克：秒和谐
