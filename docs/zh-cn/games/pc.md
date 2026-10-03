@@ -94,6 +94,22 @@
 
 夸克：https://pan.quark.cn/s/4131d78ecaa0
 
+#### 《狂热运输3（Transport Fever 3）豪华版》Build.40408 中文版
+
+夸克：https://pan.quark.cn/s/5f46b7420520
+
+#### 《SCP：5K 全能版》v0.17.1.64 中文 联机版
+
+夸克：https://pan.quark.cn/s/62806cc6c4a5
+
+#### 《Star Valor》Build.24937123 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a5af2cc9b964
+
+#### 《尼瓦利斯之夜（Nivalis Nights）》Build.25653325 中文版
+
+夸克：https://pan.quark.cn/s/524c4bf0ec17
+
 #### 《我的世界：地下城2（Minecraft Dungeons II）豪华版》v1.1.1.0 中文 联机版
 
 夸克：https://pan.quark.cn/s/51168dfc008f
@@ -140,45 +156,13 @@
 
 夸克：https://pan.quark.cn/s/ce2b707cbc7d
 
-#### 《赌石之王（King of Jade Stone Tycoon）》Build.25224420 中文版
-
-夸克：https://pan.quark.cn/s/49abdf024f03
-
-#### 《ODDCORE》Build.25423182 中文版
-
-夸克：https://pan.quark.cn/s/17b13b5789a2
-
-#### 《喵喵角斗士（CatGladiator）》v1.0.7 中文版
-
-夸克：https://pan.quark.cn/s/1899f0e6e0a3
-
-#### 《光陨之地（Land of Glarefall）》v1.0.1 中文版
-
-夸克：https://pan.quark.cn/s/11056eec4844
-
-#### 《阿吉菲尔德高中：嗨翻校园（Agefield High Rock the School）》v20260921 中文版
-
-夸克：https://pan.quark.cn/s/8678f8f12326
-
-#### 《冒险之旅：十字军东征（Plebby Quest The Crusades）》v1.61 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/714e9385475c
-
-#### 《魔能2（Magicka 2）豪华版》v1.2.0.0 全DLC 汉化版
-
-夸克：https://pan.quark.cn/s/4f3c3a1bc541
-
-#### 《打工人生存模拟器（Worker Survival Simulator）》v2.0.3 中文版
-
-夸克：https://pan.quark.cn/s/ca7dee70d750
-
-#### 《最后一站（The Final Station）》v1.5 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/93ee948bbd1d
-
 ---
 
 ## 最近更新
+
+#### 《午夜轮班（Shift At Midnight）》v1.0.1.0723.2253 中文 联机版（侦探恐怖游戏）
+
+夸克：https://pan.quark.cn/s/5ad72f3f2174
 
 #### 《王国保卫战6：新启程（Kingdom Rush 6 Genesis TD）》v1.00.052 中文版（附安卓版）
 
@@ -189,6 +173,14 @@
 #### 《小小梦魇3（Little Nightmares 3）豪华版》Build.25370921 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/96a40a509f52
+
+#### 《最后纪元（Last Epoch）终结版》v1.5.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7dc7ceb24cb7
+
+#### 《宗门起源（Eastern Era）》v1.2.2 中文版
+
+夸克：https://pan.quark.cn/s/6d75f2fd231d
 
 #### 《鬼泣5（Devil May Cry 5）豪华版》v1.0.0.8 全DLC 中文版
 
@@ -229,32 +221,6 @@
 #### 《龙之剑 觉醒（DragonSword Awakening）豪华版》v1.0.12 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/12750d6526a1
-
-#### 《帝国时代2 决定版（Age of Empires II）》v185872 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1873bfa92edb
-
-#### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v2.02 中文 联机版
-
-夸克：https://pan.quark.cn/s/30510db4b1e9
-
-#### 《孤岛惊魂5：黄金版（FarCry5：Gold Edition ）》v1.016 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/75f6d076a367
-
-#### 《断箭（Broken Arrow）》v1.2.0.3 全DLC 中文版（大型现代战争实时战术游戏）
-
-夸克：https://pan.quark.cn/s/386af00e7d23
-
-#### 《静谧田园（Village in the Shade）》v1.09 中文版
-
-夸克：https://pan.quark.cn/s/becfb2b0db69
-
-#### 《艾尔登法环（Elden Ring）褪色者版》v1.17.1 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/f961d5992bd3
-
-迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
 
 ---
 

@@ -423,12 +423,6 @@
 
 夸克：https://pan.quark.cn/s/fd2f2389fa35
 
-
-#### 《最后纪元（Last Epoch）豪华版》v1.4.6 中文版
-
-夸克：https://pan.quark.cn/s/7dc7ceb24cb7
-
-
 #### 《猎人：荒野的召唤（theHunter Call of the Wild）完全版》Build.24022026 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/b5566d4550ab

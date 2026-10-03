@@ -29,9 +29,67 @@
 
 ---
 
-#### 《宗门起源（Eastern Era）》v1.2.0 中文版
+#### 《帝国时代2 决定版（Age of Empires II）》v185872 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/6d75f2fd231d
+夸克：https://pan.quark.cn/s/1873bfa92edb
+
+#### 《奶茶店模拟器 - 重生之我在冰堡甜城当店长（Boba Cafe Simulator）》v2.02 中文 联机版
+
+夸克：https://pan.quark.cn/s/30510db4b1e9
+
+#### 《孤岛惊魂5：黄金版（FarCry5：Gold Edition ）》v1.016 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/75f6d076a367
+
+#### 《断箭（Broken Arrow）》v1.2.0.3 全DLC 中文版（大型现代战争实时战术游戏）
+
+夸克：https://pan.quark.cn/s/386af00e7d23
+
+#### 《静谧田园（Village in the Shade）》v1.09 中文版
+
+夸克：https://pan.quark.cn/s/becfb2b0db69
+
+#### 《艾尔登法环（Elden Ring）褪色者版》v1.17.1 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f961d5992bd3
+
+迅雷：https://pan.xunlei.com/s/VNobQXRzwnHPNq9H7Mv6PEXmA1?pwd=kami#
+
+#### 《赌石之王（King of Jade Stone Tycoon）》Build.25224420 中文版
+
+夸克：https://pan.quark.cn/s/49abdf024f03
+
+#### 《ODDCORE》Build.25423182 中文版
+
+夸克：https://pan.quark.cn/s/17b13b5789a2
+
+#### 《喵喵角斗士（CatGladiator）》v1.0.7 中文版
+
+夸克：https://pan.quark.cn/s/1899f0e6e0a3
+
+#### 《光陨之地（Land of Glarefall）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/11056eec4844
+
+#### 《阿吉菲尔德高中：嗨翻校园（Agefield High Rock the School）》v20260921 中文版
+
+夸克：https://pan.quark.cn/s/8678f8f12326
+
+#### 《冒险之旅：十字军东征（Plebby Quest The Crusades）》v1.61 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/714e9385475c
+
+#### 《魔能2（Magicka 2）豪华版》v1.2.0.0 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/4f3c3a1bc541
+
+#### 《打工人生存模拟器（Worker Survival Simulator）》v2.0.3 中文版
+
+夸克：https://pan.quark.cn/s/ca7dee70d750
+
+#### 《最后一站（The Final Station）》v1.5 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/93ee948bbd1d
 
 #### 《铁骑少女（Cavalry Girls）》v3.0.2952 全DLC 中文版
 

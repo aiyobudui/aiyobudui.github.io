@@ -797,16 +797,9 @@
 
 夸克：https://pan.quark.cn/s/8d894fba3cb0
 
-
-#### 《午夜轮班（Shift At Midnight）》v1.0.1.0723.2253 中文 联机版（侦探恐怖游戏）
-
-夸克：https://pan.quark.cn/s/5ad72f3f2174
-
-
 #### 《梅莫莉 治愈物语（Memory of Memorie A Chill Story）》v1.0.1 中文版
 
 夸克：https://pan.quark.cn/s/54930ab7bfc3
-
 
 #### 《河畔之乡（Riverbond）》v0.88 中文 联机版
 
