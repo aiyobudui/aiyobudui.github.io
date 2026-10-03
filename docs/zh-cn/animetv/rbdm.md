@@ -61,13 +61,9 @@
 
 ## 周三
 
-#### 《死神 千年血战篇》第四季 祸进谭 更新中...（附TV版+千年血战三季+剧场版）
+#### 《药屋少女的呢喃》（2023-2026）第三季 更新中..（附 1-2季全+漫画+小说）
 
-夸克：https://pan.quark.cn/s/d4b6fd3b46f1
-
-迅雷：https://pan.xunlei.com/s/VNnO7phZxvfPlaWGTTE2jctfA1?pwd=3bzv#
-
-阿里：<https://www.alipan.com/s/92HVZUomaKu>
+夸克：https://pan.quark.cn/s/5ea763c94ae6
 
 ----
 
@@ -127,6 +123,14 @@
 ---
 
 ## 近期完结
+
+#### 《死神 千年血战篇》1080P 中字（附TV版+千年血战4季+剧场版）
+
+夸克：https://pan.quark.cn/s/d4b6fd3b46f1
+
+迅雷：https://pan.xunlei.com/s/VNnO7phZxvfPlaWGTTE2jctfA1?pwd=3bzv#
+
+阿里：<https://www.alipan.com/s/92HVZUomaKu>
 
 #### 《相反的你和我》（2026）1080P 中字 1-2季全
 
@@ -255,10 +259,6 @@
 #### 《莉可丽丝》（2022-2025）1-2季全 蓝光1080P 简中
 
 夸克：https://pan.quark.cn/s/276d7547161d
-
-#### 《药屋少女的呢喃》（2023-2025）1-2季全 4K  中字（附漫画+小说）
-
-夸克：https://pan.quark.cn/s/5ea763c94ae6
 
 #### 《物语系列 外传季&怪物季／愚物语&抚物语》1-16季 物语系列合集+原著小说
 

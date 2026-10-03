@@ -74,10 +74,6 @@
 ## 最新添加
 >[!IMPORTANT] 新增/更新的游戏链接若无文件，代表正在上传，上传完成后会显示...
 
-#### 《巫师3：狂猎 重制版（The Witcher 3 Wild Hunt Remastered）》v5.00B 全DLC 国语配音 中文版
-
-夸克：https://pan.quark.cn/s/040aae4b13ac
-
 #### 《控制：共振（CONTROL Resonant）豪华版》v1.0.0 全DLC 国语配音 中文版
 
 夸克：https://pan.quark.cn/s/3f06d8245e12
@@ -97,6 +93,14 @@
 #### 《狂热运输3（Transport Fever 3）豪华版》Build.40408 中文版
 
 夸克：https://pan.quark.cn/s/5f46b7420520
+
+#### 《家园：重建王国（Townsmen - A Kingdom Rebuilt）完整版》v2.2.8.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/832a334c436d
+
+#### 《Bento Blocks》Build.23096256 中文版
+
+夸克：https://pan.quark.cn/s/b867f4e1add1
 
 #### 《SCP：5K 全能版》v0.17.1.64 中文 联机版
 
@@ -159,6 +163,10 @@
 ---
 
 ## 最近更新
+
+#### 《巫师3：狂猎 重制版（The Witcher 3 Wild Hunt Remastered）》v5.00C 全DLC 国语配音 中文版
+
+夸克：https://pan.quark.cn/s/040aae4b13ac
 
 #### 《午夜轮班（Shift At Midnight）》v1.0.1.0723.2253 中文 联机版（侦探恐怖游戏）
 

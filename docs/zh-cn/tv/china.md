@@ -18,6 +18,12 @@
 
 ## 正在更新中的...
 
+#### 《余红旧事》（2026）4K 34集 更新中..
+
+夸克：https://pan.quark.cn/s/f250a4243889
+
+迅雷：https://pan.xunlei.com/s/VP30spHuPFV0i_Btc55dSWnUA1?pwd=tkff#
+
 #### 《兰香如故》（2026）4K 47集 更新中..
 
 夸克：https://pan.quark.cn/s/715381e7991b
