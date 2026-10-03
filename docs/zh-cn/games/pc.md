@@ -102,6 +102,10 @@
 
 夸克：https://pan.quark.cn/s/67cff8325978
 
+#### 《黯井微光（Well Dweller）》v9.25.2026  中文版
+
+夸克：https://pan.quark.cn/s/2f99e589ce81
+
 #### 《摄影冒险2（TOEM 2）》v1.0.5 中文版
 
 夸克：https://pan.quark.cn/s/83d7d017b299
@@ -113,6 +117,10 @@
 #### 《前哨站4（outpost4）》Build.25557792 中文版
 
 夸克：https://pan.quark.cn/s/0a1a2cf632b4
+
+#### 《Dead Season》v1.0.0.9 中文版
+
+夸克：https://pan.quark.cn/s/a32092d931e1
 
 #### 《绮夜之梦（The Ethereal Dream）》Build.20258442 中文版
 
