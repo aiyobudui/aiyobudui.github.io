@@ -86,7 +86,7 @@
 
 夸克：https://pan.quark.cn/s/8d19d2ded9f4
 
-迅雷：https://pan.xunlei.com/s/VP-idbgjWxAhrfVEdHc1Xnb5A1?pwd=jfx5#
+迅雷：https://pan.xunlei.com/s/VP3GVdV4uJ0kAOzRdHFc_nbQA1?pwd=y7xv#
 
 #### 《南部档案》（2026）4K 33集全
 
@@ -110,7 +110,7 @@
 
 夸克：https://pan.quark.cn/s/bd8f47d575e1
 
-迅雷：https://pan.xunlei.com/s/VOz_t0lvz1b4VwXv7anSLPa8A1?pwd=wayz#
+迅雷：https://pan.xunlei.com/s/VP3GLribHxeQcZVRhu0LAz-OA1?pwd=rmjy#
 
 #### 《莫离》（2026）4K 40集全
 
@@ -140,13 +140,13 @@
 
 夸克：https://pan.quark.cn/s/8099bce09eaa
 
-迅雷：https://pan.xunlei.com/s/VOuXm43Rn8oVNihOvnu_cRp1A1?pwd=nj82#
+迅雷：https://pan.xunlei.com/s/VP3GIv5X-cBym3uJIKaaXc5xA1?pwd=j8je#
 
 #### 《雨霖铃》（2026）4K 37集全
 
 夸克：https://pan.quark.cn/s/0b6ca885da5a
 
-迅雷：https://pan.xunlei.com/s/VOuLPA06Z1FbpyYMsumD3GjyA1?pwd=tryt#
+迅雷：https://pan.xunlei.com/s/VP3GDz2mr0GMVg9XbiT-X48QA1?pwd=jcyx#
 
 #### 《主角》（2026）4K 48集全
 
@@ -226,19 +226,21 @@
 
 #### 《隐身的名字》（2026）4K 31集全
 
-夸克：和谐，不让分享
+夸克：https://pan.quark.cn/s/fcb897af3476
 
-迅雷：https://pan.xunlei.com/s/VOrTPIObO486LF1dYDHk1ec5A1?pwd=wg3d#
+迅雷：https://pan.xunlei.com/s/VP3G-8fc20v7sV6eEHiPKt9qA1?pwd=t4m8#
 
 #### 《除恶》（2026）4K 60帧 16集全
 
-夸克：秒和谐，不让分享
+夸克：https://pan.quark.cn/s/c10b8fecea79
 
 迅雷：https://pan.xunlei.com/s/VOpmlhoPAxXVDI_iktjC28Z7A1?pwd=zbsp#
 
 #### 《生命树》（2026）4K 40集全（胡歌新剧）
 
 夸克：https://pan.quark.cn/s/a97ef3607989
+
+迅雷：https://pan.xunlei.com/s/VP3FwOZroFBWxhmNfU8XibhOA1?pwd=ahz3#
 
 #### 《太平年》（2026）4K 48集全
 
@@ -260,7 +262,7 @@
 
 #### 《江湖夜雨十年灯》（2026）4K 37集全
 
-夸克：和谐
+夸克：https://pan.quark.cn/s/e258c2bb0319
 
 迅雷：https://pan.xunlei.com/s/VOmyGVxhTwgD42nobbkbcxMJA1?pwd=e3ci#
 
@@ -272,19 +274,21 @@
 
 #### 《唐宫奇案之青雾风鸣》（2026）4K 34集全
 
-夸克：https://pan.quark.cn/s/4b79f6604abc
+夸克：https://pan.quark.cn/s/87f020f0ad5f
 
 迅雷：https://pan.xunlei.com/s/VOm4gv3dedmhebcQBCQijeMSA1?pwd=64qx#
 
 #### 《成何体统 剧版》（2026）4K 32集全
 
-夸克：和谐
+夸克：https://pan.quark.cn/s/01edf7bfe814
 
 迅雷：https://pan.xunlei.com/s/VOmZyRvZi_ArXorEpBBGrybqA1?pwd=7rqd#
 
 #### 《年少有为》（2026）4K 24集全
 
 夸克：https://pan.quark.cn/s/09da3624455d
+
+迅雷：https://pan.xunlei.com/s/VP3FpevPsO8T6ywR4Q7h0-aOA1?pwd=p2rc#
 
 #### 《有罪之身》（2026）4K 14集全
 
@@ -317,6 +321,8 @@
 #### 《唐诡奇谭》（2025）4K 21集全（唐朝诡事录4）
 
 夸克：https://pan.quark.cn/s/f00bd661f7c0
+
+迅雷：https://pan.xunlei.com/s/VP3FsmUqInj9yLuUBVe4vp8nA1?pwd=dsv2#
 
 #### 《六姊妹》（2025）4K 38集全
 
@@ -363,8 +369,6 @@
 夸克：https://pan.quark.cn/s/c271f82e0422
 
 迅雷：https://pan.xunlei.com/s/VO28_YPqnRf86ylmfm93K1HmA1?pwd=rwi3#
-
-阿里：https://www.aliyundrive.com/s/n9UYbWG8fPb
 
 #### 《新闻女王2》（2023-2025）1-2季全 国粤语配音
 
@@ -442,10 +446,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOajMr-i-WybmoYVI_MYXDkyA1?pwd=4p2y#
 
-#### 《守护者们》（2025）4K 35集全
-
-夸克：https://pan.quark.cn/s/264182e782f8
-
 #### 《欢乐家长群》（2024-2025）1-2季全 4K
 
 夸克：和谐
@@ -454,15 +454,11 @@
 
 #### 《二龙湖村暖花开2》（2025）第二季 4K 60帧 28集全
 
-夸克：https://pan.quark.cn/s/4b13b8f8ab52
-
-#### 《与晋长安》（2025）4K 60帧 38集全
-
-夸克：https://pan.quark.cn/s/5d5826c71134
+夸克：https://pan.quark.cn/s/ffc6b0db7fdf
 
 #### 《子夜归》（2025）4K 60帧 38集全
 
-夸克：https://pan.quark.cn/s/f952be1fe055
+夸克：https://pan.quark.cn/s/7eb080962974
 
 #### 《凡人修仙传 真人版》（2025）4K 60帧 30集全（杨洋 金晨）
 
@@ -486,13 +482,13 @@
 
 #### 《扫毒风暴》（2025）4K 33集全（段奕宏）
 
-夸克：https://pan.quark.cn/s/dd449cb4577c 需要在线解压
+夸克：https://pan.quark.cn/s/5283693934d9
 
 迅雷：https://pan.xunlei.com/s/VOWz5pKObr38tbNXwPo6pKk4A1?pwd=9wwb#
 
 #### 《朝雪录》（2025）4K 38集全
 
-夸克：和谐
+夸克：https://pan.quark.cn/s/2241d6638616
 
 迅雷：https://pan.xunlei.com/s/VOVgLjlmD22zWV5oqAn8rPrJA1?pwd=xm4q#
 
@@ -504,7 +500,7 @@
 
 #### 《樱桃琥珀》（2025）4K 24集全
 
-夸克：https://pan.quark.cn/s/c72c69a35e79
+夸克：https://pan.quark.cn/s/beb06696ad63
 
 #### 《深情眼》（2025）4K 26集全
 
@@ -522,7 +518,7 @@
 
 #### 《书卷一梦》（2025）4K 60帧 40集全
 
-夸克：和谐
+夸克：https://pan.quark.cn/s/fb8bbe3a4866
 
 迅雷：https://pan.xunlei.com/s/VO_aJs1QT5wRLVidilJxaCFxA1?pwd=mhpd#
 
@@ -556,7 +552,7 @@
 
 #### 《折腰》(2025) 4K 36集全（附广播剧+有声剧+小说）
 
-夸克：https://pan.quark.cn/s/133df6ad9633
+夸克：https://pan.quark.cn/s/c275771b6f1f
 
 #### 《藏海传》（2025）4K 60帧 40集全
 
@@ -566,15 +562,17 @@
 
 #### 《刑侦12》（2025）4K 国粤双配音 25集全（手动切换配音）
 
-夸克：https://pan.quark.cn/s/0ddac9b20bd8
+夸克：https://pan.quark.cn/s/724bf089eb36
+
+迅雷：https://pan.xunlei.com/s/VP3NOMrnMvjPaqRWJgr9p-GfA1?pwd=s8pg#
 
 #### 《刑警的日子》（2025）4K 60帧 25集全（附电子书）
 
-夸克：https://pan.quark.cn/s/3768e9dffd64
+夸克：https://pan.quark.cn/s/5de9c7e37167
+
+迅雷：https://pan.xunlei.com/s/VP3NN8t6PFV0i_Btc55vKMuXA1?pwd=eat7#
 
 #### 《淮水竹亭》（2025）4K 36集全
-
-夸克：https://pan.quark.cn/s/f872470c419f
 
 迅雷：https://pan.xunlei.com/s/VOQrhVhVV79ysj850L1OCw_JA1?pwd=sh4u#
 
@@ -596,7 +594,9 @@
 
 #### 《蛮好的人生》（2025）4K 60帧 36集全
 
-夸克：https://pan.quark.cn/s/23a0bb628b80
+夸克：https://pan.quark.cn/s/7605c6e0fb78
+
+迅雷：https://pan.xunlei.com/s/VP3NJzTwyI6FLUGXOZ6_FCzaA1?pwd=w6cv#
 
 #### 《十年不晚》（2025）1080P 24集全
 
@@ -626,7 +626,11 @@
 
 夸克：https://pan.quark.cn/s/b7a58d08420d
 
+迅雷：https://pan.xunlei.com/s/VP3NIM2x_wld3Es-NPWjfKhWA1?pwd=3hb8#
+
 #### 《棋士》（2025）4K 22集全
+
+夸克：https://pan.quark.cn/s/0978ffb12491
 
 迅雷：https://pan.xunlei.com/s/VOMGy2ieboAKCoxA_x0h8__7A1?pwd=5yga#
 
@@ -640,6 +644,8 @@
 
 #### 《难哄》（2025）4K 60帧 32集全
 
+夸克：https://pan.quark.cn/s/a08b9510c865
+
 迅雷：https://pan.xunlei.com/s/VOL66PNXUI2ifBm9JiWA_oYoA1?pwd=vjza#
 
 #### 《掌心》（2025）4K 30集全
@@ -648,11 +654,13 @@
 
 #### 《黄雀》（2025）4K 高码 24集全
 
+夸克：https://pan.quark.cn/s/73ec429dcf17
+
 迅雷：https://pan.xunlei.com/s/VOMR0DV2DqCu5H-skFsqle1PA1?pwd=qxjz#
 
 #### 《余烬之上》（2025）28集全
 
-夸克：和谐
+夸克：https://pan.quark.cn/s/56bebfa914aa
 
 迅雷：https://pan.xunlei.com/s/VOL68lWRVlV7qnhJNd_1fkpEA1?pwd=fyqn#
 
@@ -662,7 +670,9 @@
 
 迅雷：https://pan.xunlei.com/s/VOL6Bx3A2DIOqh3SU7Ro1kVJA1?pwd=n44d#
 
-#### 《无所畏惧2》（2023-2025）4K 1-2季全
+#### 《无所畏惧》（2023-2025）4K 1-2季全
+
+夸克：https://pan.quark.cn/s/7c53734da3e5
 
 迅雷：https://pan.xunlei.com/s/VNmG3HHB4iBEfFqBVeNxmd7MA1?pwd=ynpq#
 
@@ -682,15 +692,19 @@
 
 #### 《漂白》（2025）4K 60帧 14集全
 
-夸克：https://pan.quark.cn/s/7c525c216881
+夸克：https://pan.quark.cn/s/837a1302ecee
 
-#### 《大宋有奇案》(2025) 1080P 20集全 15分钟一集
+迅雷：https://pan.xunlei.com/s/VP3MhJ2Dg8VRALqYgL-mcbV2A1?pwd=hntf#
 
-夸克：https://pan.quark.cn/s/f8614b809d3c
+#### 《大宋有奇案》(2025) 1080P 20集全
+
+夸克：https://pan.quark.cn/s/36f147275f87
+
+迅雷：https://pan.xunlei.com/s/VP3MgZTOT4yPToifBdf2M7iDA1?pwd=pfxb#
 
 #### 《白月梵星》（2024）4K 60帧 40集全
 
-夸克：https://pan.quark.cn/s/1fdaf07338c1
+夸克：https://pan.quark.cn/s/343b745ca427
 
 #### 《大奉打更人》（2024）4K 60帧 40集全（附有声书+电子书）
 
@@ -704,9 +718,11 @@
 
 夸克：https://pan.quark.cn/s/8de7ec357712
 
-#### 《欢笑老弄堂》（2024）1080P 高码 30集全
+#### 《欢笑老弄堂》（2024）1080P 30集全
 
-夸克：https://pan.quark.cn/s/6b9d8ca8b13b
+夸克：https://pan.quark.cn/s/f90e2901ddf2
+
+迅雷：https://pan.xunlei.com/s/VP3McRv0J1CSBStRhcRbWC_vA1?pwd=jchs#
 
 #### 《清明上河图密码》（2024）4K 60帧 + 1080P 26集全
 
@@ -714,7 +730,9 @@
 
 #### 《冬至》（2024）4K 60帧+1080P 36集全
 
-夸克：https://pan.quark.cn/s/6a967cb7c6cf
+夸克：https://pan.quark.cn/s/ae6640358cee
+
+迅雷：https://pan.xunlei.com/s/VP3MbibMT4yPToifBdf2I7fnA1?pwd=xigx#
 
 #### 《九重紫》（2024）4K 34集全
 
@@ -912,8 +930,6 @@
 
 夸克：https://pan.quark.cn/s/55228d8a5556
 
-迅雷：https://pan.xunlei.com/s/VNy0Eg75fRwEaUtQWCFaAFo9A1?pwd=22q2#
-
 #### 《狐妖小红娘·月红篇》（2024）4K 36集全
 
 夸克：https://pan.quark.cn/s/89abed8cd6d3
@@ -922,7 +938,7 @@
 
 #### 《墨雨云间》（2024）4K 40集全
 
-夸克：
+夸克：https://pan.quark.cn/s/044ca1067ea7
 
 迅雷：https://pan.xunlei.com/s/VO7PLzdVlGmAq1cCOqjwhsmvA1?pwd=qz49#
 
@@ -986,7 +1002,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNx2gETWxa9Mq8wrdy3BDgnlA1?pwd=ft94#
 
-#### 《又见逍遥》仙剑奇侠传1 98版》（2024）4K+60帧 40集全
+#### 《又见逍遥》仙剑奇侠传1 98版（2024）4K+60帧 40集全
 
 夸克：https://pan.quark.cn/s/347bf620fa7c
 
@@ -1038,15 +1054,15 @@
 
 迅雷：https://pan.xunlei.com/s/VNu-wjy0quKPx0hR5YfwH7d0A1?pwd=fmnz#
 
-百度：<https://pan.baidu.com/s/1U8QHWMqoETeK42VaaGQnCg?pwd=0000>
+百度：https://pan.baidu.com/s/1U8QHWMqoETeK42VaaGQnCg?pwd=0000
 
 #### 《花间令》（2024）4K 32集全
 
-夸克：https://pan.quark.cn/s/e8be631a82da
+夸克：https://pan.quark.cn/s/aa6f6913efae
 
 迅雷：https://pan.xunlei.com/s/VNtoxVMaJLkpUeAlQAJWOaQtA1?pwd=jjby#
 
-百度：<https://pan.baidu.com/s/1ca-XoAWkORE4ebrgDbPcIA?pwd=5268>
+百度：https://pan.baidu.com/s/1ca-XoAWkORE4ebrgDbPcIA?pwd=5268
 
 #### 《烈焰》（2024）4K 40集全
 
@@ -1064,7 +1080,7 @@
 
 #### 《致命游戏》（2024）4K 78集全
 
-夸克：https://pan.quark.cn/s/04bc623fb706
+夸克：https://pan.quark.cn/s/f236997f54b9
 
 迅雷：https://pan.xunlei.com/s/VNuogUGeCjASBWCvEwAKTZ1oA1?pwd=6p8q#
 
@@ -1186,7 +1202,7 @@
 
 #### 《非杀人小说》（2024）4K 8集全（台剧）
 
-夸克：https://pan.quark.cn/s/7cd8b4dfe696
+夸克：https://pan.quark.cn/s/5ebee8c0baef
 
 迅雷：https://pan.xunlei.com/s/VNp4WfgvzFhp5hPOeB3jOwa0A1?pwd=vx9z#
 
@@ -1224,7 +1240,7 @@
 
 夸克：https://pan.quark.cn/s/aaf2dc8c66e5
 
-迅雷：https://pan.xunlei.com/s/VNnxEPH3ytdaWorfhUapX-atA1?pwd=jpcy#
+迅雷：https://pan.xunlei.com/s/VP3MPomkOmHtTQK1hs7efTqkA1?pwd=8h5t#
 
 #### 《黑土无言》（2024） 4K 12集全（陈建斌 胡军）
 
@@ -1286,7 +1302,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNlSXGlE6Mv7qvqPpIglKpk5A1?pwd=y5np#
 
-#### 《三大队》（2023）4K 24集全（ 秦昊 / 李乃文 / 陈明昊 主演）
+#### 《三大队》（2023）4K 24集全
 
 夸克：https://pan.quark.cn/s/2ee34238bb24
 
@@ -1312,7 +1328,7 @@
 
 #### 《我知道我爱你》（2023）24集全
 
-夸克：https://pan.quark.cn/s/507587c0cb0e
+夸克：https://pan.quark.cn/s/b2c5ad879f27
 
 迅雷：https://pan.xunlei.com/s/VNmfIYa1U8-6-bW6zSG-7yhJA1?pwd=z8zq#
 
@@ -1630,7 +1646,7 @@
 
 #### 《漫长的季节》（2023）4K 12集全
 
-夸克：https://pan.quark.cn/s/814c5ab5fbb9
+夸克：https://pan.quark.cn/s/f6b4e9677ab8
 
 迅雷：https://pan.xunlei.com/s/VNlBq7_JRajsUgWO5aRqIsvBA1?pwd=xaj9#
 
@@ -1642,7 +1658,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNlCAmOp9AKHC4n00WC7IHJaA1?pwd=e3eh#
 
-#### 《庆余年》（2019）第一季 4K 46集全 + 特别版 26集
+#### 《庆余年》（2019）1-2季+特别版 4K
 
 夸克：https://pan.quark.cn/s/30bc1b47f10f
 
@@ -1734,10 +1750,6 @@
 
 夸克：https://pan.quark.cn/s/a7091640b8b3
 
-#### 《红楼梦》（1987）4K修复版 36集全
-
-夸克：https://pan.quark.cn/s/822ed3d7131a
-
 #### 《隐秘的角落》（2020）4K 12集全
 
 夸克：https://pan.quark.cn/s/a09a2d4ee1e9
@@ -1753,10 +1765,6 @@
 迅雷：https://pan.xunlei.com/s/VNmvwFDAxppy6kWOL6vbYDoqA1?pwd=q6wk#
 
 阿里：https://www.aliyundrive.com/s/D2X2fcq3f4B
-
-#### 《鹊刀门传奇》（2023）第一季 4K 全40集
-
-夸克：https://pan.quark.cn/s/37c5ac2f2d71
 
 #### 《沉默的真相》（2020）4K 12集全 高分悬疑剧》（豆瓣9.0）
 
@@ -1792,7 +1800,7 @@
 
 夸克：https://pan.quark.cn/s/6518946ed38e
 
-#### 《神雕侠侣》6部合集》（1983刘德华、陈玉莲 +1984孟飞版 +1995古天乐版 +1998李铭顺 +1998任贤齐 +2006黄晓明、刘亦菲版 +2014陈晓、 陈妍希版
+#### 《神雕侠侣》6部合集（1983刘德华、陈玉莲 +1984孟飞版 +1995古天乐版 +1998李铭顺 +1998任贤齐 +2006黄晓明、刘亦菲版 +2014陈晓、 陈妍希版
 
 夸克：https://pan.quark.cn/s/244108b815e3
 
@@ -1896,7 +1904,7 @@
 
 #### 《毛骗》（2011-2015）1-3季全 1080P
 
-夸克：https://pan.quark.cn/s/18aa2ff5c316
+夸克：https://pan.quark.cn/s/54018e2d9b43
 
 迅雷：https://pan.xunlei.com/s/VO1I41l_6ERrCmhPyXbvYoPCA1?pwd=egf8#
 
@@ -1969,10 +1977,6 @@
 #### 《笑傲江湖》（2001）1080P高码 40集全（李亚鹏 许晴）
 
 夸克：https://pan.quark.cn/s/288bf8804f35
-
-#### 《毛骗》（2010-2015）1080P 1-3季全
-
-夸克：https://pan.quark.cn/s/54018e2d9b43
 
 #### 《走向共和》（2003）4K 59集集全 附海外版68集
 
@@ -2164,7 +2168,7 @@
 
 夸克：https://pan.quark.cn/s/132630138439
 
-#### 《红楼梦》(1987）4K 修复版 36集全 精校中字
+#### 《红楼梦》（1987）4K 修复版 36集全 精校中字
 
 夸克：https://pan.quark.cn/s/4db360254d9a
 

@@ -1110,11 +1110,15 @@
 夸克：https://pan.quark.cn/s/09f58c7970de
 
 
-#### 《装机模拟器2（PC Building Simulator 2）》v1.16.05 中文版（附第一部）
+#### 《装机模拟器2（PC Building Simulator 2）》v1.16.05 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/b7e47fb90e3d
+夸克：https://pan.quark.cn/s/208008451675
 
 迅雷：https://pan.xunlei.com/s/VNxl80F27PU28rZPFh-JlgLvA1?pwd=xdi3#
+
+#### 《装机模拟器（PC Building Simulator）》v1.15.3.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c46abb4066f7
 
 
 #### 《魔法门之英雄无敌：上古纪元（Heroes of Might and Magic Olden Era）》v0.80.18 中文版
@@ -1129,10 +1133,11 @@
 
 #### 《为了吾王2（For The King II）》v1.8.8 全DLC 中文 联机版
 
+夸克：https://pan.quark.cn/s/ef7fdca2ab1b
+
 #### 《为了吾王（For The King）》v1.1.00.11378 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/745b3dd3f3f1
-
+夸克：https://pan.quark.cn/s/0639fd8dc8e6
 
 #### 《灾后修复师（RoadCraft）》v7.0 全DLC 中文版
 

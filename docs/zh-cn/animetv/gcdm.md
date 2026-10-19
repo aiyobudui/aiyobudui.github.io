@@ -61,7 +61,7 @@
 
 阿里：<https://www.aliyundrive.com/s/r1G6hvSKquu>
 
-#### 《李熊猫》（2026）4K 周二、六 更新中..
+#### 《李熊猫》（2026）4K 周三 更新中..
 
 夸克：https://pan.quark.cn/s/c6417e322e85
 

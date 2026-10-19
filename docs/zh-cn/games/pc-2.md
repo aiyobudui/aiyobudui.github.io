@@ -259,10 +259,13 @@
 
 #### 《哈迪斯2（Hades II）》v1.139671 中文版（附第一部）
 
-夸克：https://pan.quark.cn/s/74b6e4cc96f7
+夸克：https://pan.quark.cn/s/e67621303507
 
 迅雷：https://pan.xunlei.com/s/VNxldN2kg09qEUhCXyYTtZfbA1?pwd=xify#
 
+#### 《哈迪斯（Hades）》v1.38290.H1 中文版
+
+夸克：https://pan.quark.cn/s/58d7edb6402a
 
 #### 《深岩银河：异动核心（Deep Rock Galactic Rogue Core）支持者版》v0.4.148107.0 全DLC 中文 联机版
 

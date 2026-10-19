@@ -101,7 +101,11 @@
 
 #### 《网吧模拟器2（Internet Cafe Simulator 2）》v1.2.5 中文版（附第一部）
 
-夸克：https://pan.quark.cn/s/0dfc5152dab9
+夸克：https://pan.quark.cn/s/29d4827b177d
+
+#### 《网吧模拟器（Internet Cafe Simulator）》v2020.12.9 中文版
+
+夸克：https://pan.quark.cn/s/d8458af0dc7e
 
 
 #### 《Keep Driving》v1.3.1.0с 中文版（公路旅行游戏）
@@ -264,9 +268,13 @@
 夸克：https://pan.quark.cn/s/f5fb93d1c493
 
 
-#### 《崩溃大陆2（Crashlands 2）》v1.3.0.RC.2 中文版（附第1部）
+#### 《崩溃大陆2（Crashlands 2）》v1.3.0.RC.2 中文 联机版
 
-夸克：https://pan.quark.cn/s/8db39b6946d6
+夸克：https://pan.quark.cn/s/f6ee7f65af2d
+
+#### 《崩溃大陆（Crashlands）》v1.5.87 中文版
+
+夸克：https://pan.quark.cn/s/71f9db4f4ad7
 
 
 #### 《都市天际线（Cities Skylines）豪华版》v1.20.1.f1 全DLC 中文版（城市天际线 附安卓版）
@@ -499,9 +507,9 @@
 夸克：https://pan.quark.cn/s/2ee45a168e71
 
 
-#### 《山海旅人2（Rewinder）》v2.1.17 中文版（附第一部）
+#### 《山海旅人2（Rewinder）》v2.1.17 中文版
 
-夸克：https://pan.quark.cn/s/4e25f177a5d1
+夸克：https://pan.quark.cn/s/21a73f7d6f5a
 
 
 #### 《破门而入2：北方特遣队（Door Kickers 2 Task Force North）》v1.11 中文 联机版

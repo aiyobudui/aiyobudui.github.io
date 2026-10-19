@@ -447,9 +447,11 @@
 
 #### 《拉娜之星2（Planet of Lana 2）》v1.0.13 全DLC 中文版
 
+夸克：https://pan.quark.cn/s/8a3d4155809b
+
 #### 《拉娜之星（Planet of Lana）》v1.1.0.0 中文版
 
-夸克：https://pan.quark.cn/s/1ccf61a07d10
+夸克：https://pan.quark.cn/s/140bbd2a3556
 
 
 #### 《不寐之境 女巫与魔咒（Never Grave）豪华版》v1.2c 全DLC 中文版

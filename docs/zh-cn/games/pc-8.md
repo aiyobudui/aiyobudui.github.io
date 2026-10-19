@@ -74,9 +74,13 @@
 夸克：https://pan.quark.cn/s/b0b290e9b09b
 
 
-#### 《地痞街区2（Streets of Rogue 2）》v31a 中文版（附第一部）
+#### 《地痞街区2（Streets of Rogue 2）》v31a 中文版
 
-夸克：https://pan.quark.cn/s/e5547e7644a1
+夸克：https://pan.quark.cn/s/d73c4855edaf
+
+#### 《地痞街区（Streets of Rogue）》v99i2 中文版
+
+夸克：https://pan.quark.cn/s/05aad4522fe7
 
 
 #### 《狂野西部时代（Wild West Dynasty）》v1.0.9129 全DLC 中文版
@@ -828,9 +832,13 @@
 夸克：https://pan.quark.cn/s/689f68fe70d9
 
 
-#### 《盒子城2（Boxville 2）》v2025.6.27 中文版（附第1部）益智解密
+#### 《盒子城（Boxville）》v1.0 60872 中文版
 
-夸克：https://pan.quark.cn/s/f27adce51b9d
+夸克：https://pan.quark.cn/s/78d6a6bc12f2
+
+#### 《盒子城2（Boxville 2）》v2025.6.27 中文版
+
+夸克：https://pan.quark.cn/s/5a6456319792
 
 
 #### 《骷髅女孩（Skullgirls 2nd Encore）》v3.6.11 全DLC 英文版（格斗游戏）

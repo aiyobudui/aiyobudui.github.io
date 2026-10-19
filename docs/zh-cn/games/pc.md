@@ -94,6 +94,10 @@
 
 夸克：https://pan.quark.cn/s/5f46b7420520
 
+#### 《Kings Orders》v1.1.2 全DLC 英文版
+
+夸克：https://pan.quark.cn/s/51ac92833215
+
 #### 《家园：重建王国（Townsmen - A Kingdom Rebuilt）完整版》v2.2.8.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/832a334c436d
