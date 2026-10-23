@@ -1,0 +1,93 @@
+﻿diff --git a/docs/_sidebar.md b/docs/_sidebar.md
+index 5e9fe2f..edf7197 100644
+--- a/docs/_sidebar.md
++++ b/docs/_sidebar.md
+@@ -1,43 +1,4 @@
+ <!-- docs/_sidebar.md -->
+ - [🏠  首 页](/ "首页 - 海量资源分享 www.haozy.top")
+-- [🎮  游 戏](/zh-cn/games/page "游戏")
+-  - [💻  电脑游戏](/zh-cn/games/pc  "电脑游戏")
+-    - [第 1 页](/zh-cn/games/pc-1 "电脑游戏 第1页（第1-250条）")
+-    - [第 2 页](/zh-cn/games/pc-2 "电脑游戏 第2页（第251-523条）")
+-    - [第 3 页](/zh-cn/games/pc-3 "电脑游戏 第3页（第524-813条）")
+-    - [第 4 页](/zh-cn/games/pc-4 "电脑游戏 第4页（第814-1084条）")
+-    - [第 5 页](/zh-cn/games/pc-5 "电脑游戏 第5页（第1085-1358条）")
+-    - [第 6 页](/zh-cn/games/pc-6 "电脑游戏 第6页（第1359-1653条）")
+-    - [第 7 页](/zh-cn/games/pc-7 "电脑游戏 第7页（第1654-1951条）")
+-    - [第 8 页](/zh-cn/games/pc-8 "电脑游戏 第8页（第1952-2246条）")
+-    - [第 9 页](/zh-cn/games/pc-9 "电脑游戏 第9页（第2247-2539条）")
+-    - [第 10 页](/zh-cn/games/pc-10 "电脑游戏 第10页（第2540-2837条）")
+-    - [第 11 页](/zh-cn/games/pc-11 "电脑游戏 第11页（第2838-3129条）")
+-    - [第 12 页](/zh-cn/games/pc-12 "电脑游戏 第12页（第3130-3408条）")
+-  - [🕺  互动影游](/zh-cn/games/fmvgame "真人互动影游")
+-  - [🎯  虚拟化游戏](/zh-cn/games/HVgame "虚拟化游戏")
+-  - [🎮  switch游戏](/zh-cn/games/switch "switch游戏")
+-  - [📱  安卓游戏](/zh-cn/games/android "安卓游戏")
+-- [🎬  电 影](/zh-cn/movie/page "电影")
+-  - [🔥  热门电影（近期电影）](/zh-cn/movie/popular "热门电影")
+-  - [📺  经典电影（单部电影）](/zh-cn/movie/classic "经典电影")
+-  - [🎞️  系列电影（电影合集）](/zh-cn/movie/series "系列电影")
+-  - [🎭  动画电影（电影合集）](/zh-cn/movie/animefilms "动画电影")
+-- [📺  电视剧](/zh-cn/tv/page "电视剧")
+-  - [🐼  国产剧](/zh-cn/tv/china "国产剧")
+-  - [🌍  欧美剧](/zh-cn/tv/occident "欧美剧")
+-  - [🎎  日韩剧](/zh-cn/tv/jpandsk "日韩剧")
+-- [🐱  动画剧集](/zh-cn/animetv/page "动漫")
+-  - [🐼  国产动漫](/zh-cn/animetv/gcdm "国产动漫")
+-  - [🌸  日本动漫](/zh-cn/animetv/rbdm "日本动漫")
+-  - [🦅  欧美动漫](/zh-cn/animetv/omdm "欧美动漫")
+-  - [👶  小朋友动画](/zh-cn/animetv/xpy "小朋友动画")
+-- [📽️  纪录片](/zh-cn/documentary "纪录片")
+-- [📚  书籍、漫画、有声读物](/zh-cn/books "书籍、漫画、有声读物")
+-- [🎵  音乐、演唱会、MV](/zh-cn/music "音乐、演唱会、MV")
+-- [📦  综艺、教学视频、其他](/zh-cn/others "综艺、教学视频、其他")
+-
+ ---
+-
+-- [🗨️  留言板](/zh-cn/bbs "留言板")
+ - [🧧  打 赏](/zh-cn/dashang "打赏")
+diff --git a/docs/home.md b/docs/home.md
+index b66c6ea..dca1e1f 100644
+--- a/docs/home.md
++++ b/docs/home.md
+@@ -1,8 +1,8 @@
+ <!-- {docsify-ignore-all} -->
+ > [!TIP]
+ > **用户须知**  
+-> 1、如果没有你想要的资源或分享的链接失效 [留言](/zh-cn/bbs) 或进 **[QQ群](https://qm.qq.com/q/UmxU9PvGsS)** 告知，会补资源，谢谢！  
+-> 2、**只分享无水印，无广告的高清高码资源。如有发现那个文件携带，请 [留言](/zh-cn/bbs) 告知**  
++> 1、如果没有你想要的资源或分享的链接失效 [留言](https://www.haozy.top/guestbook) 或进 **[QQ群](https://qm.qq.com/q/G2E79nrukW)** 告知，会补资源，谢谢！  
++> 2、**只分享无水印，无广告的高清高码资源。如有发现那个文件携带，请 [留言](https://www.haozy.top/guestbook) 告知**  
+ > 3、影视资源建议新手直接**在线观看**，不用下载，多平台可在线播放，电视、手机、平板、电脑、安装对应的APP即可，如下载夸克网盘，保存资源后在自己网盘双击打开即可，有的资源是可以**切换配音和字幕**的。  
+ > 4、点击 **搜索框**，输入资源名称，即可搜索到相关资源，点击资源名称后会跳转到资源位置。  
+ 
+@@ -14,24 +14,21 @@
+ ### **网址**
+ 
+  **永久防失联页**（请收藏到书签）  
+-    <https://link3.cc/hack>  
++    <https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY>  
+ 
+  **资源博客地址**（每日更新）  
+      [https://www.haozy.top](https://www.haozy.top)  
+      [https://alyp.eu.org](https://alyp.eu.org)  
+      [https://aiyyds.cn.eu.org](https://aiyyds.cn.eu.org)  
+ 
+- **在线资源文档**（每日更新）  
+-    腾讯：<https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY>  
++ **旧永久防失联页**（每日更新）  
++    旧：<https://link3.cc/hack>  
+ 
+ ### **QQ群**
+ 
+ **点击后直接添加**  
+-    QQ群1：[61899799](https://qm.qq.com/q/ynFI2QA9UI)  
+-    QQ群2：[906966228](https://qm.qq.com/q/GFkhoRMQYs)  
+-    QQ群3：[436413013](https://qm.qq.com/q/G2E79nrukW)  
+-    QQ群4：[960193110](https://qm.qq.com/q/zVa4WQvtsW)  
+-    QQ群5：[228043257](https://qm.qq.com/q/rgEjKuJIhU)  
++    核心粉丝群：[1129277736](https://qm.qq.com/q/S9O2yrSCom)  
++    QQ群：[436413013](https://qm.qq.com/q/G2E79nrukW)  
+     QQ频道：[pd.qq.com/s/7conjnpx7](https://pd.qq.com/s/7conjnpx7)  
+ 
+ ### **夸克群**

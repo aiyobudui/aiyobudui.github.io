@@ -1,8 +1,8 @@
 <!-- {docsify-ignore-all} -->
 > [!TIP]
 > **用户须知**  
-> 1、如果没有你想要的资源或分享的链接失效 [留言](/zh-cn/bbs) 或进 **[QQ群](https://qm.qq.com/q/UmxU9PvGsS)** 告知，会补资源，谢谢！  
-> 2、**只分享无水印，无广告的高清高码资源。如有发现那个文件携带，请 [留言](/zh-cn/bbs) 告知**  
+> 1、如果没有你想要的资源或分享的链接失效 [留言](https://www.haozy.top/guestbook) 或进 **[QQ群](https://qm.qq.com/q/G2E79nrukW)** 告知，会补资源，谢谢！  
+> 2、**只分享无水印，无广告的高清高码资源。如有发现那个文件携带，请 [留言](https://www.haozy.top/guestbook) 告知**  
 > 3、影视资源建议新手直接**在线观看**，不用下载，多平台可在线播放，电视、手机、平板、电脑、安装对应的APP即可，如下载夸克网盘，保存资源后在自己网盘双击打开即可，有的资源是可以**切换配音和字幕**的。  
 > 4、点击 **搜索框**，输入资源名称，即可搜索到相关资源，点击资源名称后会跳转到资源位置。  
 
@@ -13,25 +13,25 @@
 <!-- tabs:start -->
 ### **网址**
 
+ **已停止更新，转换成防失联页，拿资源去**
+  https://www.haozy.top
+
  **永久防失联页**（请收藏到书签）  
-    <https://link3.cc/hack>  
+    <https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY>  
 
  **资源博客地址**（每日更新）  
      [https://www.haozy.top](https://www.haozy.top)  
      [https://alyp.eu.org](https://alyp.eu.org)  
      [https://aiyyds.cn.eu.org](https://aiyyds.cn.eu.org)  
 
- **在线资源文档**（每日更新）  
-    腾讯：<https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY>  
+ **旧永久防失联页**（每日更新）  
+    旧：<https://link3.cc/hack>  
 
 ### **QQ群**
 
 **点击后直接添加**  
-    QQ群1：[61899799](https://qm.qq.com/q/ynFI2QA9UI)  
-    QQ群2：[906966228](https://qm.qq.com/q/GFkhoRMQYs)  
-    QQ群3：[436413013](https://qm.qq.com/q/G2E79nrukW)  
-    QQ群4：[960193110](https://qm.qq.com/q/zVa4WQvtsW)  
-    QQ群5：[228043257](https://qm.qq.com/q/rgEjKuJIhU)  
+    核心粉丝群：[1129277736](https://qm.qq.com/q/S9O2yrSCom)  
+    QQ群：[436413013](https://qm.qq.com/q/G2E79nrukW)  
     QQ频道：[pd.qq.com/s/7conjnpx7](https://pd.qq.com/s/7conjnpx7)  
 
 ### **夸克群**
